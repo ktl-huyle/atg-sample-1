@@ -1,8 +1,8 @@
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import internal.GlobalVariable as GlobalVariable
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
 
@@ -10,7 +10,7 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'--> Login to application'
+'step 1: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html'
 
 '--> Navigate to application login page'
 
@@ -62,11 +62,11 @@ WebUI.submit(testObj)
 
 WebUI.delay(15)
 
-'--> Navigate to test case start point'
+'step 2: Navigate to Page_inventory_html'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/inventory.html')
 
-'step 1: At Page_inventory_html click on hyperlink_item_4_img_link --> navigate to Page_inventory-item_html'
+'step 3: At Page_inventory_html click on hyperlink_item_4_img_link --> navigate to Page_inventory-item_html'
 
 testObj = findTestObject('Object Repository/Page_inventory_html/hyperlink_object')
 
@@ -80,9 +80,51 @@ WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory.ht
 
 WebUI.enhancedClick(testObj)
 
-'step 2: Add visual checkpoint at Page_inventory-item_html'
+'step 4: At Page_inventory-item_html click on button_remove_sauce_labs_backpack'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001_visual_checkpoint')
+testObj = findTestObject('Object Repository/Page_inventory-item_html/button_add_to_cart_sauce_labs_backpack')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory-item.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 5: At Page_inventory-item_html click on div_object'
+
+testObj = findTestObject('Object Repository/Page_inventory-item_html/div_object')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory-item.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 6: At Page_inventory-item_html click on button_react_burger_menu_btn'
+
+testObj = findTestObject('Object Repository/Page_inventory-item_html/button_object')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory-item.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 7: Add visual checkpoint at Page_inventory-item_html'
+
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

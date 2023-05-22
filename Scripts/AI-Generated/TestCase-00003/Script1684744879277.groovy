@@ -1,8 +1,8 @@
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import internal.GlobalVariable as GlobalVariable
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
 
@@ -10,7 +10,7 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'--> Login to application'
+'step 1: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html'
 
 '--> Navigate to application login page'
 
@@ -62,13 +62,41 @@ WebUI.submit(testObj)
 
 WebUI.delay(15)
 
-'--> Navigate to test case start point'
+'step 2: Navigate to Page_inventory_html'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout-complete.html')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/inventory.html')
 
-'step 1: Add visual checkpoint at Page_checkout-complete_html'
+'step 3: At Page_inventory_html click on hyperlink_object --> navigate to Page_cart_html'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00000_visual_checkpoint')
+testObj = findTestObject('Object Repository/Page_inventory_html/hyperlink_object_1')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 4: At Page_cart_html click on button_checkout --> navigate to Page_checkout-step-one_html'
+
+testObj = findTestObject('Object Repository/Page_cart_html/button_object')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/cart.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 5: Add visual checkpoint at Page_checkout-step-one_html'
+
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00003_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
