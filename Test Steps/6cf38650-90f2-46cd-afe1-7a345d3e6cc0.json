@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Login at https://www.saucedemo.com/ --> navigate to Page_checkout-step-two_html",
-        "step 2: Navigate to Page_checkout-step-two_html",
-        "step 3: Add visual checkpoint at Page_checkout-step-two_html"
-    ]
-}
