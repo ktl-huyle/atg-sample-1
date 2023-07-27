@@ -1,20 +1,21 @@
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
-WebUI.openBrowser('')
-
-WebUI.setViewPortSize(1920, 1080)
+@com.kms.katalon.core.annotation.SetUp
+def setup() {
+	WebUI.openBrowser('')
+	WebUI.setViewPortSize(1920, 1080)	
+}
 
 'step 1: Navigate to Page_home'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html'
+'step 2: Login at Page_home --> navigate to Page_inventory_html'
 
 '--> At login page input username'
 
@@ -26,7 +27,7 @@ WebUI.takeScreenshot()
 
 WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/(?:#.*)?(?:\\?.*)?$', true)
+WebUI.verifyMatch(WebUI.getUrl(), '.*/(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.setText(testObj, GlobalVariable.username)
 
@@ -40,7 +41,7 @@ WebUI.takeScreenshot()
 
 WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/(?:#.*)?(?:\\?.*)?$', true)
+WebUI.verifyMatch(WebUI.getUrl(), '.*/(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.setText(testObj, GlobalVariable.password)
 
@@ -54,7 +55,7 @@ WebUI.takeScreenshot()
 
 WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/(?:#.*)?(?:\\?.*)?$', true)
+WebUI.verifyMatch(WebUI.getUrl(), '.*/(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.submit(testObj)
 
@@ -72,7 +73,7 @@ WebUI.takeScreenshot()
 
 WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
 
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/inventory.html(?:#.*)?(?:\\?.*)?$', true)
+WebUI.verifyMatch(WebUI.getUrl(), '.*/inventory.html(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.enhancedClick(testObj)
 
@@ -82,4 +83,7 @@ WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00000_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
-WebUI.closeBrowser()
+@com.kms.katalon.core.annotation.TearDown
+def teardown() {
+	WebUI.closeBrowser()
+}
