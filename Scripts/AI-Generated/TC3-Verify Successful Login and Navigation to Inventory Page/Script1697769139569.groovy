@@ -9,13 +9,21 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page emo localhost direct'
+'step 1: Navigate to Page home'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
-'step 2: Add visual checkpoint at Page emo localhost direct'
+'step 2: Login at Page home --> navigate to Page inventory html'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify successful navigation to page Emo Localhost Direct_visual_checkpoint')
+CustomKeywords.'katalon.truetest.Authenticate.basic_auth'(
+	GlobalVariable.application_domain + '/',
+	GlobalVariable.username,
+	GlobalVariable.password,
+)
+
+'step 3: Add visual checkpoint at Page inventory html'
+
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Successful Login and Navigation to Inventory Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
