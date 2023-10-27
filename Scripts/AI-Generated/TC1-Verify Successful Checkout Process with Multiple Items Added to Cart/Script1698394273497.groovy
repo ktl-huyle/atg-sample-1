@@ -1,7 +1,7 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.model.FailureHandling
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
 
@@ -83,9 +83,65 @@ WebUI.verifyMatch(WebUI.getUrl(), '.*/cart.html(?:#.*)?(?:\\?.*)?$', true)
 
 WebUI.enhancedClick(testObj)
 
-'step 8: Add visual checkpoint at Page checkout-step-one html'
+'step 8: At Page checkout-step-one html input on input first name'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Checkout Process with Multiple Items in Shopping Cart_visual_checkpoint')
+testObj = findTestObject('Object Repository/Page_checkout-step-one_html/input_firstname')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout-step-one.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.setText(testObj, var_1_input_firstname)
+
+'step 9: At Page checkout-step-one html input on input last name'
+
+testObj = findTestObject('Object Repository/Page_checkout-step-one_html/input_lastname')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout-step-one.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.setText(testObj, var_2_input_lastname)
+
+'step 10: At Page checkout-step-one html input on input postal code'
+
+testObj = findTestObject('Object Repository/Page_checkout-step-one_html/input_postalcode')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout-step-one.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.setText(testObj, var_3_input_postalcode)
+
+'step 11: At Page checkout-step-one html click on input continue --> navigate to Page checkout-step-two html'
+
+testObj = findTestObject('Object Repository/Page_checkout-step-one_html/input_continue')
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyMatch(WebUI.getUrl(), '.*/checkout-step-one.html(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(testObj)
+
+'step 12: Add visual checkpoint at Page checkout-step-two html'
+
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Checkout Process with Multiple Items Added to Cart_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

@@ -2,17 +2,17 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'''standard_user'''</initValue>
+        <initValue>''''standard_user''''</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'''secret_sauce'''</initValue>
+        <initValue>''''secret_sauce''''</initValue>
         <name>password</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'''http://local.sauce.demo:3000'''</initValue>
+        <initValue>''''http://local.sauce.demo:3000''''</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
     <defaultProfile>False</defaultProfile>
