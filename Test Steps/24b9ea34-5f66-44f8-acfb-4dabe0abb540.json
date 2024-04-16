@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page home",
-        "step 2: Login at Page home --> navigate to Page checkout-complete html",
-        "step 3: Navigate to Page checkout-complete html",
-        "step 4: At Page checkout-complete html click on button back to products --> navigate to Page inventory html",
-        "step 5: Add visual checkpoint at Page inventory html"
-    ]
-}

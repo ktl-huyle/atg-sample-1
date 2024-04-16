@@ -1,21 +1,15 @@
-Flow ID,Description,Test Steps,Flow Priority
-1,Verify Successful Checkout Process with Multiple Items Added to Cart,"step 1: Navigate to Page home
-step 2: Login at Page home
-step 3: Navigate to Page home
-step 4: At Page home click on button add to cart sauce labs backpack
-step 5: At Page home click on button add to cart sauce labs bike light
-step 6: At Page home click on hyperlink object --> navigate to Page cart html
-step 7: At Page cart html click on button checkout --> navigate to Page checkout-step-one html
-step 8: At Page checkout-step-one html input on input first name
-step 9: At Page checkout-step-one html input on input last name
-step 10: At Page checkout-step-one html input on input postal code
-step 11: At Page checkout-step-one html click on input continue --> navigate to Page checkout-step-two html
-step 12: Add visual checkpoint at Page checkout-step-two html",High
-2,Verify Successful Navigation from Checkout Complete to Inventory Page,"step 1: Navigate to Page home
-step 2: Login at Page home --> navigate to Page checkout-complete html
-step 3: Navigate to Page checkout-complete html
-step 4: At Page checkout-complete html click on button back to products --> navigate to Page inventory html
-step 5: Add visual checkpoint at Page inventory html",Low
-3,Verify Successful Login and Navigation to Inventory Page,"step 1: Navigate to Page home
-step 2: Login at Page home --> navigate to Page inventory html
-step 3: Add visual checkpoint at Page inventory html",Trivial
+Flow ID,Name,Description,Test Steps,Flow Priority
+1,Flow 1,,"Step 1: Navigate to https://www.saucedemo.com/
+Step 2: Login -> Navigate to page 'inventory.html'
+Step 3: Click on button 'add-to-cart-sauce-labs-backpack'
+Step 4: Click on button 'add-to-cart-sauce-labs-bolt-t-shirt'
+Step 5: Click on link '2' -> Navigate to page 'cart.html'
+Step 6: Click on button 'checkout' -> Navigate to page 'checkout-step-one.html'
+Step 7: Click on input field 'firstName'
+Step 8: Enter input value in input field 'firstName'
+Step 9: Enter input value in input field 'lastName'
+Step 10: Enter input value in input field 'postalCode'
+Step 11: Click on input field 'continue' -> Navigate to page 'checkout-step-two.html'
+Step 12: Click on button 'finish' -> Navigate to page 'checkout-complete.html'
+Step 13: Take full page screenshot as checkpoint
+",High
