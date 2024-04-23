@@ -1,7 +1,7 @@
-import com.kms.katalon.core.model.FailureHandling
-import katalon.truetest.TrueTestScripts
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable
+import katalon.truetest.TrueTestScripts
+import com.kms.katalon.core.model.FailureHandling
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
