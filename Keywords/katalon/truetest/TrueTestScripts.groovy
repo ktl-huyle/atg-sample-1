@@ -1,11 +1,12 @@
 package katalon.truetest
 
-import com.kms.katalon.core.webui.exception.WebElementNotFoundException
+import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable
-import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 
 public class TrueTestScripts {
+    
     public static void login() {
         try {
             
@@ -19,9 +20,17 @@ public class TrueTestScripts {
         }
     }
     
+    static Integer DELAY_TIME = 3 // in seconds
+    
     public static void navigate(String path) {
         String applicationDomain = GlobalVariable.application_domain;
-        String queryParameters = GlobalVariable.query_params;
+        String queryParameters = "";
+        try {
+            queryParameters = GlobalVariable.query_params;
+        }
+        catch (Exception e) {
+            KeywordUtil.logInfo(e.getMessage())
+        }
         if (path == null) {
             path = "";
         }
@@ -29,10 +38,11 @@ public class TrueTestScripts {
             path = "/$path";
         }
         String url = "$applicationDomain$path";
-        if (queryParameters.length() > 0) {
+        if (queryParameters != null && queryParameters.length() > 0) {
             url = "$url?$queryParameters";
         }
         WebUI.navigateToUrl(url);
+        WebUI.delay(DELAY_TIME);
     }
 }
 

@@ -1,15 +1,39 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Flow 1,,"Step 1: Navigate to https://www.saucedemo.com/
-Step 2: Login -> Navigate to page 'inventory.html'
-Step 3: Click on button 'add-to-cart-sauce-labs-backpack'
-Step 4: Click on button 'add-to-cart-sauce-labs-bolt-t-shirt'
-Step 5: Click on link '2' -> Navigate to page 'cart.html'
-Step 6: Click on button 'checkout' -> Navigate to page 'checkout-step-one.html'
-Step 7: Click on input field 'firstName'
-Step 8: Enter input value in input field 'firstName'
-Step 9: Enter input value in input field 'lastName'
-Step 10: Enter input value in input field 'postalCode'
-Step 11: Click on input field 'continue' -> Navigate to page 'checkout-step-two.html'
-Step 12: Click on button 'finish' -> Navigate to page 'checkout-complete.html'
-Step 13: Take full page screenshot as checkpoint
+1,Verify Successful Login and Checkout for Sauce Demo Application,"Navigate to the home page, login, add Sauce Labs products to the cart, complete the checkout process, return to the home page, and verify the home page.","Step 1: Navigate to /
+Step 2: Login
+Step 3: Add Sauce Labs products to cart and proceed to checkout
+	- Step 1: Click on button addToCartSauceLabsBikeLight
+	- Step 2: Click on button addToCartSauceLabsBackpack
+	- Step 3: Click on link object -> Navigate to page '/cart.html'
+	- Step 4: Click on button checkout -> Navigate to page '/checkout-step-one.html'
+	- Step 5: Click on input firstName
+	- Step 6: Enter input value in input firstName
+	- Step 7: Click on input lastName
+	- Step 8: Enter input value in input lastName
+	- Step 9: Click on input postalCode
+	- Step 10: Enter input value in input postalCode
+	- Step 11: Click on input continue
+Step 4: Click on button finish -> Navigate to page '/checkout-complete.html'
+Step 5: Click on button backHome -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High
+2,Verify Successful Login and Checkout with Credentials for Sauce Demo Application,"Navigate to the home page, access login credentials, login, add Sauce Labs products to the cart, complete the checkout, return to home, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on div loginCredentials
+Step 3: Click on div loginCredentials
+Step 4: Login
+Step 5: Add Sauce Labs products to cart and proceed to checkout
+	- Step 1: Click on button addToCartSauceLabsBikeLight
+	- Step 2: Click on button addToCartSauceLabsBackpack
+	- Step 3: Click on link object -> Navigate to page '/cart.html'
+	- Step 4: Click on button checkout -> Navigate to page '/checkout-step-one.html'
+	- Step 5: Click on input firstName
+	- Step 6: Enter input value in input firstName
+	- Step 7: Click on input lastName
+	- Step 8: Enter input value in input lastName
+	- Step 9: Click on input postalCode
+	- Step 10: Enter input value in input postalCode
+	- Step 11: Click on input continue
+Step 6: Click on button finish -> Navigate to page '/checkout-complete.html'
+Step 7: Click on button backHome -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
 ",High
