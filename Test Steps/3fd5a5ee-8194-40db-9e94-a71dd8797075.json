@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Login -> Navigate to page '/inventory.html'",
+        "step 3: Click on buttonAddToCartSauceLabsBackpack",
+        "step 4: Click on buttonAddToCartSauceLabsBoltTShirt",
+        "step 5: Click on linkObject -> Navigate to page '/cart.html'",
+        "step 6: Click on buttonCheckout -> Navigate to page '/checkout-step-one.html'",
+        "step 7: Click on inputFirstname",
+        "step 8: Enter input value in inputFirstname",
+        "step 9: Enter input value in inputLastname",
+        "step 10: Enter input value in inputPostalcode",
+        "step 11: Click on inputContinue -> Navigate to page '/checkout-step-two.html'",
+        "step 12: Click on buttonFinish -> Navigate to page '/checkout-complete.html'",
+        "step 13: Click on buttonBackToProducts -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}
