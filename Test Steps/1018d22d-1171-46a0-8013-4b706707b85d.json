@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/git-test-project/setup",
+        "step 2: Edit the description of a team project and save changes",
+        "step 3: Click on button alert -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 4: Click on button delete",
+        "step 5: Click on button delete -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
