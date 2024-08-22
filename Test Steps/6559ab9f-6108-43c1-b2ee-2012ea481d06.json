@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid",
+        "step 2: Schedule a test run and configure its settings in SauceDemo",
+        "step 3: Click on link teamTestRunTsc -> Navigate to page '/team/262587/project/375002/grid/plan/270193/job'",
+        "step 4: Click on link teamExecutions -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
