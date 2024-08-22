@@ -1,119 +1,213 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Navigate and Configure Git Repository Settings in SauceDemo,Navigate through the organization and team project settings to configure Git repository options and verify the home page.,"Step 1: Navigate to organization/*/home
-Step 2: Click on button katalonOnKatalon
-Step 3: Click on link organizationHome
-Step 4: Click on link qequalityEngineers -> Navigate to page 'team/*/project/*'
-Step 5: Click on link teamSettings -> Navigate to page 'team/*/project/*/settings'
-Step 6: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-Step 7: Click on link connectGitRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
-Step 8: Click on header gitSetUpUseSample
-Step 9: Click on header gitSetUpCreateNew
-Step 10: Login -> Navigate to page 'team/*/project/*/test-project'
-Step 11: Click on link cloudianAutomation -> Navigate to page 'team/*/project/*/test-project/*'
-Step 12: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
-Step 13: Click on link documentation -> Navigate to page ''
-Step 14: Take full page screenshot as checkpoint
+1,Schedule and Execute Test Run with Katalon Commands,"Navigate to the test project grid, schedule a test run, input commands, and verify the execution and settings.","Step 1: Navigate to team/*/project/*/grid
+Step 2: Click on button scheduleTestRun
+Step 3: Click on input name
+Step 4: Enter input value in input name
+Step 5: Click on div object
+Step 6: Click on div object
+Step 7: Click on button katalonCommand
+Step 8: Enter input value in textarea katalonCommand
+Step 9: Click on div object
+Step 10: Click on item scheduleTestRunCreated
+Step 11: Click on input radioButtons
+Step 12: Click on div object
+Step 13: Click on div object
+Step 14: Click on button saveConfigureTs
+Step 15: Click on button advancedSettings
+Step 16: Click on div object
+Step 17: Click on div object
+Step 18: Click on button object
+Step 19: Click on button run
+Step 20: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 21: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'
+Step 22: Click on link teamProjectGridPlanJob -> Navigate to page ''
+Step 23: Take full page screenshot as checkpoint
 ",High
-2,Refresh Script Repository in Team Project Settings,"Access team project settings, refresh the script repository, and verify the home page to ensure updates are reflected.","Step 1: Navigate to team/*/project/*
-Step 2: Click on link teamSettings -> Navigate to page '/team/262587/project/375002/settings'
-Step 3: Click on link teamScriptRepositories -> Navigate to page '/team/262587/project/375002/test-project'
-Step 4: Click on link teamDemoBulkOperation -> Navigate to page 'team/*/project/*/test-project/*'
-Step 5: Click on button refreshScriptRepository -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
-",Medium
-3,Schedule Test Run Configuration in SauceDemo for Team Project,"Schedule a test run in SauceDemo, configure its settings, and verify navigation back to the home page.","Step 1: Navigate to team/*/project/*/grid
-Step 2: Schedule a test run and configure its settings in SauceDemo
+2,Schedule Test Run and Verify Execution Page,"Navigate to the team project, schedule a test run, and verify the home page after selecting options.","Step 1: Navigate to team/*/project/*
+Step 2: Click on link executions
+Step 3: Schedule a test run and choose the created options
 	- Step 1: Click on button scheduleTestRun
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div object
+	- Step 2: Click on div object
+	- Step 3: Click on item scheduleTestRunCreated
+	- Step 4: Click on input radioButtons
 	- Step 5: Click on div object
-	- Step 6: Click on button katalonCommand
-	- Step 7: Enter input value in textarea katalonCommand
-	- Step 8: Click on div object
-	- Step 9: Click on item scheduleTestRunCreated
-	- Step 10: Click on input radioButtons
-	- Step 11: Click on div object
-	- Step 12: Click on div object
-	- Step 13: Click on button saveConfigureTs
-	- Step 14: Click on button advancedSettings
-	- Step 15: Click on div object
-	- Step 16: Click on div object
-	- Step 17: Click on button object
-	- Step 18: Click on button run
-Step 3: Click on link teamTestRunTsc -> Navigate to page '/team/262587/project/375002/grid/plan/270228/job'
-Step 4: Click on link teamExecutions -> Navigate to page 'team/*/project/*/executions/*'
-Step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
+Step 4: Take full page screenshot as checkpoint
+",High
+3,Duplicate and Delete Test Suites in Team Project,"Navigate to test design, duplicate existing test suites, and delete selected suites while verifying the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
+Step 2: Select and duplicate existing test suites in the application
+	- Step 1: Click on div object
+	- Step 2: Click on div object
+	- Step 3: Click on div object
+	- Step 4: Click on input selectTestSuite944954
+	- Step 5: Click on input selectTestSuite944953
+	- Step 6: Click on button duplicate
+Step 3: Click on input selectTestSuite944954
+Step 4: Click on input selectTestSuite944953
+Step 5: Click on button delete
+Step 6: Click on button delete -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
 ",Medium
-4,Execute Test Run and Verify Navigation in SauceDemo,"Schedule a test run in SauceDemo, execute it, and verify successful navigation to the home page.","Step 1: Navigate to team/*/project/*/grid
-Step 2: Schedule a test run and configure its settings in SauceDemo
-	- Step 1: Click on button scheduleTestRun
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div object
+5,Duplicate Test Suites and Select Test Cases,"Navigate to test design, duplicate test suites, select specific test cases, and verify changes on the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
+Step 2: Click on div object
+Step 3: Click on div object
+Step 4: Click on div object
+Step 5: Click on link testCase342
+Step 6: Select and duplicate existing test suites in the application
+	- Step 1: Click on div object
+	- Step 2: Click on div object
+	- Step 3: Click on div object
+	- Step 4: Click on input selectTestSuite944954
+	- Step 5: Click on input selectTestSuite944953
+	- Step 6: Click on button duplicate
+Step 7: Duplicate test suites and select specific test cases
+	- Step 1: Click on input selectTestSuite937612
+	- Step 2: Click on input selectTestSuite937611
+	- Step 3: Click on button duplicate
+	- Step 4: Click on link testCase342
 	- Step 5: Click on div object
-	- Step 6: Click on button katalonCommand
-	- Step 7: Enter input value in textarea katalonCommand
-	- Step 8: Click on div object
-	- Step 9: Click on item scheduleTestRunCreated
-	- Step 10: Click on input radioButtons
-	- Step 11: Click on div object
-	- Step 12: Click on div object
-	- Step 13: Click on button saveConfigureTs
-	- Step 14: Click on button advancedSettings
-	- Step 15: Click on div object
-	- Step 16: Click on div object
-	- Step 17: Click on button object
-	- Step 18: Click on button run
-Step 3: Click on link teamTestRunTsc -> Navigate to page '/team/262587/project/375002/grid/plan/270194/job'
-Step 4: Click on link teamExecutions -> Navigate to page 'team/*/project/*/executions/*'
-Step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
+	- Step 6: Click on div object
+	- Step 7: Click on div object
+Step 8: Click on link testCase442 -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
 ",Medium
-5,Manage Test Run Execution and Verify Home Page in SauceDemo,"Schedule and execute a test run in SauceDemo, followed by verification of the home page.","Step 1: Navigate to team/*/project/*/grid
-Step 2: Schedule a test run and configure its settings in SauceDemo
-	- Step 1: Click on button scheduleTestRun
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div object
-	- Step 5: Click on div object
-	- Step 6: Click on button katalonCommand
-	- Step 7: Enter input value in textarea katalonCommand
-	- Step 8: Click on div object
-	- Step 9: Click on item scheduleTestRunCreated
-	- Step 10: Click on input radioButtons
-	- Step 11: Click on div object
-	- Step 12: Click on div object
-	- Step 13: Click on button saveConfigureTs
-	- Step 14: Click on button advancedSettings
-	- Step 15: Click on div object
-	- Step 16: Click on div object
-	- Step 17: Click on button object
-	- Step 18: Click on button run
-Step 3: Click on link teamTestRunTsc -> Navigate to page '/team/262587/project/375002/grid/plan/270193/job'
-Step 4: Click on link teamExecutions -> Navigate to page 'team/*/project/*/executions/*'
-Step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
-",Medium
-6,Import and Schedule Test Run from Script Repository in SauceDemo,"Navigate to team project settings, import a script repository, and schedule a test run while verifying the home page.","Step 1: Navigate to team/*/project/*
-Step 2: Click on link teamSettings -> Navigate to page 'team/*/project/*/settings'
-Step 3: Click on link scriptRepositories -> Navigate to page '/team/320312/project/434641/test-project'
-Step 4: Click on button typeAll
-Step 5: Click on link teamImportScriptRepository
-Step 6: Click on link teamZipRepo -> Navigate to page 'team/*/project/*/test-project/*'
-Step 7: Click on button edit
-Step 8: Click on button refreshScriptRepository
-Step 9: Click on button cancel
-Step 10: Click on button scheduleTestRun -> Navigate to page '/team/320312/project/434641/test-planning'
-Step 11: Click on button closeDialog
-Step 12: Click on link teamSchedules -> Navigate to page 'team/*/project/*/grid'
-Step 13: Click on button scriptRepositoryAll -> Navigate to page ''
-Step 14: Take full page screenshot as checkpoint
-",Medium
-7,Access User Settings and Verify API Key in SauceDemo,"Navigate to user settings to access and verify the Katalon API key, ensuring successful navigation back to the home page.","Step 1: Navigate to organization/*/home
+4,Create New Test Suite from Existing Test Cases,"Navigate to test cases, select a case, create a new test suite, and verify the creation on the home page.","Step 1: Navigate to team/*/project/*/test-design/test-cases
+Step 2: Click on div object
+Step 3: Click on div testCases
+Step 4: Click on div object
+Step 5: Click on button selectTc3VisualTestingExample
+Step 6: Click on span object
+Step 7: Click on button createTestSuite
+Step 8: Enter input value in input name
+Step 9: Click on button createAdd -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Low
+6,Access User Settings and Katalon API Key,"Navigate to organization home, access user settings, and retrieve the Katalon API key while verifying the home page.","Step 1: Navigate to organization/*/home
 Step 2: Click on button qa
 Step 3: Click on link userSettings -> Navigate to page 'user/settings'
 Step 4: Click on link katalonApikey -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
-",Medium
+",Low
+7,Edit Project Description and Delete Team Project,"Navigate to team project settings, edit the description, and delete the project while confirming on the home page.","Step 1: Navigate to team/*/project/*/git-test-project/setup
+Step 2: Edit the project description in the team project settings
+	- Step 1: Click on button object -> Navigate to page 'team/*/project/*/test-project/*'
+	- Step 2: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/*'
+	- Step 3: Click on link katalonDemoProject -> Navigate to page 'team/*/project/*/test-project/*'
+	- Step 4: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+	- Step 5: Enter input value in textarea description
+	- Step 6: Click on button save
+Step 3: Click on button object -> Navigate to page 'team/*/project/*/test-project/*'
+Step 4: Click on button delete
+Step 5: Click on button delete -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Low
+8,Setup Integrations for Team Project with Multiple Tools,"Navigate through organization settings, set up various integrations, and verify the home page after configuration.","Step 1: Navigate to organization/*/home
+Step 2: Click on button qa
+Step 3: Click on link userSettings -> Navigate to page 'user/settings'
+Step 4: Click on link katalonApikey -> Navigate to page 'team/*/project/*'
+Step 5: Click on link settings -> Navigate to page 'team/*/project/*/*'
+Step 6: Click on link teamProjectTestCloudTunnel
+Step 7: Click on button setup
+Step 8: Click on div object -> Navigate to page 'team/*/project/*/integrations'
+Step 9: Click on div object
+Step 10: Click on div awscodebuild
+Step 11: Click on div object
+Step 12: Enter input value in input textInput
+Step 13: Click on div azureDevOpsPipelines
+Step 14: Click on div object
+Step 15: Enter input value in input textInput
+Step 16: Click on div circleCi
+Step 17: Click on div object
+Step 18: Enter input value in input textInput
+Step 19: Click on div cli
+Step 20: Click on div object
+Step 21: Enter input value in input textInput
+Step 22: Click on div docker
+Step 23: Click on div object
+Step 24: Enter input value in input textInput
+Step 25: Click on div githubAction
+Step 26: Click on div object
+Step 27: Enter input value in input textInput
+Step 28: Click on div gitlabCi
+Step 29: Click on div object
+Step 30: Enter input value in input textInput
+Step 31: Click on div testingFramework
+Step 32: Click on div jasmine
+Step 33: Click on div object
+Step 34: Enter input value in input textInput
+Step 35: Click on div jest
+Step 36: Click on div object
+Step 37: Enter input value in input textInput
+Step 38: Click on div mocha
+Step 39: Click on div object
+Step 40: Enter input value in input textInput
+Step 41: Click on div protractorJasmine
+Step 42: Click on div object
+Step 43: Enter input value in input textInput
+Step 44: Click on div protractorMocha
+Step 45: Click on div object
+Step 46: Enter input value in input textInput
+Step 47: Click on div pytest
+Step 48: Click on div object
+Step 49: Enter input value in input textInput
+Step 50: Click on div robot
+Step 51: Click on div object
+Step 52: Enter input value in input textInput
+Step 53: Click on span settings
+Step 54: Click on link organizationSetup -> Navigate to page 'organization/*/settings/agent'
+Step 55: Click on link agentSetup -> Navigate to page 'organization/*/settings/test-environment-installation'
+Step 56: Click on div object -> Navigate to page ''
+Step 57: Take full page screenshot as checkpoint
+",Low
+9,Duplicate and Delete Test Suites with Test Cases,"Navigate to test design, duplicate test suites, and delete selected test cases while verifying the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
+Step 2: Select and duplicate existing test suites in the application
+	- Step 1: Click on div object
+	- Step 2: Click on div object
+	- Step 3: Click on div object
+	- Step 4: Click on input selectTestSuite944954
+	- Step 5: Click on input selectTestSuite944953
+	- Step 6: Click on button duplicate
+Step 3: Click on link testCase342
+Step 4: Select and duplicate existing test suites in the application
+	- Step 1: Click on div object
+	- Step 2: Click on div object
+	- Step 3: Click on div object
+	- Step 4: Click on input selectTestSuite944954
+	- Step 5: Click on input selectTestSuite944953
+	- Step 6: Click on button duplicate
+Step 5: Click on span moveItemsTo
+Step 6: Click on button delete
+Step 7: Click on link testCase342 -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",Low
+10,Connect Git Repository and Manage Test Project Settings,"Navigate to settings, connect a Git repository, edit project details, and manage test design while verifying the home page.","Step 1: Navigate to team/*/project/*
+Step 2: Click on link settings -> Navigate to page 'team/*/project/*/*'
+Step 3: Click on link teamProjectScriptRepositories
+Step 4: Click on link connectGitRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
+Step 5: Click on header object
+Step 6: Login
+Step 7: Edit the project description in the team project settings
+	- Step 1: Click on button object -> Navigate to page 'team/*/project/*/test-project/*'
+	- Step 2: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/*'
+	- Step 3: Click on link katalonDemoProject -> Navigate to page 'team/*/project/*/test-project/*'
+	- Step 4: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+	- Step 5: Enter input value in textarea description
+	- Step 6: Click on button save
+Step 8: Click on button object -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 9: Click on div demoTargetDirectory
+Step 10: Click on div testCases
+Step 11: Click on div object -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 12: Click on div demoTargetDirectory
+Step 13: Click on div testSuites
+Step 14: Schedule a test run and choose the created options
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div object
+	- Step 3: Click on item scheduleTestRunCreated
+	- Step 4: Click on input radioButtons
+	- Step 5: Click on div object
+Step 15: Click on link settings
+Step 16: Click on link teamProjectScriptRepositories
+Step 17: Click on link demoTargetDirectory -> Navigate to page 'team/*/project/*/test-project/*'
+Step 18: Click on button delete
+Step 19: Click on button delete -> Navigate to page ''
+Step 20: Take full page screenshot as checkpoint
+",Low
