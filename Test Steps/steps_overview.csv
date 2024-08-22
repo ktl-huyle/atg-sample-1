@@ -1,93 +1,37 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Schedule and Verify Test Run Configuration in Team Project,"Navigate to the Team Project Grid, schedule a test run, configure settings, and verify navigation to the home page.","Step 1: Navigate to team/*/project/*/grid
-Step 2: Schedule a test run and configure advanced settings
-	- Step 1: Click on button scheduleTestRun
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div selectControl
-	- Step 5: Click on div reactSelectOption
-	- Step 6: Click on button katalonCommand
-	- Step 7: Enter input value in textarea katalonCommand
-	- Step 8: Click on div selectEnvironment
-	- Step 9: Click on item scheduleTestRun
-	- Step 10: Click on radioButton a
-	- Step 11: Click on div reactSelectControl
-	- Step 12: Click on div object
-	- Step 13: Click on button save
-	- Step 14: Click on button advancedSettings
-	- Step 15: Click on div latest
-	- Step 16: Click on div object
-	- Step 17: Click on button goBack
-	- Step 18: Click on button run
-Step 3: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job'
-Step 4: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'
-Step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''
+1,Access Team Project Settings and Refresh Script Repository,"Navigate to the team project settings, access script repositories, refresh the script repository, and verify the home page.","Step 1: Navigate to team/*/project/*
+Step 2: Click on link teamProjectSettings -> Navigate to page 'team/*/project/*/settings'
+Step 3: Click on link teamProjectScriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 4: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/test-project/*'
+Step 5: Click on button refreshScriptRepository -> Navigate to page ''
 Step 6: Take full page screenshot as checkpoint
 ",High
-5,Schedule Test Run with Environment Selection in Team Project,"Navigate to Team Project, schedule a test run, select environment, and verify navigation to the home page.","Step 1: Navigate to team/*/project/*
-Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
-Step 3: Click on button scheduleTestRun
-Step 4: Click on div selectEnvironment
-Step 5: Click on item scheduleTestRun
-Step 6: Click on radioButton a
-Step 7: Click on div reactSelectControl -> Navigate to page ''
-Step 8: Take full page screenshot as checkpoint
-",High
-2,Duplicate and Delete Test Suites in Team Project,"Navigate to Test Design, select multiple test suites to duplicate and delete, then verify navigation to the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
-Step 2: Select and duplicate multiple test suites
-	- Step 1: Click on div object
-	- Step 2: Click on div object
-	- Step 3: Click on div object
-	- Step 4: Click on checkbox testSuite944954
-	- Step 5: Click on checkbox testSuite944953
-	- Step 6: Click on button duplicate
-Step 3: Click on checkbox testSuite944954
-Step 4: Click on checkbox testSuite944953
-Step 5: Click on button delete
-Step 6: Click on button delete -> Navigate to page ''
-Step 7: Take full page screenshot as checkpoint
-",Medium
-8,Duplicate Test Suites and Select Test Cases in Team Project,"Navigate to Test Design, duplicate test suites, select specific test cases, and verify navigation to the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
-Step 2: Click on div object
-Step 3: Click on div object
-Step 4: Click on div object
-Step 5: Click on link testCase342
-Step 6: Select and duplicate multiple test suites
-	- Step 1: Click on div object
-	- Step 2: Click on div object
-	- Step 3: Click on div object
-	- Step 4: Click on checkbox testSuite944954
-	- Step 5: Click on checkbox testSuite944953
-	- Step 6: Click on button duplicate
-Step 7: Duplicate test suites and select specific test cases
-	- Step 1: Click on checkbox testSuite937612
-	- Step 2: Click on checkbox testSuite937611
-	- Step 3: Click on button duplicate
-	- Step 4: Click on link testCase342
-	- Step 5: Click on div object
-	- Step 6: Click on div object
-	- Step 7: Click on div object
-Step 8: Click on link testCase442 -> Navigate to page ''
-Step 9: Take full page screenshot as checkpoint
-",Medium
-3,Edit Project Description and Delete in Git Repository,"Navigate to Git Test Project Setup, edit project description, and delete project while verifying navigation to the home page.","Step 1: Navigate to team/*/project/*/git-test-project/setup
-Step 2: Edit the project description in the Git repository
-	- Step 1: Click on button alert -> Navigate to page 'team/*/project/*/test-project/*'
-	- Step 2: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-	- Step 3: Click on link katalonDemoProject -> Navigate to page 'team/*/project/*/test-project/*'
-	- Step 4: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
-	- Step 5: Enter input value in textarea description
-	- Step 6: Click on button save
-Step 3: Click on button alert -> Navigate to page 'team/*/project/*/test-project/*'
-Step 4: Click on button delete
-Step 5: Click on button delete -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
-",Low
-4,Setup Integrations and Manage API Keys in Organization Settings,"Navigate to Organization Home, manage API keys and settings, and verify navigation to the home page.","Step 1: Navigate to organization/*/home
+2,Access User Settings and Katalon API Key,"Navigate to the organization home, access user settings, and retrieve the Katalon API key, then verify the home page.","Step 1: Navigate to organization/*/home
 Step 2: Click on button qa
-Step 3: Click on link userSettings -> Navigate to page 'user/settings'
+Step 3: Click on link userSettings -> Navigate to page 'user/*'
+Step 4: Click on link katalonApiKey -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Medium
+3,Manage Script Repository and Schedule Test Run in Team Project,"Access team project settings, manage script repositories, schedule a test run, and verify the home page after actions.","Step 1: Navigate to team/*/project/*
+Step 2: Click on link teamProjectSettings -> Navigate to page 'team/*/project/*/settings'
+Step 3: Click on link teamProjectScriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 4: Click on button typeAll
+Step 5: Click on link teamProjectCreate
+Step 6: Click on link teamProjectZipRepo -> Navigate to page 'team/*/project/*/test-project/*'
+Step 7: Click on button edit
+Step 8: Click on button refreshScriptRepository
+Step 9: Click on button cancel
+Step 10: Click on button scheduleTestRun -> Navigate to page 'team/*/project/*/test-planning'
+Step 11: Click on button closeDialog
+Step 12: Click on link teamProjectSchedules -> Navigate to page 'team/*/project/*/grid'
+Step 13: Click on button scriptRepositoryAll -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Medium
+4,Setup Katalon API Keys for Various Frameworks in Team Project,"Navigate to organization settings, set up Katalon API keys for different frameworks, and verify the home page.","Step 1: Navigate to organization/*/home
+Step 2: Click on button qa
+Step 3: Click on link userSettings -> Navigate to page 'user/*'
 Step 4: Click on link katalonApiKey -> Navigate to page 'team/*/project/*'
-Step 5: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 5: Click on link teamProjectSettings -> Navigate to page 'team/*/project/*/settings'
 Step 6: Click on link testCloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
 Step 7: Click on button setup
 Step 8: Click on div defaultApiKey -> Navigate to page 'team/*/project/*/integrations'
@@ -136,106 +80,8 @@ Step 50: Click on div robot
 Step 51: Click on div defaultApiKey
 Step 52: Enter input value in input textbox
 Step 53: Click on span settings
-Step 54: Click on link organizationSetup -> Navigate to page 'organization/*/settings/agent'
-Step 55: Click on link agentSetup -> Navigate to page 'organization/*/settings/test-environment-installation'
+Step 54: Click on link organizationSetup -> Navigate to page 'organization/*/settings/*'
+Step 55: Click on link agentSetup
 Step 56: Click on div defaultApiKey -> Navigate to page ''
 Step 57: Take full page screenshot as checkpoint
-",Low
-6,Connect Git Repository and Navigate in Team Project,"Navigate to Team Project, connect Git repository, and verify navigation to the documentation and home page.","Step 1: Navigate to organization/*/home
-Step 2: Click on button katalonOnKatalon
-Step 3: Click on link ko
-Step 4: Click on link qequalityEngineers -> Navigate to page 'team/*/project/*'
-Step 5: Click on link settings -> Navigate to page 'team/*/project/*/settings'
-Step 6: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-Step 7: Click on link connectGitRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
-Step 8: Click on header gitSetupUseSample
-Step 9: Click on header gitSetupCreateNew
-Step 10: Login -> Navigate to page 'team/*/project/*/test-project'
-Step 11: Click on link cloudianAutomation -> Navigate to page 'team/*/project/*/test-project/*'
-Step 12: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
-Step 13: Click on link documentation -> Navigate to page ''
-Step 14: Take full page screenshot as checkpoint
-",Low
-7,Create Test Suite from Test Cases in Team Project,"Navigate to Test Design, select test cases, create a new test suite, and verify navigation to the home page.","Step 1: Navigate to team/*/project/*/test-design/test-cases
-Step 2: Click on div object
-Step 3: Click on div testCases
-Step 4: Click on div object
-Step 5: Click on button selectTc3VisualTesting
-Step 6: Click on span object
-Step 7: Click on button createTestSuite
-Step 8: Enter input value in input enterAname
-Step 9: Click on button createAdd -> Navigate to page ''
-Step 10: Take full page screenshot as checkpoint
-",Low
-9,Duplicate and Delete Test Cases in Team Project,"Navigate to Test Design, duplicate test suites, and delete selected test cases while verifying navigation to the home page.","Step 1: Navigate to team/*/project/*/test-design/test-suites
-Step 2: Select and duplicate multiple test suites
-	- Step 1: Click on div object
-	- Step 2: Click on div object
-	- Step 3: Click on div object
-	- Step 4: Click on checkbox testSuite944954
-	- Step 5: Click on checkbox testSuite944953
-	- Step 6: Click on button duplicate
-Step 3: Click on link testCase342
-Step 4: Select and duplicate multiple test suites
-	- Step 1: Click on div object
-	- Step 2: Click on div object
-	- Step 3: Click on div object
-	- Step 4: Click on checkbox testSuite944954
-	- Step 5: Click on checkbox testSuite944953
-	- Step 6: Click on button duplicate
-Step 5: Click on span moveItems
-Step 6: Click on button delete
-Step 7: Click on link testCase342 -> Navigate to page ''
-Step 8: Take full page screenshot as checkpoint
-",Low
-10,Access User Settings and Verify API Key in Organization,"Navigate to Organization Home, access user settings, and verify navigation to the home page.","Step 1: Navigate to organization/*/home
-Step 2: Click on button qa
-Step 3: Click on link userSettings -> Navigate to page 'user/settings'
-Step 4: Click on link katalonApiKey -> Navigate to page ''
-Step 5: Take full page screenshot as checkpoint
-",Low
-11,Manage Test Project and Schedule Test Run in Team Project,"Navigate through various settings, manage test project details, schedule a test run, and verify navigation to the home page.","Step 1: Navigate to team/*/project/*
-Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
-Step 3: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-Step 4: Click on link connectGitRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
-Step 5: Click on header gitSetupCreateNew
-Step 6: Login
-Step 7: Edit the project description in the Git repository
-	- Step 1: Click on button alert -> Navigate to page 'team/*/project/*/test-project/*'
-	- Step 2: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-	- Step 3: Click on link katalonDemoProject -> Navigate to page 'team/*/project/*/test-project/*'
-	- Step 4: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
-	- Step 5: Enter input value in textarea description
-	- Step 6: Click on button save
-Step 8: Click on button alert -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 9: Click on div demoTargetDirectory
-Step 10: Click on div testCases
-Step 11: Click on div object -> Navigate to page 'team/*/project/*/test-design/test-suites'
-Step 12: Click on div demoTargetDirectory
-Step 13: Click on div testSuites
-Step 14: Schedule a test run and configure advanced settings
-	- Step 1: Click on button scheduleTestRun
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div selectControl
-	- Step 5: Click on div reactSelectOption
-	- Step 6: Click on button katalonCommand
-	- Step 7: Enter input value in textarea katalonCommand
-	- Step 8: Click on div selectEnvironment
-	- Step 9: Click on item scheduleTestRun
-	- Step 10: Click on radioButton a
-	- Step 11: Click on div reactSelectControl
-	- Step 12: Click on div object
-	- Step 13: Click on button save
-	- Step 14: Click on button advancedSettings
-	- Step 15: Click on div latest
-	- Step 16: Click on div object
-	- Step 17: Click on button goBack
-	- Step 18: Click on button run
-Step 15: Click on link settings -> Navigate to page 'team/*/project/*/settings'
-Step 16: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-Step 17: Click on link demoTargetDirectory -> Navigate to page 'team/*/project/*/test-project/*'
-Step 18: Click on button delete
-Step 19: Click on button delete -> Navigate to page ''
-Step 20: Take full page screenshot as checkpoint
-",Low
+",Medium
