@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-design/test-suites",
+        "step 2: Select and duplicate multiple test suites",
+        "step 3: Click on link testCase342",
+        "step 4: Select and duplicate multiple test suites",
+        "step 5: Click on span moveItems",
+        "step 6: Click on button delete",
+        "step 7: Click on link testCase342 -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

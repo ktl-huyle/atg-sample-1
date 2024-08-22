@@ -10,18 +10,18 @@
     <name>TC1-Schedule and Verify Test Run Configuration in Team Project</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>828bfc60-f64c-4221-b93c-9160ee4787e3</testCaseGuid>
+    <testCaseGuid>82835933-b273-4019-b15d-fd11f62340d7</testCaseGuid>
     <variable>
-        <defaultValue>'Data Files/AI-Generated/Common/scheduleTestRunAndSaveSettings-test-data'</defaultValue>
+        <defaultValue>'Data Files/AI-Generated/Common/scheduleTestRunAndConfigureSettings-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>189ac05e-a0d0-4240-9417-b3712c6be6c2</id>
+        <id>67f3aea9-1f36-4b7e-be44-98533d68b64e</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>027e2400-a72e-496d-848a-2c9ca183b519</id>
+        <id>1c682de3-e84f-4ff6-8c78-851d305d19fa</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>

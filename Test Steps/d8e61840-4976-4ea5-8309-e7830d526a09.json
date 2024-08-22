@@ -4,7 +4,7 @@
         "step 2: Click on div object",
         "step 3: Click on div testCases",
         "step 4: Click on div object",
-        "step 5: Click on button selectTc3VisualTestingExample",
+        "step 5: Click on button selectTc3VisualTesting",
         "step 6: Click on span object",
         "step 7: Click on button createTestSuite",
         "step 8: Enter input value in input enterAname",

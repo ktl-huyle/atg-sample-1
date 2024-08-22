@@ -10,11 +10,11 @@
     <name>TC7-Create Test Suite from Test Cases in Team Project</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>aa474133-1aaa-4d29-99f5-526ea089009f</testCaseGuid>
+    <testCaseGuid>ca460249-e7e0-4e24-9402-1753e9f767a3</testCaseGuid>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>91ec35a5-a8a7-4a77-bbb4-9ed3915bb353</id>
+        <id>ba330079-f6d0-4a80-824d-185b3a8bc003</id>
         <masked>false</masked>
         <name>input_enterAname</name>
     </variable>
