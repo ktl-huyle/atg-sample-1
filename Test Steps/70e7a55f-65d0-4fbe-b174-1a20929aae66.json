@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid",
+        "step 2: Schedule a test run and save configurations in Katalon",
+        "step 3: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 4: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on link teamProjectGridPlanJob -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
