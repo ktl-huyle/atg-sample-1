@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to /team/262587/project/375002/test-design/test-suites",
+        "step 2: Duplicate selected test suites in the application",
+        "step 3: Click on input selectTestSuite944954",
+        "step 4: Click on input selectTestSuite944953",
+        "step 5: Click on button delete",
+        "step 6: Click on button delete -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
