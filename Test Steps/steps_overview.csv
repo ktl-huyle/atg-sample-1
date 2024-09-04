@@ -1,0 +1,186 @@
+Flow ID,Name,Description,Test Steps,Flow Priority
+1,Flow 1,,"Step 1: Navigate to team/*/project/*/web-services
+Step 2: Click on button selectOrganization
+Step 3: Click on link myOrganization01 -> Navigate to page 'organization/*/home'
+Step 4: Click on link bpBddPocThereIsNoDataToDisplay -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",High
+2,Flow 2,,"Step 1: Navigate to organization/*/home
+Step 2: Click on link 652MSisBookParticipantsDefault9MinsAgo -> Navigate to page 'team/*/project/*/executions/*'
+Step 3: Click on div loadingspinner
+Step 4: Click on div loadingspinner
+Step 5: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 6: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 7: Click on label object
+Step 8: Click on label object2
+Step 9: Click on label object3
+Step 10: Click on button delete
+Step 11: Click on button delete2
+Step 12: Click on label object
+Step 13: Click on label object2
+Step 14: Click on label object3
+Step 15: Click on button delete
+Step 16: Click on button delete2 -> Navigate to page ''
+Step 17: Take full page screenshot as checkpoint
+",High
+3,Flow 3,,"Step 1: Navigate to user/apikey
+Step 2: Call function actionSequence 1
+	- Step 1: Click on button generateApiKey
+	- Step 2: Click on input keyName
+	- Step 3: Enter input value in input keyName
+	- Step 4: Click on div object
+	- Step 5: Click on button create
+Step 3: Click on button object
+Step 4: Click on button showApiKey
+Step 5: Click on input object
+Step 6: Click on input object
+Step 7: Click on button object2
+Step 8: Click on button nidhiKachhadiya
+Step 9: Click on link logout -> Navigate to page 'organization/*/home'
+Step 10: Take full page screenshot as checkpoint
+",High
+4,Flow 4,,"Step 1: Navigate to team/*/project/*/test-project
+Step 2: Click on link logout -> Navigate to page '/logout'
+Step 3: Take full page screenshot as checkpoint
+",High
+5,Flow 5,,"Step 1: Navigate to organization/*/home
+Step 2: Click on span object
+Step 3: Click on link testopsHomepage
+Step 4: Click on span object
+Step 5: Click on link testopsHomepage
+Step 6: Click on div object -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High
+6,Flow 6,,"Step 1: Navigate to user/apikey
+Step 2: Click on button object3
+Step 3: Click on button object4
+Step 4: Click on button object2
+Step 5: Click on button object5
+Step 6: Call function actionSequence 1
+	- Step 1: Click on button generateApiKey
+	- Step 2: Click on input keyName
+	- Step 3: Enter input value in input keyName
+	- Step 4: Click on div object
+	- Step 5: Click on button create
+Step 7: Click on button object6
+Step 8: Click on button object2
+Step 9: Click on button object5
+Step 10: Click on button nidhiKachhadiya
+Step 11: Click on link logout -> Navigate to page '/logout'
+Step 12: Take full page screenshot as checkpoint
+",High
+7,Flow 7,,"Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Call function actionSequence 2
+	- Step 1: Click on button externalLinkButton5
+	- Step 2: Click on button externalLinkButton
+	- Step 3: Click on button externalLinkButton2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+	- Step 4: Click on button markStatusButton
+	- Step 5: Click on label object
+	- Step 6: Click on button submit
+Step 3: Click on button markStatusButton
+Step 4: Click on label object
+Step 5: Click on button submit
+Step 6: Click on button markStatusButton
+Step 7: Click on label object
+Step 8: Click on button submit
+Step 9: Click on button markStatusButton
+Step 10: Click on label object
+Step 11: Click on button submit -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Click on button externalLinkButton
+Step 13: Click on button externalLinkButton2
+Step 14: Click on button externalLinkButton3
+Step 15: Click on button externalLinkButton4
+Step 16: Call function actionSequence 2
+	- Step 1: Click on button externalLinkButton5
+	- Step 2: Click on button externalLinkButton
+	- Step 3: Click on button externalLinkButton2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+	- Step 4: Click on button markStatusButton
+	- Step 5: Click on label object
+	- Step 6: Click on button submit
+Step 17: Click on button markStatusButton
+Step 18: Click on label object
+Step 19: Click on button submit
+Step 20: Click on button markStatusButton
+Step 21: Click on label object
+Step 22: Click on button submit
+Step 23: Click on button markStatusButton
+Step 24: Click on label object
+Step 25: Click on button submit
+Step 26: Click on button markStatusButton
+Step 27: Click on label object
+Step 28: Click on button submit
+Step 29: Click on button markStatusButton
+Step 30: Click on label object
+Step 31: Click on button submit
+Step 32: Click on button markStatusButton
+Step 33: Click on label object
+Step 34: Click on button submit -> Navigate to page 'team/*/project/*/executions/*'
+Step 35: Click on button externalLinkButton5
+Step 36: Click on button externalLinkButton
+Step 37: Click on button selectOrganization
+Step 38: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 39: Click on button markStatusButton
+Step 40: Click on label object
+Step 41: Click on button submit
+Step 42: Click on button markStatusButton
+Step 43: Click on label object
+Step 44: Click on button submit -> Navigate to page 'organization/*/home'
+Step 45: Click on link 1879IIeInsightly3ServiceProdInsightl
+Step 46: Take full page screenshot as checkpoint
+",High
+8,Flow 8,,"Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on link testSuitesCpacDecPreapprovalBindTestSuite -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 3: Click on link cpacDecPreapprovalBindTestSuite -> Navigate to page 'team/*/project/*/executions/*'
+Step 4: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 5: Click on div object
+Step 6: Click on button externalLinkButton -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High
+9,Flow 9,,"Step 1: Navigate to team/*/project/*/grid
+Step 2: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 3: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'
+Step 4: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 5: Click on link calendar -> Navigate to page 'team/*/project/*/test-planning'
+Step 6: Click on li object
+Step 7: Click on link history -> Navigate to page 'team/*/project/*/test-runs'
+Step 8: Click on div object
+Step 9: Click on button showMore
+Step 10: Click on button object -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 11: Click on div object -> Navigate to page 'team/*/project/*/test-runs'
+Step 12: Click on button object2
+Step 13: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 14: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 15: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 16: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/test-project/*'
+Step 17: Click on button refreshScriptRepository
+Step 18: Click on button refreshScriptRepository
+Step 19: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 20: Click on div object
+Step 21: Click on link testCasesIndi1040Ss
+Step 22: Click on tr object
+Step 23: Click on div object2
+Step 24: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 25: Click on button openScheduleDialog
+Step 26: Click on div object2
+Step 27: Click on div object3
+Step 28: Click on div object4
+Step 29: Click on div object5
+Step 30: Click on div object6
+Step 31: Click on li object
+Step 32: Click on span object
+Step 33: Click on div object7
+Step 34: Click on button saveConfigureTs
+Step 35: Click on button customizedButton
+Step 36: Click on link viewUntitledTestRun
+Step 37: Click on div object
+Step 38: Click on div object8
+Step 39: Click on button showMore
+Step 40: Click on div object9
+Step 41: Click on div object10
+Step 42: Click on div object10
+Step 43: Click on div object10
+Step 44: Click on div object8
+Step 45: Click on div object8
+Step 46: Click on button object -> Navigate to page ''
+Step 47: Take full page screenshot as checkpoint
+",High
