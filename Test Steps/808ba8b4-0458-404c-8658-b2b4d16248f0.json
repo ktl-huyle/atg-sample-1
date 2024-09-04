@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-runs",
+        "step 2: Click on div object",
+        "step 3: Click on div underTopNavbar",
+        "step 4: Click on div object2",
+        "step 5: Click on div object3",
+        "step 6: Click on div underTopNavbar -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}

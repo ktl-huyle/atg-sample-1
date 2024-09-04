@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link tests -> Navigate to page 'team/*/project/*/test-design/*'",
+        "step 4: Click on div rootUploadedData",
+        "step 5: Click on span object20",
+        "step 6: Click on span object3",
+        "step 7: Click on span object13",
+        "step 8: Click on span object14",
+        "step 9: Click on div root1356370",
+        "step 10: Click on link testCasesFunctionalFlowBht16CountyDemograph -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 11: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 12: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 13: Click on link teamProjectExecutions6 -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 14: Click on button downloadExecutionFile",
+        "step 15: Click on div object39",
+        "step 16: Click on button closeDialogButton",
+        "step 17: Click on link tests -> Navigate to page 'team/*/project/*/test-design/*'",
+        "step 18: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 19: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

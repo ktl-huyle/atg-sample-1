@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/settings/*",
+        "step 2: Click on link kubernetes -> Navigate to page 'organization/*/settings/*/*'",
+        "step 3: Click on link localEnvironment -> Navigate to page 'organization/*/settings/*'",
+        "step 4: Click on link scheduleYourTestRuns",
+        "step 5: Call function actionSequence 3",
+        "step 6: Click on link history -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 7: Click on h2 object2",
+        "step 8: Click on button sessions02",
+        "step 9: Click on button failedTestResults02",
+        "step 10: Click on link dashboard -> Navigate to page 'team/*/project/*'",
+        "step 11: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 12: Click on link tests -> Navigate to page 'team/*/project/*/test-design/*'",
+        "step 13: Click on link testSuites",
+        "step 14: Click on link testCases",
+        "step 15: Click on span object",
+        "step 16: Click on span object8",
+        "step 17: Click on span object2",
+        "step 18: Click on link testSuites",
+        "step 19: Click on link testObjects",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

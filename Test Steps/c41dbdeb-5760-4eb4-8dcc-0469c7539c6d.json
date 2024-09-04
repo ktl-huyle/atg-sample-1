@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 2: Click on div object8",
+        "step 3: Click on button object -> Navigate to page 'team/*/project/*/test-design/*'",
+        "step 4: Click on span object",
+        "step 5: Click on span object7",
+        "step 6: Click on span object13",
+        "step 7: Click on span object14",
+        "step 8: Click on span object15",
+        "step 9: Click on span object16",
+        "step 10: Click on span object2",
+        "step 11: Click on span object17",
+        "step 12: Click on span object18",
+        "step 13: Click on span object19",
+        "step 14: Click on div object13 -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 15: Click on div object9 -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

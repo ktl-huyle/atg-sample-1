@@ -1,0 +1,28 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/testCloudTunnel",
+        "step 2: Click on link testcloudTunnels",
+        "step 3: Click on link general -> Navigate to page 'team/*/project/*/settings'",
+        "step 4: Click on span object",
+        "step 5: Click on div object",
+        "step 6: Call function actionSequence 4",
+        "step 7: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'",
+        "step 8: Click on link testcloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'",
+        "step 9: Click on button setupTunnels",
+        "step 10: Click on button activeTunnels",
+        "step 11: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'",
+        "step 12: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/*/*'",
+        "step 13: Click on div object2",
+        "step 14: Click on button scheduleTestRun",
+        "step 15: Call function actionSequence 3",
+        "step 16: Click on link viewCdcTestRun5 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 17: Click on button object3",
+        "step 18: Click on div object4",
+        "step 19: Click on h2 object",
+        "step 20: Click on button sessions0",
+        "step 21: Click on button sessions0",
+        "step 22: Click on button object4 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
+        "step 23: Click on pre object -> Navigate to page ''",
+        "step 24: Take full page screenshot as checkpoint"
+    ]
+}

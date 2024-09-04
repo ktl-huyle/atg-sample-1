@@ -11,18 +11,18 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="d-block "]</value>
+            <value>tr:nth-child(1) [class="d-block "]</value>
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/1570311/project/1588984/grid/plan/837097/job/8')]</value>
+            <value>//*[equals(@href,'/team/41353/project/112884/grid/plan/598009/job/2592')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>internal:role=link[name="8"i]</value>
+            <value>internal:role=link[name="2592"i]</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -33,7 +33,7 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1570311/project/1588984/grid/plan/837097/job/8</value>
-        <webElementGuid>bbd5bbc8-6b17-449e-bf15-e47ddf102ee7</webElementGuid>
+        <value>/team/41353/project/112884/grid/plan/598009/job/2592</value>
+        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

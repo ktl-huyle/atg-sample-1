@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on div object13",
+        "step 3: Click on link 1FpEUntitledTestRun2MinsAgo0ms -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 4: Click on link testSuitesCoordinatorCore",
+        "step 5: Click on pre object -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

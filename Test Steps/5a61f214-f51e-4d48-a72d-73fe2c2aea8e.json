@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to /welcome",
+        "step 2: Click on div object4 -> Navigate to page 'organization/*/home'",
+        "step 3: Take full page screenshot as checkpoint"
+    ]
+}
