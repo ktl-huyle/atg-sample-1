@@ -10,10 +10,10 @@
     <name>TestCase-080</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>e7251b33-cc5b-41c5-be20-e7f261f23465</testCaseGuid>
+    <testCaseGuid>7890d1f4-30a6-43cb-8931-cf61641cc3f9</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>4d45df82-bac8-4354-80d9-0ad7eaa4b98e</id>
+        <id>ed5092ba-7234-4a3c-98be-e2bc54906c4b</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,53 +23,53 @@
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/actionSequence_1-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>55e8ccbb-500e-4d00-b46b-ac1dea04eaea</id>
+        <id>b128d45a-753c-4e3e-9b78-193030d6d4b3</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/actionSequence_1-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>f76ba54e-8f09-40b9-b728-7f7ae4d7ebb5</id>
+        <id>d55dbfa4-ca6a-489d-8490-05496f67e2ff</id>
         <masked>false</masked>
         <name>data_path_1</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>7f1bd532-cf18-493a-93c3-d919035f7658</id>
+        <id>06c4a954-0d08-482d-91ec-6e60566ff6d3</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>b54f9657-db39-45e4-8de9-e5ad6425e7ce</id>
+        <id>cc3e5a87-b28f-4ee9-bebc-31bef0a577b8</id>
         <masked>false</masked>
         <name>index_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>4d45df82-bac8-4354-80d9-0ad7eaa4b98e</testDataLinkId>
+        <testDataLinkId>ed5092ba-7234-4a3c-98be-e2bc54906c4b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>55e8ccbb-500e-4d00-b46b-ac1dea04eaea</variableId>
+        <variableId>b128d45a-753c-4e3e-9b78-193030d6d4b3</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4d45df82-bac8-4354-80d9-0ad7eaa4b98e</testDataLinkId>
+        <testDataLinkId>ed5092ba-7234-4a3c-98be-e2bc54906c4b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_1</value>
-        <variableId>f76ba54e-8f09-40b9-b728-7f7ae4d7ebb5</variableId>
+        <variableId>d55dbfa4-ca6a-489d-8490-05496f67e2ff</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4d45df82-bac8-4354-80d9-0ad7eaa4b98e</testDataLinkId>
+        <testDataLinkId>ed5092ba-7234-4a3c-98be-e2bc54906c4b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>7f1bd532-cf18-493a-93c3-d919035f7658</variableId>
+        <variableId>06c4a954-0d08-482d-91ec-6e60566ff6d3</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4d45df82-bac8-4354-80d9-0ad7eaa4b98e</testDataLinkId>
+        <testDataLinkId>ed5092ba-7234-4a3c-98be-e2bc54906c4b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_1</value>
-        <variableId>b54f9657-db39-45e4-8de9-e5ad6425e7ce</variableId>
+        <variableId>cc3e5a87-b28f-4ee9-bebc-31bef0a577b8</variableId>
     </variableLinks>
 </TestCaseEntity>

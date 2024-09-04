@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/api/v1/katone/page/welcome</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>id</name>
         <type>Main</type>
         <value>switch-account</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Switch Account</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>title</name>
         <type>Main</type>
         <value>settings-switch-account-desc</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

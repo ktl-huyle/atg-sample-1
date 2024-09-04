@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1358507/project/1378530/test-reports/test-maintenance/active</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Cases</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Cases</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

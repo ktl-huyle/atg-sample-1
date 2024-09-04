@@ -13,7 +13,7 @@
         "step 11: Click on link circleci",
         "step 12: Click on link testcloud",
         "step 13: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'",
-        "step 14: Click on div object5",
+        "step 14: Click on div object",
         "step 15: Click on link testcloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'",
         "step 16: Click on button setupTunnels",
         "step 17: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'",

@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/api/v1/katone/page/admin/organization/1405861/teams/projects</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>id</name>
         <type>Main</type>
         <value>manage_projects</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
         <value>Project Management
         
         Manage your project settings.</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -60,6 +60,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Manage your project settings.</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

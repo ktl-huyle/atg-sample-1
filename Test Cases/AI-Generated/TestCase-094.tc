@@ -10,10 +10,10 @@
     <name>TestCase-094</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>b9e99a7e-6b2a-4ef9-86a8-f57ffbd53d7d</testCaseGuid>
+    <testCaseGuid>2cd545f6-4c5a-479e-95cd-0d650691b2e3</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>e4df1d21-1e12-4980-b5a6-7e0aff224af2</id>
+        <id>07737d41-3fba-470e-89b1-23f61fc66ee6</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/actionSequence_1-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>81d06cd4-6228-4de8-897c-47e7272ef579</id>
+        <id>12abbcae-be20-4f21-baa6-ae5aed8f199b</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>a2315280-2866-417f-bba4-11d770ece9b1</id>
+        <id>5d8205ed-6786-45c8-8628-ff68e682f48c</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>e4df1d21-1e12-4980-b5a6-7e0aff224af2</testDataLinkId>
+        <testDataLinkId>07737d41-3fba-470e-89b1-23f61fc66ee6</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>81d06cd4-6228-4de8-897c-47e7272ef579</variableId>
+        <variableId>12abbcae-be20-4f21-baa6-ae5aed8f199b</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>e4df1d21-1e12-4980-b5a6-7e0aff224af2</testDataLinkId>
+        <testDataLinkId>07737d41-3fba-470e-89b1-23f61fc66ee6</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>a2315280-2866-417f-bba4-11d770ece9b1</variableId>
+        <variableId>5d8205ed-6786-45c8-8628-ff68e682f48c</variableId>
     </variableLinks>
 </TestCaseEntity>

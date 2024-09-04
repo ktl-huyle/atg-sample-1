@@ -10,10 +10,10 @@
     <name>TestCase-101</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>863717d9-86f2-46d8-83cd-ccee13cccce1</testCaseGuid>
+    <testCaseGuid>bb8ac836-67af-4fa3-8478-0a5ac4399087</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>afa128d2-46c6-429a-b76e-e680274002ea</id>
+        <id>761a7430-0e95-43d5-b8f6-d05003153e3a</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,40 +23,40 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>9cc9ec86-e036-44f8-a155-130538e0ec11</id>
+        <id>568fa9ca-314f-4306-bbe2-64b801cc3055</id>
         <masked>false</masked>
         <name>input_rkv</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>393d6a7b-7f6e-4d6d-a0b1-88484238c31b</id>
+        <id>9b662463-a160-4879-bdf6-4276cb3957b9</id>
         <masked>false</masked>
         <name>input_rm9</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>303a9086-668c-483b-a6ea-494c76cb066c</id>
+        <id>65bafcee-3d73-4094-8354-38e1648a462e</id>
         <masked>false</masked>
         <name>input_testStepEditAutocompleteInput</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>afa128d2-46c6-429a-b76e-e680274002ea</testDataLinkId>
+        <testDataLinkId>761a7430-0e95-43d5-b8f6-d05003153e3a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rkv</value>
-        <variableId>9cc9ec86-e036-44f8-a155-130538e0ec11</variableId>
+        <variableId>568fa9ca-314f-4306-bbe2-64b801cc3055</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>afa128d2-46c6-429a-b76e-e680274002ea</testDataLinkId>
+        <testDataLinkId>761a7430-0e95-43d5-b8f6-d05003153e3a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rm9</value>
-        <variableId>393d6a7b-7f6e-4d6d-a0b1-88484238c31b</variableId>
+        <variableId>9b662463-a160-4879-bdf6-4276cb3957b9</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>afa128d2-46c6-429a-b76e-e680274002ea</testDataLinkId>
+        <testDataLinkId>761a7430-0e95-43d5-b8f6-d05003153e3a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_testStepEditAutocompleteInput</value>
-        <variableId>303a9086-668c-483b-a6ea-494c76cb066c</variableId>
+        <variableId>65bafcee-3d73-4094-8354-38e1648a462e</variableId>
     </variableLinks>
 </TestCaseEntity>

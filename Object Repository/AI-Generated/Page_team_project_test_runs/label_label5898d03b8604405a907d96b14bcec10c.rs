@@ -34,6 +34,6 @@
         <name>id</name>
         <type>Main</type>
         <value>label-5898d03b-8604-405a-907d-96b14bcec10c</value>
-        <webElementGuid>1d428e7a-9f8c-487b-b361-72594f311e82</webElementGuid>
+        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

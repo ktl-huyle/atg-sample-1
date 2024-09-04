@@ -10,10 +10,10 @@
     <name>TestCase-060</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>1c3e33e2-d01a-4f2c-984a-8237cb2edd6f</testCaseGuid>
+    <testCaseGuid>ff0a0f4c-8d1b-4acf-a793-0173c5441c79</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>88960a2e-f084-4737-98f7-f472dc72d2b2</id>
+        <id>d11d1aa5-2a2b-45aa-bfaf-8eca88adfbb8</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,14 +23,14 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>4f155d93-ecc4-46e1-bb3c-d5c70ce679ce</id>
+        <id>371f2948-19f9-49f2-b7e7-98e7fdba1c9e</id>
         <masked>false</masked>
         <name>input_name</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>88960a2e-f084-4737-98f7-f472dc72d2b2</testDataLinkId>
+        <testDataLinkId>d11d1aa5-2a2b-45aa-bfaf-8eca88adfbb8</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_name</value>
-        <variableId>4f155d93-ecc4-46e1-bb3c-d5c70ce679ce</variableId>
+        <variableId>371f2948-19f9-49f2-b7e7-98e7fdba1c9e</variableId>
     </variableLinks>
 </TestCaseEntity>

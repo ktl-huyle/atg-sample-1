@@ -4,7 +4,7 @@
         "step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'",
         "step 3: Click on h2 object",
         "step 4: Click on button sessions1",
-        "step 5: Click on div object20",
+        "step 5: Click on div object17",
         "step 6: Click on h2 object",
         "step 7: Click on h2 object",
         "step 8: Click on button details -> Navigate to page 'team/*/project/*/executions/*'",

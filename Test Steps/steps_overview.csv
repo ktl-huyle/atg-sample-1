@@ -283,7 +283,7 @@ Step 5: Take full page screenshot as checkpoint
 Step 2: Click on div object4 -> Navigate to page 'organization/*/home'
 Step 3: Take full page screenshot as checkpoint
 ",Low
-12,Flow 12,,"Step 1: Navigate to organization/*/home
+13,Flow 13,,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 Step 3: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 4: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
@@ -339,7 +339,7 @@ Step 2: Click on link calendar -> Navigate to page 'team/*/project/*/test-planni
 Step 3: Click on div object7 -> Navigate to page ''
 Step 4: Take full page screenshot as checkpoint
 ",Low
-13,Flow 13,,"Step 1: Navigate to team/*/project/*/executions/*
+12,Flow 12,,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
 Step 3: Take full page screenshot as checkpoint
 ",Trivial
@@ -445,6 +445,54 @@ Step 22: Click on div object2
 Step 23: Take full page screenshot as checkpoint
 ",Trivial
 20,Flow 20,,"Step 1: Navigate to organization/*/home
+Step 2: Call function actionSequence 2
+	- Step 1: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
+	- Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+	- Step 3: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+	- Step 4: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/*/*'
+	- Step 5: Click on button scheduleTestRun
+Step 3: Call function actionSequence 3
+	- Step 1: Click on input name
+	- Step 2: Click on input name
+	- Step 3: Enter input value in input name
+	- Step 4: Click on div object13
+	- Step 5: Click on div object14
+	- Step 6: Click on div object15
+	- Step 7: Click on li object2
+	- Step 8: Click on label object
+	- Step 9: Click on div object16
+	- Step 10: Click on div object17
+	- Step 11: Click on input object2
+	- Step 12: Click on input radioButtons
+	- Step 13: Click on div object18
+	- Step 14: Click on div object19
+	- Step 15: Click on button saveConfigureTs
+	- Step 16: Click on button goToAdvanceTab
+	- Step 17: Click on div object20
+	- Step 18: Click on div reactSelect16Option1
+	- Step 19: Click on div object21
+	- Step 20: Enter input value in input reactSelect15Input
+	- Step 21: Click on div object22
+	- Step 22: Click on div object23
+	- Step 23: Click on div object24
+	- Step 24: Click on div object21
+	- Step 25: Click on div object21
+	- Step 26: Enter input value in input reactSelect15Input
+	- Step 27: Click on div object24
+	- Step 28: Click on div object24
+	- Step 29: Click on button object7
+	- Step 30: Click on button customizedButton
+Step 4: Click on link settings
+Step 5: Call function actionSequence 4
+	- Step 1: Click on link testcloudTunnels2 -> Navigate to page 'team/*/project/*/testCloudTunnel'
+	- Step 2: Click on button setupTunnels2
+	- Step 3: Click on div object
+	- Step 4: Click on div object
+	- Step 5: Click on link here
+Step 6: Click on button setupTunnels -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+21,Flow 21,,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 Step 3: Click on link tests -> Navigate to page 'team/*/project/*/test-design/*'
 Step 4: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
@@ -520,54 +568,6 @@ Step 24: Click on link object
 Step 25: Click on link object2
 Step 26: Click on link 20240821224014Testsuitecollection2024082122401 -> Navigate to page ''
 Step 27: Take full page screenshot as checkpoint
-",Trivial
-21,Flow 21,,"Step 1: Navigate to organization/*/home
-Step 2: Call function actionSequence 2
-	- Step 1: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
-	- Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
-	- Step 3: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-	- Step 4: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/*/*'
-	- Step 5: Click on button scheduleTestRun
-Step 3: Call function actionSequence 3
-	- Step 1: Click on input name
-	- Step 2: Click on input name
-	- Step 3: Enter input value in input name
-	- Step 4: Click on div object13
-	- Step 5: Click on div object14
-	- Step 6: Click on div object15
-	- Step 7: Click on li object2
-	- Step 8: Click on label object
-	- Step 9: Click on div object16
-	- Step 10: Click on div object17
-	- Step 11: Click on input object2
-	- Step 12: Click on input radioButtons
-	- Step 13: Click on div object18
-	- Step 14: Click on div object19
-	- Step 15: Click on button saveConfigureTs
-	- Step 16: Click on button goToAdvanceTab
-	- Step 17: Click on div object20
-	- Step 18: Click on div reactSelect16Option1
-	- Step 19: Click on div object21
-	- Step 20: Enter input value in input reactSelect15Input
-	- Step 21: Click on div object22
-	- Step 22: Click on div object23
-	- Step 23: Click on div object24
-	- Step 24: Click on div object21
-	- Step 25: Click on div object21
-	- Step 26: Enter input value in input reactSelect15Input
-	- Step 27: Click on div object24
-	- Step 28: Click on div object24
-	- Step 29: Click on button object7
-	- Step 30: Click on button customizedButton
-Step 4: Click on link settings
-Step 5: Call function actionSequence 4
-	- Step 1: Click on link testcloudTunnels2 -> Navigate to page 'team/*/project/*/testCloudTunnel'
-	- Step 2: Click on button setupTunnels2
-	- Step 3: Click on div object
-	- Step 4: Click on div object
-	- Step 5: Click on link here
-Step 6: Click on button setupTunnels -> Navigate to page ''
-Step 7: Take full page screenshot as checkpoint
 ",Trivial
 22,Flow 22,,"Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on div object13
@@ -1027,7 +1027,50 @@ Step 19: Click on div object4
 Step 20: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 21: Take full page screenshot as checkpoint
 ",Trivial
-38,Flow 38,,"Step 1: Navigate to organization/*/home
+38,Flow 38,,"Step 1: Navigate to organization/*/settings/*
+Step 2: Click on link agentSetup
+Step 3: Click on link testEnvironments
+Step 4: Click on link organizationSettingsAgentLocal
+Step 5: Call function actionSequence 6
+	- Step 1: Click on input agentprojectlink
+	- Step 2: Click on button open
+	- Step 3: Click on input agentprojectlink
+	- Step 4: Click on button arrowdropdownicon
+	- Step 5: Click on div firstProject
+	- Step 6: Click on form object
+	- Step 7: Click on span object2
+	- Step 8: Click on button arrowdropdownicon
+	- Step 9: Click on div object2
+	- Step 10: Click on span object2
+	- Step 11: Click on button arrowdropdownicon
+	- Step 12: Click on div object3
+	- Step 13: Click on span object2
+	- Step 14: Click on button agentUpdate
+Step 6: Click on link agentSetup -> Navigate to page 'organization/*/settings/*'
+Step 7: Click on link testEnvironments
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+39,Flow 39,,"Step 1: Navigate to organization/*/home
+Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
+Step 3: Click on link teamProjectReleases
+Step 4: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 5: Click on link reports -> Navigate to page 'team/*/project/*/overview'
+Step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 7: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 8: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 9: Click on ul object
+Step 10: Click on link kubernetes -> Navigate to page 'team/*/project/*/agent/*'
+Step 11: Click on link circleci
+Step 12: Click on link testcloud
+Step 13: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 14: Click on div object
+Step 15: Click on link testcloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
+Step 16: Click on button setupTunnels
+Step 17: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'
+Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 19: Take full page screenshot as checkpoint
+",Trivial
+40,Flow 40,,"Step 1: Navigate to organization/*/home
 Step 2: Call function actionSequence 2
 	- Step 1: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 	- Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
@@ -1112,22 +1155,22 @@ Step 17: Click on div object
 Step 18: Click on div object -> Navigate to page ''
 Step 19: Take full page screenshot as checkpoint
 ",Trivial
-39,Flow 39,,"Step 1: Navigate to organization/*/home
+41,Flow 41,,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 Step 3: Click on button enableJiraIntegration -> Navigate to page 'team/*/project/*/integrations'
 Step 4: Click on link jiraAddOn
 Step 5: Click on link jiraAddOn
-Step 6: Click on div object
-Step 7: Click on div object2
+Step 6: Click on div object2
+Step 7: Click on div object3
 Step 8: Click on input serverurl
 Step 9: Enter input value in input serverurl
-Step 10: Click on div object3
+Step 10: Click on div object4
 Step 11: Enter input value in input serverurl
-Step 12: Click on div object3
-Step 13: Click on div object3
+Step 12: Click on div object4
+Step 13: Click on div object4
 Step 14: Click on input username
-Step 15: Click on div object4
-Step 16: Click on div object3
+Step 15: Click on div object5
+Step 16: Click on div object4
 Step 17: Click on link planning -> Navigate to page 'team/*/project/*/releases'
 Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
 Step 19: Click on div object3
@@ -1169,49 +1212,6 @@ Step 54: Click on link failedTestResultsBeta -> Navigate to page 'team/*/project
 Step 55: Click on link defects -> Navigate to page 'team/*/project/*/defects'
 Step 56: Click on link visualTesting -> Navigate to page 'team/*/project/*/katalon-eyes'
 Step 57: Take full page screenshot as checkpoint
-",Trivial
-40,Flow 40,,"Step 1: Navigate to organization/*/settings/*
-Step 2: Click on link agentSetup
-Step 3: Click on link testEnvironments
-Step 4: Click on link organizationSettingsAgentLocal
-Step 5: Call function actionSequence 6
-	- Step 1: Click on input agentprojectlink
-	- Step 2: Click on button open
-	- Step 3: Click on input agentprojectlink
-	- Step 4: Click on button arrowdropdownicon
-	- Step 5: Click on div firstProject
-	- Step 6: Click on form object
-	- Step 7: Click on span object2
-	- Step 8: Click on button arrowdropdownicon
-	- Step 9: Click on div object2
-	- Step 10: Click on span object2
-	- Step 11: Click on button arrowdropdownicon
-	- Step 12: Click on div object3
-	- Step 13: Click on span object2
-	- Step 14: Click on button agentUpdate
-Step 6: Click on link agentSetup -> Navigate to page 'organization/*/settings/*'
-Step 7: Click on link testEnvironments
-Step 8: Take full page screenshot as checkpoint
-",Trivial
-41,Flow 41,,"Step 1: Navigate to organization/*/home
-Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
-Step 3: Click on link teamProjectReleases
-Step 4: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
-Step 5: Click on link reports -> Navigate to page 'team/*/project/*/overview'
-Step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'
-Step 7: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
-Step 8: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
-Step 9: Click on ul object
-Step 10: Click on link kubernetes -> Navigate to page 'team/*/project/*/agent/*'
-Step 11: Click on link circleci
-Step 12: Click on link testcloud
-Step 13: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
-Step 14: Click on div object5
-Step 15: Click on link testcloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
-Step 16: Click on button setupTunnels
-Step 17: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'
-Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
-Step 19: Take full page screenshot as checkpoint
 ",Trivial
 42,Flow 42,,"Step 1: Navigate to organization/*/home
 Step 2: Click on button selectOrganization
@@ -1332,33 +1332,6 @@ Step 37: Click on link manageProjects -> Navigate to page ''
 Step 38: Take full page screenshot as checkpoint
 ",Trivial
 52,Flow 52,,"Step 1: Navigate to team/*/project/*
-Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
-Step 3: Click on div object15
-Step 4: Click on div object17
-Step 5: Click on div object7
-Step 6: Click on div object15
-Step 7: Click on button selectOrganization
-Step 8: Click on div object18
-Step 9: Click on link viewAllProjects
-Step 10: Click on div object19
-Step 11: Click on link jrJobReady -> Navigate to page 'team/*/project/*'
-Step 12: Click on span object2
-Step 13: Click on link organizationManagement -> Navigate to page 'team/*/project/*/settings'
-Step 14: Click on p object
-Step 15: Click on input useremail
-Step 16: Enter input value in input useremail
-Step 17: Click on div object2
-Step 18: Click on input timezoneConfig
-Step 19: Click on div object3
-Step 20: Click on div object4
-Step 21: Click on span object
-Step 22: Click on div object
-Step 23: Click on div object4
-Step 24: Enter input value in input useremail
-Step 25: Click on div object5 -> Navigate to page ''
-Step 26: Take full page screenshot as checkpoint
-",Trivial
-53,Flow 53,,"Step 1: Navigate to team/*/project/*
 Step 2: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'
 Step 4: Click on button selectOrganization -> Navigate to page 'team/*/project/*'
@@ -1375,7 +1348,7 @@ Step 9: Click on link executions -> Navigate to page 'team/*/project/*/test-runs
 Step 10: Click on body object
 Step 11: Click on li object
 Step 12: Click on input platformUserAutocomplete
-Step 13: Click on div object20
+Step 13: Click on div object17
 Step 14: Click on input r1
 Step 15: Click on button object6
 Step 16: Click on input r1
@@ -1413,7 +1386,7 @@ Step 47: Click on button arrowrighticon
 Step 48: Click on button object9
 Step 49: Click on input platformUserAutocomplete
 Step 50: Click on body object
-Step 51: Click on div object21
+Step 51: Click on div object18
 Step 52: Click on input object9
 Step 53: Click on button terminate3
 Step 54: Click on button confirm
@@ -1439,7 +1412,7 @@ Step 73: Click on div object4
 Step 74: Click on i object2
 Step 75: Click on button arrowdropdownicon2
 Step 76: Enter input value in input platformUserAutocomplete
-Step 77: Click on div object22
+Step 77: Click on div object19
 Step 78: Click on h2 object
 Step 79: Click on button object11
 Step 80: Click on link executions
@@ -1465,7 +1438,7 @@ Step 94: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 95: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'
 Step 96: Take full page screenshot as checkpoint
 ",Trivial
-54,Flow 54,,"Step 1: Navigate to organization/*/home
+53,Flow 53,,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 Step 3: Click on link viewAll -> Navigate to page 'team/*/project/*/releases'
 Step 4: Click on link requirements -> Navigate to page 'team/*/project/*/requirements'
@@ -1758,6 +1731,33 @@ Step 151: Click on div object6
 Step 152: Click on link schedules2 -> Navigate to page 'team/*/project/*/grid'
 Step 153: Click on div object2 -> Navigate to page ''
 Step 154: Take full page screenshot as checkpoint
+",Trivial
+54,Flow 54,,"Step 1: Navigate to team/*/project/*
+Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 3: Click on div object15
+Step 4: Click on div object20
+Step 5: Click on div object7
+Step 6: Click on div object15
+Step 7: Click on button selectOrganization
+Step 8: Click on div object21
+Step 9: Click on link viewAllProjects
+Step 10: Click on div object22
+Step 11: Click on link jrJobReady -> Navigate to page 'team/*/project/*'
+Step 12: Click on span object2
+Step 13: Click on link organizationManagement -> Navigate to page 'team/*/project/*/settings'
+Step 14: Click on p object
+Step 15: Click on input useremail
+Step 16: Enter input value in input useremail
+Step 17: Click on div object2
+Step 18: Click on input timezoneConfig
+Step 19: Click on div object3
+Step 20: Click on div object4
+Step 21: Click on span object
+Step 22: Click on div object
+Step 23: Click on div object4
+Step 24: Enter input value in input useremail
+Step 25: Click on div object5 -> Navigate to page ''
+Step 26: Take full page screenshot as checkpoint
 ",Trivial
 55,Flow 55,,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on button sortIdAscending
@@ -2269,7 +2269,7 @@ Step 66: Click on div object4
 Step 67: Click on div object34
 Step 68: Click on input r1
 Step 69: Click on button object14
-Step 70: Click on div object20
+Step 70: Click on div object17
 Step 71: Click on button object13
 Step 72: Click on button object13
 Step 73: Click on button object13
@@ -2645,7 +2645,7 @@ Step 6: Click on button object5
 Step 7: Click on button details2
 Step 8: Click on button confirm
 Step 9: Click on button object5
-Step 10: Click on div object17
+Step 10: Click on div object20
 Step 11: Click on button details2
 Step 12: Click on button confirm
 Step 13: Click on div object8
@@ -2950,7 +2950,7 @@ Step 14: Take full page screenshot as checkpoint
 Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on h2 object
 Step 4: Click on button sessions1
-Step 5: Click on div object20
+Step 5: Click on div object17
 Step 6: Click on h2 object
 Step 7: Click on h2 object
 Step 8: Click on button details -> Navigate to page 'team/*/project/*/executions/*'
