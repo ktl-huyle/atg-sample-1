@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class=""]:nth-child(1) [class="css-1yjo05o"] &gt; #external-link-button</value>
+            <value>[class="css-1yjo05o"] &gt; #external-link-button</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -22,7 +22,7 @@
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>internal:role=button[name=""s] &gt;&gt; nth=0</value>
+            <value>internal:role=button[name=""s]</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>external-link-button</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Go to Test Result details</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

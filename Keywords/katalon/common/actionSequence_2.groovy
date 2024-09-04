@@ -10,25 +10,29 @@ public class actionSequence_2 {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'"
+        "Step 1: Click on button externalLinkButton5"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/link_fpFirstProjectTestCases61m18sExecutionTim'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_externalLinkButton5'))
         
-        "Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'"
+        "Step 2: Click on button externalLinkButton"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/link_settings'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_externalLinkButton'))
         
-        "Step 3: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'"
+        "Step 3: Click on button externalLinkButton2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_settings/link_scriptRepositories'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_externalLinkButton2'))
         
-        "Step 4: Click on link teamProjectTestProject -> Navigate to page 'team/*/project/*/*/*'"
+        "Step 4: Click on button markStatusButton"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_project/link_teamProjectTestProject'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/button_markStatusButton'))
         
-        "Step 5: Click on button scheduleTestRun"
+        "Step 5: Click on label object"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/button_scheduleTestRun'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/label_object'))
+        
+        "Step 6: Click on button submit"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/button_submit'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {

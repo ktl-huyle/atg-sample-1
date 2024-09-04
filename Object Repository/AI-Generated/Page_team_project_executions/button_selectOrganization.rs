@@ -15,14 +15,14 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@id,'select-organization') and equals(@type,'button') and equals(@text,'bht-ip')]</value>
+            <value>//*[equals(@id,'select-organization') and equals(@type,'button') and equals(@text,'InsightlyAutomation')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>internal:role=button[name="bht-ip"i]</value>
+            <value>internal:role=button[name="InsightlyAutomation"i]</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -34,15 +34,15 @@
         <name>id</name>
         <type>Main</type>
         <value>select-organization</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>bht-ip</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <value>InsightlyAutomation</value>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>8bb711aa-3c9e-47d4-aff0-6edaecfb93c0</webElementGuid>
+        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
