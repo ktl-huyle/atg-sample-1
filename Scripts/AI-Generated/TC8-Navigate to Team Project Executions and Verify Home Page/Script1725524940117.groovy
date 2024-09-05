@@ -1,5 +1,5 @@
-import katalon.truetest.TrueTestScripts
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import katalon.truetest.TrueTestScripts
 import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
@@ -58,7 +58,7 @@ WebUI.takeScreenshot()
 
 "Step 7: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC8-Navigate to Test Results and Verify Home Page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC8-Navigate to Team Project Executions and Verify Home Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

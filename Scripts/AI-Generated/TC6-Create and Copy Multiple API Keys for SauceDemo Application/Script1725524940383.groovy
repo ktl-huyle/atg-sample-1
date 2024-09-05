@@ -1,7 +1,7 @@
-import katalon.truetest.TrueTestScripts
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable
 import katalon.common.createApiKeyForSauceDemo
+import katalon.truetest.TrueTestScripts
+import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 
@@ -49,7 +49,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_object3
 
 WebUI.takeScreenshot()
 
-"Step 6: Create a new API key for SauceDemo application."
+"Step 6: Create a new API key for SauceDemo application"
 
 createApiKeyForSauceDemo.execute(data_path_0, Integer.valueOf(index_0))
 
