@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: Mark a team project execution as passed in SauceDemo",
+        "step 2: Mark a test result as passed based on team project execution",
         "step 3: Click on button markAsPassed",
         "step 4: Click on label basedOnManualTestResult",
         "step 5: Click on button submit",
@@ -15,7 +15,7 @@
         "step 13: Click on button externalLink2",
         "step 14: Click on button externalLink3",
         "step 15: Click on button externalLink4",
-        "step 16: Mark a team project execution as passed in SauceDemo",
+        "step 16: Mark a test result as passed based on team project execution",
         "step 17: Click on button markAsPassed",
         "step 18: Click on label basedOnManualTestResult",
         "step 19: Click on button submit",

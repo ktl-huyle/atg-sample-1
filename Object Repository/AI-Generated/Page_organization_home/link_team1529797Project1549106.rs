@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1529797/project/1549106</value>
-        <webElementGuid>9008d658-bab8-478f-835f-57a05fcaf373</webElementGuid>
+        <webElementGuid>ba88a7be-55b8-4847-8be4-f530611ac2fe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <value>BP
         BDD POC
         There is no data to display.</value>
-        <webElementGuid>9008d658-bab8-478f-835f-57a05fcaf373</webElementGuid>
+        <webElementGuid>ba88a7be-55b8-4847-8be4-f530611ac2fe</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
