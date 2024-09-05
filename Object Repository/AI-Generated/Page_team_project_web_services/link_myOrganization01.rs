@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/organization/1570496/home</value>
-        <webElementGuid>c4ae75d7-8fac-434e-b59b-58bd4c4b96f3</webElementGuid>
+        <webElementGuid>8fef98e1-96cb-4ead-af2c-fa7b49107c05</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>My Organization_01</value>
-        <webElementGuid>c4ae75d7-8fac-434e-b59b-58bd4c4b96f3</webElementGuid>
+        <webElementGuid>8fef98e1-96cb-4ead-af2c-fa7b49107c05</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

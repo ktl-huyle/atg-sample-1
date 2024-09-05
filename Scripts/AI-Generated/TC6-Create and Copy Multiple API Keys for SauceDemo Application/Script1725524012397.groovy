@@ -1,8 +1,8 @@
-import internal.GlobalVariable
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import katalon.common.createApiKeyForSauceDemo
 import katalon.truetest.TrueTestScripts
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
+import katalon.common.createApiKeyForSauceDemo
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 
 'Initialize test session: Open browser and set view port'
@@ -17,43 +17,23 @@ def setup() {
 
 TrueTestScripts.navigate("user/apikey")
 
-"Step 2: Create a new API key for SauceDemo application."
-
-createApiKeyForSauceDemo.execute(data_path_0, Integer.valueOf(index_0))
-
-"Step 3: Click on button object"
+"Step 2: Click on button object2"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_object'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_object2'))
 
 WebUI.takeScreenshot()
 
-"Step 4: Click on button showApiKey"
+"Step 3: Click on button showApiKey2"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_showApiKey'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_showApiKey2'))
 
 WebUI.takeScreenshot()
 
-"Step 5: Click on input object"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/input_object'))
-
-WebUI.takeScreenshot()
-
-"Step 6: Click on input object"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/input_object'))
-
-WebUI.takeScreenshot()
-
-"Step 7: Click on button copyToClipboard"
+"Step 4: Click on button copyToClipboard"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
 
@@ -61,7 +41,43 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_copyToC
 
 WebUI.takeScreenshot()
 
-"Step 8: Click on button nk"
+"Step 5: Click on button object3"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_object3'))
+
+WebUI.takeScreenshot()
+
+"Step 6: Create a new API key for SauceDemo application."
+
+createApiKeyForSauceDemo.execute(data_path_0, Integer.valueOf(index_0))
+
+"Step 7: Click on button showApiKey3"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_showApiKey3'))
+
+WebUI.takeScreenshot()
+
+"Step 8: Click on button copyToClipboard"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_copyToClipboard'))
+
+WebUI.takeScreenshot()
+
+"Step 9: Click on button object3"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_object3'))
+
+WebUI.takeScreenshot()
+
+"Step 10: Click on button nk"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
 
@@ -69,7 +85,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_nk'))
 
 WebUI.takeScreenshot()
 
-"Step 9: Click on link signOut -> Navigate to page 'organization/*/home'"
+"Step 11: Click on link signOut -> Navigate to page '/logout'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/apikey?/?(?:#.*)?(?:\\?.*)?$', true)
 
@@ -77,9 +93,9 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/link_signOut')
 
 WebUI.takeScreenshot()
 
-"Step 10: Take full page screenshot as checkpoint"
+"Step 12: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Create and Copy API Key for SauceDemo Application_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC6-Create and Copy Multiple API Keys for SauceDemo Application_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

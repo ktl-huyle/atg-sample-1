@@ -10,10 +10,10 @@
     <name>TC3-Create and Copy API Key for SauceDemo Application</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>12b9041c-8d79-4ee8-a827-db0d1e58b0b6</testCaseGuid>
+    <testCaseGuid>bb0e6dde-52d2-4a59-8701-074a9dd73ec5</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>7348e1b9-96a5-4519-abd5-0d6dea7dbb04</id>
+        <id>d3417f9b-a734-43a3-99bf-2921818e6e82</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/createApiKeyForSauceDemo-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>9f793c73-48bc-4afc-a397-cee7380e7dc4</id>
+        <id>253b31d9-31fe-4cd1-8a18-11a19bcfae5d</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>2f13f62e-0cdb-4640-bdec-887af0f13ba5</id>
+        <id>035a1b11-8645-47dc-8ba3-e3f37a3f285a</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>7348e1b9-96a5-4519-abd5-0d6dea7dbb04</testDataLinkId>
+        <testDataLinkId>d3417f9b-a734-43a3-99bf-2921818e6e82</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>9f793c73-48bc-4afc-a397-cee7380e7dc4</variableId>
+        <variableId>253b31d9-31fe-4cd1-8a18-11a19bcfae5d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>7348e1b9-96a5-4519-abd5-0d6dea7dbb04</testDataLinkId>
+        <testDataLinkId>d3417f9b-a734-43a3-99bf-2921818e6e82</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>2f13f62e-0cdb-4640-bdec-887af0f13ba5</variableId>
+        <variableId>035a1b11-8645-47dc-8ba3-e3f37a3f285a</variableId>
     </variableLinks>
 </TestCaseEntity>
