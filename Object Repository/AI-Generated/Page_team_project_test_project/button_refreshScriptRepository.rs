@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Refresh Script Repository</value>
-        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
+        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Refresh Script Repository</value>
-        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
+        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>c9099cc5-a253-4254-919c-8734970c1e93</webElementGuid>
+        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
