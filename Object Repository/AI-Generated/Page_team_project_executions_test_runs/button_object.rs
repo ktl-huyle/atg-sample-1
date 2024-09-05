@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>external-link-button</value>
-        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
+        <webElementGuid>9008d658-bab8-478f-835f-57a05fcaf373</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Go to Test Result details</value>
-        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
+        <webElementGuid>9008d658-bab8-478f-835f-57a05fcaf373</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>58a5089d-0e6b-423a-9664-22e48573a6f7</webElementGuid>
+        <webElementGuid>9008d658-bab8-478f-835f-57a05fcaf373</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
