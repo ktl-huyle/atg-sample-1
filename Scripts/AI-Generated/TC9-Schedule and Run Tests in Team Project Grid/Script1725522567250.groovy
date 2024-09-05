@@ -1,7 +1,7 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable
-import katalon.truetest.TrueTestScripts
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import katalon.truetest.TrueTestScripts
 
 
 'Initialize test session: Open browser and set view port'
@@ -378,7 +378,7 @@ WebUI.takeScreenshot()
 
 "Step 47: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC9-Execute and Schedule Test Runs in Team Project Grid_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC9-Schedule and Run Tests in Team Project Grid_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

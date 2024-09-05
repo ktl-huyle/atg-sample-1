@@ -1,8 +1,8 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import katalon.common.markTestResultAsPassed
 import internal.GlobalVariable
-import katalon.truetest.TrueTestScripts
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import katalon.truetest.TrueTestScripts
+import katalon.common.markTestResultForSauceDemo
 
 
 'Initialize test session: Open browser and set view port'
@@ -17,9 +17,9 @@ def setup() {
 
 TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/executions/${GlobalVariable.executions_id}")
 
-"Step 2: Mark a test result as passed based on team project execution"
+"Step 2: Mark the test result as passed in SauceDemo application."
 
-markTestResultAsPassed.execute()
+markTestResultForSauceDemo.execute()
 
 "Step 3: Click on button markAsPassed"
 
@@ -125,9 +125,9 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/bu
 
 WebUI.takeScreenshot()
 
-"Step 16: Mark a test result as passed based on team project execution"
+"Step 16: Mark the test result as passed in SauceDemo application."
 
-markTestResultAsPassed.execute()
+markTestResultForSauceDemo.execute()
 
 "Step 17: Click on button markAsPassed"
 
