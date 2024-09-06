@@ -1,11 +1,11 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Navigate to Team Project Web Services and Verify Home Page,"Navigate to the Team Project Web Services page, click through to the organization and team project, and verify the home page.","Step 1: Navigate to team/*/project/*/web-services
+1,Navigate to Team Project and Verify Home Page,"Access the Team Project Web Services, click on BDD POC, navigate to My Organization, and verify the Home Page.","Step 1: Navigate to team/*/project/*/web-services
 Step 2: Click on button bddPoc
 Step 3: Click on link myOrganization01 -> Navigate to page 'organization/*/home'
 Step 4: Click on link team1529797Project1549106 -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High
-2,Delete Failed Test Runs from Team Project Executions,"Navigate to the organization home, access failed test runs, and delete them while verifying the home page.","Step 1: Navigate to organization/*/home
+2,Delete Failed Test Runs from Team Project,"Navigate to Organization Home, access Team Project Executions, and delete multiple failed test runs while verifying the Home Page.","Step 1: Navigate to organization/*/home
 Step 2: Click on link 652MterribethBeasley -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on div loadingSpinner
 Step 4: Click on div loadingSpinner
@@ -23,8 +23,8 @@ Step 15: Click on button delete
 Step 16: Click on button delete2 -> Navigate to page ''
 Step 17: Take full page screenshot as checkpoint
 ",High
-3,Create and Copy New API Key for SauceDemo Application,"Navigate to the user API key page, create a new API key, copy it, and sign out while verifying the organization home.","Step 1: Navigate to user/apikey
-Step 2: Create a new API key for SauceDemo application
+3,Create and Copy New API Key,"Navigate to User API Key page, create a new API key, copy it to clipboard, sign out, and verify the Organization Home Page.","Step 1: Navigate to user/apikey
+Step 2: Create a new API key with specified name
 	- Step 1: Click on button createApiKey
 	- Step 2: Click on input keyName
 	- Step 3: Enter input value in input keyName
@@ -39,11 +39,11 @@ Step 8: Click on button nk
 Step 9: Click on link signOut -> Navigate to page 'organization/*/home'
 Step 10: Take full page screenshot as checkpoint
 ",High
-4,Sign Out from Team Project Test Project,"Navigate to the team project test project and successfully sign out, verifying the logout page.","Step 1: Navigate to team/*/project/*/test-project
+4,Sign Out from Team Project Test Project,"Navigate to Team Project Test Project and sign out, verifying the Logout page.","Step 1: Navigate to team/*/project/*/test-project
 Step 2: Click on link signOut -> Navigate to page '/logout'
 Step 3: Take full page screenshot as checkpoint
 ",High
-5,Navigate and Verify Test Ops Homepage Settings,"Access organization home, navigate through settings to the Test Ops homepage and verify the home page.","Step 1: Navigate to organization/*/home
+5,Navigate Settings and Verify Home Page,"Access Organization Home, navigate through settings to Test Ops Homepage, and verify the Home Page.","Step 1: Navigate to organization/*/home
 Step 2: Click on span settings
 Step 3: Click on link testOpsHomepage
 Step 4: Click on span settings
@@ -51,12 +51,12 @@ Step 5: Click on link testOpsHomepage
 Step 6: Click on div object -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High
-6,Create and Copy Multiple API Keys for SauceDemo Application,"Navigate to the user API key page, create and copy multiple API keys, and sign out while verifying the logout page.","Step 1: Navigate to user/apikey
+6,Create Multiple API Keys and Sign Out,"Create two new API keys, copy them, and sign out while verifying the Logout page.","Step 1: Navigate to user/apikey
 Step 2: Click on button object2
 Step 3: Click on button showApiKey2
 Step 4: Click on button copyToClipboard
 Step 5: Click on button object3
-Step 6: Create a new API key for SauceDemo application
+Step 6: Create a new API key with specified name
 	- Step 1: Click on button createApiKey
 	- Step 2: Click on input keyName
 	- Step 3: Enter input value in input keyName
@@ -69,8 +69,8 @@ Step 10: Click on button nk
 Step 11: Click on link signOut -> Navigate to page '/logout'
 Step 12: Take full page screenshot as checkpoint
 ",High
-7,Submit Test Results for Team Project Executions,"Navigate to team project executions, submit test results, mark them as passed, and verify the organization home.","Step 1: Navigate to team/*/project/*/executions/*
-Step 2: Submit test results for team project executions
+7,Mark Test Results as Passed in Team Project,"Navigate to Team Project Executions, mark several test results as passed, and verify the Organization Home Page.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Mark a test result as passed in the team project
 	- Step 1: Click on button object
 	- Step 2: Click on button externalLink
 	- Step 3: Click on button externalLink2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
@@ -90,7 +90,7 @@ Step 12: Click on button externalLink
 Step 13: Click on button externalLink2
 Step 14: Click on button externalLink3
 Step 15: Click on button externalLink4
-Step 16: Submit test results for team project executions
+Step 16: Mark a test result as passed in the team project
 	- Step 1: Click on button object
 	- Step 2: Click on button externalLink
 	- Step 3: Click on button externalLink2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
@@ -128,7 +128,7 @@ Step 44: Click on button submit -> Navigate to page 'organization/*/home'
 Step 45: Click on link 1879Ie56Failed
 Step 46: Take full page screenshot as checkpoint
 ",High
-8,Navigate to Team Project Executions and Verify Home Page,"Access team project executions, navigate through test design suites, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
+8,Access Test Results and Verify Home Page,"Navigate to Team Project Executions, access specific test results, and verify the Home Page.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on link cpacDecPreapprovalBind -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
 Step 3: Click on link cpacdecpreapprovalBindTestSuite -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
@@ -136,7 +136,7 @@ Step 5: Click on div object
 Step 6: Click on button object -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High
-9,Manage Test Runs and Schedule Execution in Team Project,"Navigate through team project grid and executions, manage test cases, and schedule test runs, verifying the home page.","Step 1: Navigate to team/*/project/*/grid
+9,Schedule and Run Test Execution in Team Project,"Navigate through various test planning and execution pages, schedule a test run, and verify the Home Page.","Step 1: Navigate to team/*/project/*/grid
 Step 2: Click on link untitledTestRun -> Navigate to page 'team/*/project/*/grid/plan/*/job'
 Step 3: Click on link executions10 -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on link gridPlan837097Job8 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
