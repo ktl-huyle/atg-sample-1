@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/54063/project/165046/executions') and equals(@text,'Test Runs')]</value>
+            <value>//*[equals(@href,'/team/1356670/project/1376704/executions') and equals(@text,'Test Runs')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/54063/project/165046/executions</value>
-        <webElementGuid>474a4cc9-f129-4927-9039-d217d5170946</webElementGuid>
+        <value>/team/1356670/project/1376704/executions</value>
+        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Runs</value>
-        <webElementGuid>474a4cc9-f129-4927-9039-d217d5170946</webElementGuid>
+        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

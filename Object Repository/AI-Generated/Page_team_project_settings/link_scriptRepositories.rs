@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Script Repositories') and equals(@href,'/team/1570311/project/1588984/test-project') and equals(@text,'Script Repositories')]</value>
+            <value>//*[equals(@title,'Script Repositories') and equals(@href,'/team/1308865/project/1328930/test-project') and equals(@text,'Script Repositories')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1570311/project/1588984/test-project</value>
-        <webElementGuid>474a4cc9-f129-4927-9039-d217d5170946</webElementGuid>
+        <value>/team/1308865/project/1328930/test-project</value>
+        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Script Repositories</value>
-        <webElementGuid>474a4cc9-f129-4927-9039-d217d5170946</webElementGuid>
+        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Script Repositories</value>
-        <webElementGuid>474a4cc9-f129-4927-9039-d217d5170946</webElementGuid>
+        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
