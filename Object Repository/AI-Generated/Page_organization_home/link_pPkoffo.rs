@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/34492/project/60877</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         Execution Time
         1h 15m 4s
         Average Duration</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -13,7 +13,7 @@
     <testCaseGuid>b8c01654-54df-4d0a-8d89-fed5d6ffe72a</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>59b5f433-77d7-46ac-92ee-9a66aac05ed9</id>
+        <id>c34d6ecd-3373-4272-bde9-77a55e22e272</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>9359bf69-bd18-4964-9bf8-1ce287c4a7b5</id>
+        <id>7dffbaad-2c23-4b5d-b988-6d40b5229e75</id>
         <masked>false</masked>
         <name>input_filterProfiles</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>2852c561-a4ad-4b98-a4eb-715302387dcc</id>
+        <id>dd43ff79-7bf8-40b3-8f64-e3b19300b79c</id>
         <masked>false</masked>
         <name>input_filterProfiles_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>59b5f433-77d7-46ac-92ee-9a66aac05ed9</testDataLinkId>
+        <testDataLinkId>c34d6ecd-3373-4272-bde9-77a55e22e272</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_filterProfiles</value>
-        <variableId>9359bf69-bd18-4964-9bf8-1ce287c4a7b5</variableId>
+        <variableId>7dffbaad-2c23-4b5d-b988-6d40b5229e75</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>59b5f433-77d7-46ac-92ee-9a66aac05ed9</testDataLinkId>
+        <testDataLinkId>c34d6ecd-3373-4272-bde9-77a55e22e272</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_filterProfiles_1</value>
-        <variableId>2852c561-a4ad-4b98-a4eb-715302387dcc</variableId>
+        <variableId>dd43ff79-7bf8-40b3-8f64-e3b19300b79c</variableId>
     </variableLinks>
 </TestCaseEntity>

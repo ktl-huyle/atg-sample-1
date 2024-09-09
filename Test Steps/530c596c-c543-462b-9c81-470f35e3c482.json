@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*",
+        "step 2: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 3: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 4: Click on link testRuns -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 5: Click on i object",
+        "step 6: Click on i object",
+        "step 7: Click on i object",
+        "step 8: Click on header 2Sec",
+        "step 9: Click on button showMore",
+        "step 10: Click on button object -> Navigate to page ''",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

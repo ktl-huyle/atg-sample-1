@@ -1,0 +1,31 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on span failedC2795364",
+        "step 3: Click on button openNth0",
+        "step 4: Click on button cancel",
+        "step 5: Click on div objectObjectRepository",
+        "step 6: Click on span failedC2772396",
+        "step 7: Click on button openNth0",
+        "step 8: Click on span checkPassTeam",
+        "step 9: Click on button openNth0",
+        "step 10: Click on button cancel",
+        "step 11: Click on div muiAutocompleteRoot",
+        "step 12: Click on button openNth1",
+        "step 13: Click on div taTeamNth2",
+        "step 14: Click on button add",
+        "step 15: Click on input displayName",
+        "step 16: Click on button openNth0",
+        "step 17: Click on span errorType",
+        "step 18: Click on input value",
+        "step 19: Click on div failedC503",
+        "step 20: Click on div muiAutocompleteRoot",
+        "step 21: Click on input displayName",
+        "step 22: Click on div object",
+        "step 23: Click on label basedOnManualTestResult",
+        "step 24: Click on button submit",
+        "step 25: Click on td failedUwmpcppratingFlow215287640",
+        "step 26: Click on link executions183 -> Navigate to page ''",
+        "step 27: Take full page screenshot as checkpoint"
+    ]
+}

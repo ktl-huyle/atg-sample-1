@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://testops.katalon.io/api/v1/files/1089411549</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>20240722_114637/CPP/Rating/Rating Regression/CPP_GL7/UWM_PC_CPP_GL7_Rating_Regression_Parallel_10/20240722_114638/20240722_114638.html</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

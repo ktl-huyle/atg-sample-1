@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1378283/project/1397964/executions/143</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -48,6 +48,6 @@
          default
         {{date_time}}, {{date_time}}
           (24m 24s)</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

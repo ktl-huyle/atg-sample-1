@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link testRuns -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 3: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 4: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'",
+        "step 5: Click on link createLocalTestEnvironment -> Navigate to page 'organization/*/settings/test-environment-installation'",
+        "step 6: Click on link testEnvironments -> Navigate to page 'organization/*/settings/agent'",
+        "step 7: Click on link vm1Ag3 -> Navigate to page 'organization/*/settings/agent/local/*'",
+        "step 8: Click on div colSm12",
+        "step 9: Click on div thresholdTheMaximumNumber",
+        "step 10: Click on small theMaximumNumberOf",
+        "step 11: Click on div thresholdTheMaximumNumber",
+        "step 12: Click on div thresholdTheMaximumNumber",
+        "step 13: Click on small theMaximumNumberOf",
+        "step 14: Click on small theMaximumNumberOf",
+        "step 15: Click on div thresholdTheMaximumNumber",
+        "step 16: Click on button leftNavbarRoleButton -> Navigate to page 'organization/*/home'",
+        "step 17: Click on link w4Wams4TestCases -> Navigate to page 'team/*/project/*'",
+        "step 18: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 19: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'",
+        "step 20: Click on link vm1Ag3 -> Navigate to page 'organization/*/settings/agent/local/*'",
+        "step 21: Click on button leftNavbarRoleButton -> Navigate to page 'organization/*/home'",
+        "step 22: Click on link w4Wams4TestCases -> Navigate to page 'team/*/project/*'",
+        "step 23: Click on div muiAutocompleteRoot",
+        "step 24: Click on button openNth0",
+        "step 25: Click on item monthly -> Navigate to page ''",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}

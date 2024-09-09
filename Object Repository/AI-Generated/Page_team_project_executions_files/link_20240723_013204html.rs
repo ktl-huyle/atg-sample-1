@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://testops.katalon.io/api/v1/files/1090143243</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>20240723_013203/Shiva/Regression_Sanity/Sanity_Testing_Other Monetary/20240723_013204/2_android_null_1721706211532_null.mp4</value>
-        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
+        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
