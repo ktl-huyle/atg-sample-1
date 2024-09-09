@@ -1,0 +1,680 @@
+Flow ID,Name,Description,Test Steps,Flow Priority
+1,Navigate to Organization Home and Verify Page Home,Navigate to the organization home page and access project management settings. Verify that the home page is displayed correctly.,"Step 1: Navigate to organization/*/home
+Step 2: Click on button rl
+Step 3: Click on div object
+Step 4: Click on span settings
+Step 5: Click on link projectManagement -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High
+2,Manage Test Runs and Schedule Test Execution,"Navigate to team project test runs, review session history, schedule test runs, and verify the home page.","Step 1: Navigate to team/*/project/*/test-runs
+Step 2: Click on div historySubscribed
+Step 3: Click on div historySubscribed
+Step 4: Click on link showDetails
+Step 5: Click on div desktopBrowserSessions
+Step 6: Click on div desktopBrowserSessions
+Step 7: Click on div object
+Step 8: Click on link showDetails
+Step 9: Click on p sessions
+Step 10: Click on p 2Sessions
+Step 11: Click on div object
+Step 12: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 13: Click on link ehsTestAutomationGit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 14: Click on div refsHeadsDevelopSri
+Step 15: Click on div refsHeadsMainS
+Step 16: Click on button save
+Step 17: Click on button object -> Navigate to page 'team/*/project/*/test-project/*'
+Step 18: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 19: Click on link testCloud -> Navigate to page 'team/*/project/*/agent/*'
+Step 20: Click on div object
+Step 21: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 22: Click on link schedules -> Navigate to page 'team/*/project/*/grid'
+Step 23: Click on button scheduleTestRun
+Step 24: Click on div name
+Step 25: Enter input value in input name
+Step 26: Click on div testSuitesAllFeaturesTestSuite
+Step 27: Click on div object
+Step 28: Click on div object
+Step 29: Click on button closeDialogButton
+Step 30: Click on button scheduleTestRun
+Step 31: Click on link clickHereToRefresh
+Step 32: Click on link clickHereToRefresh
+Step 33: Click on div object2
+Step 34: Click on div testSuitesAllFeaturesTestSuite2
+Step 35: Click on link clickHereToRefresh
+Step 36: Click on link clickHereToRefresh
+Step 37: Click on button testSuiteCollection
+Step 38: Click on button testSuite
+Step 39: Click on div object3
+Step 40: Click on div katalonCloud
+Step 41: Click on div object4
+Step 42: Click on div object3
+Step 43: Click on div ehsTestAutomationGit
+Step 44: Click on input reportFolder
+Step 45: Click on div testSuitesAllFeaturesTestSuite
+Step 46: Click on div object5 -> Navigate to page 'team/*/project/*/test-project'
+Step 47: Click on link ehsTestAutomationGit -> Navigate to page 'team/*/project/*/test-project/*'
+Step 48: Click on button refreshScriptRepository
+Step 49: Click on button object
+Step 50: Click on button edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 51: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 52: Click on div codelessAutomationTool
+Step 53: Click on div codelessAutomationTool2
+Step 54: Click on div ciCdPipeline
+Step 55: Click on div azureDevOpsPipelines
+Step 56: Click on input reportFolder
+Step 57: Click on div object
+Step 58: Click on div object2
+Step 59: Click on div object3
+Step 60: Click on div docker
+Step 61: Click on pre object
+Step 62: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 63: Click on link testCloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
+Step 64: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'
+Step 65: Click on button settings
+Step 66: Click on link organizationManagement -> Navigate to page ''
+Step 67: Take full page screenshot as checkpoint
+",Medium
+3,Verify Team Project Test Runs and Page Home,"Navigate to team project test runs, check history calendar schedules, and verify that the home page is displayed.","Step 1: Navigate to team/*/project/*/test-runs
+Step 2: Click on div object2
+Step 3: Click on div historyCalendarSchedules
+Step 4: Click on div object3 -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Medium
+4,Schedule Test Runs and Verify Project Overview,"Navigate through test cases and suites, schedule test runs, and verify the project overview page.","Step 1: Navigate to organization/*/home
+Step 2: Click on link eEcoEhstestCases -> Navigate to page 'team/*/project/*'
+Step 3: Click on link testRuns
+Step 4: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 5: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 7: Click on div object
+Step 8: Click on div testSuites
+Step 9: Click on div katalonCloud
+Step 10: Click on div uploadedData
+Step 11: Click on div katalonCloud
+Step 12: Click on link executions
+Step 13: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 14: Click on button object
+Step 15: Click on button object
+Step 16: Click on div subscribed
+Step 17: Click on link showDetails
+Step 18: Click on p 2Sessions
+Step 19: Click on div object
+Step 20: Click on link reports -> Navigate to page 'team/*/project/*/overview'
+Step 21: Take full page screenshot as checkpoint
+",Medium
+5,Verify Test Design Suites and Executions,"Navigate to test design suites, check execution details, and verify the test design suites page.","Step 1: Navigate to organization/*/home
+Step 2: Click on link executions681 -> Navigate to page 'team/*/project/*/executions/*'
+Step 3: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 4: Click on div uploadedData
+Step 5: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 6: Click on div katalonCloud
+Step 7: Click on div uploadedData
+Step 8: Click on div katalonCloud
+Step 9: Click on link smokeTestSuite -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 10: Take full page screenshot as checkpoint
+",Medium
+6,Verify Test Runs and Release Management,"Navigate to team project releases, check test runs, and verify the home page after managing releases.","Step 1: Navigate to team/*/project/*/releases
+Step 2: Click on link reports -> Navigate to page 'team/*/project/*/overview'
+Step 3: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 4: Click on link 616 -> Navigate to page 'team/*/project/*/executions/*'
+Step 5: Click on button linkToArelease
+Step 6: Click on span regresiIpaV2670
+Step 7: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 8: Click on link reports -> Navigate to page 'team/*/project/*/overview'
+Step 9: Click on link testRuns -> Navigate to page 'team/*/project/*/executions/*'
+Step 10: Click on button linkToArelease
+Step 11: Click on span regresiIpaV2670 -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",Medium
+7,Manage Test Runs and Refresh Script Repository,"Navigate to test runs, schedule a test run, and refresh the script repository while verifying the project.","Step 1: Navigate to team/*/project/*/test-runs
+Step 2: Click on div object4
+Step 3: Click on div object5
+Step 4: Click on button object2
+Step 5: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 7: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 8: Click on link katalonWebsiteGit -> Navigate to page 'team/*/project/*/test-project/*'
+Step 9: Click on button refreshScriptRepository
+Step 10: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 11: Click on link testRuns -> Navigate to page 'team/*/project/*/test-runs'
+Step 12: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 13: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 14: Click on td katalonWebsiteGit
+Step 15: Click on link katalonWebsiteGit -> Navigate to page 'team/*/project/*/test-project/*'
+Step 16: Click on button refreshScriptRepository
+Step 17: Click on button refreshScriptRepository2
+Step 18: Click on button refreshScriptRepository2
+Step 19: Click on link dashboard2 -> Navigate to page 'team/*/project/*'
+Step 20: Take full page screenshot as checkpoint
+",Medium
+8,Navigate and Verify Team Project Test Design,"Navigate through test design, releases, and verify the home page after checking various test suites.","Step 1: Navigate to team/*/project/*/test-design/test-cases/*
+Step 2: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 3: Click on link planning -> Navigate to page 'team/*/project/*/releases'
+Step 4: Click on link requirements -> Navigate to page 'team/*/project/*/requirements'
+Step 5: Click on link releases -> Navigate to page 'team/*/project/*/releases'
+Step 6: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 7: Click on span object
+Step 8: Click on div object
+Step 9: Click on span object2
+Step 10: Click on div object2
+Step 11: Click on span object3
+Step 12: Click on div object3
+Step 13: Click on div object2
+Step 14: Click on div katalonCloud
+Step 15: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 16: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 17: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 18: Click on link testRuns -> Navigate to page 'team/*/project/*/test-runs'
+Step 19: Click on body object
+Step 20: Click on div object
+Step 21: Click on input selectRow
+Step 22: Click on button arrowDropDownIcon
+Step 23: Click on div lchavarriaGrupoqCom
+Step 24: Click on input selectAllRows
+Step 25: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 26: Click on span object4
+Step 27: Click on div object2
+Step 28: Click on link agendamientoDanosMayores -> Navigate to page 'team/*/project/*/test-design/test-cases/*'
+Step 29: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 30: Click on span object
+Step 31: Click on span object2
+Step 32: Click on span object3
+Step 33: Click on div object2
+Step 34: Click on div object3
+Step 35: Click on link smokeTestSuite -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 36: Click on link testSuiteValidacionVehiculosConDanios -> Navigate to page 'team/*/project/*/executions/*'
+Step 37: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 38: Click on link testResults
+Step 39: Click on link files -> Navigate to page 'team/*/project/*/executions/*/files'
+Step 40: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 41: Click on link planning -> Navigate to page 'team/*/project/*/releases'
+Step 42: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 43: Click on div object3
+Step 44: Click on link testRuns -> Navigate to page 'team/*/project/*/test-runs'
+Step 45: Click on checkbox selectRowUntitledTestRun
+Step 46: Click on checkbox selectRowUntitledTestRun
+Step 47: Click on div object6
+Step 48: Click on checkbox selectRowUntitledTestRun2
+Step 49: Click on checkbox selectRowUntitledTestRun2 -> Navigate to page ''
+Step 50: Take full page screenshot as checkpoint
+",Medium
+9,Create and Copy API Key for Services,"Navigate to user API key settings, create a new API key, and verify the home page after copying the key.","Step 1: Navigate to user/apikey
+Step 2: Click on button object
+Step 3: Click on button showApiKey
+Step 4: Click on button copyToClipboard
+Step 5: Click on button object2
+Step 6: Create a new API key for accessing services
+	- Step 1: Click on button createApiKey
+	- Step 2: Click on input keyName
+	- Step 3: Enter input value in input keyName
+	- Step 4: Click on div object
+	- Step 5: Click on button create
+Step 7: Click on button showApiKey2
+Step 8: Click on button copyToClipboard
+Step 9: Click on button object2
+Step 10: Click on button nk
+Step 11: Click on link signOut -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",Medium
+10,Verify Team Project Executions and Details,"Navigate to project executions, check started executions, and verify the executions page.","Step 1: Navigate to team/*/project/*/executions
+Step 2: Click on div object
+Step 3: Click on span started
+Step 4: Click on div object
+Step 5: Click on div object2
+Step 6: Click on div object3
+Step 7: Click on td loading
+Step 8: Click on link 3791 -> Navigate to page 'team/*/project/*/executions/*'
+Step 9: Take full page screenshot as checkpoint
+",Medium
+11,Manage Failed Test Runs and Verify Executions,"Navigate to test runs, manage failed tests, and verify the project executions after deletion.","Step 1: Navigate to organization/*/home
+Step 2: Click on link executions681 -> Navigate to page 'team/*/project/*/executions/*'
+Step 3: Click on div loadingSpinner
+Step 4: Click on div loadingSpinner
+Step 5: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 6: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 7: Click on label failed
+Step 8: Click on label failed2
+Step 9: Click on label failed3
+Step 10: Click on button delete
+Step 11: Click on button delete2
+Step 12: Click on label failed
+Step 13: Click on label failed2
+Step 14: Click on label failed3
+Step 15: Click on button delete
+Step 16: Click on button delete2
+Step 17: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 18: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 19: Take full page screenshot as checkpoint
+",Medium
+12,Mark Test Results Based on Manual Review,"Navigate to project executions, mark tests as passed based on manual review, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Mark test result as passed based on manual review
+	- Step 1: Click on button object
+	- Step 2: Click on button externalLink
+	- Step 3: Click on button externalLink2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+	- Step 4: Click on button markAsPassed
+	- Step 5: Click on label basedOnManualTestResult
+	- Step 6: Click on button submit
+Step 3: Click on button markAsPassed
+Step 4: Click on label basedOnManualTestResult
+Step 5: Click on button submit
+Step 6: Click on button markAsPassed
+Step 7: Click on label basedOnManualTestResult
+Step 8: Click on button submit
+Step 9: Click on button markAsPassed
+Step 10: Click on label basedOnManualTestResult
+Step 11: Click on button submit -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Click on button externalLink
+Step 13: Click on button externalLink2
+Step 14: Click on button externalLink3
+Step 15: Click on button externalLink4
+Step 16: Mark test result as passed based on manual review
+	- Step 1: Click on button object
+	- Step 2: Click on button externalLink
+	- Step 3: Click on button externalLink2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+	- Step 4: Click on button markAsPassed
+	- Step 5: Click on label basedOnManualTestResult
+	- Step 6: Click on button submit
+Step 17: Click on button markAsPassed
+Step 18: Click on label basedOnManualTestResult
+Step 19: Click on button submit
+Step 20: Click on button markAsPassed
+Step 21: Click on label basedOnManualTestResult
+Step 22: Click on button submit
+Step 23: Click on button markAsPassed
+Step 24: Click on label basedOnManualTestResult
+Step 25: Click on button submit
+Step 26: Click on button markAsPassed
+Step 27: Click on label basedOnManualTestResult
+Step 28: Click on button submit
+Step 29: Click on button markAsPassed
+Step 30: Click on label basedOnManualTestResult
+Step 31: Click on button submit
+Step 32: Click on button markAsPassed
+Step 33: Click on label basedOnManualTestResult
+Step 34: Click on button submit -> Navigate to page 'team/*/project/*/executions/*'
+Step 35: Click on button object
+Step 36: Click on button externalLink
+Step 37: Click on button insightlyAutomation
+Step 38: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 39: Click on button markAsPassed
+Step 40: Click on label basedOnManualTestResult
+Step 41: Click on button submit
+Step 42: Click on button markAsPassed
+Step 43: Click on label basedOnManualTestResult
+Step 44: Click on button submit -> Navigate to page 'organization/*/home'
+Step 45: Click on link 1879Ie56Failed -> Navigate to page ''
+Step 46: Take full page screenshot as checkpoint
+",Medium
+13,Delete Failed Test Runs and Verify Page Home,"Navigate to team project, delete failed test runs, and verify the home page after actions.","Step 1: Navigate to team/*
+Step 2: Click on button failed
+Step 3: Click on button delete
+Step 4: Click on button delete2
+Step 5: Click on button failed
+Step 6: Click on button delete
+Step 7: Click on button delete2
+Step 8: Click on div doneExecution
+Step 9: Click on div dashboard
+Step 10: Click on div object -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Medium
+14,Navigate Team Project Grid and Verify Plan Job,"Navigate to team project grid, check test runs, and verify the plan job details.","Step 1: Navigate to team/*/project/*/grid
+Step 2: Click on link untitledTestRun -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 3: Click on link 10 -> Navigate to page 'team/*/project/*/executions/*'
+Step 4: Click on link 8 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 5: Click on link calendar -> Navigate to page 'team/*/project/*/test-planning'
+Step 6: Click on item calendar
+Step 7: Click on link history -> Navigate to page 'team/*/project/*/test-runs'
+Step 8: Click on div object6
+Step 9: Click on button showMore
+Step 10: Click on button object3 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 11: Click on div thumbnailImage -> Navigate to page 'team/*/project/*/test-runs'
+Step 12: Click on button object2
+Step 13: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 14: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 15: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 16: Click on link ehsTestAutomationGit -> Navigate to page 'team/*/project/*/test-project/*'
+Step 17: Click on button refreshScriptRepository
+Step 18: Click on button refreshScriptRepository
+Step 19: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 20: Click on div testCases
+Step 21: Click on link indi1040Ss
+Step 22: Click on tr selectFailed
+Step 23: Click on div object4
+Step 24: Click on link testRuns
+Step 25: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 26: Click on link viewUntitledTestRun
+Step 27: Click on div object6
+Step 28: Click on div object7
+Step 29: Click on button showMore
+Step 30: Click on div object8
+Step 31: Click on div object9
+Step 32: Click on div object9
+Step 33: Click on div object9
+Step 34: Click on div object7
+Step 35: Click on div object7
+Step 36: Click on button object3 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 37: Click on pre elementClickIntercepted
+Step 38: Click on pre elementClickIntercepted
+Step 39: Click on pre elementClickIntercepted
+Step 40: Click on pre elementClickIntercepted
+Step 41: Click on pre elementClickIntercepted
+Step 42: Click on image object
+Step 43: Click on image object
+Step 44: Click on image object
+Step 45: Click on button close
+Step 46: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 47: Click on div object6
+Step 48: Click on button showMore
+Step 49: Click on button object2
+Step 50: Click on div object6
+Step 51: Click on header object
+Step 52: Click on header object
+Step 53: Click on div object6
+Step 54: Click on button object3 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 55: Click on div thumbnailImage
+Step 56: Click on button close
+Step 57: Click on div object
+Step 58: Click on input failureReasonSelect
+Step 59: Click on div failureReasonBetaThis
+Step 60: Click on span object
+Step 61: Click on div object2
+Step 62: Click on div thumbnailImage
+Step 63: Click on button close -> Navigate to page 'team/*/project/*/test-runs'
+Step 64: Click on button object2
+Step 65: Schedule a test run with environment configuration
+	- Step 1: Click on button scheduleTestRun
+	- Step 2: Click on div testSuitesAllFeaturesTestSuite
+	- Step 3: Click on div testSuites
+	- Step 4: Click on div name
+	- Step 5: Enter input value in input name
+	- Step 6: Click on div scheduleTestRunCreatedWith
+	- Step 7: Click on div selectEnvironment
+	- Step 8: Click on div object12
+	- Step 9: Click on div runS
+	- Step 10: Click on div object
+	- Step 11: Click on button runS
+	- Step 12: Click on div object13
+	- Step 13: Click on item moreOptions
+	- Step 14: Click on button mobileBrowsers
+	- Step 15: Click on span android
+	- Step 16: Click on div phone
+	- Step 17: Click on div anyDeviceType
+	- Step 18: Click on div phone
+	- Step 19: Click on div googlePixel6Pro
+	- Step 20: Click on div configureTestEnvironment
+	- Step 21: Click on div object14
+	- Step 22: Click on button save
+	- Step 23: Click on button runS2
+	- Step 24: Click on button closeDialogButton
+Step 66: Click on header edgeOpen
+Step 67: Click on div object10
+Step 68: Click on button object
+Step 69: Click on button object4
+Step 70: Click on div object6
+Step 71: Click on div object11
+Step 72: Click on div personIcon
+Step 73: Click on div object6
+Step 74: Click on button object4
+Step 75: Click on link schedules -> Navigate to page 'team/*/project/*/grid'
+Step 76: Click on link untitledTestRun -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 77: Click on div object
+Step 78: Click on link 10 -> Navigate to page 'team/*/project/*/executions/*'
+Step 79: Click on link 8 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 80: Take full page screenshot as checkpoint
+",Medium
+15,Create and Manage API Key for Services,"Navigate to user API key settings, create a new API key, and verify the home page after operations.","Step 1: Navigate to user/apikey
+Step 2: Create a new API key for accessing services
+	- Step 1: Click on button createApiKey
+	- Step 2: Click on input keyName
+	- Step 3: Enter input value in input keyName
+	- Step 4: Click on div object
+	- Step 5: Click on button create
+Step 3: Click on button object3
+Step 4: Click on button showApiKey3
+Step 5: Click on input object
+Step 6: Click on input object
+Step 7: Click on button copyToClipboard
+Step 8: Click on button nk
+Step 9: Click on link signOut -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium
+16,Manage User Settings and Verify Page Home,"Navigate to organization home, manage user settings, and verify the home page after changes.","Step 1: Navigate to organization/*/home
+Step 2: Click on button rl
+Step 3: Click on link viewProfile
+Step 4: Click on div object
+Step 5: Click on span settings
+Step 6: Click on div object
+Step 7: Click on span settings
+Step 8: Click on link testOpsHomepage
+Step 9: Click on div object2 -> Navigate to page 'team/*/project/*'
+Step 10: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 11: Click on link settings2 -> Navigate to page 'team/*/project/*/settings'
+Step 12: Click on link settings
+Step 13: Click on button object -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Medium
+17,Verify Executions and Pen Test Issues,Navigate to project executions and verify pen test issue details while checking the home page.,"Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 3: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 4: Click on div object3
+Step 5: Click on link penTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 7: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 8: Click on div object3
+Step 9: Click on link penTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'
+Step 10: Take full page screenshot as checkpoint
+",Medium
+18,Enable BDD Reports and Verify Page Home,"Navigate to project web services, enable BDD reports, and verify the home page after changes.","Step 1: Navigate to team/*/project/*/web-services
+Step 2: Click on button bddPoc
+Step 3: Click on link myOrganization01 -> Navigate to page 'organization/*/home'
+Step 4: Click on link eEcoEhstestCases -> Navigate to page 'team/*/project/*'
+Step 5: Click on button bddPoc
+Step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 7: Click on label enableBddReports
+Step 8: Click on button save
+Step 9: Click on div assertionPattern
+Step 10: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 11: Click on div katalonStudio
+Step 12: Click on div almtm
+Step 13: Click on div mobileDeviceTesting
+Step 14: Click on div katalonStudio
+Step 15: Click on div testingFramework -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",Medium
+19,Verify Team Project Executions and Page Home,"Navigate to project executions, check details, and verify the home page after actions.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on div object4
+Step 3: Click on div infoSidebarHeaderCloseButton
+Step 4: Click on div object5 -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Medium
+20,Navigate Welcome Page and Verify Home,Navigate through the welcome page and verify the home page after user interactions.,"Step 1: Navigate to /welcome
+Step 2: Click on div qualityEngineer -> Navigate to page 'organization/*/home'
+Step 3: Click on button rl
+Step 4: Click on div userflowjsModalBackdrop
+Step 5: Click on div userflowjsModalBackdrop
+Step 6: Click on div userflowjsModalBackdrop
+Step 7: Click on div object3
+Step 8: Click on div object3
+Step 9: Click on div object -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium
+21,Filter and Verify Test Results,"Navigate to executions, filter failed tests, and verify the home page after checking results.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on span failedSortAndFilterGui
+Step 3: Click on span failedSortAndFilterGui
+Step 4: Click on div infoSidebarHeaderCloseButton
+Step 5: Click on button object
+Step 6: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 7: Click on link reRuns -> Navigate to page 'team/*/project/*/executions/*/test-result/*/re-runs'
+Step 8: Click on link result -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 9: Click on span object2 -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium
+22,Terminate Test Runs and Verify Page Home,"Navigate to test runs, terminate selected runs, and verify the home page after actions.","Step 1: Navigate to team/*/project/*/test-runs
+Step 2: Click on checkbox selectRowUntitledTestRun
+Step 3: Click on checkbox selectRowUntitledTestRun2
+Step 4: Click on button terminate
+Step 5: Click on button confirm
+Step 6: Click on input selectRow2
+Step 7: Click on input selectRow3
+Step 8: Click on input selectRow4
+Step 9: Click on button terminate2
+Step 10: Click on button confirm
+Step 11: Click on input selectRow5
+Step 12: Click on button terminate
+Step 13: Click on button confirm -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Medium
+23,Manage User Settings and Verify Page Home,"Navigate to project executions, manage user settings, and verify the home page.","Step 1: Navigate to team/*/project/*/executions
+Step 2: Click on div dailyPast7DaysRelease
+Step 3: Click on div testRunByStatus
+Step 4: Click on span settings
+Step 5: Click on link userManagement -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Medium
+24,Verify Test Result ReRuns,Navigate to test result re-runs and verify the executions test result page.,"Step 1: Navigate to team/*/project/*/executions/*/test-result/*/re-runs
+Step 2: Click on button object
+Step 3: Click on button object2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 4: Take full page screenshot as checkpoint
+",Medium
+25,Manage Test Ops Homepage Settings,"Navigate to organization home, manage settings, and verify the home page after updates.","Step 1: Navigate to organization/*/home
+Step 2: Click on span settings
+Step 3: Click on link testOpsHomepage
+Step 4: Click on span settings
+Step 5: Click on link testOpsHomepage
+Step 6: Click on div object2 -> Navigate to page 'team/*/project/*'
+Step 7: Click on button object -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",Medium
+26,Navigate to Test Planning and Verify Page Home,"Navigate to test planning, show more details, and verify the home page.","Step 1: Navigate to team/*/project/*/test-planning
+Step 2: Click on link showMore
+Step 3: Click on div object -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",Medium
+27,Verify Test Design Suites and Executions,"Navigate to design suites, check test results, and verify the project executions.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on link cpacDecPreapprovalBind -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 3: Click on link testSuiteValidacionVehiculosConDanios -> Navigate to page 'team/*/project/*/executions/*'
+Step 4: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 5: Click on div object
+Step 6: Click on button object -> Navigate to page 'team/*/project/*/executions/*'
+Step 7: Take full page screenshot as checkpoint
+",Medium

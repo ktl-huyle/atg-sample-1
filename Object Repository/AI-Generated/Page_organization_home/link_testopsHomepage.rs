@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/organization/768058/home</value>
-        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
+        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>id</name>
         <type>Main</type>
         <value>testops_homepage</value>
-        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
+        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
         <value>TestOps Homepage
         
         View summary of organization activities.</value>
-        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
+        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -60,6 +60,6 @@
         <name>title</name>
         <type>Main</type>
         <value>View summary of organization activities.</value>
-        <webElementGuid>58cbadea-04ff-4200-8c76-9198369f2243</webElementGuid>
+        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
