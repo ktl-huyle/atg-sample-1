@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiBackdrop-root MuiBackdrop-invisible css-esi9ax"]</value>
+            <value>[class="MuiBackdrop-root\ MuiBackdrop-invisible\ css-esi9ax"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

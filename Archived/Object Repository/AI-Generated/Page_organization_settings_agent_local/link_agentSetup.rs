@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Agent Setup') and equals(@href,'/organization/1396078/settings/test-environment-installation') and equals(@text,'Agent Setup')]</value>
+            <value>//*[equals(@title,'Agent Setup') and equals(@href,'/organization/1616791/settings/test-environment-installation') and equals(@text,'Agent Setup')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/organization/1396078/settings/test-environment-installation</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <value>/organization/1616791/settings/test-environment-installation</value>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Agent Setup</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Agent Setup</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

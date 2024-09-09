@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="btn btn-secondary"]:nth-child(1)</value>
+            <value>[class="btn\ btn-secondary"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Edit</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Edit</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

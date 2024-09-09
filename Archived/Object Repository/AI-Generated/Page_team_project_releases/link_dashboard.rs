@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Dashboard') and equals(@href,'/team/1412988/project/1432282') and equals(@text,'Dashboard')]</value>
+            <value>//*[equals(@title,'Dashboard') and equals(@href,'/team/1415806/project/1435085') and equals(@text,'Dashboard')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1412988/project/1432282</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <value>/team/1415806/project/1435085</value>
+        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Dashboard</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Dashboard</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

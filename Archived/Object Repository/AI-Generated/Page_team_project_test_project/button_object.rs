@@ -11,11 +11,11 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1fubc2b"]</value>
+            <value>[class="MuiButtonBase-root\ MuiIconButton-root\ MuiIconButton-sizeSmall\ css-1fubc2b"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@type,'button')]</value>
+            <value>//*[equals(@type,'button') and equals(@text,'')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -31,9 +31,17 @@
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
+        <name>text</name>
+        <type>Main</type>
+        <value></value>
+        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>true</isSelected>
+        <matchCondition>equals</matchCondition>
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
