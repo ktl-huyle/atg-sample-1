@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to team/*/project/*/overview",
-        "step 2: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
-        "step 3: Click on link executions202414 -> Navigate to page 'team/*/project/*/executions/*'",
-        "step 4: Take full page screenshot as checkpoint"
-    ]
-}
