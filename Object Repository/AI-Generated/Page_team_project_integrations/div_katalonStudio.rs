@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-4 MuiGrid-grid-md-4 css-5rllue"]:nth-child(1) [class="ml-3"]</value>
+            <value>[class="MuiGrid-root\ MuiGrid-item\ MuiGrid-grid-xs-4\ MuiGrid-grid-sm-4\ MuiGrid-grid-md-4\ css-5rllue"]:nth-child(1) [class="ml-3"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

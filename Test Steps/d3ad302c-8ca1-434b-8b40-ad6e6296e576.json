@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/welcome'",
+        "step 3: Navigate to /welcome",
+        "step 4: Click on div qualityEngineerNth1 -> Navigate to page 'organization/*/home'",
+        "step 5: Click on button rl",
+        "step 6: Click on div userflowjsModalBackdrop",
+        "step 7: Click on div userflowjsModalBackdrop",
+        "step 8: Click on div userflowjsModalBackdrop",
+        "step 9: Click on div lyamaniAbderrahmaneGmailCom",
+        "step 10: Click on div lyamaniAbderrahmaneGmailCom",
+        "step 11: Click on div object -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

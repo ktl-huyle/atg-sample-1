@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-lsygpc"]</value>
+            <value>[class="MuiButtonBase-root\ MuiButton-root\ MuiButton-outlined\ MuiButton-outlinedPrimary\ MuiButton-sizeMedium\ MuiButton-outlinedSizeMedium\ MuiButton-root\ MuiButton-outlined\ MuiButton-outlinedPrimary\ MuiButton-sizeMedium\ MuiButton-outlinedSizeMedium\ css-lsygpc"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -22,7 +22,7 @@
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>internal:role=button[name="ïŠ Terminate"i]</value>
+            <value>internal:role=button[name=" Terminate"i]</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Terminate</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

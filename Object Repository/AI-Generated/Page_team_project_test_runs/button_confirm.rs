@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium confirm eeq7rxt0 css-1c7gdhq"]</value>
+            <value>[class="MuiButtonBase-root\ MuiButton-root\ MuiButton-text\ MuiButton-textPrimary\ MuiButton-sizeMedium\ MuiButton-textSizeMedium\ MuiButton-root\ MuiButton-text\ MuiButton-textPrimary\ MuiButton-sizeMedium\ MuiButton-textSizeMedium\ confirm\ eeq7rxt0\ css-1c7gdhq"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Confirm</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

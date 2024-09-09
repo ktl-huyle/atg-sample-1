@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-resnt5"] &gt; [class="icon-hover"] &gt; svg</value>
+            <value>[class="MuiButtonBase-root\ MuiIconButton-root\ MuiIconButton-sizeLarge\ css-resnt5"] &gt; [class="icon-hover"] &gt; svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

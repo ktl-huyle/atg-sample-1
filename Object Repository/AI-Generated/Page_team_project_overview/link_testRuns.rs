@@ -11,11 +11,11 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="page-tab__nav__nav-link tab-button  d-flex align-items-center"]:nth-child(2)</value>
+            <value>[class="page-tab__nav__nav-link\ tab-button\ \ d-flex\ align-items-center"]:nth-child(2)</value>
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/95269/project/115438/executions') and equals(@text,'Test Runs')]</value>
+            <value>//*[equals(@href,'/team/1200803/project/1219581/executions') and equals(@text,'Test Runs')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/95269/project/115438/executions</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <value>/team/1200803/project/1219581/executions</value>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Runs</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>502284a3-ee67-4e2b-ad21-ddc9bc8719e7</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
