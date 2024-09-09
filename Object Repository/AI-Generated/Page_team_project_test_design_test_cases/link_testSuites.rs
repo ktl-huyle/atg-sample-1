@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Test Suites') and equals(@href,'/team/1515252/project/1534644/test-design/test-suites') and equals(@text,'Test Suites')]</value>
+            <value>//*[equals(@title,'Test Suites') and equals(@href,'/team/1494053/project/1513473/test-design/test-suites') and equals(@text,'Test Suites')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1515252/project/1534644/test-design/test-suites</value>
-        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
+        <value>/team/1494053/project/1513473/test-design/test-suites</value>
+        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Suites</value>
-        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
+        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites</value>
-        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
+        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

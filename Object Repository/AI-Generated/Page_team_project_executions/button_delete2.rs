@@ -22,7 +22,7 @@
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>internal:role=dialog &gt;&gt; internal:role=button[name="Delete"i]</value>
+            <value>body &gt;&gt; internal:role=document &gt;&gt; internal:role=button[name="Delete"i]</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Delete</value>
-        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
+        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>cf0c6cab-4f52-4a89-af86-cd4a34f18d42</webElementGuid>
+        <webElementGuid>cf181020-bf35-48dd-b069-18cc4c5f1d71</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

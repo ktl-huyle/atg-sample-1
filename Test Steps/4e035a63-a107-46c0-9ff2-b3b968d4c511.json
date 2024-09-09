@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid",
+        "step 2: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 3: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 4: Click on link executions2638 -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on link files -> Navigate to page 'team/*/project/*/executions/*/files'",
+        "step 6: Click on link page11",
+        "step 7: Click on link 20240723 013204html",
+        "step 8: Click on input filterByName -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
