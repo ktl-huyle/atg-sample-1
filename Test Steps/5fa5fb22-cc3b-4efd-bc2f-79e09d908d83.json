@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'",
+        "step 3: Click on link files -> Navigate to page 'team/*/project/*/executions/*/files'",
+        "step 4: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'",
+        "step 5: Click on div object",
+        "step 6: View and close failed test executions",
+        "step 7: Click on button close",
+        "step 8: Click on td object -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 3: Click on link testDesignTestCases -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 4: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 5: Click on div object5",
+        "step 6: Click on link schedules -> Navigate to page 'team/*/project/*/grid'",
+        "step 7: Click on link gridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 8: Click on div android2024RegressionTest",
+        "step 9: Click on span testSuitesFavePayFavePayForeign1",
+        "step 10: Click on div android2024RegressionTest",
+        "step 11: Click on button run4",
+        "step 12: Click on link schedules -> Navigate to page 'team/*/project/*/grid'",
+        "step 13: Click on link testDesignTestCases -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 14: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 15: Click on div object6",
+        "step 16: Click on header untitledTestRun17576",
+        "step 17: Click on header untitledTestRun17576",
+        "step 18: Click on button goToDetails2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
+        "step 19: Click on item createdWithSketchtoolPaymentFavePayFavePay -> Navigate to page ''",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

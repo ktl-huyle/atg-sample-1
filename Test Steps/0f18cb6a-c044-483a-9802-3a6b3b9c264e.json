@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*",
+        "step 2: Click on button download",
+        "step 3: Click on link downloadKseta",
+        "step 4: Click on span setupScriptRepository",
+        "step 5: Click on span downloadLoginOnKs",
+        "step 6: Click on span downloadLoginOnKseta3m",
+        "step 7: Click on span downloadLoginOnKseta3m",
+        "step 8: Click on span downloadLoginOnKseta3m",
+        "step 9: Click on span downloadLoginOnKseta3m",
+        "step 10: Click on button download",
+        "step 11: Click on link downloadKseta -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

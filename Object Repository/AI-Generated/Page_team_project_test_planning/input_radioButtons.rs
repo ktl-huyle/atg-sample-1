@@ -34,7 +34,7 @@
         <name>name</name>
         <type>Main</type>
         <value>radio-buttons</value>
-        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
+        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>radio</value>
-        <webElementGuid>dc72e2d7-2431-4ff8-bb8b-2cf2df0c1b8c</webElementGuid>
+        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

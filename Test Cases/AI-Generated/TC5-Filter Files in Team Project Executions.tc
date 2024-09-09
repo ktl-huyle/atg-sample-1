@@ -13,7 +13,7 @@
     <testCaseGuid>dd4551fe-cd5f-4bce-9aca-3526e5b34bcc</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>4f9a8cce-4fa7-439b-867d-1e9bc075877d</id>
+        <id>3b14b454-9d99-46eb-8971-4d0c3b9236af</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,14 +23,14 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>d9af8f23-449f-4518-9a1f-1011490dc8ba</id>
+        <id>ea6e816a-f4de-4344-a827-a02420e8d6fa</id>
         <masked>false</masked>
         <name>input_filterProfiles</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>4f9a8cce-4fa7-439b-867d-1e9bc075877d</testDataLinkId>
+        <testDataLinkId>3b14b454-9d99-46eb-8971-4d0c3b9236af</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_filterProfiles</value>
-        <variableId>d9af8f23-449f-4518-9a1f-1011490dc8ba</variableId>
+        <variableId>ea6e816a-f4de-4344-a827-a02420e8d6fa</variableId>
     </variableLinks>
 </TestCaseEntity>
