@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link bpBddPocthereIsNoData -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on div uploadedData",
+        "step 7: Click on span katalonStudioTestCasesLabelCaretDown",
+        "step 8: Click on span object",
+        "step 9: Click on span object2",
+        "step 10: Click on span object3",
+        "step 11: Click on div countyDemographicsAnd",
+        "step 12: Click on link insuranceDemographics -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 13: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 14: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 15: Click on link 523 -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 16: Click on button pushToXray",
+        "step 17: Click on div selectNth1",
+        "step 18: Click on button closeDialogButton",
+        "step 19: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 20: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 21: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}
