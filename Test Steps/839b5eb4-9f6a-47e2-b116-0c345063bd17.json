@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/settings/test-environment-installation",
+        "step 4: Click on link dockerEnvironment -> Navigate to page 'organization/*/settings/test-environment-installation/docker-agent'",
+        "step 5: Click on link localEnvironment",
+        "step 6: Download agent and manage test environment links",
+        "step 7: Configure test settings and run test suites",
+        "step 8: Click on link history",
+        "step 9: Click on header object2",
+        "step 10: Click on button sessions2",
+        "step 11: Click on button failedTestResults2",
+        "step 12: Click on link dashboard -> Navigate to page 'team/*/project/*'",
+        "step 13: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 14: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 15: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 16: Click on link testCases -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 17: Click on span object6",
+        "step 18: Click on span object5",
+        "step 19: Click on span object",
+        "step 20: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 21: Click on link testObjects -> Navigate to page 'team/*/project/*/test-design/test-objects'",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}

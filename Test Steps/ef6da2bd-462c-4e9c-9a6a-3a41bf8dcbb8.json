@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on div object5",
+        "step 5: Click on button surbanaJurong",
+        "step 6: Click on div object2",
+        "step 7: Click on link senyumS -> Navigate to page 'team/*/project/*'",
+        "step 8: Click on link executions -> Navigate to page 'team/*/project/*/*'",
+        "step 9: Click on header untitledTestRun",
+        "step 10: Click on div 1m25s",
+        "step 11: Click on div 21775353411Hours",
+        "step 12: Click on div testRunDetailDrawer -> Navigate to page ''",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

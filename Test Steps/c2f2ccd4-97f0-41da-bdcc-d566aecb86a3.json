@@ -1,0 +1,29 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/welcome'",
+        "step 3: Navigate to /welcome",
+        "step 4: Click on div manualTester -> Navigate to page 'organization/*/home'",
+        "step 5: Click on div object",
+        "step 6: Click on link ojOracleJde -> Navigate to page 'team/*/project/*'",
+        "step 7: Click on span downloadKatalonPackage",
+        "step 8: Click on input timeFilter",
+        "step 9: Click on div executionResultLastUpdated",
+        "step 10: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 11: Click on div uploadedData",
+        "step 12: Click on input searchTestCase",
+        "step 13: Click on div mainContentRoleButton",
+        "step 14: Click on div nameMaintainerLast",
+        "step 15: Click on link webServices -> Navigate to page 'team/*/project/*/*'",
+        "step 16: Click on link testRuns2",
+        "step 17: Click on link overview",
+        "step 18: Click on link testEnvironments -> Navigate to page 'team/*/project/*/test-design/test-objects'",
+        "step 19: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 20: Click on link testCases -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 21: Click on div uploadedData",
+        "step 22: Click on input searchTestCase",
+        "step 23: Click on div mainContentRoleButton",
+        "step 24: Click on div nameMaintainerLast",
+        "step 25: Take full page screenshot as checkpoint"
+    ]
+}

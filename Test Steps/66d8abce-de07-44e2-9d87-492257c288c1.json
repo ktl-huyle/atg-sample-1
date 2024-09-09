@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/welcome'",
+        "step 3: Navigate to /welcome",
+        "step 4: Click on div object2 -> Navigate to page 'organization/*/home'",
+        "step 5: Click on span downloadKatalonPackage",
+        "step 6: Click on button surbanaJurong",
+        "step 7: Click on span settings",
+        "step 8: Click on link organizationSetupConfigure",
+        "step 9: Click on button ai",
+        "step 10: Click on link documentation",
+        "step 11: Click on div object3",
+        "step 12: Click on span settings -> Navigate to page ''",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

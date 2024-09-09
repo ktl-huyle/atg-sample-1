@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on pre object",
+        "step 5: Click on div thumbnailImage",
+        "step 6: Click on button close",
+        "step 7: Click on div thumbnailImage",
+        "step 8: Click on div infoSidebarHeaderCloseButton",
+        "step 9: Click on div testRunsRequirementsTest",
+        "step 10: Click on button bhtIp",
+        "step 11: Click on div testRunsRequirementsTest -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
