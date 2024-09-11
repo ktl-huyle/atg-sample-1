@@ -1,15 +1,13 @@
 {
     "steps": [
-        "step 1: Navigate to http://demo.localhost.direct",
-        "step 2: Login",
-        "step 3: Navigate to organization/*/home",
-        "step 4: Click on button abdRahmaneLyamani",
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on button ar",
+        "step 3: Click on div userflowjsModalBackdrop",
+        "step 4: Click on div userflowjsModalBackdrop",
         "step 5: Click on div userflowjsModalBackdrop",
-        "step 6: Click on div userflowjsModalBackdrop",
-        "step 7: Click on div userflowjsModalBackdrop",
-        "step 8: Click on div lyamaniAbderrahmaneGmailCom",
-        "step 9: Click on div lyamaniAbderrahmaneGmailCom",
-        "step 10: Click on div object -> Navigate to page ''",
-        "step 11: Take full page screenshot as checkpoint"
+        "step 6: Click on div object",
+        "step 7: Click on div object",
+        "step 8: Click on div object2 -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
     ]
 }

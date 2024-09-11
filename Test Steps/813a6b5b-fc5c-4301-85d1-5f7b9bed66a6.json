@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 2: Click on div webs",
+        "step 3: Click on button object -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 4: Click on span object3",
+        "step 5: Click on span object9",
+        "step 6: Click on span treeSwitcher",
+        "step 7: Click on span antTreeSwitcher",
+        "step 8: Click on span treeSwitcher2",
+        "step 9: Click on span treeSwitcherOpen",
+        "step 10: Click on span object4",
+        "step 11: Click on span treeSwitcher3",
+        "step 12: Click on span antTreeSwitcher2",
+        "step 13: Click on span treeSwitcher4",
+        "step 14: Click on div sanity2 -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 15: Click on div sanity3 -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

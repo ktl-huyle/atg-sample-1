@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on link fpFirstProject -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 4: Click on link truetestUserJourneys -> Navigate to page 'team/*/project/*/truetest/user-journeys'",
+        "step 5: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 6: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 7: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 8: Click on span object3",
+        "step 9: Click on div object",
+        "step 10: Click on div object2",
+        "step 11: Click on span object4",
+        "step 12: Click on span object5",
+        "step 13: Click on div object3",
+        "step 14: Click on link testCdc002 -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 15: Click on button addToTestSuite",
+        "step 16: Click on div object4",
+        "step 17: Click on span object6",
+        "step 18: Click on span testcdc2",
+        "step 19: Click on button add",
+        "step 20: Click on button object -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 21: Click on link testCdc002 -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 22: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 23: Click on div object2",
+        "step 24: Click on div object3",
+        "step 25: Click on div object4",
+        "step 26: Click on link testcdc2 -> Navigate to page 'team/*/project/*/test-design/test-suites/*'",
+        "step 27: Click on button scheduleTestRun",
+        "step 28: Schedule a test run with various configurations and settings.",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

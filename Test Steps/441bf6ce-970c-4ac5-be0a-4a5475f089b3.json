@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/settings",
+        "step 2: Click on div userflowjsModalBackdrop",
+        "step 3: Click on button po",
+        "step 4: Click on link userSettings -> Navigate to page 'user/settings'",
+        "step 5: Click on button po",
+        "step 6: Click on link viewProfile",
+        "step 7: Click on div object -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

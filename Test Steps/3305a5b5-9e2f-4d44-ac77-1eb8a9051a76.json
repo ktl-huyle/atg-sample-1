@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 2: Click on div maintenanceRloteriaLinkTo",
+        "step 3: Click on div objectTabInfo",
+        "step 4: Click on button run3",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}

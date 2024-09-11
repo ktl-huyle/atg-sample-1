@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-runs",
+        "step 2: Click on button de",
+        "step 3: Click on font albertoVerifidNet",
+        "step 4: Click on div abAlbertoBeba",
+        "step 5: Click on link desconectar -> Navigate to page 'organization/*/home'",
+        "step 6: Click on button ar",
+        "step 7: Click on div object6 -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on div welcomeToThermoFisher",
+        "step 3: Click on div welcomeToThermoFisher",
+        "step 4: Click on div muiGridRoot",
+        "step 5: Click on span object",
+        "step 6: Click on span object",
+        "step 7: Click on span settings",
+        "step 8: Click on div object2",
+        "step 9: Click on button ar",
+        "step 10: Click on link userSettings -> Navigate to page 'user/settings'",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

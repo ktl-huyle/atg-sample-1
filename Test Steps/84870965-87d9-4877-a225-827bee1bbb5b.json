@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on button surbanaJurong",
+        "step 3: Click on button surbanaJurong",
+        "step 4: Click on button surbanaJurong",
+        "step 5: Click on div object3",
+        "step 6: Click on span settings",
+        "step 7: Click on link truetestBeta",
+        "step 8: Click on span object2",
+        "step 9: Click on button ar",
+        "step 10: Click on div object2",
+        "step 11: Click on button ar",
+        "step 12: Click on div object2",
+        "step 13: Click on button settings",
+        "step 14: Click on div object2",
+        "step 15: Click on span object2",
+        "step 16: Click on button settings",
+        "step 17: Click on div object2",
+        "step 18: Click on span object",
+        "step 19: Click on div currentMo",
+        "step 20: Click on link fpFirstProject -> Navigate to page 'team/*/project/*'",
+        "step 21: Click on button oracleJde",
+        "step 22: Click on link dnex -> Navigate to page 'organization/*/home'",
+        "step 23: Click on button surbanaJurong",
+        "step 24: Click on link gssItams",
+        "step 25: Click on link fpFirstProject -> Navigate to page 'team/*/project/*'",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}

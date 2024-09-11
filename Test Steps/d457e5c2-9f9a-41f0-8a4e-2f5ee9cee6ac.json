@@ -1,12 +1,10 @@
 {
     "steps": [
-        "step 1: Navigate to http://demo.localhost.direct",
-        "step 2: Login",
-        "step 3: Navigate to team/*/project/*/executions",
-        "step 4: Access test results and reports from the executions page.",
-        "step 5: Click on div testRunByStatus",
-        "step 6: Click on span settings",
-        "step 7: Click on link userManagementAddAndRemoveUsers -> Navigate to page ''",
-        "step 8: Take full page screenshot as checkpoint"
+        "step 1: Navigate to team/*/project/*/executions",
+        "step 2: Access and review test execution reports and results.",
+        "step 3: Click on div testRunByStatus",
+        "step 4: Click on span settings",
+        "step 5: Click on link userManagement -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
     ]
 }

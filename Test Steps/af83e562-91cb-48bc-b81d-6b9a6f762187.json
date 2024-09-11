@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on button ar",
+        "step 3: Click on link viewProfile",
+        "step 4: Click on div object2",
+        "step 5: Click on div organizationAdmin",
+        "step 6: Click on button surbanaJurong",
+        "step 7: Click on button surbanaJurong",
+        "step 8: Click on div organizationAdmin2",
+        "step 9: Click on button surbanaJurong",
+        "step 10: Click on link organizationAdmin",
+        "step 11: Click on link viewAllProjects -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

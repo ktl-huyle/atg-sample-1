@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-runs",
+        "step 2: Click on link executions",
+        "step 3: Click on link executions",
+        "step 4: Click on link executions",
+        "step 5: Click on link executions",
+        "step 6: Click on div object2",
+        "step 7: Click on div object",
+        "step 8: Click on header eppsAutomationTestCaseRun",
+        "step 9: Click on button details",
+        "step 10: Click on button object",
+        "step 11: Click on div object4",
+        "step 12: Click on div object5",
+        "step 13: Click on div object5",
+        "step 14: Click on div object5",
+        "step 15: Click on div object6",
+        "step 16: Click on div object6",
+        "step 17: Click on button object",
+        "step 18: Click on div object4",
+        "step 19: Click on div object6",
+        "step 20: Click on button sessions",
+        "step 21: Click on button failedTestResults -> Navigate to page ''",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}

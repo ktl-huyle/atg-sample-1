@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 3: Click on link sprint -> Navigate to page 'team/*/project/*/releases/*'",
+        "step 4: Click on link testRuns -> Navigate to page 'team/*/project/*/releases/*/executions'",
+        "step 5: Click on link 4077 -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 6: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'",
+        "step 7: Click on div object3",
+        "step 8: Close multiple dialog boxes within the application.",
+        "step 9: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

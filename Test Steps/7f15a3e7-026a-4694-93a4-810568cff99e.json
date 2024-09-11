@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/overview",
+        "step 2: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 3: Click on link testCases -> Navigate to page 'team/*/project/*/test-reports/test-maintenance/active'",
+        "step 4: Click on link firstTestCase -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 5: Click on div userflowjsModalBackdrop",
+        "step 6: Click on td passedFirstTestCase",
+        "step 7: Click on div object5",
+        "step 8: Click on div infoSidebarHeaderCloseButton",
+        "step 9: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 10: Click on link testCases -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 11: Click on span object8",
+        "step 12: Click on span object9",
+        "step 13: Click on div uploadedData -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}
