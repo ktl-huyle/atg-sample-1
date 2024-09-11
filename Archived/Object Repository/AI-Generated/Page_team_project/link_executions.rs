@@ -11,11 +11,11 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="sidebar-main\ navbar-nav"] &gt; [class="nav-item"]:nth-child(4) &gt; [class="nav-link"]</value>
+            <value>[class="nav-item"]:nth-child(4) &gt; [class="nav-link"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Executions') and equals(@href,'/team/1323001/project/1343162/test-runs') and equals(@text,'Executions')]</value>
+            <value>//*[equals(@title,'Executions') and equals(@href,'/team/580717/project/649417/test-runs') and equals(@text,'Executions')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1323001/project/1343162/test-runs</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <value>/team/580717/project/649417/test-runs</value>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Executions</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Executions</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

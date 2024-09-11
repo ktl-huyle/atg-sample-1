@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-151cthe MuiTreeItem-content Mui-focused"] &gt; [class="MuiTreeItem-label"]</value>
+            <value>[class="css-151cthe\ MuiTreeItem-content\ Mui-focused"] &gt; [class="MuiTreeItem-label"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
