@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*/test-runs",
+        "step 2: Click on span failedAmst4923",
+        "step 3: Click on span failedAmst4920",
+        "step 4: Click on span failedAmst4922",
+        "step 5: Click on span failedAmst4924",
+        "step 6: Review and close details of failed test executions.",
+        "step 7: Click on button close",
+        "step 8: Click on div amst4965AutodialerCall",
+        "step 9: Click on link page2",
+        "step 10: Click on span failedAmst4966",
+        "step 11: Click on span failedAmst4958",
+        "step 12: Click on span failedAmst5052",
+        "step 13: Click on span failedAmst5051",
+        "step 14: Click on span failedAmst5051",
+        "step 15: Click on span failedAmst5028",
+        "step 16: Click on span failedAmst5051",
+        "step 17: Click on div amst4965AutodialerCall",
+        "step 18: Click on div amst4965AutodialerCall -> Navigate to page ''",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}

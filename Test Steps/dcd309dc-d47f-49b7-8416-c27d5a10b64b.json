@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*/files",
+        "step 2: Click on link summary -> Navigate to page 'team/*/project/*/executions'",
+        "step 3: Click on link executions183 -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 4: Click on link files -> Navigate to page 'team/*/project/*/executions/*/files'",
+        "step 5: Click on input search",
+        "step 6: Enter input value in input search",
+        "step 7: Click on link 20240722114638html -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Planning') and equals(@href,'/team/1398625/project/1418025/releases') and equals(@text,'Planning')]</value>
+            <value>//*[equals(@title,'Planning') and equals(@href,'/team/1539858/project/1559163/releases') and equals(@text,'Planning')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/1398625/project/1418025/releases</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <value>/team/1539858/project/1559163/releases</value>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Planning</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Planning</value>
-        <webElementGuid>014cdfd5-82fb-4379-ba0b-b0af48ed8d60</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

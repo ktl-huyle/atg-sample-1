@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/test-runs",
+        "step 2: Click on input executor",
+        "step 3: Enter input value in input executor",
+        "step 4: Click on div object",
+        "step 5: Click on div untitledTestRun15073",
+        "step 6: Click on button sessions",
+        "step 7: Click on button object -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

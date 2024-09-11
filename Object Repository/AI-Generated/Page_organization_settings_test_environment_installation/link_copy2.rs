@@ -34,6 +34,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Copy</value>
-        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
