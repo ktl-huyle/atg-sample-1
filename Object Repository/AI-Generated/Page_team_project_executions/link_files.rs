@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/95269/project/115438/executions/202299/files') and equals(@text,'Files')]</value>
+            <value>//*[equals(@href,'/team/926329/project/1161983/executions/6315/files') and equals(@text,'Files')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,8 +33,8 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/95269/project/115438/executions/202299/files</value>
-        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
+        <value>/team/926329/project/1161983/executions/6315/files</value>
+        <webElementGuid>9af9f2c8-be6b-40c2-bf42-c1b3c5027a95</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Files</value>
-        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
+        <webElementGuid>9af9f2c8-be6b-40c2-bf42-c1b3c5027a95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
