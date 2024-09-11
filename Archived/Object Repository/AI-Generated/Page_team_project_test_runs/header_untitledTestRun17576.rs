@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiDataGrid-row MuiDataGrid-row--dynamicHeight Mui-hovered"] [class="css-1lbpe2x ekg78a34"]</value>
+            <value>[class="MuiDataGrid-row\ MuiDataGrid-row--dynamicHeight\ Mui-hovered"] [class="css-1lbpe2x\ ekg78a34"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

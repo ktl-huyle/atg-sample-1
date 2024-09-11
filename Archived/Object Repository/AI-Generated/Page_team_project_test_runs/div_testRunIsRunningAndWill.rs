@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiAlert-message css-1xsto0d"]</value>
+            <value>[class="MuiAlert-message\ css-1xsto0d"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

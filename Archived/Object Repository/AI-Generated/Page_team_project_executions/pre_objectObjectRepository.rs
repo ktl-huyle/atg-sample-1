@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="text-failed-color pre-wrap"]</value>
+            <value>[class="text-failed-color\ pre-wrap"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

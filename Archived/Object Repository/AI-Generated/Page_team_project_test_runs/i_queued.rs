@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="fa-solid fa-hourglass-clock css-ky3thp"]</value>
+            <value>[class="fa-solid\ fa-hourglass-clock\ css-ky3thp"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

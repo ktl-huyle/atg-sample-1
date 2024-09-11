@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>tr:nth-child(1) [class="d-block null"]</value>
+            <value>tr:nth-child(1) [class="d-block\ null"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,6 +34,6 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1192336/project/1211564/grid/plan/807205/job/198</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

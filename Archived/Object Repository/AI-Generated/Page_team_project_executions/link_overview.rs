@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="page-tab__nav__nav-link tab-button  d-flex align-items-center"]:nth-child(1)</value>
+            <value>[class="page-tab__nav__nav-link\ tab-button\ \ d-flex\ align-items-center"]:nth-child(1)</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1412988/project/1432282/overview</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Overview</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

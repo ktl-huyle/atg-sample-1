@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="col-4 gallery-item"]:nth-child(2) [class="thumbnail__image d-flex justify-content-between flex-row-reverse"]</value>
+            <value>[class="col-4\ gallery-item"]:nth-child(2) [class="thumbnail__image\ d-flex\ justify-content-between\ flex-row-reverse"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

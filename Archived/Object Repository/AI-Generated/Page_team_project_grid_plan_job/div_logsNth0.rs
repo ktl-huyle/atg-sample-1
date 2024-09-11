@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="sidebar-layout__main-content col-md-9"]</value>
+            <value>[class="sidebar-layout__main-content\ col-md-9"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

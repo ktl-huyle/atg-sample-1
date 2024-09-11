@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="btn btn-secondary"]:nth-child(2) &gt; svg</value>
+            <value>[class="btn\ btn-secondary"]:nth-child(2) &gt; svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

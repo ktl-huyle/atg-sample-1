@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="react-select__indicator react-select__dropdown-indicator css-1gtu0rj-indicatorContainer"]</value>
+            <value>[class="react-select__indicator\ react-select__dropdown-indicator\ css-1gtu0rj-indicatorContainer"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

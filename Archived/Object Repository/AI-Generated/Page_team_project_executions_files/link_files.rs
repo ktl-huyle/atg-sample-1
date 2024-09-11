@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="page-tab__nav__nav-link tab-button active d-flex align-items-center active"]</value>
+            <value>[class="page-tab__nav__nav-link\ tab-button\ active\ d-flex\ align-items-center\ active"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/95269/project/115438/executions/202331/files</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Files</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

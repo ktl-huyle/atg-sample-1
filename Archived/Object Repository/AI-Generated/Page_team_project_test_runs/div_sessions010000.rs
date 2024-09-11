@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-101pu9i e119xflr0"] &gt; svg</value>
+            <value>[class="css-101pu9i\ e119xflr0"] &gt; svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

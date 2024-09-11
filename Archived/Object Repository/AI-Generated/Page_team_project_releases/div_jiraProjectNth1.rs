@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="react-select__value-container css-1hwfws3"]</value>
+            <value>[class="react-select__value-container\ css-1hwfws3"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

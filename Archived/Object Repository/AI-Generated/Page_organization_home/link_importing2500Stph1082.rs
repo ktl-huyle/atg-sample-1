@@ -11,11 +11,17 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="custom-card-failed card"]:nth-child(3) &gt; a</value>
+            <value>[class="custom-card-failed\ card"]:nth-child(3) &gt; a</value>
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/770029/project/792076/executions/2500') and equals(@text,'#2500STPHPIM Pack (Monday) 4.8 ui-testing{{date_time}}, 20:07  (8h 49m 10s)')]</value>
+            <value>//*[equals(@href,'/team/770029/project/792076/executions/2500') and equals(@text,'#2500
+            ST
+            PH
+            PIM Pack (Monday) 4.8
+             ui-testing
+            {{date_time}}, 20:07
+              (8h 49m 10s)')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +40,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/770029/project/792076/executions/2500</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -48,6 +54,6 @@
          ui-testing
         {{date_time}}, 20:07
           (8h 49m 10s)</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

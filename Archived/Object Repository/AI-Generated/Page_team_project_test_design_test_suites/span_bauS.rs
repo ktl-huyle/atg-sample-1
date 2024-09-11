@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal"] &gt; [class="ant-tree-iconEle ant-tree-icon__customize"]</value>
+            <value>[class="ant-tree-node-content-wrapper\ ant-tree-node-content-wrapper-normal"] &gt; [class="ant-tree-iconEle\ ant-tree-icon__customize"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiDataGrid-row Mui-selected MuiDataGrid-row--lastVisible MuiDataGrid-row--dynamicHeight Mui-hovered"] [class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium e9a36ay1 css-1b0vhj1"]</value>
+            <value>[class="MuiDataGrid-row\ Mui-selected\ MuiDataGrid-row--lastVisible\ MuiDataGrid-row--dynamicHeight\ Mui-hovered"] [class="MuiButtonBase-root\ MuiButton-root\ MuiButton-text\ MuiButton-textPrimary\ MuiButton-sizeMedium\ MuiButton-textSizeMedium\ MuiButton-root\ MuiButton-text\ MuiButton-textPrimary\ MuiButton-sizeMedium\ MuiButton-textSizeMedium\ e9a36ay1\ css-1b0vhj1"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,6 +34,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

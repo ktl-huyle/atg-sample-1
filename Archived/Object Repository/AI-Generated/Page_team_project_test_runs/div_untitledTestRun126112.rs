@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiDataGrid-row MuiDataGrid-row--dynamicHeight Mui-hovered"] &gt; [class="MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textLeft MuiDataGrid-withBorderColor"]:nth-child(2)</value>
+            <value>[class="MuiDataGrid-row\ MuiDataGrid-row--dynamicHeight\ Mui-hovered"] &gt; [class="MuiDataGrid-cell--withRenderer\ MuiDataGrid-cell\ MuiDataGrid-cell--textLeft\ MuiDataGrid-withBorderColor"]:nth-child(2)</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

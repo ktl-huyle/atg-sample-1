@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class=""]:nth-child(1) [class="MuiGrid-root MuiGrid-item mr-3 css-1wxaqej"]:nth-child(3) &gt; [class="d-block"]</value>
+            <value>[class=""]:nth-child(1) [class="MuiGrid-root\ MuiGrid-item\ mr-3\ css-1wxaqej"]:nth-child(3) &gt; [class="d-block"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

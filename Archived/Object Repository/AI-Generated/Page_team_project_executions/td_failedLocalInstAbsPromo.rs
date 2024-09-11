@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class=""]:nth-child(7) &gt; [class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium long-text-column css-g0vn1c"]</value>
+            <value>[class=""]:nth-child(7) &gt; [class="MuiTableCell-root\ MuiTableCell-body\ MuiTableCell-sizeMedium\ long-text-column\ css-g0vn1c"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

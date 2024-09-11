@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-13qmg1d"] &gt; span:nth-child(1)</value>
+            <value>[class="MuiButtonBase-root\ MuiMenuItem-root\ MuiMenuItem-gutters\ MuiMenuItem-root\ MuiMenuItem-gutters\ css-13qmg1d"] &gt; span:nth-child(1)</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

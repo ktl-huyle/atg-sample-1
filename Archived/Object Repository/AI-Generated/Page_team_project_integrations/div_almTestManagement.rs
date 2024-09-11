@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-151cthe MuiTreeItem-content Mui-focused"] [class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv"]</value>
+            <value>[class="css-151cthe\ MuiTreeItem-content\ Mui-focused"] [class="MuiSvgIcon-root\ MuiSvgIcon-fontSizeMedium\ css-vubbuv"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,6 +34,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>ChevronRightIcon</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

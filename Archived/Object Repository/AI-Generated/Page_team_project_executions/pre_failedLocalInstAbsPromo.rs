@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class=""]:nth-child(7) [class="text-failed-color text-wrap error-message-box mt-2 mb-0"]</value>
+            <value>[class=""]:nth-child(7) [class="text-failed-color\ text-wrap\ error-message-box\ mt-2\ mb-0"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

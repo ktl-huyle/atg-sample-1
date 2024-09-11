@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-htwtw6 eq211ll6"]:nth-child(2)</value>
+            <value>[class="css-htwtw6\ eq211ll6"]:nth-child(2)</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="ant-tree-treenode ant-tree-treenode-switcher-close"]:nth-child(10) &gt; [class="ant-tree-switcher ant-tree-switcher_close"] svg</value>
+            <value>[class="ant-tree-treenode\ ant-tree-treenode-switcher-close"]:nth-child(10) &gt; [class="ant-tree-switcher\ ant-tree-switcher_close"] svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

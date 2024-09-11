@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="btn-icon-only btn btn-link"] &gt; svg</value>
+            <value>[class="btn-icon-only\ btn\ btn-link"] &gt; svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

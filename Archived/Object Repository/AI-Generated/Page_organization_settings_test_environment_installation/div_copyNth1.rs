@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiStep-root MuiStep-vertical css-0"]:nth-child(7) [class="ml-auto p-1"]</value>
+            <value>[class="MuiStep-root\ MuiStep-vertical\ css-0"]:nth-child(7) [class="ml-auto\ p-1"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

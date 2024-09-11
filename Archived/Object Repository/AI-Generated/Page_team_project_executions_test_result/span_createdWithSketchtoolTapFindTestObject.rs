@@ -11,14 +11,14 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiListItem-root MuiListItem-dense MuiListItem-padding log-item css-1tmb2v0"]:nth-child(2) span:nth-child(1)</value>
+            <value>[class="MuiListItem-root\ MuiListItem-dense\ MuiListItem-padding\ log-item\ css-1tmb2v0"]:nth-child(2) span:nth-child(1)</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>div &gt;&gt; internal:has-text=/^Created with sketchtool.tap(findTestObject("Notification - Allow"), 0, OPTIONAL)$/ &gt;&gt; span &gt;&gt; nth=0</value>
+            <value>div &gt;&gt; internal:has-text=/^Created with sketchtool\.tap\(findTestObject\("Notification - Allow"\), 0, OPTIONAL\)$/ &gt;&gt; span &gt;&gt; nth=0</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>

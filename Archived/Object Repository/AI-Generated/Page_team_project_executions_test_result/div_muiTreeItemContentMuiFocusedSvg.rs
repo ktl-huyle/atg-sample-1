@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-1qpbo6h MuiTreeItem-content Mui-focused"] svg</value>
+            <value>[class="css-1qpbo6h\ MuiTreeItem-content\ Mui-focused"] svg</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiGrid-root MuiGrid-item popper-date-range-picker__list-item css-1wxaqej"]:nth-child(2) &gt; [class="MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters css-11kzoqk"]:nth-child(3) [class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-1o46m0z"]</value>
+            <value>[class="MuiGrid-root\ MuiGrid-item\ popper-date-range-picker__list-item\ css-1wxaqej"]:nth-child(2) &gt; [class="MuiButtonBase-root\ MuiListItemButton-root\ MuiListItemButton-gutters\ MuiListItemButton-root\ MuiListItemButton-gutters\ css-11kzoqk"]:nth-child(3) [class="MuiTypography-root\ MuiTypography-body1\ MuiListItemText-primary\ css-1o46m0z"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

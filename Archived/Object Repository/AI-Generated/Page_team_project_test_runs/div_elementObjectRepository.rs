@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-1t5472r e1xusddu1"]</value>
+            <value>[class="css-1t5472r\ e1xusddu1"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

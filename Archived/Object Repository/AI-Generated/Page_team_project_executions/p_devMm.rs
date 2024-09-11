@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters Mui-focusVisible MuiMenuItem-root MuiMenuItem-gutters css-13qmg1d"] &gt; [class="MuiTypography-root MuiTypography-body1 MuiTypography-noWrap css-cokb0s"]</value>
+            <value>[class="MuiButtonBase-root\ MuiMenuItem-root\ MuiMenuItem-gutters\ Mui-focusVisible\ MuiMenuItem-root\ MuiMenuItem-gutters\ css-13qmg1d"] &gt; [class="MuiTypography-root\ MuiTypography-body1\ MuiTypography-noWrap\ css-cokb0s"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>

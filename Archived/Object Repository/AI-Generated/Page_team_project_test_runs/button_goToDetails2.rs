@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="css-htwtw6 eq211ll6"]:nth-child(2) [class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-g8j2xy"]</value>
+            <value>[class="css-htwtw6\ eq211ll6"]:nth-child(2) [class="MuiButtonBase-root\ MuiIconButton-root\ MuiIconButton-sizeMedium\ css-g8j2xy"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,6 +34,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>0b225aec-9ff1-476b-8444-b246eb3c7d82</webElementGuid>
+        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

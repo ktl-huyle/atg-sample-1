@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>[class="ant-tree-treenode ant-tree-treenode-switcher-close ant-tree-treenode-selected"] &gt; [class="ant-tree-switcher ant-tree-switcher_close"]</value>
+            <value>[class="ant-tree-treenode\ ant-tree-treenode-switcher-close\ ant-tree-treenode-selected"] &gt; [class="ant-tree-switcher\ ant-tree-switcher_close"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
