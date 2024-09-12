@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/web-services",
+        "step 2: Click on button bddPoc",
+        "step 3: Click on link myOrganization01 -> Navigate to page 'organization/*/home'",
+        "step 4: Click on link bpBddPocNoData -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on button bddPoc",
+        "step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 7: Click on label enableBddReports",
+        "step 8: Click on button save",
+        "step 9: Click on div assertionPattern",
+        "step 10: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'",
+        "step 11: Click on div katalonStudio",
+        "step 12: Click on div almtm",
+        "step 13: Click on div mobileDeviceTesting",
+        "step 14: Click on div kobiton",
+        "step 15: Click on div testingFramework -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

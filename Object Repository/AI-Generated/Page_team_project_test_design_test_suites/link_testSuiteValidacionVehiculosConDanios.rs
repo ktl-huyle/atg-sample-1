@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1389363/project/1408913/executions/7</value>
-        <webElementGuid>2a5072bb-1974-4919-83ed-b126ffd986a6</webElementGuid>
+        <webElementGuid>b2372555-f4ed-45cd-9348-eea26d105767</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suite Validacion Vehiculos Con Daños Menores</value>
-        <webElementGuid>2a5072bb-1974-4919-83ed-b126ffd986a6</webElementGuid>
+        <webElementGuid>b2372555-f4ed-45cd-9348-eea26d105767</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
