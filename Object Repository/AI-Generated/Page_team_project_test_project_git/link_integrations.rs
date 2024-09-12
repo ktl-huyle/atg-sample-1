@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1515252/project/1534644/integrations</value>
-        <webElementGuid>b2372555-f4ed-45cd-9348-eea26d105767</webElementGuid>
+        <webElementGuid>89afa66c-5375-44d7-9c53-3bd617bc3c48</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Integrations</value>
-        <webElementGuid>b2372555-f4ed-45cd-9348-eea26d105767</webElementGuid>
+        <webElementGuid>89afa66c-5375-44d7-9c53-3bd617bc3c48</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Integrations</value>
-        <webElementGuid>b2372555-f4ed-45cd-9348-eea26d105767</webElementGuid>
+        <webElementGuid>89afa66c-5375-44d7-9c53-3bd617bc3c48</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
