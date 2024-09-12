@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: Mark external link tests as passed based on manual results.",
+        "step 2: Mark failed portal logins as passed based on manual tests",
         "step 3: Click on button markAsPassed",
         "step 4: Click on label basedOnManualTestResult",
         "step 5: Click on button submit",
@@ -15,7 +15,7 @@
         "step 13: Click on button externalLink2",
         "step 14: Click on button externalLink3",
         "step 15: Click on button externalLink4",
-        "step 16: Mark external link tests as passed based on manual results.",
+        "step 16: Mark failed portal logins as passed based on manual tests",
         "step 17: Click on button markAsPassed",
         "step 18: Click on label basedOnManualTestResult",
         "step 19: Click on button submit",
@@ -34,8 +34,8 @@
         "step 32: Click on button markAsPassed",
         "step 33: Click on label basedOnManualTestResult",
         "step 34: Click on button submit -> Navigate to page 'team/*/project/*/executions/*'",
-        "step 35: Click on button object4",
-        "step 36: Click on button externalLink",
+        "step 35: Click on button object",
+        "step 36: Click on button object2",
         "step 37: Click on button insightlyAutomation",
         "step 38: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
         "step 39: Click on button markAsPassed",
@@ -44,7 +44,7 @@
         "step 42: Click on button markAsPassed",
         "step 43: Click on label basedOnManualTestResult",
         "step 44: Click on button submit -> Navigate to page 'organization/*/home'",
-        "step 45: Click on link failedCard -> Navigate to page ''",
+        "step 45: Click on link 1879Ie56Failed -> Navigate to page ''",
         "step 46: Take full page screenshot as checkpoint"
     ]
 }

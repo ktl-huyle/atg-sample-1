@@ -1,10 +1,10 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/test-runs",
-        "step 2: Click on div object7",
-        "step 3: Click on div object8",
-        "step 4: Click on button object2",
-        "step 5: Schedule and execute test runs with API configurations.",
+        "step 2: Click on div object4",
+        "step 3: Click on div object5",
+        "step 4: Click on button object",
+        "step 5: Schedule and run automated tests on selected environments",
         "step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
         "step 7: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'",
         "step 8: Click on link katalonWebsiteGit -> Navigate to page 'team/*/project/*/test-project/*'",
