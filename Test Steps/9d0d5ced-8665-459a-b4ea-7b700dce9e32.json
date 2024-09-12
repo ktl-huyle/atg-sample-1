@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to team/*/project/*/settings",
-        "step 2: Click on button editUser",
-        "step 3: Click on select userTeamRole",
-        "step 4: Click on button save2 -> Navigate to page ''",
-        "step 5: Take full page screenshot as checkpoint"
-    ]
-}
