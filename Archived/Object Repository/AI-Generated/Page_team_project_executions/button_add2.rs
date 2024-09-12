@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value></value>
-        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Add</value>
-        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>3ecd2b37-0f69-4fce-9884-554efe8d9476</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

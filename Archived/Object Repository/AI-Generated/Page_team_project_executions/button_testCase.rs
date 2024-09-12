@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>g5_record_test_case</value>
-        <webElementGuid>fffaa276-94a5-4ac7-aa65-de333ecc47a5</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Case</value>
-        <webElementGuid>fffaa276-94a5-4ac7-aa65-de333ecc47a5</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>fffaa276-94a5-4ac7-aa65-de333ecc47a5</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

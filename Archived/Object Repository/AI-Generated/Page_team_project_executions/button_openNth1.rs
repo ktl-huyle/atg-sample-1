@@ -34,6 +34,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>ArrowDropDownIcon</value>
-        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>#mui-55-option-0 [class="MuiTypography-root\ MuiTypography-button\ css-1yuh14t"]</value>
+            <value>#mui-10-option-0 [class="MuiTypography-root\ MuiTypography-button\ css-1yuh14t"]</value>
         </entry>
         <entry>
             <key>BASIC</key>
@@ -34,6 +34,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Check Pass Team</value>
-        <webElementGuid>d60a044e-1f20-44de-990a-d8e538ac11db</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -34,6 +34,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Katalon Studio Enterprise (Node-locked)</value>
-        <webElementGuid>fffaa276-94a5-4ac7-aa65-de333ecc47a5</webElementGuid>
+        <webElementGuid>0834fa7c-743a-4b72-876b-1e1de6a01d95</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
