@@ -4,8 +4,8 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 import internal.GlobalVariable
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class scheduleMultipleTestRuns {
     
@@ -56,7 +56,7 @@ public class scheduleMultipleTestRuns {
         "Step 11: Click on span object"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object', ['span_object_class': data['span_object_class'], 'span_object_nthChild': data['span_object_nthChild'], 'span_object_internalHasText': data['span_object_internalHasText']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object', ['span_object_nthChild': data['span_object_nthChild'], 'span_object_class': data['span_object_class'], 'span_object_internalHasText': data['span_object_internalHasText']]))
         
         "Step 12: Click on div desktopBrowsers"
         
@@ -77,7 +77,7 @@ public class scheduleMultipleTestRuns {
         "Step 16: Click on div object11"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object11"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object11', ['div_object11_option': data['div_object11_option'], 'div_object11_reactSelect': data['div_object11_reactSelect'], 'div_object11_internalText': data['div_object11_internalText']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object11', ['div_object11_reactSelect': data['div_object11_reactSelect'], 'div_object11_option': data['div_object11_option'], 'div_object11_internalText': data['div_object11_internalText']]))
         
         "Step 17: Click on button runS"
         
@@ -112,7 +112,7 @@ public class scheduleMultipleTestRuns {
         "Step 24: Click on span object"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object', ['span_object_class': data['span_object_class_1'], 'span_object_nthChild': data['span_object_nthChild_1'], 'span_object_internalHasText': data['span_object_internalHasText_1']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/span_object', ['span_object_nthChild': data['span_object_nthChild_1'], 'span_object_class': data['span_object_class_1'], 'span_object_internalHasText': data['span_object_internalHasText_1']]))
         
         "Step 25: Click on label desktopBrowsers"
         
@@ -176,7 +176,7 @@ public class scheduleMultipleTestRuns {
         "Step 39: Click on div object17"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object17"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object17', ['div_object17_reactSelect': data['div_object17_reactSelect'], 'div_object17_option': data['div_object17_option'], 'div_object17_internalText': data['div_object17_internalText']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object17', ['div_object17_option': data['div_object17_option'], 'div_object17_reactSelect': data['div_object17_reactSelect'], 'div_object17_internalText': data['div_object17_internalText']]))
         
         "Step 40: Click on div object8"
         
@@ -206,7 +206,7 @@ public class scheduleMultipleTestRuns {
         "Step 46: Click on div object19"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object19"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object19', ['div_object19_reactSelect': data['div_object19_reactSelect'], 'div_object19_option': data['div_object19_option'], 'div_object19_internalText': data['div_object19_internalText']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_object19', ['div_object19_option': data['div_object19_option'], 'div_object19_reactSelect': data['div_object19_reactSelect'], 'div_object19_internalText': data['div_object19_internalText']]))
         
         "Step 47: Click on input name"
         

@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-runs",
+        "step 4: Click on div testRunItems (apiMediaFilesQa)",
+        "step 5: Click on div sortIddescending",
+        "step 6: Click on button object",
+        "step 7: Schedule multiple test runs with server URL and environment settings.",
+        "step 8: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 9: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'",
+        "step 10: Click on link projectResources (katalonWebsiteGit) -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 11: Click on button refreshScriptRepository -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
