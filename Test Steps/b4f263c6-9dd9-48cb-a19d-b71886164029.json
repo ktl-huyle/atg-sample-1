@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-project",
+        "step 4: Click on td projectDetails (object)",
+        "step 5: Click on td projectDetails (object)",
+        "step 6: Click on link testAutomationLinks (encompassOpsTestAutomation) -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 7: Click on button refreshScriptRepository",
+        "step 8: Click on button object",
+        "step 9: Click on button scheduleTestRun",
+        "step 10: Schedule a test run with selected active tunnels and environments.",
+        "step 11: Click on span settings",
+        "step 12: Click on link organizationSetupConfigure -> Navigate to page 'organization/*/settings/agent'",
+        "step 13: Click on link agentSetup -> Navigate to page 'team/*/project/*/*'",
+        "step 14: Click on button scheduleTestRun",
+        "step 15: Schedule a test run with selected active tunnels and environments.",
+        "step 16: Click on link viewEppsAutomationTest -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 17: Click on header testRunDetails (object) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

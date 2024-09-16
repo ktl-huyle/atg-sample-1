@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 4: Click on div testDetails (webs)",
+        "step 5: Click on button uploadedDataActions (uploadedDataTestCases) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on span objectElements (object3)",
+        "step 7: Click on span objectDetails (object12)",
+        "step 8: Click on span objectElements (object18)",
+        "step 9: Click on span objectElements (object19)",
+        "step 10: Click on span objectElements (object20)",
+        "step 11: Click on span testCaseLabels (object21)",
+        "step 12: Click on span objectElements (object22)",
+        "step 13: Click on span objectElements (object23)",
+        "step 14: Click on span objectDetails (object24)",
+        "step 15: Click on span objectElements (object25)",
+        "step 16: Click on div sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 17: Click on div testDetails (sanityS) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

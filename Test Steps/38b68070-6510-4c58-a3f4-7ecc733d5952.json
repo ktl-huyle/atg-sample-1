@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link noDataProjects (bBhtIpExecution) -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on link tests5 -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on div testCaseDetails (uploadedData)",
+        "step 7: Click on span testCaseLabels (katalonStudioTestCasesLabelCaretDown)",
+        "step 8: Click on span objectElements (object13)",
+        "step 9: Click on span objectElements (object14)",
+        "step 10: Click on span objectElements (object15)",
+        "step 11: Click on div testCaseDetails (countyDemographicsAnd)",
+        "step 12: Click on link testLinks (insuranceDemographics) -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 13: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'",
+        "step 14: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 15: Click on link testLinks (523) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 16: Click on button pushToXray",
+        "step 17: Click on div selectNth1",
+        "step 18: Click on button closeDialogButton",
+        "step 19: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 20: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'",
+        "step 21: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}

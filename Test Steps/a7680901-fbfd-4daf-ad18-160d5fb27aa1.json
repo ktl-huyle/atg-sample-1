@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*",
+        "step 4: Click on link testRuns4",
+        "step 5: Schedule multiple test runs with server URL and environment settings.",
+        "step 6: Click on div object4",
+        "step 7: Click on div testRunDetails (object5)",
+        "step 8: Click on div testRunDetails (object6)",
+        "step 9: Click on div testRunDetails (object5)",
+        "step 10: Click on button object",
+        "step 11: Click on link reports -> Navigate to page 'team/*/project/*/*'",
+        "step 12: Click on link testRuns5",
+        "step 13: Click on div allTestRunsNth0",
+        "step 14: Click on label testResults (failed)",
+        "step 15: Click on label testResults (passed)",
+        "step 16: Click on label testResults (failed2)",
+        "step 17: Click on label testResults (failed3)",
+        "step 18: Click on button deleteAction (delete)",
+        "step 19: Click on div object42",
+        "step 20: Click on link executions7 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}
