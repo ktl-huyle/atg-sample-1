@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link noDataProjects (b2Bsas2NoData) -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on link createRelease",
+        "step 6: Click on link executions4 -> Navigate to page 'team/*/project/*/*'",
+        "step 7: Click on link reports3",
+        "step 8: Click on link settings2",
+        "step 9: Click on link projectNavigation (scriptRepositories3)",
+        "step 10: Click on link projectNavigation (testEnvironments2)",
+        "step 11: Click on list object",
+        "step 12: Click on link kubernetes -> Navigate to page 'team/*/project/*/agent/*'",
+        "step 13: Click on link circleCi",
+        "step 14: Click on link testCloud -> Navigate to page 'team/*/project/*/agent/test-cloud'",
+        "step 15: Click on link integrations -> Navigate to page 'team/*/project/*/*'",
+        "step 16: Click on div object9",
+        "step 17: Click on link projectNavigation (testCloudTunnels)",
+        "step 18: Click on button setupTunnels (setup)",
+        "step 19: Click on link projectNavigation (customFields)",
+        "step 20: Click on link dashboard -> Navigate to page 'team/*/project/*'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

@@ -3,9 +3,9 @@ package katalon.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import internal.GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable
 
 public class scheduleTestRunFromProjectSettings {
     
@@ -28,7 +28,7 @@ public class scheduleTestRunFromProjectSettings {
         "Step 4: Click on link oracleJde -> Navigate to page 'team/*/project/*/test-project/*'"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project/link_oracleJde"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_oracleJde', ['link_oracleJde_trNthChild': data['link_oracleJde_trNthChild'], 'link_oracleJde_internalRoleLinkName': data['link_oracleJde_internalRoleLinkName'], 'link_oracleJde_test_project_id': data['link_oracleJde_test_project_id'], 'link_oracleJde_team_id': data['link_oracleJde_team_id'], 'link_oracleJde_project_id': data['link_oracleJde_project_id']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_oracleJde', ['link_oracleJde_trNthChild': data['link_oracleJde_trNthChild'], 'link_oracleJde_internalRoleLinkName': data['link_oracleJde_internalRoleLinkName'], 'link_oracleJde_test_project_id': data['link_oracleJde_test_project_id'], 'link_oracleJde_project_id': data['link_oracleJde_project_id'], 'link_oracleJde_team_id': data['link_oracleJde_team_id']]))
         
         "Step 5: Click on button scheduleTestRun"
         

@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on button organizationManagement (dnex)",
+        "step 5: Click on button organizationManagement (dnex2)",
+        "step 6: Click on button organizationManagement (dnex)",
+        "step 7: Click on div organizationDetails (object10)",
+        "step 8: Click on span settings",
+        "step 9: Click on link organizationSettings (testOpsHomepage)",
+        "step 10: Click on span downloadKatalonPackage",
+        "step 11: Click on button objectActions (ai2)",
+        "step 12: Click on div object3",
+        "step 13: Click on button objectActions (ai2)",
+        "step 14: Click on div object3",
+        "step 15: Click on button settings",
+        "step 16: Click on div object3",
+        "step 17: Click on span downloadKatalonPackage",
+        "step 18: Click on button settings",
+        "step 19: Click on div object3",
+        "step 20: Click on span organizationDetails (object)",
+        "step 21: Click on div organizationDetails (currentMomyOrganization01)",
+        "step 22: Click on link noDataProjects (ktKatalonTutorial) -> Navigate to page 'team/*/project/*'",
+        "step 23: Click on button projectActions (katalonTutorial)",
+        "step 24: Click on link dnex -> Navigate to page 'organization/*/home'",
+        "step 25: Click on button organizationManagement (dnex)",
+        "step 26: Click on link organizationLinks (dnex)",
+        "step 27: Click on link noDataProjects (ktKatalonTutorial) -> Navigate to page 'team/*/project/*'",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}

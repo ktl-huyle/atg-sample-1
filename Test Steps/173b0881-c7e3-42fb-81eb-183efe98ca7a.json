@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/*",
+        "step 4: Click on link projectNavigation (testCloudTunnels2)",
+        "step 5: Click on link projectNavigation (general)",
+        "step 6: Click on span settings",
+        "step 7: Click on div objectComponents (object41)",
+        "step 8: Click on link projectNavigation (testCloudTunnels3)",
+        "step 9: Click on button setupTunnels (setup)",
+        "step 10: Download data related to test executions.",
+        "step 11: Click on link projectNavigation (integrations)",
+        "step 12: Click on link projectNavigation (testCloudTunnels3)",
+        "step 13: Click on button setupTunnels (setup)",
+        "step 14: Click on button setupTunnels (tunnels)",
+        "step 15: Click on link projectNavigation (scriptRepositories2)",
+        "step 16: Click on link externalResources (oracleJde) -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 17: Click on link testCloudTunnels",
+        "step 18: Click on button scheduleTestRun",
+        "step 19: Schedule a test run with selected active tunnels and environments.",
+        "step 20: Click on link testRunViews (viewCdcTestRun)",
+        "step 21: Click on button selectTestRun (selectRow)",
+        "step 22: Click on div objectComponents (object6)",
+        "step 23: Click on header projectObjects (object6)",
+        "step 24: Click on button sessions3",
+        "step 25: Click on button sessions1",
+        "step 26: Click on button object5 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
+        "step 27: Click on pre objectDetails (object) -> Navigate to page ''",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}
