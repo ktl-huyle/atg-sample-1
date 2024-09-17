@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on pre failedTestCases (errorSendMessage)",
+        "step 5: Interact with various UI elements and close dialogs",
+        "step 6: Click on div infoSidebarHeaderCloseButton",
+        "step 7: Click on div testRunsRequirementsTest",
+        "step 8: Click on button careContinuityPortalsDev",
+        "step 9: Click on div testRunsRequirementsTest -> Navigate to page ''",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}
