@@ -13,7 +13,7 @@
     <testCaseGuid>10c179c9-9272-4ede-8a7e-c0629864da0e</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>8cf241ba-1561-45d3-83db-750684b5b16c</id>
+        <id>896a76ed-f78e-40c6-8522-98c8b133112b</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/createNewApiKey-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>30b62ba4-f1fa-4ed3-b01b-8d333ab8482b</id>
+        <id>129e6345-f8e8-4615-94cc-07ba8dbdc095</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>d9511465-2747-4c70-966c-675c85b113a9</id>
+        <id>f823ee47-b09f-462d-bae9-3c26601a9c96</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>8cf241ba-1561-45d3-83db-750684b5b16c</testDataLinkId>
+        <testDataLinkId>896a76ed-f78e-40c6-8522-98c8b133112b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>30b62ba4-f1fa-4ed3-b01b-8d333ab8482b</variableId>
+        <variableId>129e6345-f8e8-4615-94cc-07ba8dbdc095</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>8cf241ba-1561-45d3-83db-750684b5b16c</testDataLinkId>
+        <testDataLinkId>896a76ed-f78e-40c6-8522-98c8b133112b</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>d9511465-2747-4c70-966c-675c85b113a9</variableId>
+        <variableId>f823ee47-b09f-462d-bae9-3c26601a9c96</variableId>
     </variableLinks>
 </TestCaseEntity>
