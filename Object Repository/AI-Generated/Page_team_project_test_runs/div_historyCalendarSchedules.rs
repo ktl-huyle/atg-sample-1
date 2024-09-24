@@ -34,6 +34,6 @@
         <name>id</name>
         <type>Main</type>
         <value>under-top-navbar</value>
-        <webElementGuid>ca8dfae5-121a-4977-9407-e8863ffe1568</webElementGuid>
+        <webElementGuid>54d71b38-8465-4fc8-b4ec-19069a7161b4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
