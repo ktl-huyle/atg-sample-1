@@ -34,6 +34,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>KeyboardArrowDownIcon</value>
-        <webElementGuid>63e9935d-c1e2-4565-a85b-37c6db194f74</webElementGuid>
+        <webElementGuid>e6944e04-c0d6-44b1-a441-63baa21fe4f5</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
