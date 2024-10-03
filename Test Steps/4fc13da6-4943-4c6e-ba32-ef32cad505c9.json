@@ -1,18 +1,18 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on button nk",
-        "step 3: Click on link viewProfile",
-        "step 4: Click on div object",
-        "step 5: Click on span settings",
-        "step 6: Click on div object",
-        "step 7: Click on span settings",
-        "step 8: Click on link testOpsHomepage",
-        "step 9: Click on div object2 -> Navigate to page 'team/*/project/*'",
-        "step 10: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'",
-        "step 11: Click on link settings2 -> Navigate to page 'team/*/project/*/settings'",
-        "step 12: Click on link settings",
-        "step 13: Click on button object -> Navigate to page ''",
+        "step 2: Click on button NK",
+        "step 3: Click on link ViewProfile",
+        "step 4: Click on div Backdrop",
+        "step 5: Click on span Settings",
+        "step 6: Click on div Backdrop",
+        "step 7: Click on span Settings",
+        "step 8: Click on link TestOpsHomepage",
+        "step 9: Click on div OrganizationLink -> Navigate to page 'team/*/project/*'",
+        "step 10: Click on link Executions3 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 11: Click on link Settings2 -> Navigate to page 'team/*/project/*/settings'",
+        "step 12: Click on link Settings",
+        "step 13: Click on button NotificationAction -> Navigate to page ''",
         "step 14: Take full page screenshot as checkpoint"
     ]
 }

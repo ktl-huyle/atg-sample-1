@@ -1,19 +1,19 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on link eEcoEhstestCases -> Navigate to page 'team/*/project/*'",
-        "step 3: Click on link testRuns",
-        "step 4: Schedule a test run with selected test suites and environments",
-        "step 5: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
-        "step 6: Click on link testSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
-        "step 7: Click on div object",
-        "step 8: Click on div testSuites",
-        "step 9: Click on div katalonCloud",
-        "step 10: Click on div uploadedData",
-        "step 11: Click on div testSuites2",
-        "step 12: Click on link executions",
-        "step 13: Schedule a test run with selected test suites and environments",
-        "step 14: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 2: Click on link EcoEHSExecution -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link Executions",
+        "step 4: Schedule a test run and configure the test environment",
+        "step 5: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on link TestSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 7: Click on div EHSTestAutomation",
+        "step 8: Click on div TestSuites",
+        "step 9: Click on div KatalonCloud",
+        "step 10: Click on div UploadedData",
+        "step 11: Click on div TestSuites2",
+        "step 12: Click on link Executions",
+        "step 13: Schedule a test run and configure the test environment",
+        "step 14: Click on link Reports -> Navigate to page 'team/*/project/*/overview'",
         "step 15: Take full page screenshot as checkpoint"
     ]
 }
