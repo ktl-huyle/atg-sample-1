@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div RightSidebar",
+        "step 5: Click on div ReportDefect",
+        "step 6: Interact with thumbnail images and handle error messages",
+        "step 7: Click on label FunctionsUpdates",
+        "step 8: Click on button Submit",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
