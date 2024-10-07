@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1308865/project/1328930/test-project</value>
-        <webElementGuid>e525c793-010e-4678-b447-40d1db3dbd08</webElementGuid>
+        <webElementGuid>07218aa0-0b40-498e-ae7c-71a1978bbc93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Script Repositories</value>
-        <webElementGuid>e525c793-010e-4678-b447-40d1db3dbd08</webElementGuid>
+        <webElementGuid>07218aa0-0b40-498e-ae7c-71a1978bbc93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Script Repositories</value>
-        <webElementGuid>e525c793-010e-4678-b447-40d1db3dbd08</webElementGuid>
+        <webElementGuid>07218aa0-0b40-498e-ae7c-71a1978bbc93</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

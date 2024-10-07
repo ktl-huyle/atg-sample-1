@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/api/v1/katone/page/profile</value>
-        <webElementGuid>e525c793-010e-4678-b447-40d1db3dbd08</webElementGuid>
+        <webElementGuid>07218aa0-0b40-498e-ae7c-71a1978bbc93</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>View Profile</value>
-        <webElementGuid>e525c793-010e-4678-b447-40d1db3dbd08</webElementGuid>
+        <webElementGuid>07218aa0-0b40-498e-ae7c-71a1978bbc93</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

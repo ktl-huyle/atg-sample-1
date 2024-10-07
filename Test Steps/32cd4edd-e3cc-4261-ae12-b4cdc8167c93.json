@@ -1,10 +1,10 @@
 {
     "steps": [
         "step 1: Navigate to user/*",
-        "step 2: Generate an API key for test automation and manage key settings",
-        "step 3: Click on button CellAction",
+        "step 2: Create a new API key for accessing the application.",
+        "step 3: Click on button Object",
         "step 4: Click on button ShowApiKey",
-        "step 5: Click on input Textbox",
+        "step 5: Click on input Object",
         "step 6: Click on input Password",
         "step 7: Click on button CopyToClipboard",
         "step 8: Click on button NK",
