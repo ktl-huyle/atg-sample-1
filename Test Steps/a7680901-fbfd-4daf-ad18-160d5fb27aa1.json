@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*",
+        "step 4: Click on link Executions2",
+        "step 5: Schedule a test run and execute the selected test suite.",
+        "step 6: Click on div RowGroup",
+        "step 7: Click on div dynamicObject (PrivateLocalTesting)",
+        "step 8: Click on div dynamicObject (ApiMediaFiles)",
+        "step 9: Click on div dynamicObject (PrivateLocalTesting)",
+        "step 10: Click on button Delete",
+        "step 11: Click on link Reports -> Navigate to page 'team/*/project/*/*'",
+        "step 12: Click on link TestRuns2",
+        "step 13: Click on div AllTestRuns",
+        "step 14: Click on label testSuiteResults (FailedCount)",
+        "step 15: Click on label testSuiteResults (PassedCount)",
+        "step 16: Click on label testSuiteResults (FailedApiMediaFiles)",
+        "step 17: Click on label testSuiteResults (FailedPrivateLocal)",
+        "step 18: Click on button deleteAction (Delete)",
+        "step 19: Click on button DeleteDialog",
+        "step 20: Click on link Executions3 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}
