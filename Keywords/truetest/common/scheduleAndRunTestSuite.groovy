@@ -14,133 +14,219 @@ public class scheduleAndRunTestSuite {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_ScheduleTestRun'))
         
-        "Step 2: Click on div UploadedData"
+        "Step 2: Click on link Refresh"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_UploadedData'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/link_Refresh'))
         
         "Step 3: Click on div TestSuites"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites'))
         
-        "Step 4: Click on link Executions"
+        "Step 4: Enter input value in input ReactSelectInput"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/link_Executions'))
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_ReactSelectInput'), data['input_ReactSelectInput'])
         
-        "Step 5: Enter input value in button ScheduleTestRun"
-        
-        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/button_ScheduleTestRun'), data['button_ScheduleTestRun'])
-        
-        "Step 6: Click on div TestSuites2"
+        "Step 5: Click on div TestSuites2"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites2'))
         
-        "Step 7: Click on div TestSuites3"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites3'))
-        
-        "Step 8: Click on div NameLabel"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_NameLabel'))
-        
-        "Step 9: Click on input Name"
+        "Step 6: Click on input Name"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'))
         
-        "Step 10: Click on div ScheduleTestRun"
+        "Step 7: Enter input value in input Name"
+        
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'), data['input_Name'])
+        
+        "Step 8: Click on div ScheduleTestRun"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRun'))
         
-        "Step 11: Click on div SelectEnvironment"
+        "Step 9: Click on div SelectEnvironment"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment'))
         
-        "Step 12: Click on div EnvironmentIcon"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_EnvironmentIcon'))
-        
-        "Step 13: Click on div Run"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_Run'))
-        
-        "Step 14: Click on div CustomizedMenu"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_CustomizedMenu'))
-        
-        "Step 15: Click on button Run"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run'))
-        
-        "Step 16: Click on div ReactSelectContainer"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ReactSelectContainer'))
-        
-        "Step 17: Click on item MoreOptions"
+        "Step 10: Click on item MoreOptions"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
         
-        "Step 18: Click on button MobileBrowsers"
+        "Step 11: Click on span ChromeHeadless"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_MobileBrowsers'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/span_ChromeHeadless'))
         
-        "Step 19: Click on span Android"
+        "Step 12: Click on div DesktopBrowsers"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/span_Android'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_DesktopBrowsers'))
         
-        "Step 20: Click on div Phone"
+        "Step 13: Click on div ExecutionProfile"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_Phone'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfile'))
         
-        "Step 21: Click on div AnyDeviceType"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_AnyDeviceType'))
-        
-        "Step 22: Click on div Phone"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_Phone'))
-        
-        "Step 23: Click on div GooglePixel6Pro"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_GooglePixel6Pro'))
-        
-        "Step 24: Click on div ConfigureTestEnvironment"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ConfigureTestEnvironment'))
-        
-        "Step 25: Click on div CancelSave"
-        
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_CancelSave'))
-        
-        "Step 26: Click on button Save"
+        "Step 14: Click on button Save"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
         
-        "Step 27: Click on button Run2"
+        "Step 15: Click on div ExecutionProfileList"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfileList'))
         
-        "Step 28: Click on button CloseDialog"
+        "Step 16: Click on div ScheduleTestRun2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_CloseDialog'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRun2'))
         
-        "Step 29: Click on button Close4"
+        "Step 17: Click on button Run"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Close4'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run'))
         
-        "Step 30: Click on button AlertAction"
+        "Step 18: Click on button ScheduleTestRun"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_AlertAction'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_ScheduleTestRun'))
+        
+        "Step 19: Click on div TestSuites"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites'))
+        
+        "Step 20: Enter input value in input ReactSelectInput2"
+        
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_ReactSelectInput2'), data['input_ReactSelectInput2'])
+        
+        "Step 21: Click on div TestSuitesOption"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuitesOption'))
+        
+        "Step 22: Click on div SelectEnvironment2"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment2'))
+        
+        "Step 23: Click on item MoreOptions"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
+        
+        "Step 24: Click on span ChromeHeadless"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/span_ChromeHeadless'))
+        
+        "Step 25: Click on label DesktopBrowsers"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/label_DesktopBrowsers'))
+        
+        "Step 26: Click on div ExecutionProfile"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfile'))
+        
+        "Step 27: Click on input IncludeApiCalls"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/input_IncludeApiCalls'))
+        
+        "Step 28: Click on div ActiveTunnels"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ActiveTunnels'))
+        
+        "Step 29: Click on div ReactSelectOption"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ReactSelectOption'))
+        
+        "Step 30: Click on button Save"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
+        
+        "Step 31: Click on div ExecutionProfileListContainer"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfileListContainer'))
+        
+        "Step 32: Click on div ScheduleTestRunOption"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunOption'))
+        
+        "Step 33: Click on input Name"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'))
+        
+        "Step 34: Enter input value in input Name"
+        
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'), data['input_Name'])
+        
+        "Step 35: Click on button Run"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run'))
+        
+        "Step 36: Click on button ScheduleTestRun"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_ScheduleTestRun'))
+        
+        "Step 37: Click on div TestSuites"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites'))
+        
+        "Step 38: Enter input value in input ReactSelectInput3"
+        
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_ReactSelectInput3'), data['input_ReactSelectInput3'])
+        
+        "Step 39: Click on div TestSuitesMediaFiles"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuitesMediaFiles'))
+        
+        "Step 40: Click on div SelectEnvironment"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment'))
+        
+        "Step 41: Click on item MoreOptions"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
+        
+        "Step 42: Click on div ChromeHeadless"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ChromeHeadless'))
+        
+        "Step 43: Click on div ExecutionProfile"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfile'))
+        
+        "Step 44: Click on button Save"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
+        
+        "Step 45: Click on div ExecutionProfileList"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ExecutionProfileList'))
+        
+        "Step 46: Click on div ScheduleTestRunStaging"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunStaging'))
+        
+        "Step 47: Click on input Name"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'))
+        
+        "Step 48: Enter input value in input Name"
+        
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'), data['input_Name'])
+        
+        "Step 49: Click on button Run"
+        
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        data['button_ScheduleTestRun'] = testData.getValue('button_ScheduleTestRun', rowIndex)
+        data['input_Name'] = testData.getValue('input_Name', rowIndex)
+        data['input_Name_1'] = testData.getValue('input_Name_1', rowIndex)
+        data['input_Name_2'] = testData.getValue('input_Name_2', rowIndex)
+        data['input_ReactSelectInput'] = testData.getValue('input_ReactSelectInput', rowIndex)
+        data['input_ReactSelectInput2'] = testData.getValue('input_ReactSelectInput2', rowIndex)
+        data['input_ReactSelectInput3'] = testData.getValue('input_ReactSelectInput3', rowIndex)
         execute_functional_method(data)
     }
     
     private static def execute_without_data_source() {
         Map data = [:]
-        data['button_ScheduleTestRun'] = 'default_data'
+        data['input_Name'] = 'default_data'
+        data['input_Name_1'] = 'default_data'
+        data['input_Name_2'] = 'default_data'
+        data['input_ReactSelectInput'] = 'default_data'
+        data['input_ReactSelectInput2'] = 'default_data'
+        data['input_ReactSelectInput3'] = 'default_data'
         execute_functional_method(data)
     }
     

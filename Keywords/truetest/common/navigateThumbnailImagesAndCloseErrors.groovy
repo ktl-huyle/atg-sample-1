@@ -3,9 +3,9 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class navigateThumbnailImagesAndCloseErrors {
     
@@ -13,7 +13,7 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 1: Click on div ThumbnailImage"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
         
         "Step 2: Click on button Close"
         
@@ -21,11 +21,11 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 3: Click on div RightSidebar"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_RightSidebar'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_RightSidebar2'))
         
         "Step 4: Click on div ThumbnailImage"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
         
         "Step 5: Click on image thumbnail (ThumbnailImage)"
         
@@ -46,7 +46,7 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 9: Click on div ThumbnailImage"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
         
         "Step 10: Click on button Close"
         
@@ -54,7 +54,7 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 11: Click on div ThumbnailImage"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
         
         "Step 12: Click on button Close"
         
@@ -74,7 +74,7 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 16: Click on div ThumbnailImage"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
         
         "Step 17: Click on button Close"
         
