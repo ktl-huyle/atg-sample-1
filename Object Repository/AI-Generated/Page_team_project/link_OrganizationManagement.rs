@@ -36,7 +36,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/api/v1/katone/page/organization/126616/management</value>
-        <webElementGuid>4b376b95-d055-443e-8138-f15fda45f944</webElementGuid>
+        <webElementGuid>2903dfbd-d85d-43a5-b097-c1969bf0723c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
         <name>id</name>
         <type>Main</type>
         <value>organization-management</value>
-        <webElementGuid>4b376b95-d055-443e-8138-f15fda45f944</webElementGuid>
+        <webElementGuid>2903dfbd-d85d-43a5-b097-c1969bf0723c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
         <value>Organization Management
         
         Edit organization information and manage security.</value>
-        <webElementGuid>4b376b95-d055-443e-8138-f15fda45f944</webElementGuid>
+        <webElementGuid>2903dfbd-d85d-43a5-b097-c1969bf0723c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Edit organization information and manage security.</value>
-        <webElementGuid>4b376b95-d055-443e-8138-f15fda45f944</webElementGuid>
+        <webElementGuid>2903dfbd-d85d-43a5-b097-c1969bf0723c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
