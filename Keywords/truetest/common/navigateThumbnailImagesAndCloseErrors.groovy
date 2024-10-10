@@ -4,8 +4,8 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class navigateThumbnailImagesAndCloseErrors {
     
@@ -21,7 +21,7 @@ public class navigateThumbnailImagesAndCloseErrors {
         
         "Step 3: Click on div RightSidebar"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_RightSidebar2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_RightSidebar'))
         
         "Step 4: Click on div ThumbnailImage"
         
