@@ -12,15 +12,15 @@ public class configureTestSuiteSettings {
         
         "Step 1: Click on input Name"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/input_Name'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/input_Name_1'))
         
         "Step 2: Click on input Name"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/input_Name'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/input_Name_1'))
         
         "Step 3: Enter input value in input Name"
         
-        WebUI.setText(findTestObject('AI-Generated/Page_team_project/input_Name'), data['input_Name'])
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project/input_Name_1'), data['input_Name'])
         
         "Step 4: Click on div TestSuiteControl"
         
@@ -68,7 +68,7 @@ public class configureTestSuiteSettings {
         
         "Step 15: Click on button Save"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/button_Save_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/button_Save'))
         
         "Step 16: Click on button AdvancedSettings"
         
