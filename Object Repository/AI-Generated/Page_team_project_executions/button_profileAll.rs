@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Profile: All</value>
-        <webElementGuid>459e1301-3e6d-40f1-9eff-bd9a431bbd08</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>459e1301-3e6d-40f1-9eff-bd9a431bbd08</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

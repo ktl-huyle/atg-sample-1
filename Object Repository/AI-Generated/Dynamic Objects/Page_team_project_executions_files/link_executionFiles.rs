@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://testops.katalon.io/api/v1/files/1114483732</value>
-        <webElementGuid>fddb1b6f-3b95-496a-838b-544cb67ba3ec</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>20240821_125102/Maintenance/API/LocalPayments/LocalPayments-01/20240821_125108/20240821_125108.html</value>
-        <webElementGuid>fddb1b6f-3b95-496a-838b-544cb67ba3ec</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

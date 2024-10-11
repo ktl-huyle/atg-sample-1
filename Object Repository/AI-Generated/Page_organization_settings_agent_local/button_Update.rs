@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>agent-update</value>
-        <webElementGuid>e5815066-b3bd-4740-9173-60e11828cc54</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Update</value>
-        <webElementGuid>e5815066-b3bd-4740-9173-60e11828cc54</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>e5815066-b3bd-4740-9173-60e11828cc54</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

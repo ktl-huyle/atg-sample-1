@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>react-select-3-input</value>
-        <webElementGuid>fddb1b6f-3b95-496a-838b-544cb67ba3ec</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>fddb1b6f-3b95-496a-838b-544cb67ba3ec</webElementGuid>
+        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
