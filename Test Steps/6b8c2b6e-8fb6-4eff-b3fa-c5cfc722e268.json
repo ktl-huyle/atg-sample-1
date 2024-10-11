@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/*",
+        "step 4: Click on link Executions3",
+        "step 5: Click on div transactionHistory (SGDPSp2)",
+        "step 6: Click on button CloseButton",
+        "step 7: Click on header testRun (SGDPSp2)",
+        "step 8: Click on button Sessions",
+        "step 9: Click on header testRun (TestCaseHeading)",
+        "step 10: Click on div transactionHistory (QRPay)",
+        "step 11: Click on div transactionHistory (CheckTransactionHistory)",
+        "step 12: Click on div transactionHistory (CheckTransactionHistory2)",
+        "step 13: Click on button Close",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}

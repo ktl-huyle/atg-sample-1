@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/*",
+        "step 4: Click on link projectNavigation (TestCloudTunnels)",
+        "step 5: Click on link projectNavigation (General)",
+        "step 6: Click on span Settings",
+        "step 7: Click on div menu (Backdrop)",
+        "step 8: Click on link projectNavigation (TestCloudTunnels2)",
+        "step 9: Click on button teamSetup (Setup)",
+        "step 10: Download API key configuration and settings",
+        "step 11: Click on link projectNavigation (Integrations)",
+        "step 12: Click on link projectNavigation (TestCloudTunnels2)",
+        "step 13: Click on button teamSetup (Setup)",
+        "step 14: Click on button teamSetup (Tunnels)",
+        "step 15: Click on link projectNavigation (ScriptRepositories2)",
+        "step 16: Click on link dynamicObject (OracleJDE) -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 17: Click on div RepositoryURL",
+        "step 18: Click on button ScheduleTestRun",
+        "step 19: Schedule a test run with configuration and environment selection",
+        "step 20: Click on link testRunNavigation (ViewCdcTestRun)",
+        "step 21: Click on button rowSelection (SelectRow)",
+        "step 22: Click on div menu (PopoverBackdrop)",
+        "step 23: Click on header testRun (CdcTestRun)",
+        "step 24: Click on button Sessions2",
+        "step 25: Click on button Sessions3",
+        "step 26: Click on button GoToDetails -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
+        "step 27: Click on pre logInfo (LogTimestamp) -> Navigate to page ''",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}
