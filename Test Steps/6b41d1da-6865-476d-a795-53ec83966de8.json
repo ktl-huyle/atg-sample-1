@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 4: Click on link ProjectExecutionDetails -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on pre errorMessages (FailedTestCase)",
+        "step 6: Navigate through thumbnail images and close them repeatedly.",
+        "step 7: Click on button Close -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 8: Click on div TestRunsConfiguration",
+        "step 9: Click on link ProjectExecutionDetails -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 10: Click on div failedPreRequisites (FailedPreRequisite)",
+        "step 11: Click on div failedPreRequisites (FailedPreRequisite2)",
+        "step 12: Navigate through thumbnail images and close them repeatedly.",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}
