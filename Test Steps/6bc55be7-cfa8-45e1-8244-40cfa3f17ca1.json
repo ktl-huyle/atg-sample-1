@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/web-services",
+        "step 4: Click on button BDDPOC",
+        "step 5: Click on link MyOrganization01 -> Navigate to page 'organization/*/home'",
+        "step 6: Click on link projectNavigation (BPBDDPOCNoData) -> Navigate to page 'team/*/project/*'",
+        "step 7: Click on button projectAction (BDDPOC)",
+        "step 8: Click on link Settings3 -> Navigate to page 'team/*/project/*/settings'",
+        "step 9: Click on label EnableBDDReports",
+        "step 10: Click on button Save",
+        "step 11: Click on div AssertionPattern",
+        "step 12: Click on link Integrations -> Navigate to page 'team/*/project/*/integrations'",
+        "step 13: Click on div integrationTool (KatalonStudio)",
+        "step 14: Click on div integrationTool (ALMTestManagement)",
+        "step 15: Click on div integrationTool (MobileDeviceTesting)",
+        "step 16: Click on div integrationTool (Kobiton)",
+        "step 17: Click on div integrationTool (TestingFramework) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

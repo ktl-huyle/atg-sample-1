@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 4: Click on div dynamicObject (web)",
+        "step 5: Click on button dynamicObject (uploadedData) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on span treeSwitcher (Icon2)",
+        "step 7: Click on span treeSwitcher (TreeSwitcher9)",
+        "step 8: Click on span treeSwitcher (TreeSwitcherIcon4)",
+        "step 9: Click on span treeSwitcher (TreeSwitcherIcon5)",
+        "step 10: Click on span treeSwitcher (treeSwitcherIcon)",
+        "step 11: Click on span treeSwitcher (treeSwitcherIcon2)",
+        "step 12: Click on span treeSwitcher (TreeSwitcher10)",
+        "step 13: Click on span treeSwitcher (treeSwitcherIcon3)",
+        "step 14: Click on span treeSwitcher (treeSwitcher)",
+        "step 15: Click on span treeSwitcher (treeSwitcherIcon4)",
+        "step 16: Click on div sanityLabel -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 17: Click on div dynamicObject (sanityLabel2) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

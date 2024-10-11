@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link testRunDetails (ExecutionDetails) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on div LoadingSpinner",
+        "step 6: Click on div LoadingSpinner",
+        "step 7: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/overview'",
+        "step 8: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/executions'",
+        "step 9: Click on label failedExecution (FailedExecution)",
+        "step 10: Click on label failedExecution (FailedExecution2)",
+        "step 11: Click on label failedExecution (FailedExecution3)",
+        "step 12: Click on button Delete",
+        "step 13: Delete failed test executions from the execution list",
+        "step 14: Click on link TestRuns6 -> Navigate to page 'team/*/project/*/overview'",
+        "step 15: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/executions'",
+        "step 16: Click on button deleteExecution",
+        "step 17: Delete failed test executions from the execution list",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}
