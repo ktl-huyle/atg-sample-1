@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div failedTestMessages (FailedC17094)",
+        "step 5: Click on link object -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
+        "step 6: Click on item object",
+        "step 7: Click on item object2 -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}
