@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-runs",
+        "step 4: Click on div ExecutionProfile",
+        "step 5: Click on button Save",
+        "step 6: Click on div ExecutionProfileList",
+        "step 7: Click on div ScheduleTestRunStaging",
+        "step 8: Click on input Name",
+        "step 9: Enter input value in input Name",
+        "step 10: Click on button Run",
+        "step 11: Click on div RowGroup",
+        "step 12: Click on div testingOptions (PrivateLocalTesting)",
+        "step 13: Click on div testingOptions (ApiMediaFiles)",
+        "step 14: Click on div testingOptions (PrivateLocalTesting)",
+        "step 15: Click on button Delete",
+        "step 16: Click on link Reports -> Navigate to page 'team/*/project/*/*'",
+        "step 17: Click on link TestRuns",
+        "step 18: Click on div AllTestRuns",
+        "step 19: Click on label testResultsSummary (FailedCount)",
+        "step 20: Click on label testResultsSummary (PassedCount)",
+        "step 21: Click on label testResultsSummary (FailedApiMediaFiles)",
+        "step 22: Click on label testResultsSummary (FailedPrivateLocal)",
+        "step 23: Click on button deleteAction (Delete)",
+        "step 24: Click on button DeleteDialog",
+        "step 25: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}
