@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>mark-status-button</value>
-        <webElementGuid>5408dd69-6eb3-4fa5-9be7-a7619ce80657</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Mark as Passed</value>
-        <webElementGuid>5408dd69-6eb3-4fa5-9be7-a7619ce80657</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Mark as Passed</value>
-        <webElementGuid>5408dd69-6eb3-4fa5-9be7-a7619ce80657</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>5408dd69-6eb3-4fa5-9be7-a7619ce80657</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

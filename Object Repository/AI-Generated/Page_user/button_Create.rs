@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Create</value>
-        <webElementGuid>49c16cf6-5be9-4d36-b116-425aeafffc4f</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>49c16cf6-5be9-4d36-b116-425aeafffc4f</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

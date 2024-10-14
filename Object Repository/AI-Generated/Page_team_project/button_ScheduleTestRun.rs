@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>open-schedule-dialog</value>
-        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Schedule Test Run</value>
-        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Schedule Test Run</value>
-        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>75bde0d5-87f6-49d1-ae8a-ce0a79e91ffe</webElementGuid>
+        <webElementGuid>d0f22fd0-4063-475e-a69c-a09ee67e4bf1</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
