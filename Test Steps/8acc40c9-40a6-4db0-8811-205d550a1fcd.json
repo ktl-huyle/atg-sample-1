@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/organization/*/home'",
+        "step 3: Navigate to /organization/*/home",
+        "step 4: Click on div RecentProjects",
+        "step 5: Click on link testItems (Test) -> Navigate to page '/team/*/project/*/executions/*'",
+        "step 6: Click on td CoordinatorCore",
+        "step 7: Click on link testSuites (testSuites) -> Navigate to page '/team/*/project/*/test-design/test-suites/*'",
+        "step 8: Click on link testSuites (CoordinatorCore) -> Navigate to page '/team/*/project/*/executions/*'",
+        "step 9: Click on tr PassedCoordinatorCore",
+        "step 10: Click on td Duration -> Navigate to page ''",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

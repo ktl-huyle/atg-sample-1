@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 3: Navigate to /team/*/project/*/test-runs",
+        "step 4: Click on link Executions",
+        "step 5: Click on link Executions",
+        "step 6: Click on link Schedules -> Navigate to page '/team/*/project/*/grid'",
+        "step 7: Click on link Settings -> Navigate to page '/team/*/project/*/settings'",
+        "step 8: Click on link TestEnvironments -> Navigate to page '/team/*/project/*/agent'",
+        "step 9: Click on link ScriptRepositories -> Navigate to page '/team/*/project/*/test-project'",
+        "step 10: Click on link Executions2 -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}
