@@ -1,0 +1,28 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 3: Navigate to /team/*/project/*/test-runs",
+        "step 4: Click on link Executions2",
+        "step 5: Click on link Executions2",
+        "step 6: Click on link Executions2",
+        "step 7: Click on link Executions2",
+        "step 8: Click on div testRunDetails (UntitledTestRun3)",
+        "step 9: Click on div testRunDetails (UntitledTestRun4)",
+        "step 10: Click on header testRunTitles (UntitledTestRun)",
+        "step 11: Click on button Details2",
+        "step 12: Click on button TestRunDetail",
+        "step 13: Click on div dynamicObject (popoverBackdrop)",
+        "step 14: Click on div UntitledTestRun5",
+        "step 15: Click on div UntitledTestRun5",
+        "step 16: Click on div UntitledTestRun5",
+        "step 17: Click on div MuiPaper",
+        "step 18: Click on div MuiPaper",
+        "step 19: Click on button TestRunDetail",
+        "step 20: Click on div dynamicObject (popoverBackdrop)",
+        "step 21: Click on div MuiPaper",
+        "step 22: Click on button SessionsTab",
+        "step 23: Click on button FailedTestResultsTab -> Navigate to page ''",
+        "step 24: Take full page screenshot as checkpoint"
+    ]
+}
