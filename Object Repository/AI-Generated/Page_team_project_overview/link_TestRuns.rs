@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1200803/project/1219581/executions</value>
-        <webElementGuid>6743b747-6a70-4bbe-91a6-d90d81227f0e</webElementGuid>
+        <webElementGuid>2ec08f41-6126-4c29-9823-9512ab5a6c2a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Runs</value>
-        <webElementGuid>6743b747-6a70-4bbe-91a6-d90d81227f0e</webElementGuid>
+        <webElementGuid>2ec08f41-6126-4c29-9823-9512ab5a6c2a</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
