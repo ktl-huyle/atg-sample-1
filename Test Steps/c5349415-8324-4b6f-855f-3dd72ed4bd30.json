@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/{*}/project/{*}/executions/{*}",
+        "step 4: Click on div failedPrerequisites (failedCreateReverse)",
+        "step 5: Click on div failedQueries (failedQueryIndex)",
+        "step 6: Click on div failedQueries (failedFilterClaims)",
+        "step 7: View thumbnail images and close the image viewer multiple times",
+        "step 8: Click on button Close3 -> Navigate to page 'organization home#organization/{*}/home'",
+        "step 9: Click on link TestExecution 750",
+        "step 10: Click on link testExecution (TestExecution2) -> Navigate to page 'team project executions#team/{*}/project/{*}/executions/{*}'",
+        "step 11: Click on div failedQueries (failedCreateReverse2)",
+        "step 12: View thumbnail images and close the image viewer multiple times",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

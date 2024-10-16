@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/{*}/project/{*}/{*}/{*}/{*}",
+        "step 4: Click on div sanityCheck (Web)",
+        "step 5: Click on button UploadedData -> Navigate to page 'team project#team/{*}/project/{*}/{*}/{*}'",
+        "step 6: Click on span treeSwitcherIcons (AntIcon)",
+        "step 7: Click on span treeSwitcher (TreeSwitcher)",
+        "step 8: Click on span treeSwitcherIcons (CaretDown5)",
+        "step 9: Click on span treeSwitcherIcons (CaretDown6)",
+        "step 10: Click on span treeSwitcherIcons (treeSwitcherIcon)",
+        "step 11: Click on span treeSwitcherIcons (treeSwitcherIcon2)",
+        "step 12: Click on span treeSwitcherIcons (treeSwitcherIcon3)",
+        "step 13: Click on span treeSwitcherIcons (treeSwitcherIcon4)",
+        "step 14: Click on span treeSwitcher (treeSwitcher)",
+        "step 15: Click on span treeSwitcherIcons (treeSwitcherIcon5)",
+        "step 16: Click on div sanityLabel -> Navigate to page 'team project details#team/{*}/project/{*}/{*}/{*}/{*}'",
+        "step 17: Click on div sanityCheck (sanityLabel) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}
