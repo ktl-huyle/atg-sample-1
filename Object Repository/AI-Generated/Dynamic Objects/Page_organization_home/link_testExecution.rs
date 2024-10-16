@@ -15,12 +15,12 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'/team/2966/project/442437/executions/3827') and equals(@text,'#3827
+            <value>//*[equals(@href,'/team/2966/project/442437/executions/3826') and equals(@text,'#3826
             CC
              Portals Smoke Test
              default
-            36 mins ago
-              (8m 10s)')]</value>
+            9 mins ago
+              (7m 31s)')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -38,20 +38,20 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>/team/2966/project/442437/executions/3827</value>
-        <webElementGuid>2b81bc2c-55e7-4df9-ac75-55ee9b5c9f16</webElementGuid>
+        <value>/team/2966/project/442437/executions/3826</value>
+        <webElementGuid>c7a6f304-a732-46b5-87d5-0d2c7a0f5e45</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>#3827
+        <value>#3826
         CC
          Portals Smoke Test
          default
-        36 mins ago
-          (8m 10s)</value>
-        <webElementGuid>2b81bc2c-55e7-4df9-ac75-55ee9b5c9f16</webElementGuid>
+        9 mins ago
+          (7m 31s)</value>
+        <webElementGuid>c7a6f304-a732-46b5-87d5-0d2c7a0f5e45</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
