@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/{*}/home",
+        "step 4: Click on link organizationItems (FirstProject) -> Navigate to page 'team project#team/{*}/project/{*}'",
+        "step 5: Click on link Executions",
+        "step 6: Schedule a test run and execute the test suite with settings",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
