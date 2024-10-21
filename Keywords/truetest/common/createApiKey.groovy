@@ -6,41 +6,41 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-public class submitFunctionUpdates {
+public class createApiKey {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on div ThumbnailImage"
+        "Step 1: Click on button CreateApiKey"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_CreateApiKey'))
         
-        "Step 2: Click on button Close"
+        "Step 2: Click on input KeyName"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_Close'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/input_KeyName'))
         
-        "Step 3: Click on div ThumbnailImage"
+        "Step 3: Enter input value in input KeyName"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_ThumbnailImage'))
+        WebUI.setText(findTestObject('AI-Generated/Page_user_apikey/input_KeyName'), data['input_KeyName'])
         
-        "Step 4: Click on label FunctionsUpdates"
+        "Step 4: Click on div CancelCreate"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/label_FunctionsUpdates'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/div_CancelCreate'))
         
-        "Step 5: Click on button Submit"
+        "Step 5: Click on button Create"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_Submit'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_Create'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        
+        data['input_KeyName'] = testData.getValue('input_KeyName', rowIndex)
         execute_functional_method(data)
     }
     
     private static def execute_without_data_source() {
         Map data = [:]
-        
+        data['input_KeyName'] = 'default_data'
         execute_functional_method(data)
     }
     

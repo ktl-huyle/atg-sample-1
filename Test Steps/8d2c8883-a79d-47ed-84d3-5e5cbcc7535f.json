@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /organization/*/home",
+        "step 4: Click on div UserflowModalBackdrop -> Navigate to page '/team/*/project/*'",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}

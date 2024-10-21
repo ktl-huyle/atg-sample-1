@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /organization/*/home",
+        "step 4: Click on link projectLinks (OracleJDE) -> Navigate to page '/team/*/project/*'",
+        "step 5: Click on link Settings -> Navigate to page '/team/*/project/*/settings'",
+        "step 6: Click on link ScriptRepositories2 -> Navigate to page '/team/*/project/*/test-project'",
+        "step 7: Click on link testProjects (OracleJDE) -> Navigate to page '/team/*/project/*/test-project/*'",
+        "step 8: Click on button ScheduleTestRun",
+        "step 9: Run a test suite with advanced configuration options",
+        "step 10: Click on link Settings",
+        "step 11: Setup and download the test cloud tunnel configuration",
+        "step 12: Click on button tunnelSetup (Setup) -> Navigate to page ''",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

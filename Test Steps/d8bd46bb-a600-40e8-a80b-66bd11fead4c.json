@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /organization/*/home",
+        "step 4: Click on link projectLinks (TestCaseDetails) -> Navigate to page '/team/*/project/*'",
+        "step 5: Click on link Reports -> Navigate to page '/team/*/project/*/overview'",
+        "step 6: Click on link TestRuns2 -> Navigate to page '/team/*/project/*/executions'",
+        "step 7: Click on link executionLinks (TestRun) -> Navigate to page '/team/*/project/*/executions/*'",
+        "step 8: Click on span errorMessages (ErrorMV011)",
+        "step 9: Click on div RightSidebar",
+        "step 10: Click on button failedLoginActions (FailedMV013) -> Navigate to page '/team/*/project/*/executions/*/test-result/*'",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}
