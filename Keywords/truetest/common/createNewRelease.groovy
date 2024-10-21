@@ -3,15 +3,15 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class createNewRelease {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on link CreateRelease -> Navigate to page 'team/*/project/*/releases/create'"
+        "Step 1: Click on link CreateRelease -> Navigate to page '/team/*/project/*/releases/create'"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_releases/link_CreateRelease'))
         
