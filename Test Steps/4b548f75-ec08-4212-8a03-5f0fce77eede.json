@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /team/*/project/*/executions/*",
+        "step 4: Click on div RightSidebar2",
+        "step 5: Click on div ReportDefect",
+        "step 6: Submit updates related to function changes",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
