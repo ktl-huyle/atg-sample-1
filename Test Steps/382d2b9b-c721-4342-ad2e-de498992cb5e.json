@@ -1,0 +1,29 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /organization/*/home",
+        "step 4: Click on link projectLinks (OracleJDE) -> Navigate to page '/team/*/project/*'",
+        "step 5: Click on link Settings -> Navigate to page '/team/*/project/*/settings'",
+        "step 6: Click on link ScriptRepositories2 -> Navigate to page '/team/*/project/*/test-project'",
+        "step 7: Click on link testProjects (OracleJDE) -> Navigate to page '/team/*/project/*/test-project/*'",
+        "step 8: Click on button ScheduleTestRun",
+        "step 9: Run a test suite with advanced configuration options",
+        "step 10: Click on link Tests -> Navigate to page '/team/*/project/*/test-design/test-cases'",
+        "step 11: Click on span treeSwitcherIcons (TreeSwitcher3)",
+        "step 12: Click on span treeSwitcherIcons (KatalonStudioTestCases)",
+        "step 13: Click on div testCases (TestCasesSection)",
+        "step 14: Click on input TestCaseCheckbox",
+        "step 15: Click on link Settings -> Navigate to page '/team/*/project/*/settings'",
+        "step 16: Click on link ScriptRepositories2 -> Navigate to page '/team/*/project/*/test-project'",
+        "step 17: Click on link testProjects (OracleJDE) -> Navigate to page '/team/*/project/*/test-project/*'",
+        "step 18: Click on button ScheduleTestRun",
+        "step 19: Run a test suite with advanced configuration options",
+        "step 20: Click on div SuccessMessage",
+        "step 21: Click on div UnderTopNavbar",
+        "step 22: Click on link testRunViews (ViewTestRun) -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 23: Click on div testRunCells (TestRunCell2)",
+        "step 24: Click on div testRunCells (TestRunCell2) -> Navigate to page ''",
+        "step 25: Take full page screenshot as checkpoint"
+    ]
+}

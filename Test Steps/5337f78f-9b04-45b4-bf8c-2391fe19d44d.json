@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /team/*/project/*/settings",
+        "step 4: Click on link Executions -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 5: Click on div testRunCells (TestRunCell)",
+        "step 6: Click on button Close",
+        "step 7: Click on header testRunTitles (TestRunHeading)",
+        "step 8: Click on button Sessions4",
+        "step 9: Click on header testRunTitles (TestCheckTransaction)",
+        "step 10: Click on div testRunCells (QRPayCell)",
+        "step 11: Click on div testRunCells (TestCheckTransaction)",
+        "step 12: Click on div testRunCells (TestCheckTransaction2)",
+        "step 13: Click on button Delete",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}
