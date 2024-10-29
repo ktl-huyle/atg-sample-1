@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to display list of items:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{item main or descendent item category id or slug}",
+        "step 2: Click on input SelectRow4",
+        "step 3: Click on input SelectRow5",
+        "step 4: Click on button Terminate",
+        "step 5: Click on button Confirm",
+        "step 6: Click on input SelectRow6",
+        "step 7: Click on input SelectRow7",
+        "step 8: Click on input SelectRow8",
+        "step 9: Click on button Terminate2",
+        "step 10: Click on button Confirm",
+        "step 11: Click on input SelectRow9",
+        "step 12: Click on button Terminate",
+        "step 13: Click on button Confirm -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}

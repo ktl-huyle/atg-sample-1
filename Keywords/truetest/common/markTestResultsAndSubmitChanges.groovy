@@ -10,29 +10,29 @@ public class markTestResultsAndSubmitChanges {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on button TestResultDetails7"
+        "Step 1: Click on button ExternalLink11"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails7'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/button_ExternalLink11'))
         
-        "Step 2: Click on button TestResultDetails8"
+        "Step 2: Click on button ExternalLink12"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails8'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/button_ExternalLink12'))
         
-        "Step 3: Click on button TestResultDetails9 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'"
+        "Step 3: Click on button ExternalLink13 -> Navigate to page 'display single item:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}'"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails9'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/button_ExternalLink13'))
         
         "Step 4: Click on button MarkAsPassed"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/button_MarkAsPassed'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/button_MarkAsPassed'))
         
         "Step 5: Click on label ChangeTestResultStatus"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/label_ChangeTestResultStatus'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/label_ChangeTestResultStatus'))
         
         "Step 6: Click on button Submit"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions_test_result/button_Submit'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_single_item_fixed_part_item_id_or_slug_fixed_part_item/button_Submit'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
