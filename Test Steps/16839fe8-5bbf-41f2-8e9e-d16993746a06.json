@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /*",
+        "step 4: Click on button Close",
+        "step 5: Click on link productImages (FlagHousePortableBowling)",
+        "step 6: Click on link Close -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}

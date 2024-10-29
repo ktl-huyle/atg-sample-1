@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /AjaxOrderItemDisplayView",
+        "step 4: Search items and input search terms again.",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}

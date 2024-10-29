@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /",
+        "step 4: Click on input SearchTerm",
+        "step 5: Click on input SearchTerm",
+        "step 6: Enter input value in input SearchTerm -> Navigate to page '/SearchDisplay'",
+        "step 7: Click on div HeaderRow",
+        "step 8: Click on input SearchTerm",
+        "step 9: Enter input value in input SearchTerm",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

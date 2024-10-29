@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /",
+        "step 4: Interact with the search term input and display results.",
+        "step 5: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'",
+        "step 6: Click on link Print",
+        "step 7: Click on input PrintWithImages",
+        "step 8: Click on link Print2 -> Navigate to page '/PrintOrderView'",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
