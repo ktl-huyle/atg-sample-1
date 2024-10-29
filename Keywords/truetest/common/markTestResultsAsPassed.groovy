@@ -3,24 +3,24 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class markTestResultsAsPassed {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on button TestResultDetails"
+        "Step 1: Click on button TestResultDetails7"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails7'))
         
-        "Step 2: Click on button TestResultDetails2"
+        "Step 2: Click on button TestResultDetails8"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails8'))
         
-        "Step 3: Click on button TestResultDetails3 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'"
+        "Step 3: Click on button TestResultDetails9 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails3'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/button_TestResultDetails9'))
         
         "Step 4: Click on button MarkAsPassed"
         
