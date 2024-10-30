@@ -3,32 +3,32 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class createApiKeyWithName {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on button CreateAPIKey"
+        "Step 1: Click on button CreateApiKey"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateAPIKey'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_form_fixed_part_fixed_page/button_CreateApiKey'))
         
         "Step 2: Click on input KeyName"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/input_KeyName'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_form_fixed_part_fixed_page/input_KeyName'))
         
         "Step 3: Enter input value in input KeyName"
         
-        WebUI.setText(findTestObject('AI-Generated/Page_user/input_KeyName'), data['input_KeyName'])
+        WebUI.setText(findTestObject('AI-Generated/Page_form_fixed_part_fixed_page/input_KeyName'), data['input_KeyName'])
         
         "Step 4: Click on div CancelCreate"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/div_CancelCreate'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_form_fixed_part_fixed_page/div_CancelCreate'))
         
         "Step 5: Click on button Create"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_Create'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_form_fixed_part_fixed_page/button_Create'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {

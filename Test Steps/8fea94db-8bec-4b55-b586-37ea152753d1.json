@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to display single item:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}",
-        "step 2: Mark test results and submit the changes",
+        "step 2: Mark test results and submit status changes",
         "step 3: Click on button MarkAsPassed",
         "step 4: Click on label ChangeTestResultStatus",
         "step 5: Click on button Submit",
@@ -15,7 +15,7 @@
         "step 13: Click on button ExternalLink5",
         "step 14: Click on button ExternalLink6",
         "step 15: Click on button ExternalLink7",
-        "step 16: Mark test results and submit the changes",
+        "step 16: Mark test results and submit status changes",
         "step 17: Click on button MarkAsPassed",
         "step 18: Click on label ChangeTestResultStatus",
         "step 19: Click on button Submit",

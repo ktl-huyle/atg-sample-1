@@ -4,7 +4,7 @@
         "step 2: Click on div APImediaFiles",
         "step 3: Click on div SortIDDescending",
         "step 4: Click on button CloseButton",
-        "step 5: Schedule a test run and configure the environment settings",
+        "step 5: Schedule a test run with various configurations and options",
         "step 6: Click on link Settings2 -> Navigate to page 'form:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{fixed page}'",
         "step 7: Click on link ScriptRepositories -> Navigate to page 'display single item:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{item id or slug}'",
         "step 8: Click on link KatalonWebsite -> Navigate to page 'display single item:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{item main or descendent item category id or slug}/{item id or slug}'",

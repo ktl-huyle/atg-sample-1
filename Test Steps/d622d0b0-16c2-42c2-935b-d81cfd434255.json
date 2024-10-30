@@ -11,7 +11,7 @@
         "step 9: Click on p Sessions",
         "step 10: Click on p TwoSessions",
         "step 11: Click on div PopoverBackdrop",
-        "step 12: Schedule a test run and configure the environment settings",
+        "step 12: Schedule a test run with various configurations and options",
         "step 13: Click on link EHSTestAutomation -> Navigate to page 'form:/{fixed part}/{item id or slug}/{fixed part}/{item id or slug}/{item main or descendent item category id or slug}/{item id or slug}/{fixed part}/{fixed page}'",
         "step 14: Click on div RefsHeadsDevelop",
         "step 15: Click on div RefsHeadsMain",
