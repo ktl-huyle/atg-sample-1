@@ -12,23 +12,23 @@ public class createApiKey {
         
         "Step 1: Click on button CreateApiKey"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_CreateApiKey'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateApiKey'))
         
         "Step 2: Click on input KeyName"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/input_KeyName'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/input_KeyName'))
         
         "Step 3: Enter input value in input KeyName"
         
-        WebUI.setText(findTestObject('AI-Generated/Page_user_apikey/input_KeyName'), data['input_KeyName'])
+        WebUI.setText(findTestObject('AI-Generated/Page_user/input_KeyName'), data['input_KeyName'])
         
         "Step 4: Click on div CancelCreate"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/div_CancelCreate'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/div_CancelCreate'))
         
         "Step 5: Click on button Create"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user_apikey/button_Create'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_Create'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
