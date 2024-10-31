@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1570311/project/1588984/test-design/test-cases/9005905-indi-1040-ss</value>
-        <webElementGuid>813799e0-3d49-4544-901a-7c4fbb511697</webElementGuid>
+        <webElementGuid>53177908-4ab6-4b02-8a02-db8eca96890d</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Cases/INDI 1040 SS</value>
-        <webElementGuid>813799e0-3d49-4544-901a-7c4fbb511697</webElementGuid>
+        <webElementGuid>53177908-4ab6-4b02-8a02-db8eca96890d</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

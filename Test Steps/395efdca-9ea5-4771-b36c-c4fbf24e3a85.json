@@ -11,7 +11,7 @@
         "step 9: Click on p Sessions",
         "step 10: Click on p TwoSessions",
         "step 11: Click on div PopoverBackdrop",
-        "step 12: Schedule test runs and configure environments for execution",
+        "step 12: Schedule a test run and configure the environment for execution",
         "step 13: Click on link TestProject2 -> Navigate to page 'team/*/project/*/test-project/*/git/edit'",
         "step 14: Click on div RefsHeads",
         "step 15: Click on div RefsHeadsMain",
