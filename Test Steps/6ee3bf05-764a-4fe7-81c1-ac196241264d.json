@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on link executionLinks (ExecutionDetails 652) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 2: Click on link testSuites (ExecutionDetails 652) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 3: Click on div LoadingSpinner",
         "step 4: Click on div LoadingSpinner",
         "step 5: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/overview'",

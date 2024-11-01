@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1389363/project/1408913/executions/7/files</value>
-        <webElementGuid>61619da5-60cf-44f9-a21a-ebf39412d725</webElementGuid>
+        <webElementGuid>4bd8cd83-0585-426b-aa20-217d311ec7f9</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Files</value>
-        <webElementGuid>61619da5-60cf-44f9-a21a-ebf39412d725</webElementGuid>
+        <webElementGuid>4bd8cd83-0585-426b-aa20-217d311ec7f9</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

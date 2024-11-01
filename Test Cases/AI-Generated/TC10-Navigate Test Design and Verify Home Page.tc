@@ -13,7 +13,7 @@
     <testCaseGuid>6c1735e1-6c8b-416f-a4e0-979bc2685b69</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>a1fcdf93-fdbc-4efd-bd1c-933698181daf</id>
+        <id>e6c15530-b132-4b3a-b4b6-cbeeb783da25</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,352 +23,352 @@
     <variable>
         <defaultValue>'MuiBackdrop-root\\ MuiBackdrop-invisible\\ MuiModal-backdrop\\ css-esi9ax'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4bbdd9d5-8558-4138-85d4-cbc00fd6006e</id>
+        <id>23a4154a-01d6-4098-b5a8-4b75fdd19ba0</id>
         <masked>false</masked>
-        <name>div_dynamicObject_class</name>
+        <name>div_backdropElements_class</name>
     </variable>
     <variable>
         <defaultValue>'Agendar Inventario Tomando En'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a516228a-282f-4098-8b03-6451e19712b4</id>
+        <id>4f01e75d-d3e9-4d2e-a5bb-c05a6397c1cb</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText</name>
+        <name>div_testCases_internalText</name>
     </variable>
     <variable>
         <defaultValue>'Mantenimiento Salas De Entrega'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>434c20b1-85b7-4a04-8fd0-5a5f65a586bd</id>
+        <id>c8af14f3-d859-4088-95e6-da7566d9847d</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText_1</name>
+        <name>div_testCases_internalText_1</name>
     </variable>
     <variable>
         <defaultValue>'Agendar Inventario Tomando En'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>2fb5ebed-a88a-4278-b5c9-ae7bdf4d1622</id>
+        <id>c7b04ca7-521d-485e-b1db-b95b0e0cd8a9</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText_2</name>
+        <name>div_testCases_internalText_2</name>
     </variable>
     <variable>
         <defaultValue>'Katalon Cloud'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4fda224b-c06e-4b80-8ff4-7288635567b5</id>
+        <id>19b7acae-670d-4b8c-b6d7-b9215b789d6a</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText_3</name>
+        <name>div_testCases_internalText_3</name>
     </variable>
     <variable>
         <defaultValue>'Agendar Inventario Tomando En'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>544a93aa-4a30-45dd-872d-25cda7d2daa7</id>
+        <id>c808451a-819b-47bc-b5c4-e0669f95e2a5</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText_4</name>
+        <name>div_testCases_internalText_4</name>
     </variable>
     <variable>
         <defaultValue>'Mantenimiento Salas De Entrega'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>2a37c649-a7a2-47fb-a6a1-da82c20e8a4f</id>
+        <id>8c6c0d9f-f048-4d9a-86e9-fc615775559e</id>
         <masked>false</masked>
-        <name>div_testCaseComponents_internalText_5</name>
+        <name>div_testCases_internalText_5</name>
     </variable>
     <variable>
         <defaultValue>'\uf3f4 Untitled Test Run #10 2024-'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>230837cd-bdcb-4218-9e92-531f9e9348ef</id>
+        <id>ca561b49-1669-426f-9eb2-f6988163f2bb</id>
         <masked>false</masked>
         <name>div_testRuns_internalRoleCellName</name>
     </variable>
     <variable>
         <defaultValue>'TS- Validacion Agendamiento Vehiculos Con Da\u00f1os Mayores'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>7fc02ab6-0e5d-4189-a16f-56d70b029e0b</id>
+        <id>5f18d56b-eb59-4995-a60e-acaaf29b34ae</id>
         <masked>false</masked>
-        <name>div_testSuiteComponents_internalText</name>
+        <name>div_testSuites_internalText</name>
     </variable>
     <variable>
         <defaultValue>'TS- Validacion Agendamiento Vehiculos Con Da\u00f1os Menores'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e9b85c27-53cc-4cd1-ba46-6deda15e0c2c</id>
+        <id>2d74f33e-7427-4c1c-a4ec-b6f71d075ef0</id>
         <masked>false</masked>
-        <name>div_testSuiteComponents_internalText_1</name>
+        <name>div_testSuites_internalText_1</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--lastVisible\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>85ed0a82-1526-4705-94fb-20cbe72b06f6</id>
+        <id>93799323-da17-471b-8a59-100fe24bf23d</id>
         <masked>false</masked>
-        <name>input_rowSelection_class</name>
+        <name>input_rowSelectionCheckbox_class</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>b51fa96a-a80b-4493-ba4c-c3dc6fff7ed4</id>
+        <id>c56b0c52-f67d-42a6-9ad1-499571a36f0e</id>
         <masked>false</masked>
-        <name>input_rowSelection_class_1</name>
+        <name>input_rowSelectionCheckbox_class_1</name>
     </variable>
     <variable>
         <defaultValue>'MuiButtonBase-root\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ PrivateSwitchBase-root\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ Mui-checked\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ MuiDataGrid-checkboxInput\\ css-zun73v"] &gt; [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e1b43b51-776b-495f-bfef-a6dfa6b4516a</id>
+        <id>a729552b-1236-494b-8b3c-3304f452414c</id>
         <masked>false</masked>
-        <name>input_rowSelection_class_2</name>
+        <name>input_rowSelectionCheckbox_class_2</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9733b878-2899-4c51-af5b-2368e2759d74</id>
+        <id>ec933873-ac37-497e-ad3a-0a1baa50b226</id>
         <masked>false</masked>
-        <name>input_rowSelection_class_3</name>
+        <name>input_rowSelectionCheckbox_class_3</name>
     </variable>
     <variable>
         <defaultValue>'MuiButtonBase-root\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ PrivateSwitchBase-root\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ Mui-checked\\ MuiCheckbox-root\\ MuiCheckbox-colorPrimary\\ MuiCheckbox-sizeMedium\\ MuiDataGrid-checkboxInput\\ css-zun73v"] &gt; [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c7c2bb00-41a0-4aec-8fae-ca5e8c62d149</id>
+        <id>669c521a-839b-40b3-9d48-7bc233b76d77</id>
         <masked>false</masked>
-        <name>input_rowSelection_class_4</name>
+        <name>input_rowSelectionCheckbox_class_4</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf058 Untitled Test'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>acbc9030-a655-4262-a1ab-5e67fd26e52b</id>
+        <id>a3e732b1-1fd1-43b4-8f1c-006ebb7a89c0</id>
         <masked>false</masked>
-        <name>input_rowSelection_internalRoleRowName</name>
+        <name>input_rowSelectionCheckbox_internalRoleRowName</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf057 Untitled Test Run #9 2024-08-21 14:04:11 -06:00 default Test Suite'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a65a0e90-5232-44c8-ab8a-74a79f65e5ec</id>
+        <id>8c936f49-7cb7-4c48-a66f-37407ba12f6e</id>
         <masked>false</masked>
-        <name>input_rowSelection_internalRoleRowName_1</name>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_1</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf057 Untitled Test Run #9 2024-08-21 14:04:11 -06:00 default Test Suite'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e9b7538e-60f6-4976-94a1-ef9a89b82018</id>
+        <id>69ac3c2c-4dc3-4b84-9b07-406cae1da476</id>
         <masked>false</masked>
-        <name>input_rowSelection_internalRoleRowName_2</name>
-    </variable>
-    <variable>
-        <defaultValue>'7'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>8c769e18-cc90-45d4-a9a3-aec62ada185b</id>
-        <masked>false</masked>
-        <name>link_testSuiteActions_executions_id</name>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_2</name>
     </variable>
     <variable>
         <defaultValue>'Test Suite Va...Da\u00f1os Menores'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>bc297395-d86d-4499-9b9b-550c53ce66ec</id>
+        <id>76f93b32-bc14-4d99-85d3-1c3d44287834</id>
         <masked>false</masked>
         <name>link_testSuiteActions_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'1408913'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>68139d62-4346-4e87-ba51-ad6275641aa2</id>
+        <id>13bedfdd-2122-4ba1-9d12-8db4689a06a2</id>
         <masked>false</masked>
         <name>link_testSuiteActions_project_id</name>
     </variable>
     <variable>
-        <defaultValue>'1408913'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>7ffd697b-7178-48a3-bbcd-a5f62114c280</id>
-        <masked>false</masked>
-        <name>link_testSuiteActions_project_id_1</name>
-    </variable>
-    <variable>
         <defaultValue>'1389363'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>13bf3f93-9623-479f-966b-9c15a8203c96</id>
+        <id>758db5a2-92a9-4467-8504-a29b31c1a299</id>
         <masked>false</masked>
         <name>link_testSuiteActions_team_id</name>
     </variable>
     <variable>
-        <defaultValue>'1389363'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>b8bf09a6-bcd7-479c-bcaf-3b9c7192bf8d</id>
-        <masked>false</masked>
-        <name>link_testSuiteActions_team_id_1</name>
-    </variable>
-    <variable>
         <defaultValue>'25934562-test-suite-validacion-vehiculos-con-danos-menores'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>63603929-224c-46fe-b1c1-0044741c4038</id>
+        <id>8ebf14a9-82ae-4c4f-9e2f-a5796fc4715a</id>
         <masked>false</masked>
         <name>link_testSuiteActions_test_suites_id</name>
     </variable>
     <variable>
+        <defaultValue>'7'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8d32766b-adde-4aaa-b280-90f429d36b42</id>
+        <masked>false</masked>
+        <name>link_testSuiteDetails_executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1408913'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>93d1995b-c5fb-446b-9a45-f39706f5721a</id>
+        <masked>false</masked>
+        <name>link_testSuiteDetails_project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1389363'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cdcb5e87-1001-4af2-8785-bf5a9232ad0c</id>
+        <masked>false</masked>
+        <name>link_testSuiteDetails_team_id</name>
+    </variable>
+    <variable>
         <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close\\ ant-tree-treenode-leaf-last'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>681669e7-909d-416e-b399-484d8698a555</id>
+        <id>8e2cc42e-396d-49ac-8499-fb31c8f01c2d</id>
         <masked>false</masked>
         <name>span_treeSwitcherIcons_class</name>
     </variable>
     <variable>
         <defaultValue>'ant-tree-switcher\\ ant-tree-switcher_close'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c019495b-a173-45d8-b671-4901e12eecfd</id>
+        <id>60ecd73d-05ef-456e-853c-afe40e7081a3</id>
         <masked>false</masked>
         <name>span_treeSwitcherIcons_class_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_dynamicObject_class</value>
-        <variableId>4bbdd9d5-8558-4138-85d4-cbc00fd6006e</variableId>
+        <value>div_backdropElements_class</value>
+        <variableId>23a4154a-01d6-4098-b5a8-4b75fdd19ba0</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText</value>
-        <variableId>a516228a-282f-4098-8b03-6451e19712b4</variableId>
+        <value>div_testCases_internalText</value>
+        <variableId>4f01e75d-d3e9-4d2e-a5bb-c05a6397c1cb</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText_1</value>
-        <variableId>434c20b1-85b7-4a04-8fd0-5a5f65a586bd</variableId>
+        <value>div_testCases_internalText_1</value>
+        <variableId>c8af14f3-d859-4088-95e6-da7566d9847d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText_2</value>
-        <variableId>2fb5ebed-a88a-4278-b5c9-ae7bdf4d1622</variableId>
+        <value>div_testCases_internalText_2</value>
+        <variableId>c7b04ca7-521d-485e-b1db-b95b0e0cd8a9</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText_3</value>
-        <variableId>4fda224b-c06e-4b80-8ff4-7288635567b5</variableId>
+        <value>div_testCases_internalText_3</value>
+        <variableId>19b7acae-670d-4b8c-b6d7-b9215b789d6a</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText_4</value>
-        <variableId>544a93aa-4a30-45dd-872d-25cda7d2daa7</variableId>
+        <value>div_testCases_internalText_4</value>
+        <variableId>c808451a-819b-47bc-b5c4-e0669f95e2a5</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testCaseComponents_internalText_5</value>
-        <variableId>2a37c649-a7a2-47fb-a6a1-da82c20e8a4f</variableId>
+        <value>div_testCases_internalText_5</value>
+        <variableId>8c6c0d9f-f048-4d9a-86e9-fc615775559e</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_testRuns_internalRoleCellName</value>
-        <variableId>230837cd-bdcb-4218-9e92-531f9e9348ef</variableId>
+        <variableId>ca561b49-1669-426f-9eb2-f6988163f2bb</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testSuiteComponents_internalText</value>
-        <variableId>7fc02ab6-0e5d-4189-a16f-56d70b029e0b</variableId>
+        <value>div_testSuites_internalText</value>
+        <variableId>5f18d56b-eb59-4995-a60e-acaaf29b34ae</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>div_testSuiteComponents_internalText_1</value>
-        <variableId>e9b85c27-53cc-4cd1-ba46-6deda15e0c2c</variableId>
+        <value>div_testSuites_internalText_1</value>
+        <variableId>2d74f33e-7427-4c1c-a4ec-b6f71d075ef0</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_class</value>
-        <variableId>85ed0a82-1526-4705-94fb-20cbe72b06f6</variableId>
+        <value>input_rowSelectionCheckbox_class</value>
+        <variableId>93799323-da17-471b-8a59-100fe24bf23d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_class_1</value>
-        <variableId>b51fa96a-a80b-4493-ba4c-c3dc6fff7ed4</variableId>
+        <value>input_rowSelectionCheckbox_class_1</value>
+        <variableId>c56b0c52-f67d-42a6-9ad1-499571a36f0e</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_class_2</value>
-        <variableId>e1b43b51-776b-495f-bfef-a6dfa6b4516a</variableId>
+        <value>input_rowSelectionCheckbox_class_2</value>
+        <variableId>a729552b-1236-494b-8b3c-3304f452414c</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_class_3</value>
-        <variableId>9733b878-2899-4c51-af5b-2368e2759d74</variableId>
+        <value>input_rowSelectionCheckbox_class_3</value>
+        <variableId>ec933873-ac37-497e-ad3a-0a1baa50b226</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_class_4</value>
-        <variableId>c7c2bb00-41a0-4aec-8fae-ca5e8c62d149</variableId>
+        <value>input_rowSelectionCheckbox_class_4</value>
+        <variableId>669c521a-839b-40b3-9d48-7bc233b76d77</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_internalRoleRowName</value>
-        <variableId>acbc9030-a655-4262-a1ab-5e67fd26e52b</variableId>
+        <value>input_rowSelectionCheckbox_internalRoleRowName</value>
+        <variableId>a3e732b1-1fd1-43b4-8f1c-006ebb7a89c0</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_internalRoleRowName_1</value>
-        <variableId>a65a0e90-5232-44c8-ab8a-74a79f65e5ec</variableId>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_1</value>
+        <variableId>8c936f49-7cb7-4c48-a66f-37407ba12f6e</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelection_internalRoleRowName_2</value>
-        <variableId>e9b7538e-60f6-4976-94a1-ef9a89b82018</variableId>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_2</value>
+        <variableId>69ac3c2c-4dc3-4b84-9b07-406cae1da476</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteActions_executions_id</value>
-        <variableId>8c769e18-cc90-45d4-a9a3-aec62ada185b</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testSuiteActions_internalRoleLinkName</value>
-        <variableId>bc297395-d86d-4499-9b9b-550c53ce66ec</variableId>
+        <variableId>76f93b32-bc14-4d99-85d3-1c3d44287834</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testSuiteActions_project_id</value>
-        <variableId>68139d62-4346-4e87-ba51-ad6275641aa2</variableId>
+        <variableId>13bedfdd-2122-4ba1-9d12-8db4689a06a2</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteActions_project_id_1</value>
-        <variableId>7ffd697b-7178-48a3-bbcd-a5f62114c280</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testSuiteActions_team_id</value>
-        <variableId>13bf3f93-9623-479f-966b-9c15a8203c96</variableId>
+        <variableId>758db5a2-92a9-4467-8504-a29b31c1a299</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteActions_team_id_1</value>
-        <variableId>b8bf09a6-bcd7-479c-bcaf-3b9c7192bf8d</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testSuiteActions_test_suites_id</value>
-        <variableId>63603929-224c-46fe-b1c1-0044741c4038</variableId>
+        <variableId>8ebf14a9-82ae-4c4f-9e2f-a5796fc4715a</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testSuiteDetails_executions_id</value>
+        <variableId>8d32766b-adde-4aaa-b280-90f429d36b42</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testSuiteDetails_project_id</value>
+        <variableId>93d1995b-c5fb-446b-9a45-f39706f5721a</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testSuiteDetails_team_id</value>
+        <variableId>cdcb5e87-1001-4af2-8785-bf5a9232ad0c</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>span_treeSwitcherIcons_class</value>
-        <variableId>681669e7-909d-416e-b399-484d8698a555</variableId>
+        <variableId>8e2cc42e-396d-49ac-8499-fb31c8f01c2d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>a1fcdf93-fdbc-4efd-bd1c-933698181daf</testDataLinkId>
+        <testDataLinkId>e6c15530-b132-4b3a-b4b6-cbeeb783da25</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>span_treeSwitcherIcons_class_1</value>
-        <variableId>c019495b-a173-45d8-b671-4901e12eecfd</variableId>
+        <variableId>60ecd73d-05ef-456e-853c-afe40e7081a3</variableId>
     </variableLinks>
 </TestCaseEntity>
