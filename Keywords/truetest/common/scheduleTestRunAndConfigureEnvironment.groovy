@@ -3,8 +3,8 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class scheduleTestRunAndConfigureEnvironment {
     
@@ -12,123 +12,123 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         "Step 1: Click on button ScheduleTestRun"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_ScheduleTestRun'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_ScheduleTestRun'))
         
         "Step 2: Click on div TestSuites"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_TestSuites'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites'))
         
         "Step 3: Click on div TestSuites2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_TestSuites2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_TestSuites2'))
         
-        "Step 4: Click on div NameLabel"
+        "Step 4: Click on div SelectEnvironment"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_NameLabel'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment'))
         
         "Step 5: Enter input value in input Name"
         
-        WebUI.setText(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/input_Name'), data['input_Name'])
+        WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_runs/input_Name'), data['input_Name'])
         
         "Step 6: Click on div ScheduleTestRun"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_ScheduleTestRun'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRun'))
         
-        "Step 7: Click on div SelectEnvironment"
+        "Step 7: Click on div SelectEnvironment2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_SelectEnvironment'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment2'))
         
         "Step 8: Click on div EnvironmentIcon"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_EnvironmentIcon'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_EnvironmentIcon'))
         
         "Step 9: Click on div RunIcon"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_RunIcon'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_RunIcon'))
         
         "Step 10: Click on div CustomizedMenu"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_CustomizedMenu'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_CustomizedMenu'))
         
         "Step 11: Click on button Run"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_Run'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run'))
         
         "Step 12: Click on div ReactSelectContainer"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_ReactSelectContainer'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ReactSelectContainer'))
         
         "Step 13: Click on item MoreOptions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/item_MoreOptions'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
         
         "Step 14: Click on button MobileBrowsers"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_MobileBrowsers'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_MobileBrowsers'))
         
         "Step 15: Click on span Android"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/span_Android'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/span_Android'))
         
         "Step 16: Click on div Phone"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_Phone'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_Phone'))
         
         "Step 17: Click on div AnyDeviceType"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_AnyDeviceType'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_AnyDeviceType'))
         
         "Step 18: Click on div Phone"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_Phone'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_Phone'))
         
         "Step 19: Click on div GooglePixel6Pro"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_GooglePixel6Pro'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_GooglePixel6Pro'))
         
         "Step 20: Click on div ConfigureTestEnvironment"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_ConfigureTestEnvironment'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ConfigureTestEnvironment'))
         
         "Step 21: Click on div CancelSave"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_CancelSave'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_CancelSave'))
         
         "Step 22: Click on button Save"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_Save'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
         
         "Step 23: Click on button Run2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_Run2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Run2'))
         
         "Step 24: Click on button CloseDialog"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_CloseDialog'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_CloseDialog'))
         
-        "Step 25: Click on button object3"
+        "Step 25: Click on button Close3"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_object3'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Close3'))
         
-        "Step 26: Click on button CloseAlert"
+        "Step 26: Click on button AlertClose"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/button_CloseAlert'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_AlertClose'))
         
         "Step 27: Click on div SubscribedSessions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_SubscribedSessions'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SubscribedSessions'))
         
         "Step 28: Click on link ShowDetails"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/link_ShowDetails'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/link_ShowDetails'))
         
         "Step 29: Click on p TwoSessions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/p_TwoSessions'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/p_TwoSessions'))
         
         "Step 30: Click on div PopoverBackdrop"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_display_list_of_items_fixed_part_item_id_or_slug_fixed_part_id/div_PopoverBackdrop'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_PopoverBackdrop'))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {

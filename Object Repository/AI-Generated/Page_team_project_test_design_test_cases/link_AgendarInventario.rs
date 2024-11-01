@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1389363/project/1408913/test-design/test-cases/8989342-agendamiento-inventario-vehiculos-con-danos-mayores</value>
-        <webElementGuid>53177908-4ab6-4b02-8a02-db8eca96890d</webElementGuid>
+        <webElementGuid>9da86b8c-2da6-4ae6-b387-660b5ff7c866</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Cases/Agendar Inventario Tomando En Cuenta La Parametrización/Agendamiento inventario, Vehículos Con Daños Mayores</value>
-        <webElementGuid>53177908-4ab6-4b02-8a02-db8eca96890d</webElementGuid>
+        <webElementGuid>9da86b8c-2da6-4ae6-b387-660b5ff7c866</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
