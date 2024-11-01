@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>customized-button</value>
-        <webElementGuid>4bd8cd83-0585-426b-aa20-217d311ec7f9</webElementGuid>
+        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Run</value>
-        <webElementGuid>4bd8cd83-0585-426b-aa20-217d311ec7f9</webElementGuid>
+        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>4bd8cd83-0585-426b-aa20-217d311ec7f9</webElementGuid>
+        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -7,7 +7,7 @@
         "step 5: Click on span Settings",
         "step 6: Click on div Backdrop",
         "step 7: Click on span Settings",
-        "step 8: Click on link navigation (TestOpsHomepage)",
+        "step 8: Click on link projectManagement (TestOpsHomepage)",
         "step 9: Click on div EEnCompass -> Navigate to page 'team/*/project/*'",
         "step 10: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'",
         "step 11: Click on link Settings -> Navigate to page 'team/*/project/*/settings'",
