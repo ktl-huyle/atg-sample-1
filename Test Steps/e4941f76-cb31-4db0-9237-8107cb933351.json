@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to user/*",
-        "step 2: Create a new API key for accessing testing features.",
+        "step 2: Create a new API key for accessing application features",
         "step 3: Click on button ActionButton",
         "step 4: Click on button ShowApiKey",
         "step 5: Click on input ApiKeyTextbox",
