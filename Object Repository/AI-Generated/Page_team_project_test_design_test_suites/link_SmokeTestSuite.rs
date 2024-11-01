@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1093431/project/1132534/test-design/test-suites/18080362-smoketestsuite</value>
-        <webElementGuid>29fa208a-2652-427f-a120-c4338078e715</webElementGuid>
+        <webElementGuid>1713d70f-73f4-42cf-beb1-6bfdd9cff605</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/SmokeTestSuite</value>
-        <webElementGuid>29fa208a-2652-427f-a120-c4338078e715</webElementGuid>
+        <webElementGuid>1713d70f-73f4-42cf-beb1-6bfdd9cff605</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
