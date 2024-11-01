@@ -3,8 +3,9 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class scheduleTestRunAndConfigureEnvironment {
     
@@ -46,9 +47,10 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_RunIcon'))
         
-        "Step 10: Click on div CustomizedMenu"
+        "Step 10: Click on div menuBackdrops (CustomizedMenu)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_CustomizedMenu'))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrops"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrops', ['div_menuBackdrops_class': data['div_menuBackdrops_class']]))
         
         "Step 11: Click on button Run"
         
@@ -106,13 +108,15 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_CloseDialog'))
         
-        "Step 25: Click on button Close3"
+        "Step 25: Click on button closeActions (Close3)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Close3'))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class']]))
         
-        "Step 26: Click on button AlertClose"
+        "Step 26: Click on button closeActions (AlertClose)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_AlertClose'))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class_1']]))
         
         "Step 27: Click on div SubscribedSessions"
         
@@ -122,25 +126,37 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/link_ShowDetails'))
         
-        "Step 29: Click on p TwoSessions"
+        "Step 29: Click on p sessionDetails (TwoSessions)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/p_TwoSessions'))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails', ['p_sessionDetails_class': data['p_sessionDetails_class']]))
         
-        "Step 30: Click on div PopoverBackdrop"
+        "Step 30: Click on div menuBackdrops (PopoverBackdrop)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_PopoverBackdrop'))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrops"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrops', ['div_menuBackdrops_class': data['div_menuBackdrops_class_1']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
+        data['button_closeActions_class'] = testData.getValue('button_closeActions_class', rowIndex)
+        data['button_closeActions_class_1'] = testData.getValue('button_closeActions_class_1', rowIndex)
+        data['div_menuBackdrops_class'] = testData.getValue('div_menuBackdrops_class', rowIndex)
+        data['div_menuBackdrops_class_1'] = testData.getValue('div_menuBackdrops_class_1', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
+        data['p_sessionDetails_class'] = testData.getValue('p_sessionDetails_class', rowIndex)
         execute_functional_method(data)
     }
     
     private static def execute_without_data_source() {
         Map data = [:]
+        data['button_closeActions_class'] = 'default_data'
+        data['button_closeActions_class_1'] = 'default_data'
+        data['div_menuBackdrops_class'] = 'default_data'
+        data['div_menuBackdrops_class_1'] = 'default_data'
         data['input_Name'] = 'default_data'
+        data['p_sessionDetails_class'] = 'default_data'
         execute_functional_method(data)
     }
     
