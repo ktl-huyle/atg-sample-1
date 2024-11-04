@@ -3,8 +3,8 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import internal.GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class searchTestRunDetails {
@@ -27,7 +27,7 @@ public class searchTestRunDetails {
         "Step 4: Click on link testRunDetails (Execution591)"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project/link_testRunDetails"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_testRunDetails', ['link_testRunDetails_trNthChild': data['link_testRunDetails_trNthChild'], 'link_testRunDetails_internalRoleLinkName': data['link_testRunDetails_internalRoleLinkName'], 'link_testRunDetails_team_id': data['link_testRunDetails_team_id'], 'link_testRunDetails_executions_id': data['link_testRunDetails_executions_id'], 'link_testRunDetails_project_id': data['link_testRunDetails_project_id']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_testRunDetails', ['link_testRunDetails_trNthChild': data['link_testRunDetails_trNthChild'], 'link_testRunDetails_internalRoleLinkName': data['link_testRunDetails_internalRoleLinkName'], 'link_testRunDetails_project_id': data['link_testRunDetails_project_id'], 'link_testRunDetails_team_id': data['link_testRunDetails_team_id'], 'link_testRunDetails_executions_id': data['link_testRunDetails_executions_id']]))
         
         "Step 5: Click on input SearchTestRun"
         
