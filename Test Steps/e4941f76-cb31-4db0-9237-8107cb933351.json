@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to user/*",
+        "step 4: Create a new API key for application access.",
+        "step 5: Click on button apiKeyControls (CellButton)",
+        "step 6: Click on button ShowApiKey",
+        "step 7: Click on input userInputs (TextInput)",
+        "step 8: Click on input userInputs (PasswordInput)",
+        "step 9: Click on button copyToClipboard (CopyToClipboard)",
+        "step 10: Click on button NidhiKachhadiya",
+        "step 11: Click on link SignOut -> Navigate to page 'organization/*/home'",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

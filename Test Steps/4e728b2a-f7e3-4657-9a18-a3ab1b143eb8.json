@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on span organizationDetails (DXCPracticeForOracle)",
+        "step 5: Click on div organizationDetails (CurrentDPDXCPractice)",
+        "step 6: Click on link OracleJDE (OJOracleJDE2) -> Navigate to page 'team/*/project/*'",
+        "step 7: Click on button projectActions (OracleJDE)",
+        "step 8: Click on link ViewAllProjects -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
