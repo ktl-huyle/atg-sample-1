@@ -34,6 +34,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>PersonIcon</value>
-        <webElementGuid>67c81935-df9e-41e5-be2a-6abbce12a50e</webElementGuid>
+        <webElementGuid>4e2e6e6a-26ba-4c9f-8ded-83cc1c22d339</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
