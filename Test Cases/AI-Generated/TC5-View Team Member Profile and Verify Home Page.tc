@@ -13,7 +13,7 @@
     <testCaseGuid>055d89f3-c2e3-4ada-806f-b85b9feabde2</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>7713ff34-c513-40fd-97b1-5187461280b2</id>
+        <id>68f0e4da-8ff7-4d45-8ca0-34d449ee1209</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'NK'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>134d1b52-d6c2-42c6-8d94-181e32e86138</id>
+        <id>eb2b56f4-e658-4c05-8cc7-84c58833fd27</id>
         <masked>false</masked>
         <name>button_teamMember_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'TestOps Homepage View summary'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>08413722-98bd-408f-94da-202b0255b10d</id>
+        <id>0fe423ba-7950-4d0b-a8f2-5786dc1251f3</id>
         <masked>false</masked>
-        <name>link_projectNavigation_internalRoleLinkName</name>
+        <name>link_navigation_internalRoleLinkName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>7713ff34-c513-40fd-97b1-5187461280b2</testDataLinkId>
+        <testDataLinkId>68f0e4da-8ff7-4d45-8ca0-34d449ee1209</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_teamMember_internalRoleButtonName</value>
-        <variableId>134d1b52-d6c2-42c6-8d94-181e32e86138</variableId>
+        <variableId>eb2b56f4-e658-4c05-8cc7-84c58833fd27</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>7713ff34-c513-40fd-97b1-5187461280b2</testDataLinkId>
+        <testDataLinkId>68f0e4da-8ff7-4d45-8ca0-34d449ee1209</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_projectNavigation_internalRoleLinkName</value>
-        <variableId>08413722-98bd-408f-94da-202b0255b10d</variableId>
+        <value>link_navigation_internalRoleLinkName</value>
+        <variableId>0fe423ba-7950-4d0b-a8f2-5786dc1251f3</variableId>
     </variableLinks>
 </TestCaseEntity>
