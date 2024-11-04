@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div MainContent",
+        "step 5: Click on div Toolbar",
+        "step 6: Click on pre errorMessages (FailedKundensonderpreise)",
+        "step 7: Click on div ThumbnailImage",
+        "step 8: Click on button Close",
+        "step 9: Click on div ThumbnailImage",
+        "step 10: Click on button Close",
+        "step 11: Click on span FailedRechnungSpeichern",
+        "step 12: Click on div ThumbnailImage",
+        "step 13: Click on button Close",
+        "step 14: Click on div ThumbnailImage",
+        "step 15: Click on button Close3 -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}
