@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on button teamMember (RicardoLaboy)",
+        "step 2: Click on button userProfile (RicardoLaboy)",
         "step 3: Click on div Backdrop",
         "step 4: Click on span Settings",
         "step 5: Click on link navigation (ProjectManagement) -> Navigate to page ''",

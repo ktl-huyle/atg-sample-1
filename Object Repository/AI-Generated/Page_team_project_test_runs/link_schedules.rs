@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1515252/project/1534644/grid</value>
-        <webElementGuid>4e2e6e6a-26ba-4c9f-8ded-83cc1c22d339</webElementGuid>
+        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Schedules</value>
-        <webElementGuid>4e2e6e6a-26ba-4c9f-8ded-83cc1c22d339</webElementGuid>
+        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Schedules</value>
-        <webElementGuid>4e2e6e6a-26ba-4c9f-8ded-83cc1c22d339</webElementGuid>
+        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
