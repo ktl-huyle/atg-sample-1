@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/*",
+        "step 4: Click on button userActions (de)",
+        "step 5: Click on font userEmail",
+        "step 6: Click on div userInfo",
+        "step 7: Click on link signOut (disconnect) -> Navigate to page 'organization/*/home'",
+        "step 8: Click on button userProfile (userAB)",
+        "step 9: Click on div Backdrop2 -> Navigate to page ''",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

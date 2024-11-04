@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link projectResources (B2BSAS) -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on link CreateRelease",
+        "step 6: Click on link Executions6 -> Navigate to page 'team/*/project/*/*'",
+        "step 7: Click on link Reports3",
+        "step 8: Click on link Settings3",
+        "step 9: Click on link testManagement (ScriptRepositories3)",
+        "step 10: Click on link testManagement (TestEnvironments2)",
+        "step 11: Click on list LocalKubernetes",
+        "step 12: Click on link Kubernetes -> Navigate to page 'team/*/project/*/agent/*'",
+        "step 13: Click on link CircleCI",
+        "step 14: Click on link TestCloud -> Navigate to page 'team/*/project/*/agent/test-cloud'",
+        "step 15: Click on link Integrations -> Navigate to page 'team/*/project/*/*'",
+        "step 16: Click on div Jenkins",
+        "step 17: Click on link testManagement (TestCloudTunnels)",
+        "step 18: Click on button setupTunnels (Setup)",
+        "step 19: Click on link testManagement (CustomFields)",
+        "step 20: Click on link Dashboard -> Navigate to page 'team/*/project/*'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

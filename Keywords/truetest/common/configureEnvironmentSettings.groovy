@@ -11,10 +11,10 @@ public class configureEnvironmentSettings {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on button jobActions (Edit)"
+        "Step 1: Click on button gridActions (Edit)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/button_jobActions"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/button_jobActions', ['button_jobActions_internalRoleButtonName': data['button_jobActions_internalRoleButtonName']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/button_gridActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/button_gridActions', ['button_gridActions_internalRoleButtonName': data['button_gridActions_internalRoleButtonName']]))
         
         "Step 2: Click on link ConfigureEnvironments"
         
@@ -40,13 +40,13 @@ public class configureEnvironmentSettings {
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        data['button_jobActions_internalRoleButtonName'] = testData.getValue('button_jobActions_internalRoleButtonName', rowIndex)
+        data['button_gridActions_internalRoleButtonName'] = testData.getValue('button_gridActions_internalRoleButtonName', rowIndex)
         execute_functional_method(data)
     }
     
     private static def execute_without_data_source() {
         Map data = [:]
-        data['button_jobActions_internalRoleButtonName'] = 'default_data'
+        data['button_gridActions_internalRoleButtonName'] = 'default_data'
         execute_functional_method(data)
     }
     
