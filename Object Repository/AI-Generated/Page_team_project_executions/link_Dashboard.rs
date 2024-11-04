@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1356670/project/1376704</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Dashboard</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Dashboard</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

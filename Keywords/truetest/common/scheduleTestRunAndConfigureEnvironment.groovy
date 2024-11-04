@@ -3,9 +3,9 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
 
 public class scheduleTestRunAndConfigureEnvironment {
     
@@ -47,10 +47,10 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_RunIcon'))
         
-        "Step 10: Click on div backdropMenu (CustomizedMenu)"
+        "Step 10: Click on div dynamicObject (CustomizedMenu)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_backdropMenu"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_backdropMenu', ['div_backdropMenu_class': data['div_backdropMenu_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class']]))
         
         "Step 11: Click on button Run"
         
@@ -126,15 +126,15 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/link_ShowDetails'))
         
-        "Step 29: Click on p sessionInfo (TwoSessions)"
+        "Step 29: Click on p sessionDetails (TwoSessions)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionInfo"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionInfo', ['p_sessionInfo_class': data['p_sessionInfo_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails', ['p_sessionDetails_class': data['p_sessionDetails_class']]))
         
-        "Step 30: Click on div backdropMenu (PopoverBackdrop)"
+        "Step 30: Click on div dynamicObject (PopoverBackdrop)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_backdropMenu"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_backdropMenu', ['div_backdropMenu_class': data['div_backdropMenu_class_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class_1']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
@@ -142,10 +142,10 @@ public class scheduleTestRunAndConfigureEnvironment {
         Map data = [:]
         data['button_closeAlert_class'] = testData.getValue('button_closeAlert_class', rowIndex)
         data['button_closeAlert_class_1'] = testData.getValue('button_closeAlert_class_1', rowIndex)
-        data['div_backdropMenu_class'] = testData.getValue('div_backdropMenu_class', rowIndex)
-        data['div_backdropMenu_class_1'] = testData.getValue('div_backdropMenu_class_1', rowIndex)
+        data['div_dynamicObject_class'] = testData.getValue('div_dynamicObject_class', rowIndex)
+        data['div_dynamicObject_class_1'] = testData.getValue('div_dynamicObject_class_1', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
-        data['p_sessionInfo_class'] = testData.getValue('p_sessionInfo_class', rowIndex)
+        data['p_sessionDetails_class'] = testData.getValue('p_sessionDetails_class', rowIndex)
         execute_functional_method(data)
     }
     
@@ -153,10 +153,10 @@ public class scheduleTestRunAndConfigureEnvironment {
         Map data = [:]
         data['button_closeAlert_class'] = 'default_data'
         data['button_closeAlert_class_1'] = 'default_data'
-        data['div_backdropMenu_class'] = 'default_data'
-        data['div_backdropMenu_class_1'] = 'default_data'
+        data['div_dynamicObject_class'] = 'default_data'
+        data['div_dynamicObject_class_1'] = 'default_data'
         data['input_Name'] = 'default_data'
-        data['p_sessionInfo_class'] = 'default_data'
+        data['p_sessionDetails_class'] = 'default_data'
         execute_functional_method(data)
     }
     

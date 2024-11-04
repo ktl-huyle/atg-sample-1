@@ -36,7 +36,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/api/v1/katone/page/user-management?orgId=642683</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
         <name>id</name>
         <type>Main</type>
         <value>user-management</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
         <value>User Management
         
         Add and remove users.</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Add and remove users.</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

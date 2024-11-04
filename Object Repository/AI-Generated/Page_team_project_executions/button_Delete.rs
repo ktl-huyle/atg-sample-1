@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Delete</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
+        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
