@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-runs",
+        "step 4: Click on div testRunInfo (testRunCell)",
+        "step 5: Click on div Navbar",
+        "step 6: Click on div testRunInfo (TestRunCell2)",
+        "step 7: Click on div testRunDetails (UntitledTestRun4)",
+        "step 8: Click on div Navbar -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

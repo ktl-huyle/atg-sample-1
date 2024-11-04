@@ -40,15 +40,15 @@ public class scheduleMultipleTestRuns {
         
         "Step 8: Click on div ScheduleTestRun"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRun_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRun'))
         
         "Step 9: Click on div SelectEnvironment"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment'))
         
         "Step 10: Click on item MoreOptions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
         
         "Step 11: Click on span ChromeHeadless"
         
@@ -64,7 +64,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 14: Click on button Save"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
         
         "Step 15: Click on div ExecutionProfileControl"
         
@@ -100,7 +100,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 23: Click on item MoreOptions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
         
         "Step 24: Click on span ChromeHeadless"
         
@@ -128,7 +128,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 30: Click on button Save"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
         
         "Step 31: Click on div ExecutionProfileControl2"
         
@@ -136,7 +136,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 32: Click on div ScheduleTestRunStagingEnv"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunStagingEnv'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunStagingEnv_1'))
         
         "Step 33: Click on input Name"
         
@@ -168,11 +168,11 @@ public class scheduleMultipleTestRuns {
         
         "Step 40: Click on div SelectEnvironment"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_SelectEnvironment'))
         
         "Step 41: Click on item MoreOptions"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/item_MoreOptions'))
         
         "Step 42: Click on div ChromeHeadless2"
         
@@ -184,7 +184,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 44: Click on button Save"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save_1'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_Save'))
         
         "Step 45: Click on div ExecutionProfileControl"
         
@@ -192,7 +192,7 @@ public class scheduleMultipleTestRuns {
         
         "Step 46: Click on div ScheduleTestRunStagingEnv2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunStagingEnv2'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_ScheduleTestRunStagingEnv'))
         
         "Step 47: Click on input Name"
         
