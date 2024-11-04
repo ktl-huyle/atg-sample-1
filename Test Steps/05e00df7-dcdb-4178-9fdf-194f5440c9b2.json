@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on button userProfile (NidhiKachhadiya)",
+        "step 2: Click on button userAction (NidhiKachhadiya)",
         "step 3: Click on link ViewProfile",
         "step 4: Click on div Backdrop",
         "step 5: Click on span Settings",

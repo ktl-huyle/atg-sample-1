@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1570446/project/1589118/test-design/test-suites/26007203</value>
-        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
+        <webElementGuid>82f4c7ca-af51-4e8d-93a2-b38362b470af</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/CPAC DEC Preapproval-Bind Test Suite</value>
-        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
+        <webElementGuid>82f4c7ca-af51-4e8d-93a2-b38362b470af</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

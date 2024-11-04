@@ -34,7 +34,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/TS- Validacion Agendamiento Vehiculos Con Daños Menores/Test Suite Validacion Vehiculos Con Daños Menores</value>
-        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
+        <webElementGuid>82f4c7ca-af51-4e8d-93a2-b38362b470af</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{link_testSuiteActions_team_id}}/project/${{link_testSuiteActions_project_id}}/test-design/test-suites/${{link_testSuiteActions_test_suites_id}}</value>
-        <webElementGuid>4030c6b7-a51e-4a76-ac41-b6c77a4ceb31</webElementGuid>
+        <webElementGuid>82f4c7ca-af51-4e8d-93a2-b38362b470af</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
