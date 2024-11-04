@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/86034/project/208759/executions/27979/test-result/217762772-sort-and-filter-gui-check-ios</value>
-        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
+        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Result</value>
-        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
+        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

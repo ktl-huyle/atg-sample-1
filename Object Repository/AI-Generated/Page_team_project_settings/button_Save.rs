@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Save</value>
-        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
+        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
+        <webElementGuid>35c4ce90-9713-40cd-a910-1bdd7b72f542</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
