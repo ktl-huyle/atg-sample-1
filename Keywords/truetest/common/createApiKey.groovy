@@ -3,14 +3,14 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class createApiKey {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on button CreateApiKey"
+        "Step 1: Click on button CreateAPIKey"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateApiKey'))
         
