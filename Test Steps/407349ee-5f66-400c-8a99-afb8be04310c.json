@@ -1,11 +1,9 @@
 {
     "steps": [
-        "step 1: Navigate to http://demo.localhost.direct",
-        "step 2: Login",
-        "step 3: Navigate to team/*/project/*/executions/*",
-        "step 4: Click on div failedTestDetails (FailedTestExecution)",
-        "step 5: Click on div CloseButton",
-        "step 6: Click on div failedTestDetails (FailedTestExecution2) -> Navigate to page ''",
-        "step 7: Take full page screenshot as checkpoint"
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on div failedCreationInfo (FailedSyncCheck)",
+        "step 3: Click on div CloseButton",
+        "step 4: Click on div failedCreationInfo (FailedClientCreation) -> Navigate to page ''",
+        "step 5: Take full page screenshot as checkpoint"
     ]
 }
