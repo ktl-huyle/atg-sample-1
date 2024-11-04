@@ -13,7 +13,7 @@
     <testCaseGuid>84bc41f5-a4ad-4fe0-aced-d7a324685118</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>4be82f71-c4fc-403e-8ddb-61810711df77</id>
+        <id>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,183 +23,183 @@
     <variable>
         <defaultValue>'"]:nth-child(2) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>cb894a7a-79a2-478c-b880-199e69e53b03</id>
+        <id>05d523c7-18c1-4059-a96d-50007bdf5510</id>
         <masked>false</masked>
         <name>button_testResultActions_class</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(3) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ceb51410-5bae-4138-b96a-0ec3d836889b</id>
+        <id>1b8ea110-bbf5-408f-89ff-b582c5d8a3e7</id>
         <masked>false</masked>
         <name>button_testResultActions_class_1</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(4) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>d9db8200-5681-41e2-8b08-ecc644d53510</id>
+        <id>ede29481-36ac-42cc-9f46-87a8015aeab4</id>
         <masked>false</masked>
         <name>button_testResultActions_class_2</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(5) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4a204cbf-06f9-4f06-b5d3-5647076a781b</id>
+        <id>a2893269-4618-4593-81c1-f9060cc9c5ac</id>
         <masked>false</masked>
         <name>button_testResultActions_class_3</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(1) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>38e9a195-990b-4eb0-8cd9-54c410397f25</id>
+        <id>e06c73d6-50ea-4a48-b9da-d054f0dd1e9b</id>
         <masked>false</masked>
         <name>button_testResultActions_class_4</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(2) [class="css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>caabd869-7515-4f8c-9449-ebe58c4f9ef0</id>
+        <id>08a4788d-e788-4795-8f4a-9895057c673f</id>
         <masked>false</masked>
         <name>button_testResultActions_class_5</name>
     </variable>
     <variable>
         <defaultValue>'Error Portal - Knowledge - Actions #217783899 \uf133 35 mins ago Duration473ms'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e568df46-e900-47d2-b8a5-01e64a6e1976</id>
+        <id>9d419fa2-d58a-4a0d-bee4-6d89eb6b0440</id>
         <masked>false</masked>
         <name>button_testResultActions_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'Error Portal - Knowledge - Search #217783900 \uf133 35 mins ago Duration485ms'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>f40ec1db-90da-442a-bb56-fe2c7414e746</id>
+        <id>cfd2c3e2-f27e-4e56-98a6-bfc01a5c0a15</id>
         <masked>false</masked>
         <name>button_testResultActions_internalRoleButtonName_1</name>
     </variable>
     <variable>
         <defaultValue>'Error Portal - Community -'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c43048be-6bca-41ae-8ba4-6aa125962538</id>
+        <id>5a624483-df2c-4ded-973b-fa747fbd4cd2</id>
         <masked>false</masked>
         <name>button_testResultActions_internalRoleButtonName_2</name>
     </variable>
     <variable>
         <defaultValue>'Error Portal - Tickets -'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>b599e2ba-1bdc-43de-96a5-4843fc5f3513</id>
+        <id>d312d941-59e9-4ec8-86e0-08a93e638cf0</id>
         <masked>false</masked>
         <name>button_testResultActions_internalRoleButtonName_3</name>
     </variable>
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/markTestResultAsPassed-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>743c985c-916f-44d1-b336-dfc6c14230ef</id>
+        <id>b81e76d8-2e85-4721-9f10-ad5058391a81</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/markTestResultAsPassed-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>60f478a7-c9e7-4886-ada8-41ab3f33428d</id>
+        <id>64615397-359c-4565-b433-6d41ef436954</id>
         <masked>false</masked>
         <name>data_path_1</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>b964af36-4ccc-4e90-ba73-580db98dcf0d</id>
+        <id>ee520190-b773-4ce8-a3b6-5eb63f2e8dee</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>5645a607-ae68-462a-8a40-18a05743ffa3</id>
+        <id>61ccffe9-51d2-4189-b758-74703bb0b800</id>
         <masked>false</masked>
         <name>index_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class</value>
-        <variableId>cb894a7a-79a2-478c-b880-199e69e53b03</variableId>
+        <variableId>05d523c7-18c1-4059-a96d-50007bdf5510</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class_1</value>
-        <variableId>ceb51410-5bae-4138-b96a-0ec3d836889b</variableId>
+        <variableId>1b8ea110-bbf5-408f-89ff-b582c5d8a3e7</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class_2</value>
-        <variableId>d9db8200-5681-41e2-8b08-ecc644d53510</variableId>
+        <variableId>ede29481-36ac-42cc-9f46-87a8015aeab4</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class_3</value>
-        <variableId>4a204cbf-06f9-4f06-b5d3-5647076a781b</variableId>
+        <variableId>a2893269-4618-4593-81c1-f9060cc9c5ac</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class_4</value>
-        <variableId>38e9a195-990b-4eb0-8cd9-54c410397f25</variableId>
+        <variableId>e06c73d6-50ea-4a48-b9da-d054f0dd1e9b</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_class_5</value>
-        <variableId>caabd869-7515-4f8c-9449-ebe58c4f9ef0</variableId>
+        <variableId>08a4788d-e788-4795-8f4a-9895057c673f</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_internalRoleButtonName</value>
-        <variableId>e568df46-e900-47d2-b8a5-01e64a6e1976</variableId>
+        <variableId>9d419fa2-d58a-4a0d-bee4-6d89eb6b0440</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_internalRoleButtonName_1</value>
-        <variableId>f40ec1db-90da-442a-bb56-fe2c7414e746</variableId>
+        <variableId>cfd2c3e2-f27e-4e56-98a6-bfc01a5c0a15</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_internalRoleButtonName_2</value>
-        <variableId>c43048be-6bca-41ae-8ba4-6aa125962538</variableId>
+        <variableId>5a624483-df2c-4ded-973b-fa747fbd4cd2</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_testResultActions_internalRoleButtonName_3</value>
-        <variableId>b599e2ba-1bdc-43de-96a5-4843fc5f3513</variableId>
+        <variableId>d312d941-59e9-4ec8-86e0-08a93e638cf0</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>743c985c-916f-44d1-b336-dfc6c14230ef</variableId>
+        <variableId>b81e76d8-2e85-4721-9f10-ad5058391a81</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_1</value>
-        <variableId>60f478a7-c9e7-4886-ada8-41ab3f33428d</variableId>
+        <variableId>64615397-359c-4565-b433-6d41ef436954</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>b964af36-4ccc-4e90-ba73-580db98dcf0d</variableId>
+        <variableId>ee520190-b773-4ce8-a3b6-5eb63f2e8dee</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>4be82f71-c4fc-403e-8ddb-61810711df77</testDataLinkId>
+        <testDataLinkId>433a71cf-06f5-4b14-a036-b8fca5ec4ea5</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_1</value>
-        <variableId>5645a607-ae68-462a-8a40-18a05743ffa3</variableId>
+        <variableId>61ccffe9-51d2-4189-b758-74703bb0b800</variableId>
     </variableLinks>
 </TestCaseEntity>

@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>mui-p-21755-T-MOBILE_BROWSERS</value>
-        <webElementGuid>8f6cd84c-45a9-4abc-901b-6e85c3181294</webElementGuid>
+        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Mobile Browsers</value>
-        <webElementGuid>8f6cd84c-45a9-4abc-901b-6e85c3181294</webElementGuid>
+        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>8f6cd84c-45a9-4abc-901b-6e85c3181294</webElementGuid>
+        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
