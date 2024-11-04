@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1389363/project/1408913/releases</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Releases</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Releases</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -44,7 +44,7 @@
          default
         9 mins ago
           (26s)</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -52,6 +52,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{link_executionDetails_team_id}}/project/${{link_executionDetails_project_id}}/executions/${{link_executionDetails_executions_id}}</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

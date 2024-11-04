@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1570311/project/1588984/test-runs</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>View Untitled Test Run.</value>
-        <webElementGuid>0a05cf69-08ce-4fcd-8273-7293a017b12f</webElementGuid>
+        <webElementGuid>39f64781-5ffd-4282-8bc6-92a115672c2c</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
