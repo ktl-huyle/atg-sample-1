@@ -3,8 +3,8 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class openAndUpdateProject {
     
@@ -22,41 +22,41 @@ public class openAndUpdateProject {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/input_SelectProjects'))
         
-        "Step 4: Click on button OpenDropdown"
+        "Step 4: Click on button Open2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_OpenDropdown'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_Open2'))
         
         "Step 5: Click on div FirstProject"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/div_FirstProject'))
         
-        "Step 6: Click on form AgentDetails"
+        "Step 6: Click on form Name"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/form_AgentDetails'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/form_Name'))
         
         "Step 7: Click on span FirstProject"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/span_FirstProject'))
         
-        "Step 8: Click on button OpenDropdown"
+        "Step 8: Click on button Open2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_OpenDropdown'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_Open2'))
         
-        "Step 9: Click on div ColSm12"
+        "Step 9: Click on div Column12"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/div_ColSm12'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/div_Column12'))
         
         "Step 10: Click on span FirstProject"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/span_FirstProject'))
         
-        "Step 11: Click on button OpenDropdown"
+        "Step 11: Click on button Open2"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_OpenDropdown'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/button_Open2'))
         
-        "Step 12: Click on div Update"
+        "Step 12: Click on div UpdateOption"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/div_Update'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_agent_local/div_UpdateOption'))
         
         "Step 13: Click on span FirstProject"
         

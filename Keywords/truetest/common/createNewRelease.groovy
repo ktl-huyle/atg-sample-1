@@ -3,15 +3,15 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class createNewRelease {
     
     private static def execute_functional_method(Map data) {
         
-        "Step 1: Click on link CreateRelease -> Navigate to page '/team/*/project/*/releases/create'"
+        "Step 1: Click on link CreateRelease -> Navigate to page 'team/*/project/*/releases/create'"
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_releases/link_CreateRelease'))
         
@@ -31,10 +31,10 @@ public class createNewRelease {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_releases_create/button_ChooseDate'))
         
-        "Step 6: Click on button dateSelection (Aug22)"
+        "Step 6: Click on button releaseActions (August22)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_dateSelection"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_dateSelection', ['button_dateSelection_internalLabel': data['button_dateSelection_internalLabel']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_releaseActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_releaseActions', ['button_releaseActions_internalLabel': data['button_releaseActions_internalLabel']]))
         
         "Step 7: Click on input EndTime"
         
@@ -44,9 +44,9 @@ public class createNewRelease {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_releases_create/button_ChooseDate2'))
         
-        "Step 9: Click on button dateSelection (Aug22 2024)"
+        "Step 9: Click on button releaseActions (August22 2024)"
         
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_dateSelection'))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_releases_create/button_releaseActions'))
         
         "Step 10: Click on button Create"
         
@@ -56,14 +56,14 @@ public class createNewRelease {
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        data['button_dateSelection_internalLabel'] = testData.getValue('button_dateSelection_internalLabel', rowIndex)
+        data['button_releaseActions_internalLabel'] = testData.getValue('button_releaseActions_internalLabel', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
         execute_functional_method(data)
     }
     
     private static def execute_without_data_source() {
         Map data = [:]
-        data['button_dateSelection_internalLabel'] = 'default_data'
+        data['button_releaseActions_internalLabel'] = 'default_data'
         data['input_Name'] = 'default_data'
         execute_functional_method(data)
     }
