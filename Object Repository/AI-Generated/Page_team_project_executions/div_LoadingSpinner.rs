@@ -34,6 +34,6 @@
         <name>id</name>
         <type>Main</type>
         <value>loadingSpinner</value>
-        <webElementGuid>fdbf4978-073b-46b2-ae56-a43b469c3254</webElementGuid>
+        <webElementGuid>0843d070-b55c-47df-8070-0f8664d5e47a</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

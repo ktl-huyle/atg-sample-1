@@ -3,8 +3,8 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable
 
 public class scheduleTestRunAndConfigureEnvironment {
@@ -108,15 +108,15 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_CloseDialog'))
         
-        "Step 25: Click on button closeAlert (Close3)"
+        "Step 25: Click on button closeActions (Close3)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAlert"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAlert', ['button_closeAlert_class': data['button_closeAlert_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class']]))
         
-        "Step 26: Click on button closeAlert (AlertClose)"
+        "Step 26: Click on button closeActions (AlertClose)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAlert"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAlert', ['button_closeAlert_class': data['button_closeAlert_class_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class_1']]))
         
         "Step 27: Click on div SubscribedSessions"
         
@@ -140,8 +140,8 @@ public class scheduleTestRunAndConfigureEnvironment {
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        data['button_closeAlert_class'] = testData.getValue('button_closeAlert_class', rowIndex)
-        data['button_closeAlert_class_1'] = testData.getValue('button_closeAlert_class_1', rowIndex)
+        data['button_closeActions_class'] = testData.getValue('button_closeActions_class', rowIndex)
+        data['button_closeActions_class_1'] = testData.getValue('button_closeActions_class_1', rowIndex)
         data['div_dynamicObject_class'] = testData.getValue('div_dynamicObject_class', rowIndex)
         data['div_dynamicObject_class_1'] = testData.getValue('div_dynamicObject_class_1', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
@@ -151,8 +151,8 @@ public class scheduleTestRunAndConfigureEnvironment {
     
     private static def execute_without_data_source() {
         Map data = [:]
-        data['button_closeAlert_class'] = 'default_data'
-        data['button_closeAlert_class_1'] = 'default_data'
+        data['button_closeActions_class'] = 'default_data'
+        data['button_closeActions_class_1'] = 'default_data'
         data['div_dynamicObject_class'] = 'default_data'
         data['div_dynamicObject_class_1'] = 'default_data'
         data['input_Name'] = 'default_data'
