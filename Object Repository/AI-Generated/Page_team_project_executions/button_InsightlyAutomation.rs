@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>select-organization</value>
-        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
+        <webElementGuid>67c81935-df9e-41e5-be2a-6abbce12a50e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>InsightlyAutomation</value>
-        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
+        <webElementGuid>67c81935-df9e-41e5-be2a-6abbce12a50e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
+        <webElementGuid>67c81935-df9e-41e5-be2a-6abbce12a50e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

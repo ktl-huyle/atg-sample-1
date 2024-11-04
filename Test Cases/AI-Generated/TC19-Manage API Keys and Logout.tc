@@ -13,7 +13,7 @@
     <testCaseGuid>562ec171-d9d0-4013-bbf5-c2822b48b04a</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>781cd447-2a85-44b2-a4c8-25be403d527a</id>
+        <id>f7e88ba3-192c-4fca-87c5-782165e7a629</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,66 +23,66 @@
     <variable>
         <defaultValue>'2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e92d1fd9-e0e6-4a1b-83ec-b2344ae206bf</id>
+        <id>9ee42b96-aa6d-4c66-ad38-e306f73e6bff</id>
         <masked>false</masked>
         <name>button_apiKeyActions_trNthChild</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>2658cc10-db35-4561-8313-244b978efaf5</id>
+        <id>7e4216ae-b8e9-4f69-b5c3-0c9212b1326e</id>
         <masked>false</masked>
         <name>button_apiKeyActions_trNthChild_1</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>523ac5b3-9a35-4cb5-8744-ad024bd8a464</id>
+        <id>9cdbcb86-ee53-4840-9528-698d8bde80b1</id>
         <masked>false</masked>
         <name>button_apiKeyActions_trNthChild_2</name>
     </variable>
     <variable>
-        <defaultValue>'Data Files/AI-Generated/Common/createNewApiKey-test-data'</defaultValue>
+        <defaultValue>'Data Files/AI-Generated/Common/createApiKeyForIntegration-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>f9ee7f50-9832-4187-950d-fabb38ef9121</id>
+        <id>e62c3223-8978-4a25-993c-48f07faa8d8d</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>c92357aa-5b26-4e07-a2a6-7d9bb1a92f43</id>
+        <id>57b863e9-e2dd-47b9-b758-cff05652eb1b</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>781cd447-2a85-44b2-a4c8-25be403d527a</testDataLinkId>
+        <testDataLinkId>f7e88ba3-192c-4fca-87c5-782165e7a629</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_apiKeyActions_trNthChild</value>
-        <variableId>e92d1fd9-e0e6-4a1b-83ec-b2344ae206bf</variableId>
+        <variableId>9ee42b96-aa6d-4c66-ad38-e306f73e6bff</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>781cd447-2a85-44b2-a4c8-25be403d527a</testDataLinkId>
+        <testDataLinkId>f7e88ba3-192c-4fca-87c5-782165e7a629</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_apiKeyActions_trNthChild_1</value>
-        <variableId>2658cc10-db35-4561-8313-244b978efaf5</variableId>
+        <variableId>7e4216ae-b8e9-4f69-b5c3-0c9212b1326e</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>781cd447-2a85-44b2-a4c8-25be403d527a</testDataLinkId>
+        <testDataLinkId>f7e88ba3-192c-4fca-87c5-782165e7a629</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_apiKeyActions_trNthChild_2</value>
-        <variableId>523ac5b3-9a35-4cb5-8744-ad024bd8a464</variableId>
+        <variableId>9cdbcb86-ee53-4840-9528-698d8bde80b1</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>781cd447-2a85-44b2-a4c8-25be403d527a</testDataLinkId>
+        <testDataLinkId>f7e88ba3-192c-4fca-87c5-782165e7a629</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>f9ee7f50-9832-4187-950d-fabb38ef9121</variableId>
+        <variableId>e62c3223-8978-4a25-993c-48f07faa8d8d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>781cd447-2a85-44b2-a4c8-25be403d527a</testDataLinkId>
+        <testDataLinkId>f7e88ba3-192c-4fca-87c5-782165e7a629</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>c92357aa-5b26-4e07-a2a6-7d9bb1a92f43</variableId>
+        <variableId>57b863e9-e2dd-47b9-b758-cff05652eb1b</variableId>
     </variableLinks>
 </TestCaseEntity>

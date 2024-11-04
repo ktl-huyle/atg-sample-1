@@ -34,6 +34,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>26639fca-9a18-464f-854a-ca1025cb234b</webElementGuid>
+        <webElementGuid>67c81935-df9e-41e5-be2a-6abbce12a50e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
