@@ -13,7 +13,7 @@
     <testCaseGuid>177e0c8b-35b8-4f6d-b44f-fc79d7d52204</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>09fbdba3-2438-4b3f-b294-25d9c90c248e</id>
+        <id>c09cb5ae-aaef-417d-83f8-a1a45922a524</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,40 +23,40 @@
     <variable>
         <defaultValue>'14'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>27b7a3b1-320b-4c2b-8b33-74c37c280e03</id>
+        <id>8bc8592c-3414-47af-883b-0e2ca05d1de5</id>
         <masked>false</masked>
-        <name>link_testSuiteLinks_executions_id</name>
+        <name>link_testSuiteActions_executions_id</name>
     </variable>
     <variable>
         <defaultValue>'1589118'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>1ae967a2-0524-4647-836b-1861a06cc13f</id>
+        <id>fdccf811-1187-41d8-a842-8a159d2fdeda</id>
         <masked>false</masked>
-        <name>link_testSuiteLinks_project_id</name>
+        <name>link_testSuiteActions_project_id</name>
     </variable>
     <variable>
         <defaultValue>'1570446'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>5071cb55-ce7b-4bba-81c0-31289f5ba7ac</id>
+        <id>ad86ce94-c4fa-4c05-a44a-c4fc31c6e257</id>
         <masked>false</masked>
-        <name>link_testSuiteLinks_team_id</name>
+        <name>link_testSuiteActions_team_id</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>09fbdba3-2438-4b3f-b294-25d9c90c248e</testDataLinkId>
+        <testDataLinkId>c09cb5ae-aaef-417d-83f8-a1a45922a524</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_testSuiteLinks_executions_id</value>
-        <variableId>27b7a3b1-320b-4c2b-8b33-74c37c280e03</variableId>
+        <value>link_testSuiteActions_executions_id</value>
+        <variableId>8bc8592c-3414-47af-883b-0e2ca05d1de5</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>09fbdba3-2438-4b3f-b294-25d9c90c248e</testDataLinkId>
+        <testDataLinkId>c09cb5ae-aaef-417d-83f8-a1a45922a524</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_testSuiteLinks_project_id</value>
-        <variableId>1ae967a2-0524-4647-836b-1861a06cc13f</variableId>
+        <value>link_testSuiteActions_project_id</value>
+        <variableId>fdccf811-1187-41d8-a842-8a159d2fdeda</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>09fbdba3-2438-4b3f-b294-25d9c90c248e</testDataLinkId>
+        <testDataLinkId>c09cb5ae-aaef-417d-83f8-a1a45922a524</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_testSuiteLinks_team_id</value>
-        <variableId>5071cb55-ce7b-4bba-81c0-31289f5ba7ac</variableId>
+        <value>link_testSuiteActions_team_id</value>
+        <variableId>ad86ce94-c4fa-4c05-a44a-c4fc31c6e257</variableId>
     </variableLinks>
 </TestCaseEntity>
