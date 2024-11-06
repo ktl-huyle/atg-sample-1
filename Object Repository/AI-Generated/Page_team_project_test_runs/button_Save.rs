@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>save-configure-ts</value>
-        <webElementGuid>69c6b458-6295-4fa0-acde-de6395a1e6f8</webElementGuid>
+        <webElementGuid>d8fd812b-5b6a-4a3e-a9c0-5c6f06a6933e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Save</value>
-        <webElementGuid>69c6b458-6295-4fa0-acde-de6395a1e6f8</webElementGuid>
+        <webElementGuid>d8fd812b-5b6a-4a3e-a9c0-5c6f06a6933e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Save</value>
-        <webElementGuid>69c6b458-6295-4fa0-acde-de6395a1e6f8</webElementGuid>
+        <webElementGuid>d8fd812b-5b6a-4a3e-a9c0-5c6f06a6933e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>69c6b458-6295-4fa0-acde-de6395a1e6f8</webElementGuid>
+        <webElementGuid>d8fd812b-5b6a-4a3e-a9c0-5c6f06a6933e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
