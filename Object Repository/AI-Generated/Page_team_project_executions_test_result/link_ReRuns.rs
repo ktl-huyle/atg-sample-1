@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/86034/project/208759/executions/27979/test-result/217762772-sort-and-filter-gui-check-ios/re-runs</value>
-        <webElementGuid>7aa79a01-ea74-4ca5-bf2e-1a029be52e13</webElementGuid>
+        <webElementGuid>e2a6f55a-706d-4fd9-a838-10337a1c612e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Re-runs</value>
-        <webElementGuid>7aa79a01-ea74-4ca5-bf2e-1a029be52e13</webElementGuid>
+        <webElementGuid>e2a6f55a-706d-4fd9-a838-10337a1c612e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

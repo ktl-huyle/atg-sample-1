@@ -3,9 +3,9 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 public class scheduleAndRunTestWithEnvironmentSelection {
     
@@ -47,10 +47,10 @@ public class scheduleAndRunTestWithEnvironmentSelection {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_RunIcon'))
         
-        "Step 10: Click on div dynamicObject (CustomizedMenu)"
+        "Step 10: Click on div menuBackdrop (CustomizedMenu)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrop"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrop', ['div_menuBackdrop_class': data['div_menuBackdrop_class']]))
         
         "Step 11: Click on button Run"
         
@@ -131,10 +131,10 @@ public class scheduleAndRunTestWithEnvironmentSelection {
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionInfo"
         WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionInfo', ['p_sessionInfo_class': data['p_sessionInfo_class']]))
         
-        "Step 30: Click on div dynamicObject (PopoverBackdrop)"
+        "Step 30: Click on div menuBackdrop (PopoverBackdrop)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrop"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuBackdrop', ['div_menuBackdrop_class': data['div_menuBackdrop_class_1']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
@@ -142,8 +142,8 @@ public class scheduleAndRunTestWithEnvironmentSelection {
         Map data = [:]
         data['button_closeActions_class'] = testData.getValue('button_closeActions_class', rowIndex)
         data['button_closeActions_class_1'] = testData.getValue('button_closeActions_class_1', rowIndex)
-        data['div_dynamicObject_class'] = testData.getValue('div_dynamicObject_class', rowIndex)
-        data['div_dynamicObject_class_1'] = testData.getValue('div_dynamicObject_class_1', rowIndex)
+        data['div_menuBackdrop_class'] = testData.getValue('div_menuBackdrop_class', rowIndex)
+        data['div_menuBackdrop_class_1'] = testData.getValue('div_menuBackdrop_class_1', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
         data['p_sessionInfo_class'] = testData.getValue('p_sessionInfo_class', rowIndex)
         execute_functional_method(data)
@@ -153,8 +153,8 @@ public class scheduleAndRunTestWithEnvironmentSelection {
         Map data = [:]
         data['button_closeActions_class'] = 'default_data'
         data['button_closeActions_class_1'] = 'default_data'
-        data['div_dynamicObject_class'] = 'default_data'
-        data['div_dynamicObject_class_1'] = 'default_data'
+        data['div_menuBackdrop_class'] = 'default_data'
+        data['div_menuBackdrop_class_1'] = 'default_data'
         data['input_Name'] = 'default_data'
         data['p_sessionInfo_class'] = 'default_data'
         execute_functional_method(data)

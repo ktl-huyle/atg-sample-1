@@ -7,7 +7,7 @@
     <selectorCollection>
         <entry>
             <key>XPATH</key>
-            <value>//body/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[5]/div[1]/button[3]</value>
+            <value>//body/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/table[1]/tbody[1]/tr[3]/td[5]/div[1]/button[3]</value>
         </entry>
         <entry>
             <key>CSS</key>
@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>external-link-button</value>
-        <webElementGuid>7aa79a01-ea74-4ca5-bf2e-1a029be52e13</webElementGuid>
+        <webElementGuid>e2a6f55a-706d-4fd9-a838-10337a1c612e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Go to Test Result details</value>
-        <webElementGuid>7aa79a01-ea74-4ca5-bf2e-1a029be52e13</webElementGuid>
+        <webElementGuid>e2a6f55a-706d-4fd9-a838-10337a1c612e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>7aa79a01-ea74-4ca5-bf2e-1a029be52e13</webElementGuid>
+        <webElementGuid>e2a6f55a-706d-4fd9-a838-10337a1c612e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
