@@ -47,10 +47,10 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/div_RunIcon'))
         
-        "Step 10: Click on div menuComponents (CustomizedMenu)"
+        "Step 10: Click on div dynamicObject (CustomizedMenu)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuComponents"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuComponents', ['div_menuComponents_class': data['div_menuComponents_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class']]))
         
         "Step 11: Click on button Run"
         
@@ -108,15 +108,15 @@ public class scheduleTestRunAndConfigureEnvironment {
         
         WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/button_CloseDialog'))
         
-        "Step 25: Click on button closeActions (Close3)"
+        "Step 25: Click on button closeAction (Close3)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAction"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAction', ['button_closeAction_class': data['button_closeAction_class']]))
         
-        "Step 26: Click on button closeActions (AlertClose)"
+        "Step 26: Click on button closeAction (AlertClose)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeActions', ['button_closeActions_class': data['button_closeActions_class_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAction"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/button_closeAction', ['button_closeAction_class': data['button_closeAction_class_1']]))
         
         "Step 27: Click on div SubscribedSessions"
         
@@ -131,19 +131,19 @@ public class scheduleTestRunAndConfigureEnvironment {
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails"
         WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/p_sessionDetails', ['p_sessionDetails_class': data['p_sessionDetails_class']]))
         
-        "Step 30: Click on div menuComponents (PopoverBackdrop)"
+        "Step 30: Click on div dynamicObject (PopoverBackdrop)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuComponents"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_menuComponents', ['div_menuComponents_class': data['div_menuComponents_class_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_dynamicObject', ['div_dynamicObject_class': data['div_dynamicObject_class_1']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {
         TestData testData = findTestData(datasource)
         Map data = [:]
-        data['button_closeActions_class'] = testData.getValue('button_closeActions_class', rowIndex)
-        data['button_closeActions_class_1'] = testData.getValue('button_closeActions_class_1', rowIndex)
-        data['div_menuComponents_class'] = testData.getValue('div_menuComponents_class', rowIndex)
-        data['div_menuComponents_class_1'] = testData.getValue('div_menuComponents_class_1', rowIndex)
+        data['button_closeAction_class'] = testData.getValue('button_closeAction_class', rowIndex)
+        data['button_closeAction_class_1'] = testData.getValue('button_closeAction_class_1', rowIndex)
+        data['div_dynamicObject_class'] = testData.getValue('div_dynamicObject_class', rowIndex)
+        data['div_dynamicObject_class_1'] = testData.getValue('div_dynamicObject_class_1', rowIndex)
         data['input_Name'] = testData.getValue('input_Name', rowIndex)
         data['p_sessionDetails_class'] = testData.getValue('p_sessionDetails_class', rowIndex)
         execute_functional_method(data)
@@ -151,10 +151,10 @@ public class scheduleTestRunAndConfigureEnvironment {
     
     private static def execute_without_data_source() {
         Map data = [:]
-        data['button_closeActions_class'] = 'default_data'
-        data['button_closeActions_class_1'] = 'default_data'
-        data['div_menuComponents_class'] = 'default_data'
-        data['div_menuComponents_class_1'] = 'default_data'
+        data['button_closeAction_class'] = 'default_data'
+        data['button_closeAction_class_1'] = 'default_data'
+        data['div_dynamicObject_class'] = 'default_data'
+        data['div_dynamicObject_class_1'] = 'default_data'
         data['input_Name'] = 'default_data'
         data['p_sessionDetails_class'] = 'default_data'
         execute_functional_method(data)
