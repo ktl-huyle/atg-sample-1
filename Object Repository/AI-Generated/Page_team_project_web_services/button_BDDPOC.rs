@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>select-organization</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>BDD POC</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

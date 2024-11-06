@@ -13,7 +13,7 @@
     <testCaseGuid>67e73831-4d29-445c-974e-a619140cc9f8</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</id>
+        <id>c4337324-eb4a-46d9-9150-4ad8a70050d8</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,157 +23,157 @@
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a51df79a-b945-4ebf-a78c-db1c63dc12d7</id>
+        <id>899b3565-61e5-4ffc-9778-f6a759ce426d</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class</name>
+        <name>input_rowSelection_class</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>29c3d510-e628-4a2d-bc73-b0e8dad9a1bf</id>
+        <id>7c00ddb2-a3c0-48fb-a100-a3278b5f71ae</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class_1</name>
+        <name>input_rowSelection_class_1</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ddb11eef-e418-449f-92dd-4f7725323e97</id>
+        <id>a4ac19ad-6bdd-4adc-9579-4a8126d9383a</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class_2</name>
+        <name>input_rowSelection_class_2</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>bd06eaec-6a1a-4645-986b-c2b411e4d0fa</id>
+        <id>e4f4fc17-26f0-4564-ba51-1ce877a9ce0f</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class_3</name>
+        <name>input_rowSelection_class_3</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>735fa54d-8807-4559-9a75-ddff2f988663</id>
+        <id>13470397-b842-4507-8ebb-d43c28477c6c</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class_4</name>
+        <name>input_rowSelection_class_4</name>
     </variable>
     <variable>
         <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9c1f95f4-e6ac-49ae-b70b-882bb329bce2</id>
+        <id>be248412-4841-4d72-98a8-2314869fb11c</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_class_5</name>
+        <name>input_rowSelection_class_5</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test Run #2576 2024-08-21 16:49:57 -05:00 N/A pratima.'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ae1a6c39-e007-413a-9bff-02330d330fcc</id>
+        <id>5e0b1378-1a9f-46d1-bedb-b7155f0ba0a8</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName</name>
+        <name>input_rowSelection_internalRoleRowName</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test Run #2575 2024-08-21 16:48:37 -05:00 N/A pratima.'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>1a765af8-9b55-4181-acf8-b83ae7c71714</id>
+        <id>493931b9-bf45-4777-b4ee-52fe0646230d</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName_1</name>
+        <name>input_rowSelection_internalRoleRowName_1</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test Run #2574 2024-08-21 16:28:59 -05:00 N/A pratima.'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>74544ebe-b3e6-4a16-84d0-3a8df4b253e3</id>
+        <id>49ce2ea8-c8f0-440c-9233-0fc124a00287</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName_2</name>
+        <name>input_rowSelection_internalRoleRowName_2</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test Run #2573 2024-08-21 16:13:36 -05:00 N/A pratima.'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ca8f10d5-1a8e-4c66-b98f-2eb311d7522f</id>
+        <id>5cac8ea2-28b1-4f4b-ac8e-7f6724294439</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName_3</name>
+        <name>input_rowSelection_internalRoleRowName_3</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test Run #2572 2024-08-21 16:07:40 -05:00 N/A pratima.'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4df35b42-c04f-485d-932c-627d4de8a0fe</id>
+        <id>507ed09b-fd22-4a1a-beb8-1dfd2bcc4325</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName_4</name>
+        <name>input_rowSelection_internalRoleRowName_4</name>
     </variable>
     <variable>
         <defaultValue>'Select row \uf3f4 Untitled Test'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a159eb7f-a35d-469a-84f3-95bd36bbd52f</id>
+        <id>fdfaf626-e535-4f6a-a432-9b9e76a3aa67</id>
         <masked>false</masked>
-        <name>input_rowSelectionCheckbox_internalRoleRowName_5</name>
+        <name>input_rowSelection_internalRoleRowName_5</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class</value>
-        <variableId>a51df79a-b945-4ebf-a78c-db1c63dc12d7</variableId>
+        <value>input_rowSelection_class</value>
+        <variableId>899b3565-61e5-4ffc-9778-f6a759ce426d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class_1</value>
-        <variableId>29c3d510-e628-4a2d-bc73-b0e8dad9a1bf</variableId>
+        <value>input_rowSelection_class_1</value>
+        <variableId>7c00ddb2-a3c0-48fb-a100-a3278b5f71ae</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class_2</value>
-        <variableId>ddb11eef-e418-449f-92dd-4f7725323e97</variableId>
+        <value>input_rowSelection_class_2</value>
+        <variableId>a4ac19ad-6bdd-4adc-9579-4a8126d9383a</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class_3</value>
-        <variableId>bd06eaec-6a1a-4645-986b-c2b411e4d0fa</variableId>
+        <value>input_rowSelection_class_3</value>
+        <variableId>e4f4fc17-26f0-4564-ba51-1ce877a9ce0f</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class_4</value>
-        <variableId>735fa54d-8807-4559-9a75-ddff2f988663</variableId>
+        <value>input_rowSelection_class_4</value>
+        <variableId>13470397-b842-4507-8ebb-d43c28477c6c</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_class_5</value>
-        <variableId>9c1f95f4-e6ac-49ae-b70b-882bb329bce2</variableId>
+        <value>input_rowSelection_class_5</value>
+        <variableId>be248412-4841-4d72-98a8-2314869fb11c</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName</value>
-        <variableId>ae1a6c39-e007-413a-9bff-02330d330fcc</variableId>
+        <value>input_rowSelection_internalRoleRowName</value>
+        <variableId>5e0b1378-1a9f-46d1-bedb-b7155f0ba0a8</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName_1</value>
-        <variableId>1a765af8-9b55-4181-acf8-b83ae7c71714</variableId>
+        <value>input_rowSelection_internalRoleRowName_1</value>
+        <variableId>493931b9-bf45-4777-b4ee-52fe0646230d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName_2</value>
-        <variableId>74544ebe-b3e6-4a16-84d0-3a8df4b253e3</variableId>
+        <value>input_rowSelection_internalRoleRowName_2</value>
+        <variableId>49ce2ea8-c8f0-440c-9233-0fc124a00287</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName_3</value>
-        <variableId>ca8f10d5-1a8e-4c66-b98f-2eb311d7522f</variableId>
+        <value>input_rowSelection_internalRoleRowName_3</value>
+        <variableId>5cac8ea2-28b1-4f4b-ac8e-7f6724294439</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName_4</value>
-        <variableId>4df35b42-c04f-485d-932c-627d4de8a0fe</variableId>
+        <value>input_rowSelection_internalRoleRowName_4</value>
+        <variableId>507ed09b-fd22-4a1a-beb8-1dfd2bcc4325</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>5e0d02e4-4aad-4adf-80d2-20c85d0492b5</testDataLinkId>
+        <testDataLinkId>c4337324-eb4a-46d9-9150-4ad8a70050d8</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>input_rowSelectionCheckbox_internalRoleRowName_5</value>
-        <variableId>a159eb7f-a35d-469a-84f3-95bd36bbd52f</variableId>
+        <value>input_rowSelection_internalRoleRowName_5</value>
+        <variableId>fdfaf626-e535-4f6a-a432-9b9e76a3aa67</variableId>
     </variableLinks>
 </TestCaseEntity>

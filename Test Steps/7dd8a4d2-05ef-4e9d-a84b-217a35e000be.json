@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on link testSuite (SmokeTestSuite) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 2: Click on link executionDetails (SmokeTestSuite) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 3: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
         "step 4: Click on div testCase (UploadedData)",
         "step 5: Click on link TestSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'",

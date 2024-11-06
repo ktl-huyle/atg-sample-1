@@ -13,7 +13,7 @@
     <testCaseGuid>6fc91fd1-2f3f-4bdd-b55a-56d661f57b16</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>29304916-6e11-45ea-bb6a-01304cf27f08</id>
+        <id>e35da654-9a5d-443d-941a-12750a805685</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'\uf058 Untitled Test Run #1656'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>16c0e6f8-1821-4295-b965-6bae286c0076</id>
+        <id>25bf837a-6270-48af-9b75-03001a7521c5</id>
         <masked>false</masked>
         <name>div_testRun_internalRoleCellName</name>
     </variable>
     <variable>
         <defaultValue>'\uf3f4 Untitled Test Run #1657'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>8d46f5e3-5620-4e8d-8ae0-fcd339ccd9ec</id>
+        <id>1d4e3423-8d7e-46fe-a3e5-970b4f30ac1d</id>
         <masked>false</masked>
         <name>div_testRun_internalRoleCellName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>29304916-6e11-45ea-bb6a-01304cf27f08</testDataLinkId>
+        <testDataLinkId>e35da654-9a5d-443d-941a-12750a805685</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_testRun_internalRoleCellName</value>
-        <variableId>16c0e6f8-1821-4295-b965-6bae286c0076</variableId>
+        <variableId>25bf837a-6270-48af-9b75-03001a7521c5</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>29304916-6e11-45ea-bb6a-01304cf27f08</testDataLinkId>
+        <testDataLinkId>e35da654-9a5d-443d-941a-12750a805685</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_testRun_internalRoleCellName_1</value>
-        <variableId>8d46f5e3-5620-4e8d-8ae0-fcd339ccd9ec</variableId>
+        <variableId>1d4e3423-8d7e-46fe-a3e5-970b4f30ac1d</variableId>
     </variableLinks>
 </TestCaseEntity>

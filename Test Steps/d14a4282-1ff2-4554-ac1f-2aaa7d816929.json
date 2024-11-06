@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: View test result details and mark the result as passed",
+        "step 2: View and mark the test result status as passed.",
         "step 3: Click on button MarkAsPassed",
         "step 4: Click on label ChangeTestResultStatus",
         "step 5: Click on button Submit",
@@ -15,7 +15,7 @@
         "step 13: Click on button testResultDetails (TestResultDetails2)",
         "step 14: Click on button testResultDetails (TestResultDetails3)",
         "step 15: Click on button testResultDetails (TestResultDetails4)",
-        "step 16: View test result details and mark the result as passed",
+        "step 16: View and mark the test result status as passed.",
         "step 17: Click on button MarkAsPassed",
         "step 18: Click on label ChangeTestResultStatus",
         "step 19: Click on button Submit",

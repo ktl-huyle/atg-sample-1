@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1093431/project/1132534/test-design/test-suites</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Test Suites</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites</value>
-        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
+        <webElementGuid>fb9e8ccf-141c-4693-90dc-522442ef8a79</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
