@@ -13,7 +13,7 @@
     <testCaseGuid>da22d104-8b75-4ed4-ad19-963249c73bae</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>c354f7e1-fdce-4d46-9911-980827e54f26</id>
+        <id>fe908deb-d9c0-4e6a-ac7c-60deb03f6213</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'TestOps Homepage View summary'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>1da5752b-c1f9-44ab-8c7a-b54ccfe9c89e</id>
+        <id>e46d3df3-5fbf-4702-a978-ab27c936efef</id>
         <masked>false</masked>
         <name>link_projectManagement_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'TestOps Homepage View summary'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>b70093a4-6627-4dec-96cd-85352ddbca39</id>
+        <id>86519085-725f-4563-a0b1-c4d9a36c0589</id>
         <masked>false</masked>
         <name>link_projectManagement_internalRoleLinkName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>c354f7e1-fdce-4d46-9911-980827e54f26</testDataLinkId>
+        <testDataLinkId>fe908deb-d9c0-4e6a-ac7c-60deb03f6213</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_projectManagement_internalRoleLinkName</value>
-        <variableId>1da5752b-c1f9-44ab-8c7a-b54ccfe9c89e</variableId>
+        <variableId>e46d3df3-5fbf-4702-a978-ab27c936efef</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>c354f7e1-fdce-4d46-9911-980827e54f26</testDataLinkId>
+        <testDataLinkId>fe908deb-d9c0-4e6a-ac7c-60deb03f6213</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_projectManagement_internalRoleLinkName_1</value>
-        <variableId>b70093a4-6627-4dec-96cd-85352ddbca39</variableId>
+        <variableId>86519085-725f-4563-a0b1-c4d9a36c0589</variableId>
     </variableLinks>
 </TestCaseEntity>

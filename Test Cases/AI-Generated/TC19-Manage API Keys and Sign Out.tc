@@ -13,7 +13,7 @@
     <testCaseGuid>562ec171-d9d0-4013-bbf5-c2822b48b04a</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>f5d67dab-5112-4445-8b77-d5d7991b04e6</id>
+        <id>2527e710-db98-4cde-b54b-b586c6e6219e</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,66 +23,66 @@
     <variable>
         <defaultValue>'2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>d83c08f1-82ca-4796-adc6-71707b11064a</id>
+        <id>81ff5965-8d32-4215-9956-2c4029489bd5</id>
         <masked>false</masked>
-        <name>button_userActions_trNthChild</name>
+        <name>button_apiKeyActions_trNthChild</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>91fcdb0a-5efa-4cef-afca-e93397030bba</id>
+        <id>b3b1b790-931f-4a23-9626-390ee835d0b7</id>
         <masked>false</masked>
-        <name>button_userActions_trNthChild_1</name>
+        <name>button_apiKeyActions_trNthChild_1</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e5350466-c5e7-4753-9acf-80389ff42597</id>
+        <id>c63325ff-eec2-4f06-900d-04115220694d</id>
         <masked>false</masked>
-        <name>button_userActions_trNthChild_2</name>
+        <name>button_apiKeyActions_trNthChild_2</name>
     </variable>
     <variable>
-        <defaultValue>'Data Files/AI-Generated/Common/createNewApiKey-test-data'</defaultValue>
+        <defaultValue>'Data Files/AI-Generated/Common/createApiKeyForAccess-test-data'</defaultValue>
         <description>Common function data file id</description>
-        <id>2ec1bc95-f3a3-4c33-a1c4-aa1fc833b15d</id>
+        <id>2152ff58-3a1c-4ee3-bb13-157dada77ac9</id>
         <masked>false</masked>
         <name>data_path_0</name>
     </variable>
     <variable>
         <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
-        <id>fe248eb0-0727-4f09-a11e-f3367ffda788</id>
+        <id>399c02bf-a9f9-4424-972b-009fb82e57a9</id>
         <masked>false</masked>
         <name>index_0</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>f5d67dab-5112-4445-8b77-d5d7991b04e6</testDataLinkId>
+        <testDataLinkId>2527e710-db98-4cde-b54b-b586c6e6219e</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>button_userActions_trNthChild</value>
-        <variableId>d83c08f1-82ca-4796-adc6-71707b11064a</variableId>
+        <value>button_apiKeyActions_trNthChild</value>
+        <variableId>81ff5965-8d32-4215-9956-2c4029489bd5</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>f5d67dab-5112-4445-8b77-d5d7991b04e6</testDataLinkId>
+        <testDataLinkId>2527e710-db98-4cde-b54b-b586c6e6219e</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>button_userActions_trNthChild_1</value>
-        <variableId>91fcdb0a-5efa-4cef-afca-e93397030bba</variableId>
+        <value>button_apiKeyActions_trNthChild_1</value>
+        <variableId>b3b1b790-931f-4a23-9626-390ee835d0b7</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>f5d67dab-5112-4445-8b77-d5d7991b04e6</testDataLinkId>
+        <testDataLinkId>2527e710-db98-4cde-b54b-b586c6e6219e</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>button_userActions_trNthChild_2</value>
-        <variableId>e5350466-c5e7-4753-9acf-80389ff42597</variableId>
+        <value>button_apiKeyActions_trNthChild_2</value>
+        <variableId>c63325ff-eec2-4f06-900d-04115220694d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>f5d67dab-5112-4445-8b77-d5d7991b04e6</testDataLinkId>
+        <testDataLinkId>2527e710-db98-4cde-b54b-b586c6e6219e</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>data_path_0</value>
-        <variableId>2ec1bc95-f3a3-4c33-a1c4-aa1fc833b15d</variableId>
+        <variableId>2152ff58-3a1c-4ee3-bb13-157dada77ac9</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>f5d67dab-5112-4445-8b77-d5d7991b04e6</testDataLinkId>
+        <testDataLinkId>2527e710-db98-4cde-b54b-b586c6e6219e</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>index_0</value>
-        <variableId>fe248eb0-0727-4f09-a11e-f3367ffda788</variableId>
+        <variableId>399c02bf-a9f9-4424-972b-009fb82e57a9</variableId>
     </variableLinks>
 </TestCaseEntity>
