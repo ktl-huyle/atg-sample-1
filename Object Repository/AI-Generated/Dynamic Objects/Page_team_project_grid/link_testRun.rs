@@ -34,6 +34,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{link_testRun_team_id}}/project/${{link_testRun_project_id}}/grid/plan/${{link_testRun_plan_id}}/job</value>
-        <webElementGuid>1fb45e55-72c2-4540-a86a-6562358a1a6f</webElementGuid>
+        <webElementGuid>6cb1949e-d52a-4432-bbfb-a577a9802cff</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
