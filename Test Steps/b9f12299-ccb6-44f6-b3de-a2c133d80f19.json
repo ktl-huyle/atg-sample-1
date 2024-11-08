@@ -3,7 +3,7 @@
         "step 1: Navigate to team/*/project/*/web-services",
         "step 2: Click on button BDDPOC",
         "step 3: Click on link MyOrganization -> Navigate to page 'organization/*/home'",
-        "step 4: Click on link organizationLink (BPBDDPOC) -> Navigate to page 'team/*/project/*'",
+        "step 4: Click on link project (BPBDDPOC) -> Navigate to page 'team/*/project/*'",
         "step 5: Click on button BDDPOC",
         "step 6: Click on link Settings -> Navigate to page 'team/*/project/*/settings'",
         "step 7: Click on label EnableBDDReports",
@@ -12,9 +12,9 @@
         "step 10: Click on link Integrations -> Navigate to page 'team/*/project/*/integrations'",
         "step 11: Click on div integrationTool (KatalonStudio)",
         "step 12: Click on div integrationTool (ALMTestManagement)",
-        "step 13: Click on div testingFramework (MobileDeviceTesting)",
+        "step 13: Click on div integrationTool (MobileDeviceTesting)",
         "step 14: Click on div integrationTool (Kobiton)",
-        "step 15: Click on div testingFramework (TestingFramework) -> Navigate to page ''",
+        "step 15: Click on div integrationTool (TestingFramework) -> Navigate to page ''",
         "step 16: Take full page screenshot as checkpoint"
     ]
 }

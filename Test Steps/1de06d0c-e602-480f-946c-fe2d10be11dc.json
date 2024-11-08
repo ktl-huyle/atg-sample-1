@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to team/*/project/*/grid/plan/*/job",
-        "step 2: Click on button linkToARelease",
-        "step 3: Click on div object11",
-        "step 4: Click on button run2 -> Navigate to page ''",
-        "step 5: Take full page screenshot as checkpoint"
-    ]
-}

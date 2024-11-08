@@ -2,7 +2,7 @@
     "steps": [
         "step 1: Navigate to team/*/project/*/grid",
         "step 2: Click on link testRun (UntitledTestRun) -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
-        "step 3: Click on link executionPlan (Execution10) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 3: Click on link executionDetails (Execution10) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 4: Click on link executionDetails (Execution8) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
         "step 5: Click on link Calendar -> Navigate to page 'team/*/project/*/test-planning'",
         "step 6: Click on item Calendar",
@@ -60,8 +60,8 @@
         "step 58: Click on button ShowMore",
         "step 59: Click on button Object",
         "step 60: Click on div testRunItem (UntitledTestRun7)",
-        "step 61: Click on header testRunTitle (UntitledTestRun)",
-        "step 62: Click on header testRunTitle (UntitledTestRun)",
+        "step 61: Click on header testRun (UntitledTestRun)",
+        "step 62: Click on header testRun (UntitledTestRun)",
         "step 63: Click on div testRunItem (UntitledTestRun7)",
         "step 64: Click on button GoToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
         "step 65: Click on div ThumbnailImage",
@@ -84,7 +84,7 @@
         "step 82: Click on div IPAddress",
         "step 83: Click on button Save2",
         "step 84: Click on button Run",
-        "step 85: Click on header testRunTitle (EdgeOpen1040SSTest)",
+        "step 85: Click on header testRun (EdgeOpen1040SSTest)",
         "step 86: Click on div testRunItem (EdgeOpen1040SSTest)",
         "step 87: Click on button closeAlert (Close2)",
         "step 88: Click on button Close3",
@@ -96,7 +96,7 @@
         "step 94: Click on link Schedules2 -> Navigate to page 'team/*/project/*/grid'",
         "step 95: Click on link testRun (EdgeOpenTest) -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
         "step 96: Click on div EdgeOpen1040SSTest",
-        "step 97: Click on link executionPlan (ProjectExecution 12) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 97: Click on link executionDetails (ProjectExecution 12) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 98: Click on link executionDetails (JobDetails 10) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
         "step 99: Take full page screenshot as checkpoint"
     ]
