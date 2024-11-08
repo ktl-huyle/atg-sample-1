@@ -10,40 +10,5 @@
     <name>TC7-Access User Profile and Project Navigation</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>055d89f3-c2e3-4ada-806f-b85b9feabde2</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>e0ed32e7-811d-4eb0-af0e-9a8ea2ab4577</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC7-Access User Profile and Project Navigation-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'NK'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>375fc23c-e7a2-42b5-b5bf-73994473338d</id>
-        <masked>false</masked>
-        <name>button_userProfile_internalRoleButtonName</name>
-    </variable>
-    <variable>
-        <defaultValue>'TestOps Homepage View summary'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>b2565d3d-aea6-456e-a804-d146966f59ca</id>
-        <masked>false</masked>
-        <name>link_projectNavigation_internalRoleLinkName</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>e0ed32e7-811d-4eb0-af0e-9a8ea2ab4577</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_userProfile_internalRoleButtonName</value>
-        <variableId>375fc23c-e7a2-42b5-b5bf-73994473338d</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>e0ed32e7-811d-4eb0-af0e-9a8ea2ab4577</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_projectNavigation_internalRoleLinkName</value>
-        <variableId>b2565d3d-aea6-456e-a804-d146966f59ca</variableId>
-    </variableLinks>
+    <testCaseGuid>79791b88-c25d-4bb4-8c4d-15f646149941</testCaseGuid>
 </TestCaseEntity>

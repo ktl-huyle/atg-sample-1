@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on link rRdCrewPaycalMaxtermTlStaffRegTestCases1 -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link reports -> Navigate to page 'team/*/project/*/overview'",
+        "step 4: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 5: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 6: Click on span testSuitesTsMasterVendorDebugQaUat",
+        "step 7: Click on div object",
+        "step 8: Click on button externalLinkButton -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

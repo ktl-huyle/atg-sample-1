@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>reportFolder</value>
-        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
+        <webElementGuid>2fd55609-b45e-4ffa-9e1c-43e16211753b</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>name</name>
         <type>Main</type>
         <value>reportFolder</value>
-        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
+        <webElementGuid>2fd55609-b45e-4ffa-9e1c-43e16211753b</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
+        <webElementGuid>2fd55609-b45e-4ffa-9e1c-43e16211753b</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

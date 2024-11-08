@@ -10,10 +10,10 @@
     <name>TC11-Create and Copy API Key then Sign Out</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>368f5414-0bb9-48a0-8392-c6145d3bd542</testCaseGuid>
+    <testCaseGuid>7f83b5bb-b2c9-49be-9586-34a9236113b5</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>c079e80e-179e-4dd8-ac8c-a1d064507a29</id>
+        <id>289379ec-38e1-4851-acf9-4e3a754bf93c</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -21,29 +21,16 @@
         <testDataId>Data Files/AI-Generated/TC11-Create and Copy API Key then Sign Out-test-data</testDataId>
     </testDataLinks>
     <variable>
-        <defaultValue>'2'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>03ebabb9-38dc-44ed-b4ff-c0482d772c66</id>
-        <masked>false</masked>
-        <name>button_apiKeyAction_trNthChild</name>
-    </variable>
-    <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>266ad7ac-579e-411b-9a93-775f763f12eb</id>
+        <id>cb520814-41a8-4753-af6e-ff285f6b6471</id>
         <masked>false</masked>
         <name>input_KeyName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>c079e80e-179e-4dd8-ac8c-a1d064507a29</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_apiKeyAction_trNthChild</value>
-        <variableId>03ebabb9-38dc-44ed-b4ff-c0482d772c66</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>c079e80e-179e-4dd8-ac8c-a1d064507a29</testDataLinkId>
+        <testDataLinkId>289379ec-38e1-4851-acf9-4e3a754bf93c</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_KeyName</value>
-        <variableId>266ad7ac-579e-411b-9a93-775f763f12eb</variableId>
+        <variableId>cb520814-41a8-4753-af6e-ff285f6b6471</variableId>
     </variableLinks>
 </TestCaseEntity>

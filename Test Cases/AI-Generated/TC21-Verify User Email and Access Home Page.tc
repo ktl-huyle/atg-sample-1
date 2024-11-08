@@ -10,27 +10,5 @@
     <name>TC21-Verify User Email and Access Home Page</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>1b961865-194c-436f-a97e-685a4abb7467</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>8aa7617f-b644-4901-9959-b1b5667a64e7</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC21-Verify User Email and Access Home Page-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'AR'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>6098ef29-c4d5-43c2-9857-bee03a7e9758</id>
-        <masked>false</masked>
-        <name>button_userProfile_internalRoleButtonName</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>8aa7617f-b644-4901-9959-b1b5667a64e7</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_userProfile_internalRoleButtonName</value>
-        <variableId>6098ef29-c4d5-43c2-9857-bee03a7e9758</variableId>
-    </variableLinks>
+    <testCaseGuid>db35658f-7a5b-4204-81cb-2ac19997909f</testCaseGuid>
 </TestCaseEntity>
