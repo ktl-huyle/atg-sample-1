@@ -34,7 +34,7 @@
         <name>title</name>
         <type>Main</type>
         <value>CPAC DEC Preapproval-Bind Test Suite</value>
-        <webElementGuid>ae0c7909-5511-4b8e-9874-f31acce198d6</webElementGuid>
+        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{link_testSuiteDetails_team_id}}/project/${{link_testSuiteDetails_project_id}}/executions/${{link_testSuiteDetails_executions_id}}</value>
-        <webElementGuid>ae0c7909-5511-4b8e-9874-f31acce198d6</webElementGuid>
+        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

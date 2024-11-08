@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>failure-reason-select</value>
-        <webElementGuid>ae0c7909-5511-4b8e-9874-f31acce198d6</webElementGuid>
+        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>ae0c7909-5511-4b8e-9874-f31acce198d6</webElementGuid>
+        <webElementGuid>62553bc7-83ad-4e83-9a1b-26e748e33fa4</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

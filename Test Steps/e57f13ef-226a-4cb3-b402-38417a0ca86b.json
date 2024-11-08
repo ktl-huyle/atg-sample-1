@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/test-runs",
-        "step 2: Click on div testRun (UntitledTestRun)",
+        "step 2: Click on div testRunItem (UntitledTestRun)",
         "step 3: Click on div SortID",
         "step 4: Click on button Object",
         "step 5: Click on button ScheduleTestRun",
