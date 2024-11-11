@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 3: Click on link teamProjectReleases -> Navigate to page 'team/*/project/*/releases/*'",
+        "step 4: Click on link testRuns -> Navigate to page 'team/*/project/*/releases/*/executions'",
+        "step 5: Click on link teamProjectExecutions -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 6: Click on link testResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'",
+        "step 7: Click on div object",
+        "step 8: Click on div object2",
+        "step 9: Click on button object",
+        "step 10: Click on div object3",
+        "step 11: Click on button object",
+        "step 12: Click on div object4",
+        "step 13: Click on button object",
+        "step 14: Click on link planning -> Navigate to page 'team/*/project/*/releases'",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}

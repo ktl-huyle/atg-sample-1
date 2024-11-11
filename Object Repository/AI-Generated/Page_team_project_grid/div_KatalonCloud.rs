@@ -34,6 +34,6 @@
         <name>id</name>
         <type>Main</type>
         <value>react-select-14-option-1</value>
-        <webElementGuid>f5146b6b-152b-4862-91da-f94117506850</webElementGuid>
+        <webElementGuid>4d61b4f5-7c5f-43c7-bdb2-3ca732e0dcbd</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
