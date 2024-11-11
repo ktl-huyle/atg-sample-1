@@ -10,40 +10,5 @@
     <name>TC4-View Team Member Profile and Settings</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>055d89f3-c2e3-4ada-806f-b85b9feabde2</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>55f78c83-4a62-4077-8604-b37a6c3ff8bb</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC4-View Team Member Profile and Settings-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'NK'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>be4bce06-b900-44f9-b4c1-bf1a13ba4818</id>
-        <masked>false</masked>
-        <name>button_teamMemberAction_internalRoleButtonName</name>
-    </variable>
-    <variable>
-        <defaultValue>'TestOps Homepage View summary'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>f9bee88c-4220-4bcc-b5b5-7cb58613b2c1</id>
-        <masked>false</masked>
-        <name>link_projectNavigation_internalRoleLinkName</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>55f78c83-4a62-4077-8604-b37a6c3ff8bb</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_teamMemberAction_internalRoleButtonName</value>
-        <variableId>be4bce06-b900-44f9-b4c1-bf1a13ba4818</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>55f78c83-4a62-4077-8604-b37a6c3ff8bb</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_projectNavigation_internalRoleLinkName</value>
-        <variableId>f9bee88c-4220-4bcc-b5b5-7cb58613b2c1</variableId>
-    </variableLinks>
+    <testCaseGuid>79791b88-c25d-4bb4-8c4d-15f646149941</testCaseGuid>
 </TestCaseEntity>
