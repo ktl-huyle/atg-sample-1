@@ -5,7 +5,7 @@
         "step 3: Click on button selectOrganization2",
         "step 4: Click on div object3",
         "step 5: Click on link sSenyum -> Navigate to page 'team/*/project/*'",
-        "step 6: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 6: Click on link executions3 -> Navigate to page 'team/*/project/*/test-runs'",
         "step 7: Click on h2 object4",
         "step 8: Click on div object7",
         "step 9: Click on div object8",

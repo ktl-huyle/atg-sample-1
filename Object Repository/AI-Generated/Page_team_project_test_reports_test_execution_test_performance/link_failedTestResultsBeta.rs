@@ -35,7 +35,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/836258/project/1313365/failed-test-result</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <type>Main</type>
         <value>Failed Test Results
         Beta</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

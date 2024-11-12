@@ -3,7 +3,7 @@
         "step 1: Navigate to organization/*/home",
         "step 2: Click on link b2Bsas20ThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'",
         "step 3: Click on link teamProjectReleases",
-        "step 4: Click on link executions3 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 4: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'",
         "step 5: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'",
         "step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
         "step 7: Click on link scriptRepositories2 -> Navigate to page 'team/*/project/*/test-project'",

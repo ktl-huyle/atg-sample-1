@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Navigate through project settings and schedule a test run.",
+        "step 2: Navigate team project and schedule a test run",
         "step 3: Click on div object88",
         "step 4: Click on div object88",
         "step 5: Click on div object89",

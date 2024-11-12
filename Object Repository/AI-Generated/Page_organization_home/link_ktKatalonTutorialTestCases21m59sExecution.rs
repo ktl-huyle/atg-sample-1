@@ -41,7 +41,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1566793/project/1585455</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -56,6 +56,6 @@
         Execution Time
         1m 59s
         Average Duration</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

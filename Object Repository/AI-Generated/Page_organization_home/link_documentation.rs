@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://docs.katalon.com/docs</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>id</name>
         <type>Main</type>
         <value>documentation</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Documentation</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Documentation</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

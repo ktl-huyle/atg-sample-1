@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/775338/project/1155957/executions/285/test-result/217789751-signin-with-free-account/comments</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Comments</value>
-        <webElementGuid>fa0a1b8d-166d-4b2f-9653-deeb1fbcb6bd</webElementGuid>
+        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

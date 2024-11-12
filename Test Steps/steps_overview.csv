@@ -1,10 +1,10 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-77,Navigate to Team Project Test Planning,"Navigate to Team Project Grid Plan Job, access the calendar, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job/*
+77,Verify Calendar Navigation in Team Project Planning,"Navigate to Team Project Grid Plan Job, access the calendar, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job/*
 Step 2: Click on link calendar -> Navigate to page 'team/*/project/*/test-planning'
 Step 3: Click on div object58 -> Navigate to page ''
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-72,Access Test Suites and Verify Home Page,"Navigate to Organization Home, access a specific test execution, and verify the home page.","Step 1: Navigate to organization/*/home
+72,Navigate to Test Suites and Verify Home Page,Navigate from Organization Home through various links to Test Suites and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on div object10
 Step 3: Click on link 3827CcPortalsSmokeTestDefault36MinsAgo -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on td object
@@ -14,36 +14,36 @@ Step 7: Click on tr object
 Step 8: Click on td object2 -> Navigate to page ''
 Step 9: Take full page screenshot as checkpoint
 ",High,NEW
-66,Re run Maintenance API Test,"Navigate to Team Project Executions, access test files, and re-run a specific test.","Step 1: Navigate to team/*/project/*/executions/*
+66,Re run Maintenance API Test and Verify Home Page,"Navigate to Team Project Executions, select a test file, re-run it, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on link files4 -> Navigate to page 'team/*/project/*/executions/*/files'
 Step 3: Click on link 20240821125102MaintenanceApiLocalpaymentsLoca
 Step 4: Click on button reRun -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-61,Verify Team Project Grid Plan Job Details,"Navigate to Team Project Grid, interact with objects, and verify the Team Project Grid Plan Job page.","Step 1: Navigate to team/*/project/*/grid
+60,Verify Grid Plan Job Navigation and Actions,"Navigate to Team Project Grid Plan Job, perform actions, and verify the page after clicking on the job.","Step 1: Navigate to team/*/project/*/grid
 Step 2: Click on div object
 Step 3: Click on button object
 Step 4: Click on link teamProjectGridPlanJob2 -> Navigate to page 'team/*/project/*/grid/plan/*/job'
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-59,Verify Team Project Executions Links,Navigate to Team Project Executions and verify links to specific test runs.,"Step 1: Navigate to team/*/project/*/executions
+59,Verify Team Project Executions Navigation,Navigate to Team Project Executions and verify the link navigation to different executions.,"Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on link teamProjectExecutions3
 Step 3: Click on link teamProjectExecutions4
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-100,Access Documentation from Team Project,"Navigate to Team Project and access documentation, verifying the home page.","Step 1: Navigate to team/*/project/*
+100,Access Team Project Documentation and Verify Home Page,"Navigate to Team Project, access documentation, and verify the home page.","Step 1: Navigate to team/*/project/*
 Step 2: Click on button bharatKumar
 Step 3: Click on link documentation -> Navigate to page ''
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-101,Run Release and Verify Team Project Overview,"Navigate to Team Project Grid Plan Job, run a release, and verify the Team Project Overview.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+101,Run Test and Verify Team Project Overview,"Navigate to Grid Plan Job, link to release, run a test, and verify the Team Project Overview.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on button linkToARelease
 Step 3: Click on span object2
 Step 4: Click on button run2
 Step 5: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 6: Take full page screenshot as checkpoint
 ",High,NEW
-104,Logout and Verify Home Page,"Navigate to Team Project Test Runs, logout, and verify the home page.","Step 1: Navigate to team/*/project/*/test-runs
+104,Logout and Verify Home Page Navigation,"Navigate through Test Runs, logout, and verify the home page after logging back in.","Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on button albertoBeba
 Step 3: Click on font object
 Step 4: Click on div object123
@@ -52,17 +52,17 @@ Step 6: Click on button albertoBeba
 Step 7: Click on div object16 -> Navigate to page ''
 Step 8: Take full page screenshot as checkpoint
 ",High,NEW
-105,Verify Home Page from Team Project Test Runs,Navigate to Team Project Test Runs and verify the home page.,"Step 1: Navigate to team/*/project/*/test-runs
+105,Verify Navigation in Team Project Test Runs,"Navigate to Team Project Test Runs, perform actions, and verify the home page.","Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on div object124
 Step 3: Click on div underTopNavbar -> Navigate to page ''
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-106,Verify Team Page,Navigate to Team Page and verify the page.,"Step 1: Navigate to team/*
+106,Verify Team Navigation,Navigate to Team and verify the Team page after clicking through various elements.,"Step 1: Navigate to team/*
 Step 2: Click on div object
 Step 3: Click on div object2
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-82,View User Profile and Verify Home Page,"Navigate to Team Project Settings, view user profile, and verify the home page.","Step 1: Navigate to /welcome
+82,Verify User Profile Navigation and Home Page,"Navigate to Team Project Settings, view user profile, and verify the home page.","Step 1: Navigate to /welcome
 Step 2: Click on div object6 -> Navigate to page 'team/*/project/*/settings'
 Step 3: Click on div object6
 Step 4: Click on button pasukanOdin
@@ -72,7 +72,7 @@ Step 7: Click on link viewProfile
 Step 8: Click on div object -> Navigate to page ''
 Step 9: Take full page screenshot as checkpoint
 ",High,NEW
-83,Subscribe to Katalon Studio Licenses,"Navigate to User page, access Katalon Studio licenses, and subscribe to a specific license.","Step 1: Navigate to user/*
+84,Subscribe to Katalon Studio License and Verify Home Page,"Navigate to User page, subscribe to Katalon Studio license, and verify the home page.","Step 1: Navigate to user/*
 Step 2: Click on link katalonStudioLicenses
 Step 3: Click on td object
 Step 4: Click on span katalonStudioEnterpriseNodeLocked
@@ -80,13 +80,13 @@ Step 5: Click on td object2
 Step 6: Click on link subscribe -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-94,Run Team Project Grid Plan Job,Navigate to Team Project Grid Plan Job and run a specific job.,"Step 1: Navigate to team/*/project/*/grid/plan/*/job
+94,Run Test in Grid Plan Job and Verify Page,"Navigate to Grid Plan Job, run a test, and verify the page after the action.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on div object4
 Step 3: Click on div object3
 Step 4: Click on button run2
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-108,Navigate to Team Project Executions from Organization Home,"Navigate to Organization Home and access a specific test execution, verifying the home page.","Step 1: Navigate to organization/*/home
+108,Navigate and Verify Home Page from Team Project Executions,Navigate through various links in Team Project Executions and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link loading561NNmsWebFactoringRegressionTest -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
 Step 4: Click on link testcloudWindowsChrome121 -> Navigate to page 'team/*/project/*/agent/test-cloud/*'
@@ -97,7 +97,7 @@ Step 8: Click on link object4
 Step 9: Click on link object3 -> Navigate to page ''
 Step 10: Take full page screenshot as checkpoint
 ",High,NEW
-107,Verify Team Project Grid Plan Job with Multiple Interactions,Navigate to Team Project Grid Plan Job and verify after multiple interactions.,"Step 1: Navigate to team/*/project/*/grid/plan/*/job
+107,Verify Navigation in Team Project Grid Plan Job,"Navigate to Team Project Grid Plan Job, perform multiple clicks, and verify the page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on link teamProjectGridPlanJob -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
 Step 3: Click on pre object2
 Step 4: Click on pre object2
@@ -105,27 +105,27 @@ Step 5: Click on pre object2
 Step 6: Click on pre object2 -> Navigate to page 'team/*/project/*/grid/plan/*/job'
 Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-113,Save User Role Settings in Team Project,"Navigate to Team Project Settings, save user role settings, and verify the home page.","Step 1: Navigate to team/*/project/*/settings
+113,Update User Role in Team Project Settings,"Navigate to Team Project Settings, update user role, and verify the home page.","Step 1: Navigate to team/*/project/*/settings
 Step 2: Click on button object
 Step 3: Click on select userteamrole
 Step 4: Click on button save2 -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-120,Verify Organization Home Creation Page,Navigate to the welcome page and verify the home creation page.,"Step 1: Navigate to /welcome
+120,Verify Create Organization Home Page,"Navigate to Welcome page, create organization, and verify the home page.","Step 1: Navigate to /welcome
 Step 2: Click on div object2 -> Navigate to page 'home/create-organization'
 Step 3: Take full page screenshot as checkpoint
 ",High,NEW
-118,Run Release and Verify Home Page,"Navigate to Team Project Grid Plan Job, run a release, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+118,Run Test and Verify Home Page Navigation,"Navigate to Grid Plan Job, run a test, and verify that the home page is displayed.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on button linkToARelease
 Step 3: Click on div object11
 Step 4: Click on button run2 -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-117,Verify Welcome Page,Navigate to the welcome page and verify it.,"Step 1: Navigate to /welcome
+117,Verify Welcome Page Navigation,Navigate to the Welcome page and verify that it loads correctly.,"Step 1: Navigate to /welcome
 Step 2: Click on div object7
 Step 3: Take full page screenshot as checkpoint
 ",High,NEW
-116,Configure Test Suites Environments,"Navigate to Team Project Grid Plan Job, configure environments for test suites, and verify the grid.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+116,Configure Test Suites in Grid Plan Job and Verify Page,"Navigate to Grid Plan Job, configure test suites, and verify the Grid Plan page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on button edit
 Step 3: Click on link configureEnvironmentsForTestSuites
 Step 4: Click on div object8
@@ -135,10 +135,10 @@ Step 7: Click on button saveConfigureTsc
 Step 8: Click on button customizedButton -> Navigate to page 'team/*/project/*/grid'
 Step 9: Take full page screenshot as checkpoint
 ",High,NEW
-115,Edit and Save Test Suite Settings,"Navigate to Team Project Grid Plan Job, edit test suite settings, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+115,Edit Test Suites in Grid Plan Job and Verify Home Page,"Navigate to Grid Plan Job, edit test suites, save settings, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on button edit
 Step 3: Click on div object7
-Step 4: Configure environments for test suites and save the settings.
+Step 4: Configure test suites and save settings
 	- Step 1: Click on link configureEnvironmentsForTestSuites
 	- Step 2: Click on div object8
 	- Step 3: Click on div object9
@@ -146,14 +146,14 @@ Step 4: Configure environments for test suites and save the settings.
 	- Step 5: Click on button customizedButton
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-29,Navigate to Team Project Executions and Verify Page,"Navigate to the Team Project Executions page, click on Test Runs, and verify the Team Project Executions page.","Step 1: Navigate to team/*/project/*/executions
+29,Verify Navigation to Team Project Executions Page,Navigate to Team Project Executions and verify the page loads correctly after clicking on the Test Runs links.,"Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-31,Edit Team Project Grid Plan Job Settings,"Navigate to the Team Project Grid Plan Job, edit settings for test suites, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+31,Edit Test Suites Configuration and Verify Home Page,"Navigate to Grid Plan Job, edit test suites, save settings, and verify that the home page is displayed correctly.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on button edit
-Step 3: Configure environments for test suites and save the settings.
+Step 3: Configure test suites and save settings
 	- Step 1: Click on link configureEnvironmentsForTestSuites
 	- Step 2: Click on div object8
 	- Step 3: Click on div object9
@@ -161,18 +161,18 @@ Step 3: Configure environments for test suites and save the settings.
 	- Step 5: Click on button customizedButton
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-35,Access Team Project Executions from Organization Home,"Navigate to Organization Home, access a specific test run, and verify the Team Project Overview.","Step 1: Navigate to organization/*/home
+35,Verify Navigation from Organization Home to Team Project Executions,Navigate from Organization Home to Team Project Executions through Test Runs and verify the Team Project Overview page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link 28W2JfForumPostingAndroidWikicampsappTestV -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on link testRuns2 -> Navigate to page 'team/*/project/*/overview'
 Step 4: Take full page screenshot as checkpoint
 ",High,NEW
-36,Select Organization and Verify Home Page,"Navigate to Organization Home, select an organization, and verify the home page.","Step 1: Navigate to organization/*/home
+36,Select Organization and Verify Home Page,"Navigate to Organization Home, select an organization, and verify that the home page is displayed correctly.","Step 1: Navigate to organization/*/home
 Step 2: Click on button selectOrganization
 Step 3: Click on link gssItAms
 Step 4: Click on div object -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High,NEW
-43,Interact with Team Project Executions Objects,"Navigate to Team Project Executions, interact with multiple objects, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
+43,Verify Navigation and Actions in Team Project Executions,"Navigate to Team Project Executions, perform multiple clicks, and verify the home page after the final action.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on pre object
 Step 3: Click on div object2
 Step 4: Click on button object4
@@ -180,30 +180,30 @@ Step 5: Click on div object2
 Step 6: Click on button object4 -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-122,Verify Team Project from Organization Home,Navigate to Organization Home and verify the Team Project.,"Step 1: Navigate to organization/*/home
+122,Verify Team Project Navigation from Organization Home,"Navigate to Organization Home, access a team project, and verify the Team Project page.","Step 1: Navigate to organization/*/home
 Step 2: Click on div object19 -> Navigate to page 'team/*/project/*'
 Step 3: Take full page screenshot as checkpoint
 ",High,NEW
-1,Navigate to Organization Home and Access Team Member Settings,"Navigate to the organization home page and access team member settings, then verify the home page.","Step 1: Navigate to organization/*/home
-Step 2: Click on button teamMemberAction (RicardoLaboy)
+1,Verify User Settings Navigation from Organization Home,"Navigate to the organization home, access user actions, and verify settings and project navigation.","Step 1: Navigate to organization/*/home
+Step 2: Click on button userAction (RicardoLaboy)
 Step 3: Click on div Backdrop
 Step 4: Click on span Settings
 Step 5: Click on link projectNavigation (ProjectManagement) -> Navigate to page ''
 Step 6: Take full page screenshot as checkpoint
 ",High,STABLE
-27,Access More Details from Test Planning,"Navigate to test planning, access more details, and verify the home page.","Step 1: Navigate to team/*/project/*/test-planning
+27,Verify Navigation from Test Planning to Home,"Navigate to test planning, access more details, and verify navigation back to home.","Step 1: Navigate to team/*/project/*/test-planning
 Step 2: Click on link MoreDetails
 Step 3: Click on div CreatedWithSketchtool -> Navigate to page ''
 Step 4: Take full page screenshot as checkpoint
 ",High,STABLE
-48,Verify Team Project Agent Settings,"Navigate to Organization Home, access settings, and verify the Team Project Agent page.","Step 1: Navigate to organization/*/home
+48,Verify Test Environments Settings in Team Project,"Navigate to Organization Home, access settings, and verify the Test Environments page in Team Project.","Step 1: Navigate to organization/*/home
 Step 2: Click on div object4 -> Navigate to page 'team/*/project/*'
 Step 3: Click on link settings2 -> Navigate to page 'team/*/project/*/settings'
 Step 4: Click on link settings
 Step 5: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
 Step 6: Take full page screenshot as checkpoint
 ",High,NEW
-46,Access Test Execution Frequency Reports,"Navigate to Team Project Overview, access execution frequency reports, and verify the report page.","Step 1: Navigate to team/*/project/*/overview
+46,Check Test Execution Frequency Report Navigation,"Navigate to Team Project Overview, access the Test Execution Frequency Report, and verify the report page.","Step 1: Navigate to team/*/project/*/overview
 Step 2: Click on div object
 Step 3: Click on link runFrequency -> Navigate to page 'team/*/project/*/test-reports/test-execution/frequency-report'
 Step 4: Click on button object
@@ -212,7 +212,7 @@ Step 6: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 7: Click on link runFrequency -> Navigate to page 'team/*/project/*/test-reports/test-execution/frequency-report'
 Step 8: Take full page screenshot as checkpoint
 ",High,NEW
-55,Select Organization and View All Projects,"Navigate to Organization Home, select an organization, and view all projects on the home page.","Step 1: Navigate to organization/*/home
+55,Select Organization and View All Projects,"Navigate to Organization Home, select an organization, and verify the home page after viewing all projects.","Step 1: Navigate to organization/*/home
 Step 2: Click on span object
 Step 3: Click on div object6
 Step 4: Click on link ojOracleJde -> Navigate to page 'team/*/project/*'
@@ -220,7 +220,7 @@ Step 5: Click on button selectOrganization
 Step 6: Click on link viewAllProjects -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-110,Update Test Planning in Team Project,"Navigate to test planning, update various settings, and verify the home page after updates.","Step 1: Navigate to team/*/project/*/test-planning
+110,Verify Test Planning and Updates in Team Project,"Navigate to test planning, update inputs, and verify the home page.","Step 1: Navigate to team/*/project/*/test-planning
 Step 2: Click on span object4
 Step 3: Click on input object2
 Step 4: Enter input value in input object2
@@ -250,14 +250,14 @@ Step 27: Click on div object107
 Step 28: Click on div object108 -> Navigate to page ''
 Step 29: Take full page screenshot as checkpoint
 ",Medium,NEW
-121,Access Test Suites from Team Project Executions,Navigate through team project executions to access test suites and verify the home page.,"Step 1: Navigate to organization/*/home
+121,Verify Team Project Executions from Organization Home,Navigate to team project executions and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on div object18
 Step 3: Click on link 3826CcPortalsSmokeTestDefault9MinsAgo -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on link testSuitesCoordinatorCore2
 Step 5: Click on pre object12 -> Navigate to page ''
 Step 6: Take full page screenshot as checkpoint
 ",Medium,NEW
-114,Administer Organization Projects and Verify Home,"Access organization admin settings, manage projects, and verify navigation to the home page.","Step 1: Navigate to organization/*/home
+114,Verify Admin Profile and Project Viewing,"Navigate to admin profile, view all projects, and verify the home page.","Step 1: Navigate to organization/*/home
 Step 2: Click on button adminIbpaas
 Step 3: Click on link viewProfile
 Step 4: Click on div object5
@@ -270,7 +270,7 @@ Step 10: Click on link organizationAdminIbpaas
 Step 11: Click on link viewAllProjects -> Navigate to page ''
 Step 12: Take full page screenshot as checkpoint
 ",Medium,NEW
-119,Verify User Page from Organization Home,Navigate to user details from the organization home and verify the user page.,"Step 1: Navigate to organization/*/home
+119,Verify User Page Navigation in Organization Home,Navigate to user page from organization home and verify the user page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on div welcomeToThermoFisherScientificChinaCoLt
 Step 3: Click on div welcomeToThermoFisherScientificChinaCoLt
 Step 4: Click on div object17
@@ -282,7 +282,7 @@ Step 9: Click on button sabrina
 Step 10: Click on link user -> Navigate to page 'user/*'
 Step 11: Take full page screenshot as checkpoint
 ",Medium,NEW
-84,Manage User Profile in Organization Home,Access user profile settings from the organization home and verify navigation to the home page.,"Step 1: Navigate to organization/*/home
+83,Verify User Profile Navigation in Organization Home,Navigate to user profile from organization home and verify successful navigation.,"Step 1: Navigate to organization/*/home
 Step 2: Click on button nawwarahYusof
 Step 3: Click on link user -> Navigate to page 'user/*'
 Step 4: Click on button nawwarahYusof
@@ -293,7 +293,7 @@ Step 8: Click on button object2
 Step 9: Click on button object -> Navigate to page ''
 Step 10: Take full page screenshot as checkpoint
 ",Medium,NEW
-47,Verify Home Page from Team Project Test Reports,Navigate through test reports and verify the home page.,"Step 1: Navigate to /welcome
+47,Verify Test Cases Navigation and Home Page,Navigate through test cases and verify the home page after multiple actions.,"Step 1: Navigate to /welcome
 Step 2: Click on div object2 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns3 -> Navigate to page 'team/*/project/*/executions'
 Step 4: Click on link testCases -> Navigate to page 'team/*/project/*/test-reports/test-maintenance/active'
@@ -309,10 +309,22 @@ Step 13: Click on span object9
 Step 14: Click on div rootUploadedData -> Navigate to page ''
 Step 15: Take full page screenshot as checkpoint
 ",Medium,NEW
-42,Navigate to Team Project and Verify Integrations,"Navigate to Team Project, access various integrations, and verify the Team Project.","Step 1: Navigate to organization/*/home
+42,Verify Home Navigation from Team Project Executions,Navigate from Team Project to home page and verify the display.,"Step 1: Navigate to organization/*/home
+Step 2: Click on div topLeftNavbar
+Step 3: Click on button selectOrganization2
+Step 4: Click on div object3
+Step 5: Click on link sSenyum -> Navigate to page 'team/*/project/*'
+Step 6: Click on link executions3 -> Navigate to page 'team/*/project/*/test-runs'
+Step 7: Click on h2 object4
+Step 8: Click on div object7
+Step 9: Click on div object8
+Step 10: Click on div testrundetaildrawer -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Medium,NEW
+41,Verify Comprehensive Navigation in Team Project,Navigate through various links in Team Project and verify the Team Project page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link b2Bsas20ThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'
 Step 3: Click on link teamProjectReleases
-Step 4: Click on link executions3 -> Navigate to page 'team/*/project/*/test-runs'
+Step 4: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
 Step 5: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'
 Step 7: Click on link scriptRepositories2 -> Navigate to page 'team/*/project/*/test-project'
@@ -329,19 +341,7 @@ Step 17: Click on link customFields -> Navigate to page 'team/*/project/*/custom
 Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
 Step 19: Take full page screenshot as checkpoint
 ",Medium,NEW
-41,Verify Home Page from Team Project Executions,"Navigate to Organization Home, access test runs, and verify the home page.","Step 1: Navigate to organization/*/home
-Step 2: Click on div topLeftNavbar
-Step 3: Click on button selectOrganization2
-Step 4: Click on div object3
-Step 5: Click on link sSenyum -> Navigate to page 'team/*/project/*'
-Step 6: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
-Step 7: Click on h2 object4
-Step 8: Click on div object7
-Step 9: Click on div object8
-Step 10: Click on div testrundetaildrawer -> Navigate to page ''
-Step 11: Take full page screenshot as checkpoint
-",Medium,NEW
-37,Navigate and Verify Test Design Cases,Navigate through various test design pages and verify the test cases.,"Step 1: Navigate to /welcome
+37,Verify Test Design Cases Navigation in Team Project,Navigate through various test design cases and verify the Team Project Test Design page.,"Step 1: Navigate to /welcome
 Step 2: Click on div object -> Navigate to page 'organization/*/home'
 Step 3: Click on div object2
 Step 4: Click on link fpFirstProjectThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'
@@ -366,7 +366,7 @@ Step 22: Click on div object
 Step 23: Click on div object2
 Step 24: Take full page screenshot as checkpoint
 ",Medium,NEW
-34,View Test Results from Team Project Test Runs,"Navigate to Team Project Test Runs, access test results, and verify the home page.","Step 1: Navigate to team/*/project/*/test-runs
+34,Verify Test Results Navigation in Team Project,Navigate through test results and verify the home page after various actions.,"Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on h2 object2
 Step 3: Click on button details2 -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on link testResults2 -> Navigate to page 'team/*/project/*/executions/*/test-runs'
@@ -382,7 +382,7 @@ Step 13: Click on span object6
 Step 14: Click on span object5 -> Navigate to page ''
 Step 15: Take full page screenshot as checkpoint
 ",Medium,NEW
-33,Access Team Project Executions from Test Project,"Navigate to Team Project Test Project, access executions, and verify the home page.","Step 1: Navigate to team/*/project/*/test-project
+33,Verify Execution Details in Team Project,Navigate through Team Project Test Runs to view execution details and verify the home page.,"Step 1: Navigate to team/*/project/*/test-project
 Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on h2 object
 Step 4: Click on button sessions1
@@ -396,7 +396,7 @@ Step 11: Click on button object2
 Step 12: Click on button object3 -> Navigate to page ''
 Step 13: Take full page screenshot as checkpoint
 ",Medium,NEW
-32,Verify Team Project Releases from Executions,Navigate to Team Project Releases and verify the page after multiple interactions.,"Step 1: Navigate to team/*/project/*/executions/*
+32,Verify Test Runs Navigation in Team Project Releases,Navigate through Team Project Releases and verify the Test Runs page.,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on link planning -> Navigate to page 'team/*/project/*/releases'
 Step 3: Click on link teamProjectReleases -> Navigate to page 'team/*/project/*/releases/*'
 Step 4: Click on link testRuns -> Navigate to page 'team/*/project/*/releases/*/executions'
@@ -412,7 +412,7 @@ Step 13: Click on button object
 Step 14: Click on link planning -> Navigate to page 'team/*/project/*/releases'
 Step 15: Take full page screenshot as checkpoint
 ",Medium,NEW
-30,Access Test Result from Team Project Executions,"Navigate to Team Project Executions, access test results, and verify the page.","Step 1: Navigate to organization/*/home
+30,Verify Test Executions Results Navigation,Navigate through various links to Test Executions and verify the results page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link rRdCrewPaycalMaxtermTlStaffRegTestCases1 -> Navigate to page 'team/*/project/*'
 Step 3: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 4: Click on link testRuns2 -> Navigate to page 'team/*/project/*/executions'
@@ -422,7 +422,7 @@ Step 7: Click on div object
 Step 8: Click on button externalLinkButton -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
 Step 9: Take full page screenshot as checkpoint
 ",Medium,NEW
-76,Verify Team Project Executions Navigation,Navigate through team project executions and verify the correct execution pages are displayed.,"Step 1: Navigate to team/*/project/*/executions
+76,Verify Team Project Executions Navigation,Navigate through various links in team project executions and verify the executions page.,"Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on div object22
 Step 3: Click on link teamProjectExecutions7 -> Navigate to page 'team/*/project/*/executions/*'
 Step 4: Click on div object23
@@ -434,7 +434,7 @@ Step 9: Click on link teamProjectExecutions7
 Step 10: Click on link teamProjectExecutions7 -> Navigate to page 'team/*/project/*/executions/*'
 Step 11: Take full page screenshot as checkpoint
 ",Medium,NEW
-71,Sort Team Project Executions by ID,"Access team project executions and sort them by ID in ascending order, verifying the home page.","Step 1: Navigate to team/*/project/*/executions/*
+71,Verify Sorting of Team Project Executions,"Navigate to team project executions, sort by ID, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on button sortIdAscending
 Step 3: Click on span object6
 Step 4: Click on div object18
@@ -444,7 +444,7 @@ Step 7: Click on button object4
 Step 8: Click on link object2 -> Navigate to page ''
 Step 9: Take full page screenshot as checkpoint
 ",Medium,NEW
-70,Delete Executions from Team Project,"Navigate to team project executions, delete selected executions, and verify the updated execution list.","Step 1: Navigate to team/*/project/*/executions
+70,Verify Deletion of Execution in Team Project,"Navigate to team project executions, delete an execution, and verify the executions page.","Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on button deleteExecution
 Step 3: Click on button delete
 Step 4: Click on button object5
@@ -456,7 +456,7 @@ Step 9: Click on button delete2
 Step 10: Click on button delete3
 Step 11: Take full page screenshot as checkpoint
 ",Medium,NEW
-69,Access Team Project Executions and Reports,"Navigate through team project executions and access various reports, verifying the execution pages.","Step 1: Navigate to team/*/project/*/executions
+69,Verify Team Project Executions and Reports Navigation,"Navigate through team project executions, schedules, and reports, verifying each page along the way.","Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on link schedules4 -> Navigate to page 'team/*/project/*/grid'
 Step 4: Click on link reports -> Navigate to page 'team/*/project/*/overview'
@@ -467,7 +467,7 @@ Step 8: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 9: Click on link testRuns7 -> Navigate to page 'team/*/project/*/executions'
 Step 10: Take full page screenshot as checkpoint
 ",Medium,NEW
-67,Update Organization Settings for Agent,"Navigate to organization settings, configure agent settings, and verify changes in agent setup.","Step 1: Navigate to organization/*/settings/agent
+68,Verify Organization Settings for Agent Configuration,"Navigate to organization settings, configure agent settings, and verify the settings page.","Step 1: Navigate to organization/*/settings/agent
 Step 2: Click on link agentSetup -> Navigate to page 'organization/*/settings/test-environment-installation'
 Step 3: Click on link testEnvironments -> Navigate to page 'organization/*/settings/agent'
 Step 4: Click on link organizationSettingsAgentLocal2 -> Navigate to page 'organization/*/settings/agent/local/*'
@@ -478,7 +478,7 @@ Step 8: Click on link agentSetup -> Navigate to page 'organization/*/settings/te
 Step 9: Click on link testEnvironments -> Navigate to page 'organization/*/settings/agent'
 Step 10: Take full page screenshot as checkpoint
 ",Medium,NEW
-56,Navigate to Organization Home and Verify Page,"Access the organization home page, select an organization, and verify navigation to the home page.","Step 1: Navigate to /welcome
+56,Verify Navigation and Organization Selection in SauceDemo,"Navigate to the welcome page, select organization, and verify successful navigation to the home page.","Step 1: Navigate to /welcome
 Step 2: Click on div object3 -> Navigate to page 'organization/*/home'
 Step 3: Click on span object2
 Step 4: Click on button selectOrganization3
@@ -490,7 +490,7 @@ Step 9: Click on div object5
 Step 10: Click on span object3 -> Navigate to page ''
 Step 11: Take full page screenshot as checkpoint
 ",Medium,NEW
-54,Verify Team Project Executions from Releases,"Navigate to Team Project Releases, access test runs, and verify the Team Project Executions.","Step 1: Navigate to team/*/project/*/releases
+54,Verify Execution Reports in Team Project Releases,Navigate through releases and verify the execution reports in Team Project.,"Step 1: Navigate to team/*/project/*/releases
 Step 2: Click on link tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 3: Click on link reports -> Navigate to page 'team/*/project/*/releases'
 Step 4: Click on link tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
@@ -498,7 +498,7 @@ Step 5: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 6: Click on link testRuns5 -> Navigate to page 'team/*/project/*/executions'
 Step 7: Take full page screenshot as checkpoint
 ",Medium,NEW
-53,Verify Team Project Test Runs,Navigate to Team Project Test Runs and verify the page.,"Step 1: Navigate to team/*/project/*/test-runs
+53,Verify Test Runs Navigation in Team Project,Navigate through Team Project Test Runs and verify the Test Runs page.,"Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on link executions2
 Step 3: Click on link executions2
 Step 4: Click on link schedules -> Navigate to page 'team/*/project/*/grid'
@@ -508,7 +508,7 @@ Step 7: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/t
 Step 8: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
 Step 9: Take full page screenshot as checkpoint
 ",Medium,NEW
-38,Manage User Email Settings in Team Project,"Navigate to user settings in team project, update email configurations, and verify the home page.","Step 1: Navigate to team/*/project/*
+38,Verify User Email Configuration in Team Project,"Navigate to team project settings, configure user email, and verify the home page.","Step 1: Navigate to team/*/project/*
 Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on div object2
 Step 4: Click on div object3
@@ -535,7 +535,7 @@ Step 24: Enter input value in input useremail
 Step 25: Click on div object5 -> Navigate to page ''
 Step 26: Take full page screenshot as checkpoint
 ",Low,NEW
-40,Configure Test Environments in Organization Settings,"Navigate to organization settings, configure test environments, and verify the design test objects.","Step 1: Navigate to organization/*/settings/test-environment-installation
+40,Verify Test Design Objects in Team Project,Navigate through test design objects and verify the test design test objects.,"Step 1: Navigate to organization/*/settings/test-environment-installation
 Step 2: Click on link dockerEnvironment -> Navigate to page 'organization/*/settings/*/*'
 Step 3: Click on link localEnvironment -> Navigate to page 'organization/*/settings/test-environment-installation'
 Step 4: Click on link copy
@@ -569,7 +569,7 @@ Step 31: Click on link testSuites2 -> Navigate to page 'team/*/project/*/test-de
 Step 32: Click on link testObjects2 -> Navigate to page 'team/*/project/*/test-design/test-objects'
 Step 33: Take full page screenshot as checkpoint
 ",Low,NEW
-39,Navigate Through Team Project Settings and Reports,"Access various settings and reports in team projects, verifying the home page after navigation.","Step 1: Navigate to organization/*/settings/agent
+39,Verify Various Links Navigation in Organization Settings,Navigate through various links in organization settings and verify the home page.,"Step 1: Navigate to organization/*/settings/agent
 Step 2: Click on link organizationSettingsAgentLocal -> Navigate to page 'organization/*/settings/agent/local/*'
 Step 3: Click on link organizationSettingsAgent -> Navigate to page 'organization/*/settings/agent'
 Step 4: Click on link kubernetes -> Navigate to page 'organization/*/settings/agent/*'
@@ -608,7 +608,7 @@ Step 36: Click on span object3
 Step 37: Click on link manageProjects -> Navigate to page ''
 Step 38: Take full page screenshot as checkpoint
 ",Low,NEW
-74,Manage User Journeys in Organization Settings,"Navigate through user journeys, manage settings, and verify the home page.","Step 1: Navigate to organization/*/home
+74,Verify User Journey Management in Organization Settings,Navigate through user journeys and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on span object3
 Step 3: Click on link manageE2etg -> Navigate to page 'organization/*/settings/*'
 Step 4: Click on link organizationSettingsTruetest -> Navigate to page 'organization/*/settings/truetest/*'
@@ -646,7 +646,7 @@ Step 35: Enter input value in input searchFlowsInput
 Step 36: Click on button object5 -> Navigate to page ''
 Step 37: Take full page screenshot as checkpoint
 ",Low,NEW
-65,View Execution Details in Team Project,Navigate through execution details in team projects and verify the home page after viewing.,"Step 1: Navigate to team/*/project/*/executions/*
+65,Verify Home Navigation from Team Project Executions,Navigate through team project executions and verify the home page.,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on div object11
 Step 3: Click on div object12
 Step 4: Click on pre object2
@@ -665,7 +665,7 @@ Step 16: Click on div object13
 Step 17: Click on button close -> Navigate to page ''
 Step 18: Take full page screenshot as checkpoint
 ",Low,NEW
-64,Manage Organizations and Verify Team Projects,"Navigate through organizations, manage team projects, and verify the project details.","Step 1: Navigate to organization/*/home
+64,Verify Team Project Navigation and Settings,Navigate through team project settings and verify the team project.,"Step 1: Navigate to organization/*/home
 Step 2: Click on button selectOrganization5
 Step 3: Click on button selectOrganization6
 Step 4: Click on button selectOrganization5
@@ -692,7 +692,7 @@ Step 24: Click on link dnex
 Step 25: Click on link ktKatalonTutorialTestCases21m59sExecution -> Navigate to page 'team/*/project/*'
 Step 26: Take full page screenshot as checkpoint
 ",Low,NEW
-57,Navigate through Team Project Grid and Verify,"Access the team project grid, perform searches, and verify navigation to the home page.","Step 1: Navigate to /welcome
+57,Verify Test Run Scheduling and History Navigation,Navigate through test run scheduling and verify the home page.,"Step 1: Navigate to /welcome
 Step 2: Click on div object4
 Step 3: Click on div object5 -> Navigate to page 'organization/*/home'
 Step 4: Click on button afiqaShahid
@@ -721,7 +721,7 @@ Step 26: Click on input searchInput
 Step 27: Enter input value in input searchInput -> Navigate to page ''
 Step 28: Take full page screenshot as checkpoint
 ",Low,NEW
-52,Mark Status and Report Defects in Executions,"Navigate to executions, mark statuses, report defects, and verify the updated execution list.","Step 1: Navigate to team/*/project/*/executions/*
+52,Verify Status Marking in Team Project Executions,"Navigate to team project executions, mark statuses, and verify the executions page.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on div object7
 Step 3: Click on div object8
 Step 4: Click on button markStatusButton
@@ -749,7 +749,7 @@ Step 25: Click on label object
 Step 26: Click on button submit
 Step 27: Take full page screenshot as checkpoint
 ",Low,NEW
-50,Verify Executions in Team Project Test Runs,"Access team project test runs, verify execution details, and ensure the page displays correctly.","Step 1: Navigate to team/*/project/*/settings
+50,Verify Team Project Test Runs Navigation,Navigate through team project test runs and verify the test runs page.,"Step 1: Navigate to team/*/project/*/settings
 Step 2: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on div object26
 Step 4: Click on button object2
@@ -762,7 +762,7 @@ Step 10: Click on div object29
 Step 11: Click on button object3
 Step 12: Take full page screenshot as checkpoint
 ",Low,NEW
-49,Schedule Test Runs in Team Project,"Navigate to schedule test runs, configure settings, and verify the home page after scheduling.","Step 1: Navigate to organization/*/home
+49,Verify Test Run Scheduling in Team Project,Navigate to team project test runs and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'
 Step 3: Click on link executions4 -> Navigate to page 'team/*/project/*/test-runs'
 Step 4: Click on button openScheduleDialog
@@ -796,7 +796,7 @@ Step 31: Click on button closeConfigureTsDialog
 Step 32: Click on button closeDialogButton -> Navigate to page ''
 Step 33: Take full page screenshot as checkpoint
 ",Low,NEW
-45,Access Test Runs and Details in Team Project,"Navigate through test runs in team projects, access details, and verify the home page.","Step 1: Navigate to team/*/project/*/test-runs
+45,Verify Execution Details in Team Project,Navigate to execution details and verify the home page.,"Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on link executions
 Step 3: Click on link executions
 Step 4: Click on link executions
@@ -819,7 +819,7 @@ Step 20: Click on button sessions0
 Step 21: Click on button failedTestResults02 -> Navigate to page ''
 Step 22: Take full page screenshot as checkpoint
 ",Low,NEW
-111,Record Test Case Steps in Team Project,Navigate to record test case steps and verify the home page after saving changes.,"Step 1: Navigate to organization/*/home
+111,Verify Test Case Recording and Playback in Team Project,"Navigate to test case recording, save actions, and verify the home page.","Step 1: Navigate to organization/*/home
 Step 2: Click on link 44FpHvSampleTestCaseApr070ms -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on button g5RecordTestCase
 Step 4: Click on button g5SubmitRecordTestCase -> Navigate to page 'team/*/project/*/test-design/test-cases/*/edit'
@@ -866,7 +866,7 @@ Step 44: Click on button testStepSaveActionButton3
 Step 45: Click on button playbackWithBrowserExtension -> Navigate to page ''
 Step 46: Take full page screenshot as checkpoint
 ",Low,NEW
-112,Verify Team Project Executions and Results,"Access team project executions, verify results, and ensure navigation to the home page.","Step 1: Navigate to team/*/project/*/executions/*
+112,Verify Test Result Navigation in Team Project Executions,Navigate through test results in team project executions and verify the home page.,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on div object62
 Step 3: Click on link teamProjectExecutionsTestResultC17094 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
 Step 4: Click on li object
@@ -886,7 +886,7 @@ Step 17: Click on pre object
 Step 18: Click on pre object -> Navigate to page ''
 Step 19: Take full page screenshot as checkpoint
 ",Low,NEW
-85,Manage Team Project Executions and Verify,"Navigate through team project executions, manage configurations, and verify the home page.","Step 1: Navigate to team/*/project/*/grid/plan/*/job
+85,Verify Team Project Grid and Executions Navigation,Navigate through team project grid and verify the home page.,"Step 1: Navigate to team/*/project/*/grid/plan/*/job
 Step 2: Click on link teamProjectExecutions2 -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on pre object4
 Step 4: Click on div object20
@@ -911,7 +911,7 @@ Step 22: Click on div object32
 Step 23: Click on button object4 -> Navigate to page ''
 Step 24: Take full page screenshot as checkpoint
 ",Low,NEW
-88,Download Execution Files in Team Project,"Navigate to team project executions, download files, and verify the home page.","Step 1: Navigate to team/*/project/*/executions/*
+88,Verify Download Functionality in Team Project Executions,Navigate to team project executions and verify download functionality.,"Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on pre object7
 Step 3: Click on div object20
 Step 4: Click on div object37
@@ -930,7 +930,7 @@ Step 16: Click on button selectOrganization3
 Step 17: Click on div underTopNavbar -> Navigate to page ''
 Step 18: Take full page screenshot as checkpoint
 ",Low,NEW
-90,Access Reports and Test Runs in Team Project,"Navigate through reports and test runs, verifying the home page after accessing details.","Step 1: Navigate to team/*/project/*/test-planning
+90,Verify Team Project Overview and Reports Navigation,Navigate through team project overview and verify the home page.,"Step 1: Navigate to team/*/project/*/test-planning
 Step 2: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns13 -> Navigate to page 'team/*/project/*/executions'
 Step 4: Click on link teamProjectExecutions11 -> Navigate to page 'team/*/project/*/executions/*'
@@ -960,7 +960,7 @@ Step 27: Click on div object42
 Step 28: Click on div object42 -> Navigate to page ''
 Step 29: Take full page screenshot as checkpoint
 ",Low,NEW
-91,Navigate through Test Reports and Verify,"Access various test reports, manage settings, and verify the home page after navigation.","Step 1: Navigate to team/*/project/*
+91,Verify Test Cases and Reports Navigation in Team Project,Navigate through test cases and verify the home page.,"Step 1: Navigate to team/*/project/*
 Step 2: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link runFrequency -> Navigate to page 'team/*/project/*/test-reports/test-execution/frequency-report'
 Step 4: Click on link summaryByTestResult -> Navigate to page 'team/*/project/*/test-reports/test-execution/test-performance'
@@ -1018,7 +1018,7 @@ Step 55: Click on span object2
 Step 56: Click on span object3 -> Navigate to page ''
 Step 57: Take full page screenshot as checkpoint
 ",Low,NEW
-97,Add New Execution and Verify Team Project,"Navigate to add new executions, configure settings, and verify the updated execution list.","Step 1: Navigate to team/*/project/*/executions/*
+97,Verify Execution Marking and Submission in Team Project,"Navigate to team project executions, mark status, and verify the executions page.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on div object45
 Step 3: Click on pre object9
 Step 4: Click on div object46
@@ -1052,7 +1052,7 @@ Step 31: Click on label object15
 Step 32: Click on button submit2
 Step 33: Take full page screenshot as checkpoint
 ",Low,NEW
-109,Edit Test Design Test Cases in Team Project,"Navigate to test design cases, edit steps, and verify the home page after changes.","Step 1: Navigate to team/*/project/*/test-design/test-cases/*
+109,Verify Test Design Test Cases Navigation,Navigate through test design test cases and verify the home page.,"Step 1: Navigate to team/*/project/*/test-design/test-cases/*
 Step 2: Click on div object14
 Step 3: Click on button object3 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 4: Click on span object
@@ -1069,7 +1069,7 @@ Step 14: Click on div object15 -> Navigate to page 'team/*/project/*/test-design
 Step 15: Click on div object16 -> Navigate to page ''
 Step 16: Take full page screenshot as checkpoint
 ",Low,NEW
-75,Push Test Cases to Team Project Overview,"Navigate through test cases and push updates to the project overview, verifying execution details.","Step 1: Navigate to organization/*/home
+75,Verify Team Project Executions and Reports Navigation,Navigate through team project executions and verify the executions page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link bBhtIpTestCases293h54m20sExecutionTime -> Navigate to page 'team/*/project/*'
 Step 3: Click on link tests4 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 4: Click on div rootUploadedData
@@ -1090,7 +1090,7 @@ Step 18: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
 Step 19: Click on link testRuns8 -> Navigate to page 'team/*/project/*/executions'
 Step 20: Take full page screenshot as checkpoint
 ",Low,NEW
-80,Search in Team Project Grid and Verify,Perform multiple searches in the team project grid and verify navigation to the home page.,"Step 1: Navigate to team/*/project/*/grid
+80,Verify Search Functionality in Team Project Grid,Navigate to team project grid and verify search functionality.,"Step 1: Navigate to team/*/project/*/grid
 Step 2: Click on input searchInput2
 Step 3: Enter input value in input searchInput2
 Step 4: Click on input searchInput2
@@ -1108,7 +1108,7 @@ Step 15: Click on input searchInput2
 Step 16: Enter input value in input searchInput2 -> Navigate to page ''
 Step 17: Take full page screenshot as checkpoint
 ",Low,NEW
-99,Manage Test Runs and Upload Reports,"Navigate through test runs, manage reports, and ensure proper handling of test execution results.","Step 1: Navigate to team/*/project/*/test-runs
+99,View and Manage Test Suites in Team Project,"Navigate through test suites, manage executions, and analyze results. Confirm details and verify project settings.","Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on i object5
 Step 3: Click on h2 object18
 Step 4: Click on i object6
@@ -1189,7 +1189,7 @@ Step 78: Click on link comments -> Navigate to page 'team/*/project/*/executions
 Step 79: Click on link reRuns2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*/re-runs'
 Step 80: Take full page screenshot as checkpoint
 ",Trivial,NEW
-102,Schedule Test Runs and Verify Home Navigation,Schedule test runs through project settings and confirm successful navigation back to the home page.,"Step 1: Navigate to team/*/project/*
+102,Schedule and Configure Test Runs in Team Project,"Navigate to schedule test runs, configure settings, and manage test cases. Ensure all configurations are saved successfully.","Step 1: Navigate to team/*/project/*
 Step 2: Click on link tests8 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 3: Click on link testSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'
 Step 4: Click on link reports3 -> Navigate to page 'team/*/project/*/overview'
@@ -1289,7 +1289,7 @@ Step 97: Click on div object16
 Step 98: Click on div object17 -> Navigate to page ''
 Step 99: Take full page screenshot as checkpoint
 ",Trivial,NEW
-96,Manage Team Project Grid and Verify Home,"Navigate through team project grid settings, manage schedules, and ensure return to the home page.","Step 1: Navigate to organization/*/home
+96,Connect and Configure Git Repository in Team Project,Navigate through project settings to connect a Git repository. Manage credentials and verify the connection status.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectThereIsNoDataToDisplay3 -> Navigate to page 'team/*/project/*'
 Step 3: Click on link viewAll -> Navigate to page 'team/*/project/*/releases'
 Step 4: Click on link requirements2 -> Navigate to page 'team/*/project/*/requirements'
@@ -1595,7 +1595,7 @@ Step 303: Click on link schedules3 -> Navigate to page 'team/*/project/*/grid'
 Step 304: Click on div object4 -> Navigate to page ''
 Step 305: Take full page screenshot as checkpoint
 ",Trivial,NEW
-92,Configure Test Schedule and Verify Home,Set up test scheduling configurations and confirm navigation back to the home page.,"Step 1: Navigate to team/*/project/*/test-reports/test-execution/test-performance
+92,Configure Test Performance and Execute Reports in Team Project,"Navigate through test performance reports, configure settings, and execute test runs. Validate the outcomes and analyze results.","Step 1: Navigate to team/*/project/*/test-reports/test-execution/test-performance
 Step 2: Click on link testRuns3 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns14 -> Navigate to page 'team/*/project/*/executions'
 Step 4: Click on link teamProjectExecutions13 -> Navigate to page 'team/*/project/*/executions/*'
@@ -1658,7 +1658,7 @@ Step 60: Click on button object22
 Step 61: Click on div object11 -> Navigate to page ''
 Step 62: Take full page screenshot as checkpoint
 ",Trivial,NEW
-93,Logout from Team Project and Verify Home,"Logout from the team project, navigate through various settings, and confirm return to the home page.","Step 1: Navigate to team/*/project/*/executions
+93,Refresh and Manage Team Project Dashboard,"Access the team project dashboard, refresh data, and manage reports. Ensure all elements reflect the latest updates.","Step 1: Navigate to team/*/project/*/executions
 Step 2: Click on link dashboard -> Navigate to page 'team/*/project/*'
 Step 3: Click on button object
 Step 4: Click on button object2
@@ -1745,7 +1745,7 @@ Step 84: Click on div object8
 Step 85: Click on div object6 -> Navigate to page ''
 Step 86: Take full page screenshot as checkpoint
 ",Trivial,NEW
-95,Connect Git Repository and Verify Home,"Connect to a Git repository, manage project settings, and confirm navigation back to the home page.","Step 1: Navigate to organization/*/home
+95,Manage User Journeys and Logout in Team Project,"Navigate through user journeys, manage settings, and log out. Verify navigation and user experience across different sections.","Step 1: Navigate to organization/*/home
 Step 2: Click on link logout
 Step 3: Click on span object3
 Step 4: Click on link manageE2etg2 -> Navigate to page 'organization/*/settings/truetest/*'
@@ -1834,8 +1834,8 @@ Step 86: Click on p object12
 Step 87: Click on p object12 -> Navigate to page ''
 Step 88: Take full page screenshot as checkpoint
 ",Trivial,NEW
-103,Setup Test Run and Verify Home Navigation,"Navigate through test run setup, manage configurations, and ensure return to the home page.","Step 1: Navigate to organization/*/home
-Step 2: Navigate through project settings and schedule a test run.
+103,Schedule Test Runs and Manage Test Cases in Team Project,"Navigate to schedule test runs, manage settings, and configure test cases. Verify the setup and ensure all elements function correctly.","Step 1: Navigate to organization/*/home
+Step 2: Navigate team project and schedule a test run
 	- Step 1: Click on link ojOracleJdeThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'
 	- Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
 	- Step 3: Click on link scriptRepositories5 -> Navigate to page 'team/*/project/*/test-project'
@@ -1936,7 +1936,7 @@ Step 91: Click on div object122
 Step 92: Click on div object122 -> Navigate to page ''
 Step 93: Take full page screenshot as checkpoint
 ",Trivial,NEW
-98,View Test Execution Details and Verify Home,Access detailed test execution results and verify successful navigation back to the home page.,"Step 1: Navigate to team/*/project/*/executions/*
+98,Analyze Test Results and Execute Test Runs in Team Project,"Access test results, analyze executions, and manage defects. Validate performance through various reports.","Step 1: Navigate to team/*/project/*/executions/*
 Step 2: Click on div object50
 Step 3: Click on div object51
 Step 4: Click on div object52
@@ -1977,7 +1977,7 @@ Step 38: Click on div object59
 Step 39: Click on button object4 -> Navigate to page ''
 Step 40: Take full page screenshot as checkpoint
 ",Trivial,NEW
-44,Schedule Test Run in Team Project Settings,Navigate through project settings to schedule a test run and verify the home page.,"Step 1: Navigate to organization/*/home
+44,Verify Test Case Scheduling and Configuration,Navigate through test case configuration and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link ojOracleJdeThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'
 Step 3: Click on link settings -> Navigate to page 'team/*/project/*/settings'
 Step 4: Click on link menuTruetest -> Navigate to page 'team/*/project/*/truetest/user-journeys'
@@ -2025,7 +2025,7 @@ Step 45: Click on button saveConfigureTs2
 Step 46: Click on button customizedButton2 -> Navigate to page ''
 Step 47: Take full page screenshot as checkpoint
 ",Trivial,NEW
-51,Upload Test Project and Verify Home,"Upload test project settings, manage configurations, and verify navigation to the home page.","Step 1: Navigate to organization/*/home
+51,Verify Test Project Execution and Reports Navigation,Navigate through test project executions and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on button settings
 Step 3: Click on div object5
 Step 4: Click on link kpKmsPocTestCases106677h10m14sExecuti -> Navigate to page 'team/*/project/*'
@@ -2076,7 +2076,7 @@ Step 48: Click on link reports
 Step 49: Click on link testRuns4 -> Navigate to page 'team/*/project/*/executions'
 Step 50: Take full page screenshot as checkpoint
 ",Trivial,NEW
-58,Download Execution Files and Verify Home,Navigate to download execution files and verify the home page after downloads.,"Step 1: Navigate to organization/*/home
+58,Verify Team Project Test Cloud Tunnel Configuration,Navigate to test cloud tunnel settings and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link fpFirstProjectThereIsNoDataToDisplay2 -> Navigate to page 'team/*/project/*'
 Step 3: Click on link tests3 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 4: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
@@ -2120,7 +2120,7 @@ Step 41: Click on link object2
 Step 42: Click on link 20240821224014Testsuitecollection2024082122401 -> Navigate to page ''
 Step 43: Take full page screenshot as checkpoint
 ",Trivial,NEW
-60,Setup Testcloud Tunnels in Team Project,Manage test cloud tunnels in team project settings and verify navigation to the home page.,"Step 1: Navigate to team/*/project/*/testCloudTunnel
+61,Verify Test Run Scheduling and Configuration in Team Project,Navigate through test run scheduling and verify the home page.,"Step 1: Navigate to team/*/project/*/testCloudTunnel
 Step 2: Click on link testcloudTunnels
 Step 3: Click on link general -> Navigate to page 'team/*/project/*/settings'
 Step 4: Click on span object2
@@ -2181,7 +2181,7 @@ Step 58: Click on button object7 -> Navigate to page 'team/*/project/*/grid/plan
 Step 59: Click on pre object -> Navigate to page ''
 Step 60: Take full page screenshot as checkpoint
 ",Trivial,NEW
-62,Manage Team Project Executions and Verify,"Navigate through team project executions, manage settings, and verify the updated execution list.","Step 1: Navigate to team/*/project/*
+62,Verify Team Project Executions and Configuration Navigation,Navigate through team project executions and verify the executions page.,"Step 1: Navigate to team/*/project/*
 Step 2: Click on link settings4 -> Navigate to page 'team/*/project/*/settings'
 Step 3: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
 Step 4: Click on link schedules3 -> Navigate to page 'team/*/project/*/grid'
@@ -2235,7 +2235,7 @@ Step 51: Click on link testResults3 -> Navigate to page 'team/*/project/*/execut
 Step 52: Click on link summary -> Navigate to page 'team/*/project/*/executions/*'
 Step 53: Take full page screenshot as checkpoint
 ",Trivial,NEW
-63,Upload Reports and Verify Team Project,Navigate to upload reports and verify the home page after uploading.,"Step 1: Navigate to organization/*/home
+63,Verify Test Run Scheduling and Execution in Team Project,Navigate through test run scheduling and verify the home page.,"Step 1: Navigate to organization/*/home
 Step 2: Click on link 8t871002TheOrgHasGrantedLicense0sExecution -> Navigate to page 'team/*/project/*'
 Step 3: Click on link reports3 -> Navigate to page 'team/*/project/*/overview'
 Step 4: Click on link executions2 -> Navigate to page 'team/*/project/*/test-runs'
@@ -2282,8 +2282,8 @@ Step 44: Click on button compressFileZip
 Step 45: Click on link apiV1ExecutionsExport -> Navigate to page ''
 Step 46: Take full page screenshot as checkpoint
 ",Trivial,NEW
-68,Configure Test Suite Settings in Team Project,Manage test suite settings in team project and verify navigation to the home page.,"Step 1: Navigate to organization/*/home
-Step 2: Navigate through project settings and schedule a test run.
+67,Verify Test Suite Configuration and Scheduling in Team Project,Navigate through test suite configuration and verify the home page.,"Step 1: Navigate to organization/*/home
+Step 2: Navigate team project and schedule a test run
 	- Step 1: Click on link ojOracleJdeThereIsNoDataToDisplay -> Navigate to page 'team/*/project/*'
 	- Step 2: Click on link settings -> Navigate to page 'team/*/project/*/settings'
 	- Step 3: Click on link scriptRepositories5 -> Navigate to page 'team/*/project/*/test-project'
@@ -2341,7 +2341,7 @@ Step 48: Click on link here
 Step 49: Click on button setupTunnels -> Navigate to page ''
 Step 50: Take full page screenshot as checkpoint
 ",Trivial,NEW
-73,Schedule Test Runs in Team Project,"Navigate to schedule test runs, configure settings, and verify the home page.","Step 1: Navigate to team/*/project/*/test-project
+73,Verify Test Project Execution and Scheduling,Navigate through test project execution and verify the home page.,"Step 1: Navigate to team/*/project/*/test-project
 Step 2: Click on td object
 Step 3: Click on td object
 Step 4: Click on link teamProjectTestProject3 -> Navigate to page 'team/*/project/*/test-project/*'
@@ -2397,7 +2397,85 @@ Step 53: Click on link viewEppsAutomationTestCaseRunAugust21th -> Navigate to pa
 Step 54: Click on h2 object -> Navigate to page ''
 Step 55: Take full page screenshot as checkpoint
 ",Trivial,NEW
-78,Navigate Project Execution Pages and Verify Home,"Navigate through various project execution pages, check test results, defects, and files, and return to the home page.","Step 1: Navigate to organization/*/home
+78,Test Jira Integration Setup and Configuration in Team Project,"Navigate to the organization home, enable Jira integration, and configure settings. Verify the integration through various team project links.","Step 1: Navigate to organization/*/home
+Step 2: Click on link scSynergyCareManagerThereIsNoDataToDispla -> Navigate to page 'team/*/project/*'
+Step 3: Click on button enableJiraIntegration -> Navigate to page 'team/*/project/*/integrations'
+Step 4: Click on link jiraAddOn
+Step 5: Click on link jiraAddOn
+Step 6: Click on div object2
+Step 7: Click on div object3
+Step 8: Click on input serverurl
+Step 9: Enter input value in input serverurl
+Step 10: Click on div object4
+Step 11: Enter input value in input serverurl
+Step 12: Click on div object4
+Step 13: Click on div object4
+Step 14: Click on input username
+Step 15: Click on div object5
+Step 16: Click on div object4
+Step 17: Click on link planning -> Navigate to page 'team/*/project/*/releases'
+Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 19: Click on div object2
+Step 20: Click on div object3
+Step 21: Click on div object3
+Step 22: Click on link tests5 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 23: Click on link executions4 -> Navigate to page 'team/*/project/*/test-runs'
+Step 24: Click on link planning -> Navigate to page 'team/*/project/*/releases'
+Step 25: Click on link tests3 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 26: Click on link testSuites5 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 27: Click on span katalonCloud
+Step 28: Click on span object
+Step 29: Click on link settingUpScriptRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
+Step 30: Click on div object
+Step 31: Click on div object2
+Step 32: Click on div reactSelect3Option2
+Step 33: Click on input repository
+Step 34: Click on input repository
+Step 35: Enter input value in input repository
+Step 36: Click on div object3
+Step 37: Click on input username
+Step 38: Click on input username
+Step 39: Click on input password
+Step 40: Enter input value in input password
+Step 41: Click on input repository
+Step 42: Click on input repository
+Step 43: Click on input username
+Step 44: Enter input value in input username
+Step 45: Click on button createNewGitConnect
+Step 46: Click on input username2
+Step 47: Enter input value in input username2
+Step 48: Click on form object
+Step 49: Click on button createNewGitConnect2
+Step 50: Click on input username2
+Step 51: Enter input value in input username2
+Step 52: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 53: Click on span object14
+Step 54: Click on span object15
+Step 55: Click on link testSuites6 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 56: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
+Step 57: Click on link planning -> Navigate to page 'team/*/project/*/releases'
+Step 58: Click on link requirements -> Navigate to page 'team/*/project/*/requirements'
+Step 59: Click on button object
+Step 60: Click on div underTopNavbar
+Step 61: Click on button object2
+Step 62: Click on div object
+Step 63: Click on div object2
+Step 64: Click on span object
+Step 65: Click on div object3
+Step 66: Click on link dashboard -> Navigate to page 'team/*/project/*'
+Step 67: Click on div object4
+Step 68: Click on td object
+Step 69: Click on div object5
+Step 70: Click on link reports4 -> Navigate to page 'team/*/project/*/overview'
+Step 71: Click on link summaryByTestResult -> Navigate to page 'team/*/project/*/test-reports/test-execution/test-performance'
+Step 72: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 73: Click on link runFrequency -> Navigate to page 'team/*/project/*/test-reports/test-execution/frequency-report'
+Step 74: Click on link failedTestResultsBeta -> Navigate to page 'team/*/project/*/failed-test-result'
+Step 75: Click on link defects -> Navigate to page 'team/*/project/*/defects'
+Step 76: Click on link visualTesting2 -> Navigate to page 'team/*/project/*/katalon-eyes'
+Step 77: Take full page screenshot as checkpoint
+",Trivial,NEW
+79,Manage Test Executions and Reports in Team Project,"Access test executions, view results, and manage defects. Navigate through different reports and summaries to analyze test outcomes.","Step 1: Navigate to organization/*/home
 Step 2: Click on link 71AVaRegressionDefaultAug1603244m4 -> Navigate to page 'team/*/project/*/executions/*'
 Step 3: Click on link testResults4 -> Navigate to page 'team/*/project/*/executions/*/test-runs'
 Step 4: Click on link files2 -> Navigate to page 'team/*/project/*/executions/*/files'
@@ -2420,8 +2498,8 @@ Step 20: Click on link testRuns10
 Step 21: Click on link dashboard -> Navigate to page 'team/*/project/*'
 Step 22: Click on body object
 Step 23: Click on link dashboard
-Step 24: Click on link tests5 -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 25: Click on link executions4 -> Navigate to page 'team/*/project/*/test-runs'
+Step 24: Click on link tests6 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 25: Click on link executions5 -> Navigate to page 'team/*/project/*/test-runs'
 Step 26: Click on h2 object10
 Step 27: Click on button details -> Navigate to page 'team/*/project/*/executions/*'
 Step 28: Click on label object5 -> Navigate to page 'team/*/project/*/test-runs'
@@ -2429,17 +2507,17 @@ Step 29: Click on button object8
 Step 30: Click on link executions3
 Step 31: Click on button selectOrganization2
 Step 32: Click on link tests4 -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 33: Click on span object14
-Step 34: Click on span object15
-Step 35: Click on span object16
-Step 36: Click on span object17
-Step 37: Click on span object18
+Step 33: Click on span object16
+Step 34: Click on span object17
+Step 35: Click on span object18
+Step 36: Click on span object19
+Step 37: Click on span object20
 Step 38: Click on link dashboard -> Navigate to page 'team/*/project/*'
 Step 39: Click on link planning2 -> Navigate to page 'team/*/project/*/releases'
-Step 40: Click on link tests3 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 40: Click on link tests4 -> Navigate to page 'team/*/project/*/test-design/test-cases'
 Step 41: Click on link tests
 Step 42: Click on li object
-Step 43: Click on link testSuites5 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 43: Click on link testSuites7 -> Navigate to page 'team/*/project/*/test-design/test-suites'
 Step 44: Click on link testObjects3 -> Navigate to page 'team/*/project/*/test-design/test-objects'
 Step 45: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
 Step 46: Click on h2 object10
@@ -2478,85 +2556,7 @@ Step 78: Click on button object11
 Step 79: Click on div object59 -> Navigate to page ''
 Step 80: Take full page screenshot as checkpoint
 ",Trivial,NEW
-79,Enable Jira Integration and Verify Settings,"Navigate to enable Jira integration, input server details, and verify successful integration settings.","Step 1: Navigate to organization/*/home
-Step 2: Click on link scSynergyCareManagerThereIsNoDataToDispla -> Navigate to page 'team/*/project/*'
-Step 3: Click on button enableJiraIntegration -> Navigate to page 'team/*/project/*/integrations'
-Step 4: Click on link jiraAddOn
-Step 5: Click on link jiraAddOn
-Step 6: Click on div object2
-Step 7: Click on div object3
-Step 8: Click on input serverurl
-Step 9: Enter input value in input serverurl
-Step 10: Click on div object4
-Step 11: Enter input value in input serverurl
-Step 12: Click on div object4
-Step 13: Click on div object4
-Step 14: Click on input username
-Step 15: Click on div object5
-Step 16: Click on div object4
-Step 17: Click on link planning -> Navigate to page 'team/*/project/*/releases'
-Step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'
-Step 19: Click on div object2
-Step 20: Click on div object3
-Step 21: Click on div object3
-Step 22: Click on link tests6 -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 23: Click on link executions5 -> Navigate to page 'team/*/project/*/test-runs'
-Step 24: Click on link planning -> Navigate to page 'team/*/project/*/releases'
-Step 25: Click on link tests4 -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 26: Click on link testSuites6 -> Navigate to page 'team/*/project/*/test-design/test-suites'
-Step 27: Click on span katalonCloud
-Step 28: Click on span object
-Step 29: Click on link settingUpScriptRepository -> Navigate to page 'team/*/project/*/git-test-project/setup'
-Step 30: Click on div object
-Step 31: Click on div object2
-Step 32: Click on div reactSelect3Option2
-Step 33: Click on input repository
-Step 34: Click on input repository
-Step 35: Enter input value in input repository
-Step 36: Click on div object3
-Step 37: Click on input username
-Step 38: Click on input username
-Step 39: Click on input password
-Step 40: Enter input value in input password
-Step 41: Click on input repository
-Step 42: Click on input repository
-Step 43: Click on input username
-Step 44: Enter input value in input username
-Step 45: Click on button createNewGitConnect
-Step 46: Click on input username2
-Step 47: Enter input value in input username2
-Step 48: Click on form object
-Step 49: Click on button createNewGitConnect2
-Step 50: Click on input username2
-Step 51: Enter input value in input username2
-Step 52: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
-Step 53: Click on span object19
-Step 54: Click on span object20
-Step 55: Click on link testSuites7 -> Navigate to page 'team/*/project/*/test-design/test-suites'
-Step 56: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'
-Step 57: Click on link planning -> Navigate to page 'team/*/project/*/releases'
-Step 58: Click on link requirements -> Navigate to page 'team/*/project/*/requirements'
-Step 59: Click on button object
-Step 60: Click on div underTopNavbar
-Step 61: Click on button object2
-Step 62: Click on div object
-Step 63: Click on div object2
-Step 64: Click on span object
-Step 65: Click on div object3
-Step 66: Click on link dashboard -> Navigate to page 'team/*/project/*'
-Step 67: Click on div object4
-Step 68: Click on td object
-Step 69: Click on div object5
-Step 70: Click on link reports4 -> Navigate to page 'team/*/project/*/overview'
-Step 71: Click on link summaryByTestResult -> Navigate to page 'team/*/project/*/test-reports/test-execution/test-performance'
-Step 72: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
-Step 73: Click on link runFrequency -> Navigate to page 'team/*/project/*/test-reports/test-execution/frequency-report'
-Step 74: Click on link failedTestResultsBeta -> Navigate to page 'team/*/project/*/failed-test-result'
-Step 75: Click on link defects -> Navigate to page 'team/*/project/*/defects'
-Step 76: Click on link visualTesting2 -> Navigate to page 'team/*/project/*/katalon-eyes'
-Step 77: Take full page screenshot as checkpoint
-",Trivial,NEW
-81,Manage Test Runs and Reports in Team Project,"Access test runs and reports, manage custom fields, and verify various execution results in the team project.","Step 1: Navigate to team/*/project/*
+81,Configure Test Runs and Manage Custom Fields in Team Project,"Navigate to test runs, configure settings, and manage custom fields. Perform operations on test executions and validate project data.","Step 1: Navigate to team/*/project/*
 Step 2: Click on link reports5 -> Navigate to page 'team/*/project/*/overview'
 Step 3: Click on link testRuns8 -> Navigate to page 'team/*/project/*/executions'
 Step 4: Click on button selectOrganization -> Navigate to page 'team/*/project/*'
@@ -2661,7 +2661,7 @@ Step 102: Click on link reports -> Navigate to page 'team/*/project/*/overview'
 Step 103: Click on link testRuns8 -> Navigate to page 'team/*/project/*/executions'
 Step 104: Take full page screenshot as checkpoint
 ",Trivial,NEW
-86,Terminate Multiple Test Runs and Verify Home,Terminate multiple test runs and confirm the actions while navigating through the project execution pages.,"Step 1: Navigate to team/*/project/*
+86,Terminate Multiple Test Runs in Team Project,Access test runs and terminate them as needed. Confirm actions and ensure the system reflects the changes accurately.,"Step 1: Navigate to team/*/project/*
 Step 2: Click on link executions7 -> Navigate to page 'team/*/project/*/test-runs'
 Step 3: Click on button openScheduleDialog
 Step 4: Click on link clickHereToRefresh
@@ -2729,7 +2729,7 @@ Step 65: Click on button delete3
 Step 66: Click on link executions4 -> Navigate to page 'team/*/project/*/test-runs'
 Step 67: Take full page screenshot as checkpoint
 ",Trivial,NEW
-87,Terminate Test Runs and Verify Home,Terminate several test runs in the project and verify successful termination actions.,"Step 1: Navigate to team/*/project/*/test-runs
+87,Perform Bulk Termination of Test Runs in Team Project,Navigate to test runs and terminate multiple sessions. Confirm terminations and verify the updates in the system.,"Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on div object78
 Step 3: Click on button terminate2
 Step 4: Click on button confirm2
@@ -2829,7 +2829,7 @@ Step 97: Click on button terminate2
 Step 98: Click on button confirm2 -> Navigate to page ''
 Step 99: Take full page screenshot as checkpoint
 ",Trivial,NEW
-89,View Test Results and Verify Home Navigation,"Navigate through test results, view details, and ensure proper navigation back to the home page.","Step 1: Navigate to team/*/project/*/test-runs
+89,View and Analyze Test Execution Results in Team Project,"Access test execution details, view results and analyze performance. Navigate through reports and similar failures.","Step 1: Navigate to team/*/project/*/test-runs
 Step 2: Click on h2 object15
 Step 3: Click on button sessions02
 Step 4: Click on div object106
