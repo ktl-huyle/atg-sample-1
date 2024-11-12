@@ -36,7 +36,7 @@
         <type>Main</type>
         <value>Daily
         Past 7 days</value>
-        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
+        <webElementGuid>8a72d6e2-7f7b-42b0-8014-62745cb06b28</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>422edb94-cb31-442c-9173-22a5b3547095</webElementGuid>
+        <webElementGuid>8a72d6e2-7f7b-42b0-8014-62745cb06b28</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
