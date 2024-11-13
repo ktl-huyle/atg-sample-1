@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to /welcome",
+        "step 2: Click on div QualityEngineer -> Navigate to page 'organization/*/home'",
+        "step 3: Click on button teamMemberAction (AR)",
+        "step 4: Click on div UserFlowModalBackdrop",
+        "step 5: Click on div UserFlowModalBackdrop",
+        "step 6: Click on div UserFlowModalBackdrop",
+        "step 7: Click on div UserEmail",
+        "step 8: Click on div UserEmail",
+        "step 9: Click on div Backdrop -> Navigate to page ''",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

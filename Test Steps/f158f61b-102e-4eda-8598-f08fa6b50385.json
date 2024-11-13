@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*/test-result/*/re-runs",
+        "step 2: Click on button GoToTestResultDetails",
+        "step 3: Click on button GoToTestResultDetails2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
+        "step 4: Take full page screenshot as checkpoint"
+    ]
+}

@@ -10,40 +10,5 @@
     <name>TC3-View Test Run Details and Verify Home</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>6fc91fd1-2f3f-4bdd-b55a-56d661f57b16</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>53a57fc7-d8bf-436e-bf79-395a0d19f6d1</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC3-View Test Run Details and Verify Home-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'\uf058 Untitled Test Run #1656'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>0a5a6c74-ac67-4539-ac64-0920a7136c95</id>
-        <masked>false</masked>
-        <name>div_testRunDetails_internalRoleCellName</name>
-    </variable>
-    <variable>
-        <defaultValue>'\uf3f4 Untitled Test Run #1657'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>64cfc15a-2259-42fa-ad8c-d942be6763c3</id>
-        <masked>false</masked>
-        <name>div_testRunDetails_internalRoleCellName_1</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>53a57fc7-d8bf-436e-bf79-395a0d19f6d1</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>div_testRunDetails_internalRoleCellName</value>
-        <variableId>0a5a6c74-ac67-4539-ac64-0920a7136c95</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>53a57fc7-d8bf-436e-bf79-395a0d19f6d1</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>div_testRunDetails_internalRoleCellName_1</value>
-        <variableId>64cfc15a-2259-42fa-ad8c-d942be6763c3</variableId>
-    </variableLinks>
+    <testCaseGuid>6ea9ff45-c013-4051-8c4b-71f2fc6373c5</testCaseGuid>
 </TestCaseEntity>
