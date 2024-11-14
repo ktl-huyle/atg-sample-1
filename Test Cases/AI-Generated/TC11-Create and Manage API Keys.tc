@@ -10,10 +10,10 @@
     <name>TC11-Create and Manage API Keys</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>368f5414-0bb9-48a0-8392-c6145d3bd542</testCaseGuid>
+    <testCaseGuid>7f83b5bb-b2c9-49be-9586-34a9236113b5</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>524d0e39-bc90-46fd-9901-bab7c5540bdf</id>
+        <id>b36c5a04-78c7-4c52-bbc6-2db5a02ed68c</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -21,29 +21,16 @@
         <testDataId>Data Files/AI-Generated/TC11-Create and Manage API Keys-test-data</testDataId>
     </testDataLinks>
     <variable>
-        <defaultValue>'2'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>564a5163-69bd-4dbd-934c-773cbb115a2c</id>
-        <masked>false</masked>
-        <name>button_apiKeyManagement_trNthChild</name>
-    </variable>
-    <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>d57e4ab8-6e83-4696-8a70-849186de4eaa</id>
+        <id>29a52ada-2da4-4b08-bf29-95692b32a601</id>
         <masked>false</masked>
         <name>input_KeyName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>524d0e39-bc90-46fd-9901-bab7c5540bdf</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_apiKeyManagement_trNthChild</value>
-        <variableId>564a5163-69bd-4dbd-934c-773cbb115a2c</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>524d0e39-bc90-46fd-9901-bab7c5540bdf</testDataLinkId>
+        <testDataLinkId>b36c5a04-78c7-4c52-bbc6-2db5a02ed68c</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_KeyName</value>
-        <variableId>d57e4ab8-6e83-4696-8a70-849186de4eaa</variableId>
+        <variableId>29a52ada-2da4-4b08-bf29-95692b32a601</variableId>
     </variableLinks>
 </TestCaseEntity>

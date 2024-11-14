@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Create API Key</value>
-        <webElementGuid>3be508d7-9e36-41ae-8392-c210dc74c2d0</webElementGuid>
+        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Generate API Key</value>
-        <webElementGuid>3be508d7-9e36-41ae-8392-c210dc74c2d0</webElementGuid>
+        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>3be508d7-9e36-41ae-8392-c210dc74c2d0</webElementGuid>
+        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -10,27 +10,5 @@
     <name>TC21-Navigate User Actions and Verify Home</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>1b961865-194c-436f-a97e-685a4abb7467</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>8e7e31d0-8378-47c5-a71f-3901c636603e</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC21-Navigate User Actions and Verify Home-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'AR'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>942b02c1-f90c-4fcd-82cf-cf7df14b4a0e</id>
-        <masked>false</masked>
-        <name>button_userAction_internalRoleButtonName</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>8e7e31d0-8378-47c5-a71f-3901c636603e</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_userAction_internalRoleButtonName</value>
-        <variableId>942b02c1-f90c-4fcd-82cf-cf7df14b4a0e</variableId>
-    </variableLinks>
+    <testCaseGuid>db35658f-7a5b-4204-81cb-2ac19997909f</testCaseGuid>
 </TestCaseEntity>

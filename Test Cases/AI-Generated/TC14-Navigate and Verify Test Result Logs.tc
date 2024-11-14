@@ -10,53 +10,5 @@
     <name>TC14-Navigate and Verify Test Result Logs</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>d6d5b621-eaa5-4fa6-af54-69e24a861144</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>ab04bd2a-57d2-4540-b043-d5e8e53f1433</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC14-Navigate and Verify Test Result Logs-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'css-1yjo05o'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>520c5f43-47d4-4d9b-b470-7ff0723a83a9</id>
-        <masked>false</masked>
-        <name>button_testResultNavigation_class</name>
-    </variable>
-    <variable>
-        <defaultValue>'Created with sketchtool\\.SortandFilter\\.IOSSortSizeDoublebed\\(\\)'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>ee8b8b9d-b3cd-4b07-ae4c-f8b6c5b83ad8</id>
-        <masked>false</masked>
-        <name>span_logItem_internalHasText</name>
-    </variable>
-    <variable>
-        <defaultValue>'17'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>5c5011a3-7119-459e-8367-15a9000127d2</id>
-        <masked>false</masked>
-        <name>span_logItem_nthChild</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>ab04bd2a-57d2-4540-b043-d5e8e53f1433</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>button_testResultNavigation_class</value>
-        <variableId>520c5f43-47d4-4d9b-b470-7ff0723a83a9</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>ab04bd2a-57d2-4540-b043-d5e8e53f1433</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>span_logItem_internalHasText</value>
-        <variableId>ee8b8b9d-b3cd-4b07-ae4c-f8b6c5b83ad8</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>ab04bd2a-57d2-4540-b043-d5e8e53f1433</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>span_logItem_nthChild</value>
-        <variableId>5c5011a3-7119-459e-8367-15a9000127d2</variableId>
-    </variableLinks>
+    <testCaseGuid>b8a093ff-2dd5-4ac0-b59d-fa51b2bbdde6</testCaseGuid>
 </TestCaseEntity>

@@ -10,53 +10,5 @@
     <name>TC15-Access Test Suite Results from Execution Details</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>177e0c8b-35b8-4f6d-b44f-fc79d7d52204</testCaseGuid>
-    <testDataLinks>
-        <combinationType>ONE</combinationType>
-        <id>a3fd684a-c09c-4f10-a2e6-98c70ddd1b26</id>
-        <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-        </iterationEntity>
-        <testDataId>Data Files/AI-Generated/TC15-Access Test Suite Results from Execution Details-test-data</testDataId>
-    </testDataLinks>
-    <variable>
-        <defaultValue>'14'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>c9edc77e-b750-4908-8224-4e0280a809eb</id>
-        <masked>false</masked>
-        <name>link_testSuiteResults_executions_id</name>
-    </variable>
-    <variable>
-        <defaultValue>'1589118'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>b278b649-08ed-4213-a5c4-394fb18005e2</id>
-        <masked>false</masked>
-        <name>link_testSuiteResults_project_id</name>
-    </variable>
-    <variable>
-        <defaultValue>'1570446'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>2b02843f-8e1e-4e9e-a41d-551ed04dbc4b</id>
-        <masked>false</masked>
-        <name>link_testSuiteResults_team_id</name>
-    </variable>
-    <variableLinks>
-        <testDataLinkId>a3fd684a-c09c-4f10-a2e6-98c70ddd1b26</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteResults_executions_id</value>
-        <variableId>c9edc77e-b750-4908-8224-4e0280a809eb</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>a3fd684a-c09c-4f10-a2e6-98c70ddd1b26</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteResults_project_id</value>
-        <variableId>b278b649-08ed-4213-a5c4-394fb18005e2</variableId>
-    </variableLinks>
-    <variableLinks>
-        <testDataLinkId>a3fd684a-c09c-4f10-a2e6-98c70ddd1b26</testDataLinkId>
-        <type>DATA_COLUMN</type>
-        <value>link_testSuiteResults_team_id</value>
-        <variableId>2b02843f-8e1e-4e9e-a41d-551ed04dbc4b</variableId>
-    </variableLinks>
+    <testCaseGuid>e9fc5bad-910b-4c20-96f3-bfda89959ff9</testCaseGuid>
 </TestCaseEntity>
