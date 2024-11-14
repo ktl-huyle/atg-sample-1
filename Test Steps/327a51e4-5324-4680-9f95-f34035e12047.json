@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: Click on pre object",
+        "step 2: Click on pre dynamicObject (object)",
         "step 3: Click on div object2",
         "step 4: Click on button object4",
         "step 5: Click on div object2",

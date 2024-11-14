@@ -34,7 +34,7 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>menu-truetest</value>
-        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
+        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/50810/project/63375/truetest/user-journeys</value>
-        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
+        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>text</name>
         <type>Main</type>
         <value>TrueTest</value>
-        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
+        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>title</name>
         <type>Main</type>
         <value>TrueTest</value>
-        <webElementGuid>aa1369ff-8ba1-4087-9729-9f4c78eb190a</webElementGuid>
+        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

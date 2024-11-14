@@ -11,4 +11,39 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>57eb5b09-3483-41ac-969f-d8274ff58c5f</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>1a423267-8a64-41eb-9c09-e5564bdc295b</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC25-Access Notifications and Settings from Organization Home-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'TestOps Homepage View summary'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>6a703515-30fe-4df1-9228-f98e5b573755</id>
+        <masked>false</masked>
+        <name>link_navigation_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'TestOps Homepage View summary'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>1f104d6e-741a-46c7-95b5-9c0813dae0b1</id>
+        <masked>false</masked>
+        <name>link_navigation_internalRoleLinkName_1</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>1a423267-8a64-41eb-9c09-e5564bdc295b</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_navigation_internalRoleLinkName</value>
+        <variableId>6a703515-30fe-4df1-9228-f98e5b573755</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>1a423267-8a64-41eb-9c09-e5564bdc295b</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_navigation_internalRoleLinkName_1</value>
+        <variableId>1f104d6e-741a-46c7-95b5-9c0813dae0b1</variableId>
+    </variableLinks>
 </TestCaseEntity>

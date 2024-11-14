@@ -11,4 +11,65 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>8be5b059-7d1a-4789-9a61-0d9f92848803</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>f9587a57-0848-4d89-9239-4b7f254951a5</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC36-Select Organization and Verify Home Page-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'Surbana Jurong'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>14dc5c09-fdb3-4e11-af49-21b411c9078a</id>
+        <masked>false</masked>
+        <name>button_selectOrganization_internalRoleButtonName</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiList-root\\ MuiList-padding\\ MuiList-subheader\\ css-19o40po"]:nth-child(2) &gt; [class="MuiButtonBase-root\\ MuiListItem-root\\ MuiListItem-gutters\\ MuiListItem-padding\\ MuiListItem-button\\ organizationItem\\ css-dh1yhp"]:nth-child(2) [class="MuiTypography-root\\ MuiTypography-inherit\\ MuiLink-root\\ MuiLink-underlineAlways\\ MuiTypography-root\\ MuiTypography-body1\\ MuiListItemText-primary\\ css-5leo3l'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ac310d85-fa76-476f-a87d-44b158408ddc</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'GSS IT AMS'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a8221432-e2ca-498e-9c1c-8222ce97dd7e</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'755790'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c418a2e3-ec81-4412-9065-11e728758136</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_organization_id</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>f9587a57-0848-4d89-9239-4b7f254951a5</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_selectOrganization_internalRoleButtonName</value>
+        <variableId>14dc5c09-fdb3-4e11-af49-21b411c9078a</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f9587a57-0848-4d89-9239-4b7f254951a5</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_organizationOptions_class</value>
+        <variableId>ac310d85-fa76-476f-a87d-44b158408ddc</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f9587a57-0848-4d89-9239-4b7f254951a5</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_organizationOptions_internalRoleLinkName</value>
+        <variableId>a8221432-e2ca-498e-9c1c-8222ce97dd7e</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f9587a57-0848-4d89-9239-4b7f254951a5</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_organizationOptions_organization_id</value>
+        <variableId>c418a2e3-ec81-4412-9065-11e728758136</variableId>
+    </variableLinks>
 </TestCaseEntity>

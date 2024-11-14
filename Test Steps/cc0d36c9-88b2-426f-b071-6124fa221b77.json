@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/grid/plan/*/job",
-        "step 2: Click on button edit",
+        "step 2: Click on button action (edit)",
         "step 3: Click on link configureEnvironmentsForTestSuites",
         "step 4: Click on div object8",
         "step 5: Click on div object9",

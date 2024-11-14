@@ -13,7 +13,7 @@
     <testCaseGuid>3ed759c3-61e9-48e3-a620-e1ab782d0310</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>7da94cf3-1ee8-407a-83d0-04d7386151ec</id>
+        <id>9908f4a3-a653-4391-aff9-0285b8a022b4</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -21,16 +21,107 @@
         <testDataId>Data Files/AI-Generated/TC6-Manage Test Environments and Integrations-test-data</testDataId>
     </testDataLinks>
     <variable>
+        <defaultValue>'Codeless Automation Tool'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5ec7a275-153f-4dce-ba67-3a991059b831</id>
+        <masked>false</masked>
+        <name>div_integrationIcons_internalRoleTreeitemName</name>
+    </variable>
+    <variable>
+        <defaultValue>'css-151cthe\\ MuiTreeItem-content\\ Mui-expanded\\ Mui-focused'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4c9f856e-5393-4ec6-bf13-83a0eaefaffb</id>
+        <masked>false</masked>
+        <name>div_integrationTools_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'css-151cthe\\ MuiTreeItem-content\\ Mui-focused'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5e45985e-70dc-4462-b603-204f93fd3728</id>
+        <masked>false</masked>
+        <name>div_integrationTools_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiBackdrop-root\\ MuiBackdrop-invisible\\ css-esi9ax'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0ab2c95c-debd-4300-bea1-e4414bb29d5b</id>
+        <masked>false</masked>
+        <name>div_menuBackdrop_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiBackdrop-root\\ MuiBackdrop-invisible\\ css-esi9ax'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>1aacf50f-16af-4960-8ccd-281311002d00</id>
+        <masked>false</masked>
+        <name>div_menuBackdrop_class_1</name>
+    </variable>
+    <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>7abe4abf-8a45-4bfe-a568-9bee61d2c91a</id>
+        <id>1650ea14-026d-4b83-aafc-3c467a86698c</id>
         <masked>false</masked>
         <name>input_Name</name>
     </variable>
+    <variable>
+        <defaultValue>'MuiBox-root\\ css-0"]:nth-child(5) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1lpm9pj'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c09fcbac-37a8-4377-b6cf-7e55c6b1a97c</id>
+        <masked>false</masked>
+        <name>p_sessionInfo_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiBox-root\\ css-0"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1lpm9pj'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ed808fd0-0abd-4981-b4ca-37dc8a60a31b</id>
+        <masked>false</masked>
+        <name>p_sessionInfo_class_1</name>
+    </variable>
     <variableLinks>
-        <testDataLinkId>7da94cf3-1ee8-407a-83d0-04d7386151ec</testDataLinkId>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_integrationIcons_internalRoleTreeitemName</value>
+        <variableId>5ec7a275-153f-4dce-ba67-3a991059b831</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_integrationTools_class</value>
+        <variableId>4c9f856e-5393-4ec6-bf13-83a0eaefaffb</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_integrationTools_class_1</value>
+        <variableId>5e45985e-70dc-4462-b603-204f93fd3728</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_menuBackdrop_class</value>
+        <variableId>0ab2c95c-debd-4300-bea1-e4414bb29d5b</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_menuBackdrop_class_1</value>
+        <variableId>1aacf50f-16af-4960-8ccd-281311002d00</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_Name</value>
-        <variableId>7abe4abf-8a45-4bfe-a568-9bee61d2c91a</variableId>
+        <variableId>1650ea14-026d-4b83-aafc-3c467a86698c</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>p_sessionInfo_class</value>
+        <variableId>c09fcbac-37a8-4377-b6cf-7e55c6b1a97c</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>9908f4a3-a653-4391-aff9-0285b8a022b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>p_sessionInfo_class_1</value>
+        <variableId>ed808fd0-0abd-4981-b4ca-37dc8a60a31b</variableId>
     </variableLinks>
 </TestCaseEntity>

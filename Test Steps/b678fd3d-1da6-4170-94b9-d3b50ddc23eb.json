@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Navigate through team project settings and schedule a test run",
+        "step 2: Navigate to team project and schedule a test run",
         "step 3: Click on div object88",
         "step 4: Click on div object88",
         "step 5: Click on div object89",
@@ -57,13 +57,13 @@
         "step 55: Click on button goToAdvanceTab",
         "step 56: Click on button closeDialogButton2",
         "step 57: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'",
-        "step 58: Click on span object4",
-        "step 59: Click on span object5",
-        "step 60: Click on div object5",
+        "step 58: Click on span dynamicObject (object4)",
+        "step 59: Click on span dynamicObject (object5)",
+        "step 60: Click on div dynamicObject (object5)",
         "step 61: Click on input selectTestcase8935459Checkbox",
         "step 62: Click on link settings2 -> Navigate to page 'team/*/project/*/settings'",
         "step 63: Click on link scriptRepositories5 -> Navigate to page 'team/*/project/*/test-project'",
-        "step 64: Click on link teamProjectTestProject2 -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 64: Click on link teamProjectTestProject (teamProjectTestProject2) -> Navigate to page 'team/*/project/*/test-project/*'",
         "step 65: Click on button scheduleTestRun2 -> Navigate to page 'team/*/project/*/test-planning'",
         "step 66: Click on div object7",
         "step 67: Enter input value in input name2",
@@ -89,9 +89,9 @@
         "step 87: Click on button customizedButton2",
         "step 88: Click on div app",
         "step 89: Click on div underTopNavbar",
-        "step 90: Click on link viewCdcTestRun2 -> Navigate to page 'team/*/project/*/test-runs'",
-        "step 91: Click on div object122",
-        "step 92: Click on div object122 -> Navigate to page ''",
+        "step 90: Click on link testRunView (viewCdcTestRun2) -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 91: Click on div dynamicObject (object122)",
+        "step 92: Click on div dynamicObject (object122) -> Navigate to page ''",
         "step 93: Take full page screenshot as checkpoint"
     ]
 }

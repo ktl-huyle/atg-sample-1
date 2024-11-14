@@ -11,4 +11,299 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>50ba9cfc-9907-4579-b53e-dc857fffb0d7</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>f337a7f4-a54d-4967-b35f-2f462058de05</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC24-Manage Test Execution Details and Status-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'"]:nth-child(1) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3ba1fabc-4c98-4b77-8421-10f80543d753</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(2) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>93154f2e-4524-4f98-be25-beaf364b4505</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(1) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b4c524fd-4529-4d84-a69f-967621f383d1</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_10</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(2) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c5378dec-cc7c-4b4d-8213-eeebd1a88f79</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_11</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(3) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>6142325e-0269-44fb-85c7-977fd5dfe47c</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(2) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3528dcd2-31d7-4a92-8500-4e9f4e5d67cd</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(3) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>59007a10-571e-4747-a253-3338695e8c2f</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(4) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8f45e00b-c74a-4aad-b8ad-46af11207946</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(5) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3f845ebc-7e6c-4acd-bea2-39350d6a27dd</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(6) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>6ddc4e95-7b7c-4118-8ae8-bf682dc50b74</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(9) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>edd725ad-4341-49eb-a575-0f55425d7ff1</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_8</name>
+    </variable>
+    <variable>
+        <defaultValue>'"]:nth-child(8) [class="css-1yjo05o'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d7bd4465-9e3c-438d-8206-2a024e7e0200</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_class_9</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Automations - Apply to'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8bbb3c22-0cff-4d95-a686-822fc21cd16f</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Portal - Login with'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>18c74109-2623-403d-9391-1bd9566968ea</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Portal - Helper - Login with Email #217783898 \uf133 35 mins ago Duration34s'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>aabc3560-2ecc-4992-b4f7-0daeb1656ab1</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Error Portal - Knowledge - Actions #217783899 \uf133 35 mins ago Duration473ms'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f62152f7-e9ae-4ce4-9123-30a9b72acf32</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Error Portal - Knowledge - Search #217783900 \uf133 35 mins ago Duration485ms'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4d72ba6d-222f-4933-baa3-c7901810ee23</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Error Portal - Community -'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cf2f11df-f220-4b70-a4a5-9bf850390fbf</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Error Portal - Tickets -'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ff2bf10e-1e75-4691-aac0-ce01feb1f312</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Portal - Helper - Login with Email (as an Admin) #217783903 \uf133 35 mins'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>84d02195-9143-4240-8e25-0eb9a3d6b386</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Service - Tickets - View Portal as Contact #217783907 \uf133 34 mins ago'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>9f61e7e8-570f-466e-8692-65de5a03cd46</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_8</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed Service - Tickets - Assertions #217783906 \uf133 34 mins ago Duration6s'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>93ba0231-dc4f-410d-b8f9-7064d0ecddd1</id>
+        <masked>false</masked>
+        <name>button_testResultNavigation_internalRoleButtonName_9</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class</value>
+        <variableId>3ba1fabc-4c98-4b77-8421-10f80543d753</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_1</value>
+        <variableId>93154f2e-4524-4f98-be25-beaf364b4505</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_10</value>
+        <variableId>b4c524fd-4529-4d84-a69f-967621f383d1</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_11</value>
+        <variableId>c5378dec-cc7c-4b4d-8213-eeebd1a88f79</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_2</value>
+        <variableId>6142325e-0269-44fb-85c7-977fd5dfe47c</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_3</value>
+        <variableId>3528dcd2-31d7-4a92-8500-4e9f4e5d67cd</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_4</value>
+        <variableId>59007a10-571e-4747-a253-3338695e8c2f</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_5</value>
+        <variableId>8f45e00b-c74a-4aad-b8ad-46af11207946</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_6</value>
+        <variableId>3f845ebc-7e6c-4acd-bea2-39350d6a27dd</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_7</value>
+        <variableId>6ddc4e95-7b7c-4118-8ae8-bf682dc50b74</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_8</value>
+        <variableId>edd725ad-4341-49eb-a575-0f55425d7ff1</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_class_9</value>
+        <variableId>d7bd4465-9e3c-438d-8206-2a024e7e0200</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName</value>
+        <variableId>8bbb3c22-0cff-4d95-a686-822fc21cd16f</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_1</value>
+        <variableId>18c74109-2623-403d-9391-1bd9566968ea</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_2</value>
+        <variableId>aabc3560-2ecc-4992-b4f7-0daeb1656ab1</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_3</value>
+        <variableId>f62152f7-e9ae-4ce4-9123-30a9b72acf32</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_4</value>
+        <variableId>4d72ba6d-222f-4933-baa3-c7901810ee23</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_5</value>
+        <variableId>cf2f11df-f220-4b70-a4a5-9bf850390fbf</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_6</value>
+        <variableId>ff2bf10e-1e75-4691-aac0-ce01feb1f312</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_7</value>
+        <variableId>84d02195-9143-4240-8e25-0eb9a3d6b386</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_8</value>
+        <variableId>9f61e7e8-570f-466e-8692-65de5a03cd46</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>f337a7f4-a54d-4967-b35f-2f462058de05</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_testResultNavigation_internalRoleButtonName_9</value>
+        <variableId>93ba0231-dc4f-410d-b8f9-7064d0ecddd1</variableId>
+    </variableLinks>
 </TestCaseEntity>

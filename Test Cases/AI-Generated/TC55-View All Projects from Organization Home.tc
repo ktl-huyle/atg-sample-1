@@ -11,4 +11,104 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>7ba2f352-4e66-48c8-9f15-5e57c3b5d3da</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>3d93a111-2151-456d-8003-58625f700163</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC55-View All Projects from Organization Home-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'Oracle JDE'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>218f1c2c-a387-4fc0-9238-c18921cfd090</id>
+        <masked>false</masked>
+        <name>button_selectOrganization_internalRoleButtonName</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiList-root\\ MuiList-padding\\ MuiList-subheader\\ css-19o40po"]:nth-child(1) [class="chevron'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b8eb70fa-0392-4a1e-8bf2-350afba24c38</id>
+        <masked>false</masked>
+        <name>div_dynamicObject_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'CurrentDPDXC Practice for'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ca7a5b25-5ef5-4b90-a2c5-d3ca7c8e0f78</id>
+        <masked>false</masked>
+        <name>div_dynamicObject_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'OJ Oracle JDE'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>de159865-bdf0-4368-962d-6e1ced028630</id>
+        <masked>false</masked>
+        <name>link_dynamicObject_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'1566250'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>6758155f-21fb-44ec-8e9c-f7408afa96a1</id>
+        <masked>false</masked>
+        <name>link_dynamicObject_project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1546818'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>fa63a148-b53d-4b91-9af1-855bf5f96e4f</id>
+        <masked>false</masked>
+        <name>link_dynamicObject_team_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'DXC Practice for Oracle'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>543f1a84-1932-4dda-87bb-72bf6af8ac05</id>
+        <masked>false</masked>
+        <name>span_dynamicObject_internalRoleButtonName</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_selectOrganization_internalRoleButtonName</value>
+        <variableId>218f1c2c-a387-4fc0-9238-c18921cfd090</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_dynamicObject_class</value>
+        <variableId>b8eb70fa-0392-4a1e-8bf2-350afba24c38</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_dynamicObject_internalHasText</value>
+        <variableId>ca7a5b25-5ef5-4b90-a2c5-d3ca7c8e0f78</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_dynamicObject_internalRoleLinkName</value>
+        <variableId>de159865-bdf0-4368-962d-6e1ced028630</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_dynamicObject_project_id</value>
+        <variableId>6758155f-21fb-44ec-8e9c-f7408afa96a1</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_dynamicObject_team_id</value>
+        <variableId>fa63a148-b53d-4b91-9af1-855bf5f96e4f</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>3d93a111-2151-456d-8003-58625f700163</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>span_dynamicObject_internalRoleButtonName</value>
+        <variableId>543f1a84-1932-4dda-87bb-72bf6af8ac05</variableId>
+    </variableLinks>
 </TestCaseEntity>

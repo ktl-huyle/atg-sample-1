@@ -11,4 +11,104 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>eaa71341-0b18-420c-92d1-3025e63af442</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>be4bf31c-29d6-47a4-ba3b-212c0a8133db</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC12-Sort and View Execution Details in Team Project-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'Sort: ID (Descending)121 - 30 of 34 test runsStatusIDNamePlatform -'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>fa0a2bd9-794f-4e8f-a4fb-120c49ed1f37</id>
+        <masked>false</masked>
+        <name>div_sortInfo_internalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'Sort: ID (Descending)121 - 30 of 35 test runsStatusIDNamePlatform -'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>17829eb7-495f-49f8-b1b0-5099454771bc</id>
+        <masked>false</masked>
+        <name>div_sortInfo_internalText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'3791'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3294de99-8c7a-46c7-b7a6-75bf7d169ae1</id>
+        <masked>false</masked>
+        <name>link_executionDetails_executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'3791'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4356ebec-8500-4165-98fa-a65dc518568b</id>
+        <masked>false</masked>
+        <name>link_executionDetails_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'120387'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7e0cea88-8c80-4553-a206-244200bf57f5</id>
+        <masked>false</masked>
+        <name>link_executionDetails_project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'97510'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>53342937-f34b-4af0-96c1-9728648b7dac</id>
+        <masked>false</masked>
+        <name>link_executionDetails_team_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7f33532d-12eb-44fb-aac4-ee2d739aeb53</id>
+        <masked>false</masked>
+        <name>link_executionDetails_trNthChild</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_sortInfo_internalText</value>
+        <variableId>fa0a2bd9-794f-4e8f-a4fb-120c49ed1f37</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_sortInfo_internalText_1</value>
+        <variableId>17829eb7-495f-49f8-b1b0-5099454771bc</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_executions_id</value>
+        <variableId>3294de99-8c7a-46c7-b7a6-75bf7d169ae1</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_internalRoleLinkName</value>
+        <variableId>4356ebec-8500-4165-98fa-a65dc518568b</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_project_id</value>
+        <variableId>7e0cea88-8c80-4553-a206-244200bf57f5</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_team_id</value>
+        <variableId>53342937-f34b-4af0-96c1-9728648b7dac</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>be4bf31c-29d6-47a4-ba3b-212c0a8133db</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_trNthChild</value>
+        <variableId>7f33532d-12eb-44fb-aac4-ee2d739aeb53</variableId>
+    </variableLinks>
 </TestCaseEntity>

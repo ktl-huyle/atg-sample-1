@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Navigate through team project settings and schedule a test run",
+        "step 2: Navigate to team project and schedule a test run",
         "step 3: Click on div object32",
         "step 4: Click on div object33",
         "step 5: Click on div object19",
@@ -30,7 +30,7 @@
         "step 28: Click on div object9",
         "step 29: Click on button testSuite",
         "step 30: Click on button customizedButton2",
-        "step 31: Click on button object2",
+        "step 31: Click on button dynamicObject (object2)",
         "step 32: Click on button customizedButton2",
         "step 33: Click on h2 mui32",
         "step 34: Click on div object41",
@@ -40,15 +40,15 @@
         "step 38: Click on div reactSelect12Option1",
         "step 39: Click on button object3",
         "step 40: Click on button customizedButton4",
-        "step 41: Click on button object4",
+        "step 41: Click on button dynamicObject (object4)",
         "step 42: Click on button object5",
         "step 43: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
         "step 44: Click on link testcloudTunnels2 -> Navigate to page 'team/*/project/*/testCloudTunnel'",
-        "step 45: Click on button setupTunnels2",
+        "step 45: Click on button tunnelSetup (setupTunnels2)",
         "step 46: Click on div object2",
         "step 47: Click on div object3",
         "step 48: Click on link here",
-        "step 49: Click on button setupTunnels -> Navigate to page ''",
+        "step 49: Click on button tunnelSetup (setupTunnels) -> Navigate to page ''",
         "step 50: Take full page screenshot as checkpoint"
     ]
 }

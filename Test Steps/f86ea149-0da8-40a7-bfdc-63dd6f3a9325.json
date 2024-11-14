@@ -1,12 +1,12 @@
 {
     "steps": [
         "step 1: Navigate to /welcome",
-        "step 2: Click on div object3 -> Navigate to page 'organization/*/home'",
+        "step 2: Click on div dynamicObject (object3) -> Navigate to page 'organization/*/home'",
         "step 3: Click on span object2",
-        "step 4: Click on button selectOrganization3",
+        "step 4: Click on button selectOrganization (selectOrganization3)",
         "step 5: Click on span object3",
-        "step 6: Click on link organization",
-        "step 7: Click on button mouhamedAmineBouaicha",
+        "step 6: Click on link organizationOptions (organization)",
+        "step 7: Click on button userActions (mouhamedAmineBouaicha)",
         "step 8: Click on link documentation",
         "step 9: Click on div object5",
         "step 10: Click on span object3 -> Navigate to page ''",

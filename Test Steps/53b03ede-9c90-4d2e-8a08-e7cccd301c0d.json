@@ -5,7 +5,7 @@
         "step 3: Click on div object6",
         "step 4: Click on button pasukanOdin",
         "step 5: Click on link user -> Navigate to page 'user/*'",
-        "step 6: Click on button pasukanOdin",
+        "step 6: Click on button userActions (pasukanOdin)",
         "step 7: Click on link viewProfile",
         "step 8: Click on div object -> Navigate to page ''",
         "step 9: Take full page screenshot as checkpoint"

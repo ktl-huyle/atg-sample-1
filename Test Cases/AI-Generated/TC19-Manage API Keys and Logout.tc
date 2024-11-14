@@ -13,7 +13,7 @@
     <testCaseGuid>28c61ec8-9a8f-4be6-8f56-1a3fe7d99ab7</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>12d5ed76-5abb-425b-bd97-9c6188e04a38</id>
+        <id>54512870-074b-492c-846e-06155fa2c3a2</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -21,16 +21,55 @@
         <testDataId>Data Files/AI-Generated/TC19-Manage API Keys and Logout-test-data</testDataId>
     </testDataLinks>
     <variable>
+        <defaultValue>'2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>53921586-617f-4ae6-8339-3d85647ce30b</id>
+        <masked>false</masked>
+        <name>button_apiKeyManagement_trNthChild</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3245d3d0-2d0d-4b2d-ab98-3837ab697648</id>
+        <masked>false</masked>
+        <name>button_apiKeyManagement_trNthChild_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f46e7bb0-967c-4c47-88a7-980068f9fdd3</id>
+        <masked>false</masked>
+        <name>button_apiKeyManagement_trNthChild_2</name>
+    </variable>
+    <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>efa4d21c-4cc4-4585-9eab-3e2a18bcb392</id>
+        <id>c989efac-e294-4ab2-bd9a-10f58854f58c</id>
         <masked>false</masked>
         <name>input_KeyName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>12d5ed76-5abb-425b-bd97-9c6188e04a38</testDataLinkId>
+        <testDataLinkId>54512870-074b-492c-846e-06155fa2c3a2</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_apiKeyManagement_trNthChild</value>
+        <variableId>53921586-617f-4ae6-8339-3d85647ce30b</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>54512870-074b-492c-846e-06155fa2c3a2</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_apiKeyManagement_trNthChild_1</value>
+        <variableId>3245d3d0-2d0d-4b2d-ab98-3837ab697648</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>54512870-074b-492c-846e-06155fa2c3a2</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_apiKeyManagement_trNthChild_2</value>
+        <variableId>f46e7bb0-967c-4c47-88a7-980068f9fdd3</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>54512870-074b-492c-846e-06155fa2c3a2</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_KeyName</value>
-        <variableId>efa4d21c-4cc4-4585-9eab-3e2a18bcb392</variableId>
+        <variableId>c989efac-e294-4ab2-bd9a-10f58854f58c</variableId>
     </variableLinks>
 </TestCaseEntity>

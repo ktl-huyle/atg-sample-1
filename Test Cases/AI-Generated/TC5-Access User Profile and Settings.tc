@@ -11,4 +11,39 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>79791b88-c25d-4bb4-8c4d-15f646149941</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>755a3777-9b33-4aa5-a5f4-61b3a48977bf</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC5-Access User Profile and Settings-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'NK'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4cacc869-e462-4089-b31d-54db9a2fd654</id>
+        <masked>false</masked>
+        <name>button_userAction_internalRoleButtonName</name>
+    </variable>
+    <variable>
+        <defaultValue>'TestOps Homepage View summary'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>74364728-b737-433b-a123-c87a7a0367f5</id>
+        <masked>false</masked>
+        <name>link_navigation_internalRoleLinkName</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>755a3777-9b33-4aa5-a5f4-61b3a48977bf</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>button_userAction_internalRoleButtonName</value>
+        <variableId>4cacc869-e462-4089-b31d-54db9a2fd654</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>755a3777-9b33-4aa5-a5f4-61b3a48977bf</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_navigation_internalRoleLinkName</value>
+        <variableId>74364728-b737-433b-a123-c87a7a0367f5</variableId>
+    </variableLinks>
 </TestCaseEntity>

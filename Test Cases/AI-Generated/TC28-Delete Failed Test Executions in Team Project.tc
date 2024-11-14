@@ -11,4 +11,234 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>526720de-9313-4713-a34d-a101b345f219</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>d56f9edf-fe57-4461-b1bf-a0142f245d5a</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC28-Delete Failed Test Executions in Team Project-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'\\32 8507973'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d1ce8117-b6d9-408d-bc0f-12b0644130a2</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\32 8507874'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7a330c22-78d8-4b51-9df1-f133a4625233</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\32 8507489'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2d278dc8-68ad-41b0-a9a4-f32f27910360</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\32 8507973'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f21c8621-6577-4cd9-8098-28de9b702252</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\32 8507874'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>58509731-51a7-47ff-94db-f4ff3d841ee0</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\32 8507489'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>6909061b-57e6-4588-87ca-a9a212c73adc</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_for_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 652 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5dd70171-6ac8-48b4-a297-ec879d200371</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 651 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>bcc4805e-bfee-4835-baa7-7c1974236c25</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 650 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3690bf3c-e243-48ef-863c-69202224ca78</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 652 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7c2f5c06-ce36-49e8-9857-51a97cdda19d</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 651 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>be966107-a5fd-438c-91e3-9a8c563ce12a</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed 650 Failed SIS Book'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>61691819-8c0c-4844-ab3d-fcd2df4de962</id>
+        <masked>false</masked>
+        <name>label_failedTestExecution_internalRoleRowName_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'custom-card-failed\\ card'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8944ac64-9b85-4bd7-96b6-821d0be17639</id>
+        <masked>false</masked>
+        <name>link_testExecution_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'652'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ce4379ed-4a58-4658-a6de-d8178c1b7ae0</id>
+        <masked>false</masked>
+        <name>link_testExecution_executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'#652 M Terribeth Beasley 1 1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0ad1cb22-f13f-47a9-8464-8d7dce1a9260</id>
+        <masked>false</masked>
+        <name>link_testExecution_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'165046'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b9b7af14-9452-4f3b-88e8-aed82f036368</id>
+        <masked>false</masked>
+        <name>link_testExecution_project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'54063'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f747490f-bc23-440d-8516-c9f80e44a462</id>
+        <masked>false</masked>
+        <name>link_testExecution_team_id</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for</value>
+        <variableId>d1ce8117-b6d9-408d-bc0f-12b0644130a2</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for_1</value>
+        <variableId>7a330c22-78d8-4b51-9df1-f133a4625233</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for_2</value>
+        <variableId>2d278dc8-68ad-41b0-a9a4-f32f27910360</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for_3</value>
+        <variableId>f21c8621-6577-4cd9-8098-28de9b702252</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for_4</value>
+        <variableId>58509731-51a7-47ff-94db-f4ff3d841ee0</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_for_5</value>
+        <variableId>6909061b-57e6-4588-87ca-a9a212c73adc</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName</value>
+        <variableId>5dd70171-6ac8-48b4-a297-ec879d200371</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName_1</value>
+        <variableId>bcc4805e-bfee-4835-baa7-7c1974236c25</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName_2</value>
+        <variableId>3690bf3c-e243-48ef-863c-69202224ca78</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName_3</value>
+        <variableId>7c2f5c06-ce36-49e8-9857-51a97cdda19d</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName_4</value>
+        <variableId>be966107-a5fd-438c-91e3-9a8c563ce12a</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>label_failedTestExecution_internalRoleRowName_5</value>
+        <variableId>61691819-8c0c-4844-ab3d-fcd2df4de962</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testExecution_class</value>
+        <variableId>8944ac64-9b85-4bd7-96b6-821d0be17639</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testExecution_executions_id</value>
+        <variableId>ce4379ed-4a58-4658-a6de-d8178c1b7ae0</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testExecution_internalRoleLinkName</value>
+        <variableId>0ad1cb22-f13f-47a9-8464-8d7dce1a9260</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testExecution_project_id</value>
+        <variableId>b9b7af14-9452-4f3b-88e8-aed82f036368</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>d56f9edf-fe57-4461-b1bf-a0142f245d5a</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_testExecution_team_id</value>
+        <variableId>f747490f-bc23-440d-8516-c9f80e44a462</variableId>
+    </variableLinks>
 </TestCaseEntity>

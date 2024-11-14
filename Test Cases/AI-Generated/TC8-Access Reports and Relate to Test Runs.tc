@@ -11,4 +11,78 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>5cfab607-e29b-435b-ae94-b3864e12050a</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC8-Access Reports and Relate to Test Runs-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'616'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f9569c1d-1a7a-4abc-95ec-ec86a567a9ad</id>
+        <masked>false</masked>
+        <name>link_executionDetails_executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'616'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>9ab37434-94fe-4c69-b58c-45ff34548c89</id>
+        <masked>false</masked>
+        <name>link_executionDetails_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'1376704'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>836d4e07-cdc8-462c-bfb2-1269b1274f1e</id>
+        <masked>false</masked>
+        <name>link_executionDetails_project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1356670'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>935cf240-1dde-4c50-a312-e5180c0c2417</id>
+        <masked>false</masked>
+        <name>link_executionDetails_team_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cfe7763b-2a1f-4f3b-9897-890d232b81bc</id>
+        <masked>false</masked>
+        <name>link_executionDetails_trNthChild</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_executions_id</value>
+        <variableId>f9569c1d-1a7a-4abc-95ec-ec86a567a9ad</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_internalRoleLinkName</value>
+        <variableId>9ab37434-94fe-4c69-b58c-45ff34548c89</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_project_id</value>
+        <variableId>836d4e07-cdc8-462c-bfb2-1269b1274f1e</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_team_id</value>
+        <variableId>935cf240-1dde-4c50-a312-e5180c0c2417</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>e0c557b1-8c64-4196-91cf-cc1cb4b1e236</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_executionDetails_trNthChild</value>
+        <variableId>cfe7763b-2a1f-4f3b-9897-890d232b81bc</variableId>
+    </variableLinks>
 </TestCaseEntity>

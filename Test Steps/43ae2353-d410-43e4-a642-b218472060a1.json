@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to organization/*/home",
-        "step 2: Click on link fpFirstProjectTestCases61m18sExecutionTim -> Navigate to page 'team/*/project/*'",
+        "step 2: Click on link dynamicObject (fpFirstProjectTestCases61m18sExecutionTim) -> Navigate to page 'team/*/project/*'",
         "step 3: Click on link executions4 -> Navigate to page 'team/*/project/*/test-runs'",
         "step 4: Click on button openScheduleDialog",
         "step 5: Click on div object14",

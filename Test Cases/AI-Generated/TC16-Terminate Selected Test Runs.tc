@@ -11,4 +11,169 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>13046b7d-ce71-4154-b4ba-1aeecf2b1f81</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>6c46802b-7c82-471f-9166-aa03c6805379</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC16-Terminate Selected Test Runs-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ba21ef51-141a-4020-bbb9-65af36f13787</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8a7b5f8a-f701-4b2f-af45-080eb0382b32</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>672d2e99-6857-4e19-bc9b-5ade85ea89df</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>44f52c32-51f8-4079-be23-1a0374889d21</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>aaa387c9-85ba-43d1-bb35-102a7c283dc5</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDataGrid-row\\ MuiDataGrid-row--dynamicHeight\\ Mui-hovered"] [class="PrivateSwitchBase-input\\ css-1m9pwf3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>71a0529c-7375-4cd2-b008-012069742259</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_class_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test Run #2576 2024-08-21 16:49:57 -05:00 N/A pratima.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4e027ff6-e5ef-47d0-ac98-e69c5845fa07</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test Run #2575 2024-08-21 16:48:37 -05:00 N/A pratima.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f1320bbc-90af-4557-a3a1-231b42589da5</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test Run #2574 2024-08-21 16:28:59 -05:00 N/A pratima.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8273693c-055f-4c80-ab11-e829f68f6aba</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test Run #2573 2024-08-21 16:13:36 -05:00 N/A pratima.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5a82367f-b39e-4409-9102-89498f00c9d9</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test Run #2572 2024-08-21 16:07:40 -05:00 N/A pratima.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>67f1445e-1abd-40ee-a0cb-bd25b11b47ed</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Select row \uf3f4 Untitled Test'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5916c112-ed2e-427c-a76d-30de34586986</id>
+        <masked>false</masked>
+        <name>input_rowSelectionCheckbox_internalRoleRowName_5</name>
+    </variable>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class</value>
+        <variableId>ba21ef51-141a-4020-bbb9-65af36f13787</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class_1</value>
+        <variableId>8a7b5f8a-f701-4b2f-af45-080eb0382b32</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class_2</value>
+        <variableId>672d2e99-6857-4e19-bc9b-5ade85ea89df</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class_3</value>
+        <variableId>44f52c32-51f8-4079-be23-1a0374889d21</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class_4</value>
+        <variableId>aaa387c9-85ba-43d1-bb35-102a7c283dc5</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_class_5</value>
+        <variableId>71a0529c-7375-4cd2-b008-012069742259</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName</value>
+        <variableId>4e027ff6-e5ef-47d0-ac98-e69c5845fa07</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_1</value>
+        <variableId>f1320bbc-90af-4557-a3a1-231b42589da5</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_2</value>
+        <variableId>8273693c-055f-4c80-ab11-e829f68f6aba</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_3</value>
+        <variableId>5a82367f-b39e-4409-9102-89498f00c9d9</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_4</value>
+        <variableId>67f1445e-1abd-40ee-a0cb-bd25b11b47ed</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6c46802b-7c82-471f-9166-aa03c6805379</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>input_rowSelectionCheckbox_internalRoleRowName_5</value>
+        <variableId>5916c112-ed2e-427c-a76d-30de34586986</variableId>
+    </variableLinks>
 </TestCaseEntity>

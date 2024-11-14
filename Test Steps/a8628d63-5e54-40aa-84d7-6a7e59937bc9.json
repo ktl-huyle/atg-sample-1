@@ -3,7 +3,7 @@
         "step 1: Navigate to organization/*/settings/agent",
         "step 2: Click on link agentSetup -> Navigate to page 'organization/*/settings/test-environment-installation'",
         "step 3: Click on link testEnvironments -> Navigate to page 'organization/*/settings/agent'",
-        "step 4: Click on link organizationSettingsAgentLocal2 -> Navigate to page 'organization/*/settings/agent/local/*'",
+        "step 4: Click on link organizationSettingsAgent (organizationSettingsAgentLocal2) -> Navigate to page 'organization/*/settings/agent/local/*'",
         "step 5: Click on input agentprojectlink",
         "step 6: Click on li agentprojectlinkOption0",
         "step 7: Click on button agentUpdate",

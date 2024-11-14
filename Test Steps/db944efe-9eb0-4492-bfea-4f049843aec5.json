@@ -3,7 +3,7 @@
         "step 1: Navigate to team/*/project/*/test-project",
         "step 2: Click on td object",
         "step 3: Click on td object",
-        "step 4: Click on link teamProjectTestProject3 -> Navigate to page 'team/*/project/*/test-project/*'",
+        "step 4: Click on link teamProjectTestProject (teamProjectTestProject3) -> Navigate to page 'team/*/project/*/test-project/*'",
         "step 5: Click on button refreshScriptRepository",
         "step 6: Click on button object",
         "step 7: Click on button scheduleTestRun2 -> Navigate to page 'team/*/project/*/test-planning'",
@@ -31,7 +31,7 @@
         "step 29: Click on div object53",
         "step 30: Click on button closeConfigureTscDialog",
         "step 31: Click on button closeDialogButton",
-        "step 32: Click on button object6",
+        "step 32: Click on button dynamicObject (object6)",
         "step 33: Click on span object2",
         "step 34: Click on link organization -> Navigate to page 'organization/*/settings/agent'",
         "step 35: Click on link agentSetup2 -> Navigate to page 'team/*/project/*/test-planning'",
@@ -52,8 +52,8 @@
         "step 50: Click on div object57",
         "step 51: Click on button saveConfigureTsc",
         "step 52: Click on button customizedButton2",
-        "step 53: Click on link viewEppsAutomationTestCaseRunAugust21th -> Navigate to page 'team/*/project/*/test-runs'",
-        "step 54: Click on h2 object -> Navigate to page ''",
+        "step 53: Click on link testRunView (viewEppsAutomationTestCaseRunAugust21th) -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 54: Click on h2 dynamicObject (object) -> Navigate to page ''",
         "step 55: Take full page screenshot as checkpoint"
     ]
 }

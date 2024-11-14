@@ -1,0 +1,260 @@
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import truetest.custom.TrueTestScripts
+import internal.GlobalVariable
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+
+'Initialize test session: Open browser and set view port'
+
+@com.kms.katalon.core.annotation.SetUp
+def setup() {
+	WebUI.openBrowser('')
+	WebUI.setViewPortSize(1920, 1080)	
+}
+
+"Step 1: Navigate to team/*/project/*/test-planning"
+
+TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/test-planning")
+
+"Step 2: Click on span object4"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/span_object4'))
+
+WebUI.takeScreenshot()
+
+"Step 3: Click on input object2"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/input_object2'))
+
+WebUI.takeScreenshot()
+
+"Step 4: Enter input value in input object2"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.setText(findTestObject('AI-Generated/Page_team_project_test_planning/input_object2'), input_object2)
+
+WebUI.takeScreenshot()
+
+"Step 5: Click on button update"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/button_update'))
+
+WebUI.takeScreenshot()
+
+"Step 6: Click on link moreOptions (3More)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/link_moreOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/link_moreOptions', ['link_moreOptions_internalRoleLinkName': link_moreOptions_internalRoleLinkName]))
+
+WebUI.takeScreenshot()
+
+"Step 7: Click on div object105"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/div_object105'))
+
+WebUI.takeScreenshot()
+
+"Step 8: Click on button dynamicObject (object12)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild]))
+
+WebUI.takeScreenshot()
+
+"Step 9: Click on button dynamicObject (object12)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild_1]))
+
+WebUI.takeScreenshot()
+
+"Step 10: Click on button dynamicObject (object12)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild_2]))
+
+WebUI.takeScreenshot()
+
+"Step 11: Click on button dynamicObject (object13)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild_3]))
+
+WebUI.takeScreenshot()
+
+"Step 12: Click on button dynamicObject (object13)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild_4]))
+
+WebUI.takeScreenshot()
+
+"Step 13: Click on button dynamicObject (object12)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_1', ['button_dynamicObject_nthChild': button_dynamicObject_nthChild_5]))
+
+WebUI.takeScreenshot()
+
+"Step 14: Click on pre object"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/pre_object'))
+
+WebUI.takeScreenshot()
+
+"Step 15: Click on div object106"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/div_object106'))
+
+WebUI.takeScreenshot()
+
+"Step 16: Click on button dynamicObject (object14)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel]))
+
+WebUI.takeScreenshot()
+
+"Step 17: Click on button dynamicObject (object15)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_1]))
+
+WebUI.takeScreenshot()
+
+"Step 18: Click on button dynamicObject (object16)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_2]))
+
+WebUI.takeScreenshot()
+
+"Step 19: Click on button dynamicObject (object17)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_3]))
+
+WebUI.takeScreenshot()
+
+"Step 20: Click on button dynamicObject (object18)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_4]))
+
+WebUI.takeScreenshot()
+
+"Step 21: Click on button dynamicObject (object19)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_5]))
+
+WebUI.takeScreenshot()
+
+"Step 22: Click on button dynamicObject (object20)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_6]))
+
+WebUI.takeScreenshot()
+
+"Step 23: Click on button dynamicObject (object21)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_7]))
+
+WebUI.takeScreenshot()
+
+"Step 24: Click on button dynamicObject (object22)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_planning/button_dynamicObject_2', ['button_dynamicObject_internalLabel': button_dynamicObject_internalLabel_8]))
+
+WebUI.takeScreenshot()
+
+"Step 25: Click on button object23"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/button_object23'))
+
+WebUI.takeScreenshot()
+
+"Step 26: Click on form object"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/form_object'))
+
+WebUI.takeScreenshot()
+
+"Step 27: Click on div object107"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/div_object107'))
+
+WebUI.takeScreenshot()
+
+"Step 28: Click on div object108 -> Navigate to page ''"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-planning?/?(?:#.*)?(?:\\?.*)?$', true)
+
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_planning/div_object108'))
+
+WebUI.takeScreenshot()
+
+"Step 29: Take full page screenshot as checkpoint"
+
+WebUI.takeFullPageScreenshotAsCheckpoint('TC110-Update Test Planning in Team Project_visual_checkpoint')
+
+'Terminate test session: Close browser'
+
+@com.kms.katalon.core.annotation.TearDown
+def teardown() {
+	WebUI.closeBrowser()
+}
