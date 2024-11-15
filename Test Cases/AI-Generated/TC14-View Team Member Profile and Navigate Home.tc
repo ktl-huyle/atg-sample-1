@@ -13,7 +13,7 @@
     <testCaseGuid>055d89f3-c2e3-4ada-806f-b85b9feabde2</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>cf18c043-6589-4ae8-8eda-1ce62b4b9457</id>
+        <id>900e2688-b300-481d-95c3-fc07f3bda495</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>d4ef6109-7b60-457e-8115-111ae7ff5c24</id>
+        <id>6d574f1b-6b4d-489a-bca5-9d42bc8eb742</id>
         <masked>false</masked>
         <name>button_teamMemberAction_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>901b9c53-c811-48b1-bce4-143cb156c0e8</id>
+        <id>2e459b5d-f068-4d5b-9f97-2b09777d40e9</id>
         <masked>false</masked>
         <name>link_navigation_internalRoleLinkName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>cf18c043-6589-4ae8-8eda-1ce62b4b9457</testDataLinkId>
+        <testDataLinkId>900e2688-b300-481d-95c3-fc07f3bda495</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_teamMemberAction_internalRoleButtonName</value>
-        <variableId>d4ef6109-7b60-457e-8115-111ae7ff5c24</variableId>
+        <variableId>6d574f1b-6b4d-489a-bca5-9d42bc8eb742</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>cf18c043-6589-4ae8-8eda-1ce62b4b9457</testDataLinkId>
+        <testDataLinkId>900e2688-b300-481d-95c3-fc07f3bda495</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_navigation_internalRoleLinkName</value>
-        <variableId>901b9c53-c811-48b1-bce4-143cb156c0e8</variableId>
+        <variableId>2e459b5d-f068-4d5b-9f97-2b09777d40e9</variableId>
     </variableLinks>
 </TestCaseEntity>

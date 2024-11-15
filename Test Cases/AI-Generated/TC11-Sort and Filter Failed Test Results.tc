@@ -13,7 +13,7 @@
     <testCaseGuid>d6d5b621-eaa5-4fa6-af54-69e24a861144</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>3e1218e9-28e0-4e38-aa97-547fc49cc7e4</id>
+        <id>bdf21de3-f137-426a-9be8-8016e379ae41</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,53 +23,53 @@
     <variable>
         <defaultValue>'css-1yjo05o'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c294b1b3-4039-4340-90db-2567bac59469</id>
+        <id>20383867-206a-4809-89b4-e9ad639f1ba3</id>
         <masked>false</masked>
         <name>button_goToTestResultDetails_class</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>997af666-c20c-4224-a9c4-cb09b967d37e</id>
+        <id>7d46a272-5d80-4c6e-bb67-7c721ae103fa</id>
         <masked>false</masked>
         <name>button_goToTestResultDetails_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'Created with sketchtool\\.SortandFilter\\.IOSSortSizeDoublebed\\(\\)'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4e8e8ffd-011f-4d62-8295-d2f697064721</id>
+        <id>6f79ffc5-af8a-458b-8882-df7c0c1d2e50</id>
         <masked>false</masked>
         <name>span_logItems_internalHasText</name>
     </variable>
     <variable>
         <defaultValue>'17'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9c93c6b6-0022-4977-8a59-01ff4d1bb65b</id>
+        <id>61d0652e-f928-49fb-bdbe-d21b798012c7</id>
         <masked>false</masked>
         <name>span_logItems_nthChild</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>3e1218e9-28e0-4e38-aa97-547fc49cc7e4</testDataLinkId>
+        <testDataLinkId>bdf21de3-f137-426a-9be8-8016e379ae41</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_goToTestResultDetails_class</value>
-        <variableId>c294b1b3-4039-4340-90db-2567bac59469</variableId>
+        <variableId>20383867-206a-4809-89b4-e9ad639f1ba3</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>3e1218e9-28e0-4e38-aa97-547fc49cc7e4</testDataLinkId>
+        <testDataLinkId>bdf21de3-f137-426a-9be8-8016e379ae41</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_goToTestResultDetails_internalRoleButtonName</value>
-        <variableId>997af666-c20c-4224-a9c4-cb09b967d37e</variableId>
+        <variableId>7d46a272-5d80-4c6e-bb67-7c721ae103fa</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>3e1218e9-28e0-4e38-aa97-547fc49cc7e4</testDataLinkId>
+        <testDataLinkId>bdf21de3-f137-426a-9be8-8016e379ae41</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>span_logItems_internalHasText</value>
-        <variableId>4e8e8ffd-011f-4d62-8295-d2f697064721</variableId>
+        <variableId>6f79ffc5-af8a-458b-8882-df7c0c1d2e50</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>3e1218e9-28e0-4e38-aa97-547fc49cc7e4</testDataLinkId>
+        <testDataLinkId>bdf21de3-f137-426a-9be8-8016e379ae41</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>span_logItems_nthChild</value>
-        <variableId>9c93c6b6-0022-4977-8a59-01ff4d1bb65b</variableId>
+        <variableId>61d0652e-f928-49fb-bdbe-d21b798012c7</variableId>
     </variableLinks>
 </TestCaseEntity>

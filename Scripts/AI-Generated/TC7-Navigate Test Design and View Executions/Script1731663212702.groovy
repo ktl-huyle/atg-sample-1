@@ -1,7 +1,7 @@
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import truetest.custom.TrueTestScripts
 import internal.GlobalVariable
+import truetest.custom.TrueTestScripts
 
 
 'Initialize test session: Open browser and set view port'
@@ -297,7 +297,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteValidation"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteValidation', ['link_testSuiteValidation_internalRoleLinkName': link_testSuiteValidation_internalRoleLinkName, 'link_testSuiteValidation_project_id': link_testSuiteValidation_project_id, 'link_testSuiteValidation_team_id': link_testSuiteValidation_team_id, 'link_testSuiteValidation_test_suites_id': link_testSuiteValidation_test_suites_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteValidation', ['link_testSuiteValidation_internalRoleLinkName': link_testSuiteValidation_internalRoleLinkName, 'link_testSuiteValidation_test_suites_id': link_testSuiteValidation_test_suites_id, 'link_testSuiteValidation_project_id': link_testSuiteValidation_project_id, 'link_testSuiteValidation_team_id': link_testSuiteValidation_team_id]))
 
 WebUI.takeScreenshot()
 
@@ -306,7 +306,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults', ['link_testSuiteResults_executions_id': link_testSuiteResults_executions_id, 'link_testSuiteResults_team_id': link_testSuiteResults_team_id, 'link_testSuiteResults_project_id': link_testSuiteResults_project_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults', ['link_testSuiteResults_team_id': link_testSuiteResults_team_id, 'link_testSuiteResults_executions_id': link_testSuiteResults_executions_id, 'link_testSuiteResults_project_id': link_testSuiteResults_project_id]))
 
 WebUI.takeScreenshot()
 

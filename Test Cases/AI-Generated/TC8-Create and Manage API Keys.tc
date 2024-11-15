@@ -13,7 +13,7 @@
     <testCaseGuid>368f5414-0bb9-48a0-8392-c6145d3bd542</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>7769b328-cff7-4082-9bda-b496865820eb</id>
+        <id>749bc7d6-2679-46d9-ab92-002088184a43</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>'2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>3c61337c-79f8-4467-ab11-ed682ea7e75f</id>
+        <id>af379310-9d28-4200-aefe-6af3d96fa681</id>
         <masked>false</masked>
         <name>button_apiKeyActions_trNthChild</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Input data variable</description>
-        <id>20ab2e95-63f2-452f-afec-0579182f0e58</id>
+        <id>7f64497c-3079-4303-971e-eccde307752e</id>
         <masked>false</masked>
         <name>input_KeyName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>7769b328-cff7-4082-9bda-b496865820eb</testDataLinkId>
+        <testDataLinkId>749bc7d6-2679-46d9-ab92-002088184a43</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_apiKeyActions_trNthChild</value>
-        <variableId>3c61337c-79f8-4467-ab11-ed682ea7e75f</variableId>
+        <variableId>af379310-9d28-4200-aefe-6af3d96fa681</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>7769b328-cff7-4082-9bda-b496865820eb</testDataLinkId>
+        <testDataLinkId>749bc7d6-2679-46d9-ab92-002088184a43</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_KeyName</value>
-        <variableId>20ab2e95-63f2-452f-afec-0579182f0e58</variableId>
+        <variableId>7f64497c-3079-4303-971e-eccde307752e</variableId>
     </variableLinks>
 </TestCaseEntity>

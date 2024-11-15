@@ -1,7 +1,7 @@
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import truetest.custom.TrueTestScripts
 import internal.GlobalVariable
+import truetest.custom.TrueTestScripts
 
 
 'Initialize test session: Open browser and set view port'
@@ -54,7 +54,7 @@ WebUI.takeScreenshot()
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateAPIKey'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateApiKey'))
 
 WebUI.takeScreenshot()
 

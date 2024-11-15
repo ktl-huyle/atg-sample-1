@@ -13,7 +13,7 @@
     <testCaseGuid>1b961865-194c-436f-a97e-685a4abb7467</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>54acfb46-946a-4631-bb45-1fddfbd43624</id>
+        <id>5b2257c7-55f6-48a5-b606-a36e1e541965</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,14 +23,14 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4ac8d861-084c-441e-b58d-7d857319bd70</id>
+        <id>f7b3217e-68a3-4dd6-b92e-a02154bbd877</id>
         <masked>false</masked>
         <name>button_teamMemberAction_internalRoleButtonName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>54acfb46-946a-4631-bb45-1fddfbd43624</testDataLinkId>
+        <testDataLinkId>5b2257c7-55f6-48a5-b606-a36e1e541965</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_teamMemberAction_internalRoleButtonName</value>
-        <variableId>4ac8d861-084c-441e-b58d-7d857319bd70</variableId>
+        <variableId>f7b3217e-68a3-4dd6-b92e-a02154bbd877</variableId>
     </variableLinks>
 </TestCaseEntity>
