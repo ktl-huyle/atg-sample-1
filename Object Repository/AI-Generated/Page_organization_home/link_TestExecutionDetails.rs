@@ -40,7 +40,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/594927/project/609747/executions/1879</value>
-        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
+        <webElementGuid>9496907b-015d-443d-869d-980c3c5e834d</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
          insightlyproduction.com
         an hour ago
           (15m 57s)</value>
-        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
+        <webElementGuid>9496907b-015d-443d-869d-980c3c5e834d</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

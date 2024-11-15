@@ -34,6 +34,6 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1515252/project/1534644/test-project/1549320</value>
-        <webElementGuid>840c7355-3d14-4859-a963-6f1bef727770</webElementGuid>
+        <webElementGuid>9496907b-015d-443d-869d-980c3c5e834d</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
