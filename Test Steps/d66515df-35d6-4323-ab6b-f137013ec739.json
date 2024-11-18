@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions",
+        "step 4: Click on div sortOptions (SortIdDescending)",
+        "step 5: Click on span Started",
+        "step 6: Click on div sortOptions (SortIdDescending2)",
+        "step 7: Click on div FlexGrow",
+        "step 8: Click on div regressionDetails (SP3TORRegression)",
+        "step 9: Click on td Loading",
+        "step 10: Click on link executionDetails (Execution3791)",
+        "step 11: Click on div TestCase2",
+        "step 12: Click on link executionDetails (Execution3791) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 13: Click on div failedTestResults (FailedTestResults)",
+        "step 14: Click on td testCases (TestCasesSP3TOR)",
+        "step 15: Click on div TestCasesSP3TOR -> Navigate to page 'team/*/project/*/executions'",
+        "step 16: Click on div allTestRuns (AllTestRuns)",
+        "step 17: Click on div allTestRuns (AllTestRuns)",
+        "step 18: Click on link executionDetails (Execution3791)",
+        "step 19: Click on link executionDetails (Execution3791) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}
