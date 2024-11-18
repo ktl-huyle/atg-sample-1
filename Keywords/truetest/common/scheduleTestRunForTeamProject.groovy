@@ -3,9 +3,9 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import internal.GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class scheduleTestRunForTeamProject {
     
@@ -14,7 +14,7 @@ public class scheduleTestRunForTeamProject {
         "Step 1: Click on link projectLinks (OJOracleJDE) -> Navigate to page 'team/*/project/*'"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectLinks"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectLinks', ['link_projectLinks_internalRoleLinkName': data['link_projectLinks_internalRoleLinkName'], 'team_id': data['team_id'], 'project_id': data['project_id']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectLinks', ['link_projectLinks_internalRoleLinkName': data['link_projectLinks_internalRoleLinkName'], 'project_id': data['project_id'], 'team_id': data['team_id']]))
         
         "Step 2: Click on link Settings3 -> Navigate to page 'team/*/project/*/*'"
         
@@ -28,7 +28,7 @@ public class scheduleTestRunForTeamProject {
         "Step 4: Click on link projectLinks (OracleJDE) -> Navigate to page 'team/*/project/*/test-project/*'"
         
         // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project/link_projectLinks"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_projectLinks', ['link_projectLinks_trNthChild': data['link_projectLinks_trNthChild'], 'link_projectLinks_internalRoleLinkName': data['link_projectLinks_internalRoleLinkName_1'], 'team_id': data['team_id_1'], 'test_project_id': data['test_project_id'], 'project_id': data['project_id_1']]))
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/link_projectLinks', ['link_projectLinks_trNthChild': data['link_projectLinks_trNthChild'], 'link_projectLinks_internalRoleLinkName': data['link_projectLinks_internalRoleLinkName_1'], 'project_id': data['project_id_1'], 'team_id': data['team_id_1'], 'test_project_id': data['test_project_id']]))
         
         "Step 5: Click on button ScheduleTestRun2"
         
