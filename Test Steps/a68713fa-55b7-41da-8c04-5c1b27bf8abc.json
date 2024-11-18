@@ -1,9 +1,9 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions",
-        "step 2: Click on div sortInfo (SortInfo)",
+        "step 2: Click on div sortInformation (SortInfo)",
         "step 3: Click on span StartedInfo",
-        "step 4: Click on div sortInfo (SortInfo2)",
+        "step 4: Click on div sortInformation (SortInfo2)",
         "step 5: Click on div Object",
         "step 6: Click on div objectDetails (Object2)",
         "step 7: Click on td Loading",

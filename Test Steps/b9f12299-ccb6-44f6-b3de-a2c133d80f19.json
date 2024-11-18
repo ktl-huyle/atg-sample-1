@@ -2,8 +2,8 @@
     "steps": [
         "step 1: Navigate to team/*/project/*/web-services",
         "step 2: Click on button BDDPOC",
-        "step 3: Click on link organizationHome (OrganizationHome) -> Navigate to page 'organization/*/home'",
-        "step 4: Click on link dataDisplay (NoDataDisplay) -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link organizationNavigation (OrganizationHome) -> Navigate to page 'organization/*/home'",
+        "step 4: Click on link dataDisplayOptions (NoDataDisplay) -> Navigate to page 'team/*/project/*'",
         "step 5: Click on button BDDPOC",
         "step 6: Click on link Settings -> Navigate to page 'team/*/project/*/settings'",
         "step 7: Click on label EnableBDDReports",

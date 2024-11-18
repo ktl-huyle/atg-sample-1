@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: Navigate to test result details and mark as passed",
+        "step 2: Navigate to test results and mark execution as passed",
         "step 3: Click on button MarkAsPassed",
         "step 4: Click on label ChangeTestResultStatus",
         "step 5: Click on button Submit",
@@ -15,7 +15,7 @@
         "step 13: Click on button goToTestResultDetails (GoToTestResultDetails2)",
         "step 14: Click on button goToTestResultDetails (GoToTestResultDetails3)",
         "step 15: Click on button goToTestResultDetails (GoToTestResultDetails4)",
-        "step 16: Navigate to test result details and mark as passed",
+        "step 16: Navigate to test results and mark execution as passed",
         "step 17: Click on button MarkAsPassed",
         "step 18: Click on label ChangeTestResultStatus",
         "step 19: Click on button Submit",
@@ -38,7 +38,7 @@
         "step 36: Click on button goToTestResultDetails (GoToTestResultDetails5)",
         "step 37: Click on button goToTestResultDetails (GoToTestResultDetails6)",
         "step 38: Click on button InsightlyAutomation",
-        "step 39: Click on link insightlyHome (InsightlyHome) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
+        "step 39: Click on link insightlyNavigation (InsightlyHome) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
         "step 40: Click on button MarkAsPassed",
         "step 41: Click on label ChangeTestResultStatus",
         "step 42: Click on button Submit",
