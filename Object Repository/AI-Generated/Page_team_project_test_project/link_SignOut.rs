@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/logout</value>
-        <webElementGuid>228f8628-bdf0-426f-8172-e1c9822e5f00</webElementGuid>
+        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>id</name>
         <type>Main</type>
         <value>logout</value>
-        <webElementGuid>228f8628-bdf0-426f-8172-e1c9822e5f00</webElementGuid>
+        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Sign Out</value>
-        <webElementGuid>228f8628-bdf0-426f-8172-e1c9822e5f00</webElementGuid>
+        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Sign Out</value>
-        <webElementGuid>228f8628-bdf0-426f-8172-e1c9822e5f00</webElementGuid>
+        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

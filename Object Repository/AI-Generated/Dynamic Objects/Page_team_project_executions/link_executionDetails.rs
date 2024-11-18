@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'team/${link_executionDetails_team_id}/project/${link_executionDetails_project_id}/executions/${link_executionDetails_executions_id}')]</value>
+            <value>//*[equals(@href,'team/${team_id}/project/${project_id}/executions/${executions_id}')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>team/${{link_executionDetails_team_id}}/project/${{link_executionDetails_project_id}}/executions/${{link_executionDetails_executions_id}}</value>
-        <webElementGuid>228f8628-bdf0-426f-8172-e1c9822e5f00</webElementGuid>
+        <value>team/${{team_id}}/project/${{project_id}}/executions/${{executions_id}}</value>
+        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
