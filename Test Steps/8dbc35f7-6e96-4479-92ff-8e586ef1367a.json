@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link testExecutionOptions (bookParticipants) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on div loadingSpinner",
+        "step 6: Click on div loadingSpinner",
+        "step 7: Click on link testRuns2 -> Navigate to page 'team/*/project/*/overview'",
+        "step 8: Click on link testRuns",
+        "step 9: Delete multiple failed test counts",
+        "step 10: Delete multiple failed test counts",
+        "step 11: Click on link testRuns3 -> Navigate to page 'team/*/project/*/overview'",
+        "step 12: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'",
+        "step 13: Click on button DeleteExecution",
+        "step 14: Click on button delete",
+        "step 15: Click on button object",
+        "step 16: Click on button terribethBeasley",
+        "step 17: Click on div object2",
+        "step 18: Click on label failedTestCounts (failed655)",
+        "step 19: Click on label failedTestCounts (failed654)",
+        "step 20: Click on button delete2",
+        "step 21: Click on button Delete",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}
