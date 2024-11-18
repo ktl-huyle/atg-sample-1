@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'OJ
+            <value>//*[equals(@href,'team/${link_organizationLinks_team_id}/project/${link_organizationLinks_project_id}') and equals(@text,'OJ
             Oracle JDE')]</value>
         </entry>
     </selectorCollection>
@@ -36,14 +36,14 @@
         <type>Main</type>
         <value>OJ
         Oracle JDE</value>
-        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
+        <webElementGuid>78f6caf6-6c65-4e27-a3b1-0352f4c90aa6</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>team/${{team_id}}/project/${{project_id}}</value>
-        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
+        <value>team/${{link_organizationLinks_team_id}}/project/${{link_organizationLinks_project_id}}</value>
+        <webElementGuid>78f6caf6-6c65-4e27-a3b1-0352f4c90aa6</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

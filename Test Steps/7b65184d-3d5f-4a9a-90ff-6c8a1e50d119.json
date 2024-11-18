@@ -1,22 +1,20 @@
 {
     "steps": [
-        "step 1: Navigate to http://demo.localhost.direct",
-        "step 2: Login",
-        "step 3: Navigate to team/*/project/*/test-design/test-cases/*",
-        "step 4: Click on div testCaseTypes (Web)",
-        "step 5: Click on button testSuiteActions (UploadedData) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
-        "step 6: Click on span testCaseSwitchers (Icon)",
-        "step 7: Click on span treeSwitchers (TreeSwitcher11)",
-        "step 8: Click on span testCaseSwitchers (TreeSwitcher12)",
-        "step 9: Click on span testCaseSwitchers (TreeSwitcher13)",
-        "step 10: Click on span testCaseSwitchers (TreeSwitcher14)",
-        "step 11: Click on span treeSwitcher (TreeSwitcher15)",
-        "step 12: Click on span testCaseSwitchers (TreeSwitcher16)",
-        "step 13: Click on span testCaseSwitchers (TreeSwitcher17)",
-        "step 14: Click on span treeSwitchers (TreeSwitcher18)",
-        "step 15: Click on span testCaseSwitchers (TreeSwitcher19)",
-        "step 16: Click on div Sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
-        "step 17: Click on div testCaseTypes (Sanity2) -> Navigate to page ''",
-        "step 18: Take full page screenshot as checkpoint"
+        "step 1: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 2: Click on div dynamicObject (object14)",
+        "step 3: Click on button dynamicObject (object3) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 4: Click on span dynamicObject (object)",
+        "step 5: Click on span dynamicObject (object9)",
+        "step 6: Click on span dynamicObject (object22)",
+        "step 7: Click on span dynamicObject (object23)",
+        "step 8: Click on span dynamicObject (object24)",
+        "step 9: Click on span dynamicObject (object25)",
+        "step 10: Click on span dynamicObject (object26)",
+        "step 11: Click on span dynamicObject (object27)",
+        "step 12: Click on span dynamicObject (object28)",
+        "step 13: Click on span dynamicObject (object29)",
+        "step 14: Click on div object15 -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 15: Click on div dynamicObject (object16) -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
     ]
 }

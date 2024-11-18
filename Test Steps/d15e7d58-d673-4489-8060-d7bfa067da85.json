@@ -1,16 +1,14 @@
 {
     "steps": [
-        "step 1: Navigate to http://demo.localhost.direct",
-        "step 2: Login",
-        "step 3: Navigate to team/*/project/*/executions/*",
-        "step 4: Click on link TestRuns4 -> Navigate to page 'team/*/project/*/overview'",
-        "step 5: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/executions'",
-        "step 6: Click on div regressionDetails (PenTestIssuesSprintA)",
-        "step 7: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'",
-        "step 8: Click on link TestRuns4 -> Navigate to page 'team/*/project/*/overview'",
-        "step 9: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/executions'",
-        "step 10: Click on div regressionDetails (PenTestIssuesSprintA)",
-        "step 11: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'",
-        "step 12: Take full page screenshot as checkpoint"
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on link TestRuns -> Navigate to page 'team/*/project/*/overview'",
+        "step 3: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 4: Click on div objectDetails (Object3)",
+        "step 5: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 6: Click on link TestRuns -> Navigate to page 'team/*/project/*/overview'",
+        "step 7: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 8: Click on div objectDetails (Object3)",
+        "step 9: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 10: Take full page screenshot as checkpoint"
     ]
 }

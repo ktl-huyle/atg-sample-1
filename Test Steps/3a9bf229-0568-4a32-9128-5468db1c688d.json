@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 2: Click on button jobActions (linkToARelease)",
+        "step 3: Click on span object2",
+        "step 4: Click on button jobActions (run2)",
+        "step 5: Click on link reports2 -> Navigate to page 'team/*/project/*/overview'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

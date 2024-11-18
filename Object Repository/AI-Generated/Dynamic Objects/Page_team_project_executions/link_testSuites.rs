@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@title,'Test Suites/Coordinator Core') and equals(@href,'team/${team_id}/project/${project_id}/test-design/test-suites/${test_suites_id}')]</value>
+            <value>//*[equals(@title,'Test Suites/Coordinator Core') and equals(@href,'team/${link_testSuites_team_id}/project/${link_testSuites_project_id}/test-design/test-suites/${link_testSuites_test_suites_id}')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -34,14 +34,14 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/Coordinator Core</value>
-        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
+        <webElementGuid>78f6caf6-6c65-4e27-a3b1-0352f4c90aa6</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
         <name>href</name>
         <type>Main</type>
-        <value>team/${{team_id}}/project/${{project_id}}/test-design/test-suites/${{test_suites_id}}</value>
-        <webElementGuid>d147d799-f2ad-42ee-a84f-8fced77c66ea</webElementGuid>
+        <value>team/${{link_testSuites_team_id}}/project/${{link_testSuites_project_id}}/test-design/test-suites/${{link_testSuites_test_suites_id}}</value>
+        <webElementGuid>78f6caf6-6c65-4e27-a3b1-0352f4c90aa6</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on link testCases (b2Bsas20ThereIsNoDataToDisplay) -> Navigate to page 'team/*/project/*'",
+        "step 3: Click on link teamProjectReleases",
+        "step 4: Click on link executions5 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 5: Click on link reports6 -> Navigate to page 'team/*/project/*/overview'",
+        "step 6: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
+        "step 7: Click on link scriptRepositories3 -> Navigate to page 'team/*/project/*/test-project'",
+        "step 8: Click on link testEnvironments2 -> Navigate to page 'team/*/project/*/agent'",
+        "step 9: Click on ul object",
+        "step 10: Click on link kubernetes -> Navigate to page 'team/*/project/*/agent/k8s'",
+        "step 11: Click on link circleci -> Navigate to page 'team/*/project/*/agent/*'",
+        "step 12: Click on link testcloud",
+        "step 13: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'",
+        "step 14: Click on div dynamicObject (object5)",
+        "step 15: Click on link testcloudTunnels2 -> Navigate to page 'team/*/project/*/testCloudTunnel'",
+        "step 16: Click on button tunnelSetup (setupTunnels)",
+        "step 17: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'",
+        "step 18: Click on link dashboard -> Navigate to page 'team/*/project/*'",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}
