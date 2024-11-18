@@ -54,7 +54,7 @@ WebUI.takeScreenshot()
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateAPIKey'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateApiKey'))
 
 WebUI.takeScreenshot()
 

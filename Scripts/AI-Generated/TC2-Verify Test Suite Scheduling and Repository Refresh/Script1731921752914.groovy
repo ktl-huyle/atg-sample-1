@@ -150,7 +150,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-project?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName, 'link_testProject_test_project_id': link_testProject_test_project_id, 'link_testProject_team_id': link_testProject_team_id, 'link_testProject_project_id': link_testProject_project_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName, 'link_testProject_project_id': link_testProject_project_id, 'link_testProject_team_id': link_testProject_team_id, 'link_testProject_test_project_id': link_testProject_test_project_id]))
 
 WebUI.takeScreenshot()
 
@@ -207,7 +207,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-project?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild_1, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName_1, 'link_testProject_test_project_id': link_testProject_test_project_id_1, 'link_testProject_team_id': link_testProject_team_id_1, 'link_testProject_project_id': link_testProject_project_id_1]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild_1, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName_1, 'link_testProject_project_id': link_testProject_project_id_1, 'link_testProject_team_id': link_testProject_team_id_1, 'link_testProject_test_project_id': link_testProject_test_project_id_1]))
 
 WebUI.takeScreenshot()
 
