@@ -13,7 +13,7 @@
     <testCaseGuid>368f5414-0bb9-48a0-8392-c6145d3bd542</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>09012a7a-e536-4439-afbc-2b9aa6f1cec3</id>
+        <id>be922b23-36b9-4f25-86d4-61346d145738</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -35,13 +35,13 @@
         <name>input_KeyName</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>09012a7a-e536-4439-afbc-2b9aa6f1cec3</testDataLinkId>
+        <testDataLinkId>be922b23-36b9-4f25-86d4-61346d145738</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>button_apiKeyActions_trNthChild</value>
         <variableId>9d4c5cc8-fead-46dc-95c6-59a37727a2ef</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>09012a7a-e536-4439-afbc-2b9aa6f1cec3</testDataLinkId>
+        <testDataLinkId>be922b23-36b9-4f25-86d4-61346d145738</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_KeyName</value>
         <variableId>107dd51c-d12b-486b-953e-a5bf39ced858</variableId>

@@ -20,7 +20,7 @@ TrueTestScripts.navigate("user/${GlobalVariable.user_id}")
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateAPIKey'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_CreateApiKey'))
 
 WebUI.takeScreenshot()
 
@@ -69,7 +69,7 @@ WebUI.takeScreenshot()
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/user/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_ShowAPIKey'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_user/button_ShowApiKey'))
 
 WebUI.takeScreenshot()
 

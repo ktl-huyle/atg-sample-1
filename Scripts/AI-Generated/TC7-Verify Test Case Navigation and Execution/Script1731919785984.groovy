@@ -297,7 +297,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteActions', ['link_testSuiteActions_internalRoleLinkName': link_testSuiteActions_internalRoleLinkName, 'link_testSuiteActions_project_id': link_testSuiteActions_project_id, 'link_testSuiteActions_test_suites_id': link_testSuiteActions_test_suites_id, 'link_testSuiteActions_team_id': link_testSuiteActions_team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteActions', ['link_testSuiteActions_internalRoleLinkName': link_testSuiteActions_internalRoleLinkName, 'link_testSuiteActions_test_suites_id': link_testSuiteActions_test_suites_id, 'link_testSuiteActions_project_id': link_testSuiteActions_project_id, 'link_testSuiteActions_team_id': link_testSuiteActions_team_id]))
 
 WebUI.takeScreenshot()
 
@@ -306,7 +306,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults', ['link_testSuiteResults_executions_id': link_testSuiteResults_executions_id, 'link_testSuiteResults_project_id': link_testSuiteResults_project_id, 'link_testSuiteResults_team_id': link_testSuiteResults_team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteResults', ['link_testSuiteResults_team_id': link_testSuiteResults_team_id, 'link_testSuiteResults_executions_id': link_testSuiteResults_executions_id, 'link_testSuiteResults_project_id': link_testSuiteResults_project_id]))
 
 WebUI.takeScreenshot()
 

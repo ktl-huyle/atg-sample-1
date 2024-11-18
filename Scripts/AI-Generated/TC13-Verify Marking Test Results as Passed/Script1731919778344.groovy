@@ -21,7 +21,7 @@ TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariabl
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/grid?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions', ['link_testRunActions_plan_id': link_testRunActions_plan_id, 'link_testRunActions_team_id': link_testRunActions_team_id, 'link_testRunActions_project_id': link_testRunActions_project_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions', ['link_testRunActions_team_id': link_testRunActions_team_id, 'link_testRunActions_project_id': link_testRunActions_project_id, 'link_testRunActions_plan_id': link_testRunActions_plan_id]))
 
 WebUI.takeScreenshot()
 
@@ -30,7 +30,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/grid/plan/.*/job?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks', ['link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName, 'link_executionLinks_project_id': link_executionLinks_project_id, 'link_executionLinks_team_id': link_executionLinks_team_id, 'link_executionLinks_executions_id': link_executionLinks_executions_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks', ['link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName, 'link_executionLinks_team_id': link_executionLinks_team_id, 'link_executionLinks_project_id': link_executionLinks_project_id, 'link_executionLinks_executions_id': link_executionLinks_executions_id]))
 
 WebUI.takeScreenshot()
 
@@ -39,7 +39,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks', ['link_jobLinks_internalRoleLinkName': link_jobLinks_internalRoleLinkName, 'link_jobLinks_job_id': link_jobLinks_job_id, 'link_jobLinks_plan_id': link_jobLinks_plan_id, 'link_jobLinks_project_id': link_jobLinks_project_id, 'link_jobLinks_team_id': link_jobLinks_team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks', ['link_jobLinks_internalRoleLinkName': link_jobLinks_internalRoleLinkName, 'link_jobLinks_job_id': link_jobLinks_job_id, 'link_jobLinks_team_id': link_jobLinks_team_id, 'link_jobLinks_plan_id': link_jobLinks_plan_id, 'link_jobLinks_project_id': link_jobLinks_project_id]))
 
 WebUI.takeScreenshot()
 
@@ -137,7 +137,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-project?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName, 'link_testProject_team_id': link_testProject_team_id, 'link_testProject_test_project_id': link_testProject_test_project_id, 'link_testProject_project_id': link_testProject_project_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProject', ['link_testProject_trNthChild': link_testProject_trNthChild, 'link_testProject_internalRoleLinkName': link_testProject_internalRoleLinkName, 'link_testProject_test_project_id': link_testProject_test_project_id, 'link_testProject_team_id': link_testProject_team_id, 'link_testProject_project_id': link_testProject_project_id]))
 
 WebUI.takeScreenshot()
 
@@ -787,7 +787,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/grid?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions', ['link_testRunActions_plan_id': link_testRunActions_plan_id_1, 'link_testRunActions_team_id': link_testRunActions_team_id_1, 'link_testRunActions_project_id': link_testRunActions_project_id_1]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid/link_testRunActions', ['link_testRunActions_team_id': link_testRunActions_team_id_1, 'link_testRunActions_project_id': link_testRunActions_project_id_1, 'link_testRunActions_plan_id': link_testRunActions_plan_id_1]))
 
 WebUI.takeScreenshot()
 
@@ -804,7 +804,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/grid/plan/.*/job?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks', ['link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_1, 'link_executionLinks_project_id': link_executionLinks_project_id_1, 'link_executionLinks_team_id': link_executionLinks_team_id_1, 'link_executionLinks_executions_id': link_executionLinks_executions_id_1]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_grid_plan_job/link_executionLinks', ['link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_1, 'link_executionLinks_team_id': link_executionLinks_team_id_1, 'link_executionLinks_project_id': link_executionLinks_project_id_1, 'link_executionLinks_executions_id': link_executionLinks_executions_id_1]))
 
 WebUI.takeScreenshot()
 
@@ -813,7 +813,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks', ['link_jobLinks_internalRoleLinkName': link_jobLinks_internalRoleLinkName_1, 'link_jobLinks_job_id': link_jobLinks_job_id_1, 'link_jobLinks_plan_id': link_jobLinks_plan_id_1, 'link_jobLinks_project_id': link_jobLinks_project_id_1, 'link_jobLinks_team_id': link_jobLinks_team_id_1]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_jobLinks', ['link_jobLinks_internalRoleLinkName': link_jobLinks_internalRoleLinkName_1, 'link_jobLinks_job_id': link_jobLinks_job_id_1, 'link_jobLinks_team_id': link_jobLinks_team_id_1, 'link_jobLinks_plan_id': link_jobLinks_plan_id_1, 'link_jobLinks_project_id': link_jobLinks_project_id_1]))
 
 WebUI.takeScreenshot()
 

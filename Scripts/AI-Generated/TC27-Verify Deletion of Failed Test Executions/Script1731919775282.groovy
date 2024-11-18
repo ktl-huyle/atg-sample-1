@@ -22,7 +22,7 @@ TrueTestScripts.navigate("organization/${GlobalVariable.organization_id}/home")
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_testExecution"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_testExecution', ['link_testExecution_class': link_testExecution_class, 'link_testExecution_internalRoleLinkName': link_testExecution_internalRoleLinkName, 'link_testExecution_team_id': link_testExecution_team_id, 'link_testExecution_project_id': link_testExecution_project_id, 'link_testExecution_executions_id': link_testExecution_executions_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_testExecution', ['link_testExecution_class': link_testExecution_class, 'link_testExecution_internalRoleLinkName': link_testExecution_internalRoleLinkName, 'link_testExecution_executions_id': link_testExecution_executions_id, 'link_testExecution_project_id': link_testExecution_project_id, 'link_testExecution_team_id': link_testExecution_team_id]))
 
 WebUI.takeScreenshot()
 

@@ -13,7 +13,7 @@
     <testCaseGuid>67e73831-4d29-445c-974e-a619140cc9f8</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>90234f6c-cb96-4adc-876e-45e443b36aad</id>
+        <id>6b200306-9bec-463b-8bd2-dcbc215d5921</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -105,73 +105,73 @@
         <name>input_rowSelection_internalRoleRowName_5</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class</value>
         <variableId>fe319aae-7d65-4c72-a1d0-29ff39afaf4f</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class_1</value>
         <variableId>302040b6-79a7-4947-a642-22db7fd96760</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class_2</value>
         <variableId>7ced7d5b-e46a-478e-8206-c449f2eac221</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class_3</value>
         <variableId>31c26f6b-4cba-42a5-8821-2e35423ff6c6</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class_4</value>
         <variableId>b3c4d6fc-a0b5-4115-817d-bb9835398441</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_class_5</value>
         <variableId>3f1eb0f2-f7ac-4151-bca6-5d1d6e624ad7</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName</value>
         <variableId>80281c83-9204-407f-be34-28e6bb38f509</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName_1</value>
         <variableId>9af89f7b-7c48-42ac-bd40-7482fd374f81</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName_2</value>
         <variableId>3ab4b790-b5d0-43d3-ad7a-2514f2bc0de2</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName_3</value>
         <variableId>63fc8557-f535-469f-bd67-7e15c241a7d4</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName_4</value>
         <variableId>a8522bc3-92ef-4d5b-a6b8-b5e55fbdc276</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>90234f6c-cb96-4adc-876e-45e443b36aad</testDataLinkId>
+        <testDataLinkId>6b200306-9bec-463b-8bd2-dcbc215d5921</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>input_rowSelection_internalRoleRowName_5</value>
         <variableId>01432c7d-3f13-496f-af3d-45432d90f9ee</variableId>

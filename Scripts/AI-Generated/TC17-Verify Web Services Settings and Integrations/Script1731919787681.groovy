@@ -38,7 +38,7 @@ WebUI.takeScreenshot()
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_dataDisplay"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_dataDisplay', ['link_dataDisplay_internalRoleLinkName': link_dataDisplay_internalRoleLinkName, 'link_dataDisplay_team_id': link_dataDisplay_team_id, 'link_dataDisplay_project_id': link_dataDisplay_project_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_dataDisplay', ['link_dataDisplay_internalRoleLinkName': link_dataDisplay_internalRoleLinkName, 'link_dataDisplay_project_id': link_dataDisplay_project_id, 'link_dataDisplay_team_id': link_dataDisplay_team_id]))
 
 WebUI.takeScreenshot()
 

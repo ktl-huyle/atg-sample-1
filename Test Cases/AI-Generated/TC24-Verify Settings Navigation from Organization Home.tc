@@ -13,7 +13,7 @@
     <testCaseGuid>da22d104-8b75-4ed4-ad19-963249c73bae</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>31007ed9-6b7f-4aad-9e3d-de65e4dd4e1e</id>
+        <id>26dd71f4-7815-4410-95fc-a6d299f29338</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -35,13 +35,13 @@
         <name>link_navigation_internalRoleLinkName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>31007ed9-6b7f-4aad-9e3d-de65e4dd4e1e</testDataLinkId>
+        <testDataLinkId>26dd71f4-7815-4410-95fc-a6d299f29338</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_navigation_internalRoleLinkName</value>
         <variableId>7218912e-0c36-44f5-abd3-083795e81527</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>31007ed9-6b7f-4aad-9e3d-de65e4dd4e1e</testDataLinkId>
+        <testDataLinkId>26dd71f4-7815-4410-95fc-a6d299f29338</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_navigation_internalRoleLinkName_1</value>
         <variableId>116743c5-20df-4fa6-a674-36b1a6fb100e</variableId>
