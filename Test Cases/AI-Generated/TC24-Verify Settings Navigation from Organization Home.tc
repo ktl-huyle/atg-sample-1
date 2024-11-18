@@ -13,7 +13,7 @@
     <testCaseGuid>da22d104-8b75-4ed4-ad19-963249c73bae</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>26dd71f4-7815-4410-95fc-a6d299f29338</id>
+        <id>84b1c047-8dbc-4483-a9e5-e0106b3287a5</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,27 +23,27 @@
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>7218912e-0c36-44f5-abd3-083795e81527</id>
+        <id>4601af78-2de2-407d-9d06-a8171b557492</id>
         <masked>false</masked>
-        <name>link_navigation_internalRoleLinkName</name>
+        <name>link_navigationMenu_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>116743c5-20df-4fa6-a674-36b1a6fb100e</id>
+        <id>86392d51-f4e8-4e5e-b67f-18ac0ba99d14</id>
         <masked>false</masked>
-        <name>link_navigation_internalRoleLinkName_1</name>
+        <name>link_navigationMenu_internalRoleLinkName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>26dd71f4-7815-4410-95fc-a6d299f29338</testDataLinkId>
+        <testDataLinkId>84b1c047-8dbc-4483-a9e5-e0106b3287a5</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_navigation_internalRoleLinkName</value>
-        <variableId>7218912e-0c36-44f5-abd3-083795e81527</variableId>
+        <value>link_navigationMenu_internalRoleLinkName</value>
+        <variableId>4601af78-2de2-407d-9d06-a8171b557492</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>26dd71f4-7815-4410-95fc-a6d299f29338</testDataLinkId>
+        <testDataLinkId>84b1c047-8dbc-4483-a9e5-e0106b3287a5</testDataLinkId>
         <type>DATA_COLUMN</type>
-        <value>link_navigation_internalRoleLinkName_1</value>
-        <variableId>116743c5-20df-4fa6-a674-36b1a6fb100e</variableId>
+        <value>link_navigationMenu_internalRoleLinkName_1</value>
+        <variableId>86392d51-f4e8-4e5e-b67f-18ac0ba99d14</variableId>
     </variableLinks>
 </TestCaseEntity>

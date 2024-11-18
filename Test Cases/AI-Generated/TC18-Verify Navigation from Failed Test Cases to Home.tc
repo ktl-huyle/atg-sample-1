@@ -13,7 +13,7 @@
     <testCaseGuid>273b362a-a72b-439c-a6ca-7d7dee38af78</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>47b49efa-ca6a-4829-84d9-f01f378de916</id>
+        <id>ea6d3b73-41dc-4c06-a1bf-000094b90e5a</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -49,25 +49,25 @@
         <name>div_failedTestCases_internalRoleButtonName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>47b49efa-ca6a-4829-84d9-f01f378de916</testDataLinkId>
+        <testDataLinkId>ea6d3b73-41dc-4c06-a1bf-000094b90e5a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_class</value>
         <variableId>673fb546-3247-458b-9909-4656b6a04159</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>47b49efa-ca6a-4829-84d9-f01f378de916</testDataLinkId>
+        <testDataLinkId>ea6d3b73-41dc-4c06-a1bf-000094b90e5a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_class_1</value>
         <variableId>f828744f-4636-4ca3-9367-55f34cd41dbb</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>47b49efa-ca6a-4829-84d9-f01f378de916</testDataLinkId>
+        <testDataLinkId>ea6d3b73-41dc-4c06-a1bf-000094b90e5a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_internalRoleButtonName</value>
         <variableId>03143c73-1f72-4720-bd5f-7601449b6db8</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>47b49efa-ca6a-4829-84d9-f01f378de916</testDataLinkId>
+        <testDataLinkId>ea6d3b73-41dc-4c06-a1bf-000094b90e5a</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_internalRoleButtonName_1</value>
         <variableId>c76c1134-39cb-49a5-9260-a0ebcd35ac2c</variableId>

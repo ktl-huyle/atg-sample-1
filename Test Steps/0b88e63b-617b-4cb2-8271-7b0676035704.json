@@ -2,7 +2,7 @@
     "steps": [
         "step 1: Navigate to /welcome",
         "step 2: Click on div qualityEngineer (QualityEngineer) -> Navigate to page 'organization/*/home'",
-        "step 3: Click on button userAction (AR)",
+        "step 3: Click on button teamMemberAction (AR)",
         "step 4: Click on div UserFlowModalBackdrop",
         "step 5: Click on div UserFlowModalBackdrop",
         "step 6: Click on div UserFlowModalBackdrop",

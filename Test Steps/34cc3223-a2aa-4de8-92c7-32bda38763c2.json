@@ -6,7 +6,7 @@
         "step 4: Enter input value in input KeyName",
         "step 5: Click on div CancelCreate",
         "step 6: Click on button Create",
-        "step 7: Click on button apiKeyActions (Object)",
+        "step 7: Click on button userActions (Object)",
         "step 8: Click on button ShowAPIKey",
         "step 9: Click on input userCredentials (Object)",
         "step 10: Click on input userCredentials (Password)",

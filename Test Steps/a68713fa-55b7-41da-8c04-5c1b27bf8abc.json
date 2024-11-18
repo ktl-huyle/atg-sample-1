@@ -1,11 +1,11 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions",
-        "step 2: Click on div sortInfo (SortInfo)",
+        "step 2: Click on div sortingInfo (SortInfo)",
         "step 3: Click on span StartedInfo",
-        "step 4: Click on div sortInfo (SortInfo2)",
+        "step 4: Click on div sortingInfo (SortInfo2)",
         "step 5: Click on div Object",
-        "step 6: Click on div objectInfo (Object2)",
+        "step 6: Click on div objectDetails (Object2)",
         "step 7: Click on td Loading",
         "step 8: Click on link executionDetails (Object) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 9: Take full page screenshot as checkpoint"
