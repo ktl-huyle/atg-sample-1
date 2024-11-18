@@ -13,7 +13,7 @@
     <testCaseGuid>177e0c8b-35b8-4f6d-b44f-fc79d7d52204</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>704d863d-07c5-47f0-97f5-9b909fa0f78a</id>
+        <id>f1a68049-0d2c-479e-83d4-7c3b85aad446</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,40 +23,40 @@
     <variable>
         <defaultValue>'14'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>442e81c1-6caf-4b1d-888d-fb5e1c4955c6</id>
+        <id>c7bf32ed-1935-4f7b-8894-7bf459fb511d</id>
         <masked>false</masked>
         <name>link_testResultsNavigation_executions_id</name>
     </variable>
     <variable>
         <defaultValue>'1589118'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4fc162ab-b805-44e4-b148-353fa08ea3d0</id>
+        <id>9833e315-ecd7-466b-b3b5-1229de97291b</id>
         <masked>false</masked>
         <name>link_testResultsNavigation_project_id</name>
     </variable>
     <variable>
         <defaultValue>'1570446'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>f092c0fa-ca8a-4ae8-b2c4-7a501fea93a9</id>
+        <id>429cef9e-d43d-4168-be84-892594596cd3</id>
         <masked>false</masked>
         <name>link_testResultsNavigation_team_id</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>704d863d-07c5-47f0-97f5-9b909fa0f78a</testDataLinkId>
+        <testDataLinkId>f1a68049-0d2c-479e-83d4-7c3b85aad446</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testResultsNavigation_executions_id</value>
-        <variableId>442e81c1-6caf-4b1d-888d-fb5e1c4955c6</variableId>
+        <variableId>c7bf32ed-1935-4f7b-8894-7bf459fb511d</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>704d863d-07c5-47f0-97f5-9b909fa0f78a</testDataLinkId>
+        <testDataLinkId>f1a68049-0d2c-479e-83d4-7c3b85aad446</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testResultsNavigation_project_id</value>
-        <variableId>4fc162ab-b805-44e4-b148-353fa08ea3d0</variableId>
+        <variableId>9833e315-ecd7-466b-b3b5-1229de97291b</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>704d863d-07c5-47f0-97f5-9b909fa0f78a</testDataLinkId>
+        <testDataLinkId>f1a68049-0d2c-479e-83d4-7c3b85aad446</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>link_testResultsNavigation_team_id</value>
-        <variableId>f092c0fa-ca8a-4ae8-b2c4-7a501fea93a9</variableId>
+        <variableId>429cef9e-d43d-4168-be84-892594596cd3</variableId>
     </variableLinks>
 </TestCaseEntity>

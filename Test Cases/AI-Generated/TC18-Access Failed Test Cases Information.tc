@@ -13,7 +13,7 @@
     <testCaseGuid>273b362a-a72b-439c-a6ca-7d7dee38af78</testCaseGuid>
     <testDataLinks>
         <combinationType>ONE</combinationType>
-        <id>b36747c9-069e-4195-bde1-88c51cf9874b</id>
+        <id>5044382e-a963-440e-b987-6a27d50897dd</id>
         <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -23,53 +23,53 @@
     <variable>
         <defaultValue>'"]:nth-child(4) [class="MuiGrid-root\\ MuiGrid-container\\ d-flex\\ align-items-center\\ execution-test-result-details\\ css-1d3bbye'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>8eb33d8d-57b4-4825-8b58-45bc82616f0a</id>
+        <id>0fba21bf-36e7-4f80-8cd5-e23df09b6602</id>
         <masked>false</masked>
         <name>div_failedTestCases_class</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(5) [class="MuiGrid-root\\ MuiGrid-container\\ d-flex\\ align-items-center\\ execution-test-result-details\\ css-1d3bbye'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a164caeb-faf1-4a71-bd71-7ce5e0f611d5</id>
+        <id>0400900e-aa0f-4143-8a2f-690b7092a237</id>
         <masked>false</masked>
         <name>div_failedTestCases_class_1</name>
     </variable>
     <variable>
         <defaultValue>'Failed C2841_Verify_if_sync_to_PSA_is_successful_for_a_client #217772462 \uf133 4'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>0c3881c9-9470-453b-a231-0a018d742578</id>
+        <id>863e104c-bea6-4971-8911-c3bd6fde71e1</id>
         <masked>false</masked>
         <name>div_failedTestCases_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'Failed C3190_Verify_create_ and_delete_clients_UI #217772466 \uf133 4 hours ago'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ce4391c2-2f14-4042-bb19-9546def469af</id>
+        <id>867b8f4b-42d9-4556-b768-d1018d19c3dc</id>
         <masked>false</masked>
         <name>div_failedTestCases_internalRoleButtonName_1</name>
     </variable>
     <variableLinks>
-        <testDataLinkId>b36747c9-069e-4195-bde1-88c51cf9874b</testDataLinkId>
+        <testDataLinkId>5044382e-a963-440e-b987-6a27d50897dd</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_class</value>
-        <variableId>8eb33d8d-57b4-4825-8b58-45bc82616f0a</variableId>
+        <variableId>0fba21bf-36e7-4f80-8cd5-e23df09b6602</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>b36747c9-069e-4195-bde1-88c51cf9874b</testDataLinkId>
+        <testDataLinkId>5044382e-a963-440e-b987-6a27d50897dd</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_class_1</value>
-        <variableId>a164caeb-faf1-4a71-bd71-7ce5e0f611d5</variableId>
+        <variableId>0400900e-aa0f-4143-8a2f-690b7092a237</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>b36747c9-069e-4195-bde1-88c51cf9874b</testDataLinkId>
+        <testDataLinkId>5044382e-a963-440e-b987-6a27d50897dd</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_internalRoleButtonName</value>
-        <variableId>0c3881c9-9470-453b-a231-0a018d742578</variableId>
+        <variableId>863e104c-bea6-4971-8911-c3bd6fde71e1</variableId>
     </variableLinks>
     <variableLinks>
-        <testDataLinkId>b36747c9-069e-4195-bde1-88c51cf9874b</testDataLinkId>
+        <testDataLinkId>5044382e-a963-440e-b987-6a27d50897dd</testDataLinkId>
         <type>DATA_COLUMN</type>
         <value>div_failedTestCases_internalRoleButtonName_1</value>
-        <variableId>ce4391c2-2f14-4042-bb19-9546def469af</variableId>
+        <variableId>867b8f4b-42d9-4556-b768-d1018d19c3dc</variableId>
     </variableLinks>
 </TestCaseEntity>
