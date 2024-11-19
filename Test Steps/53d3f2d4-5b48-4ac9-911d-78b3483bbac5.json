@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /welcome",
+        "step 4: Click on div automationSpecialist (AutomationSpecialist) -> Navigate to page 'team/*/project/*/*'",
+        "step 5: Click on link TestRuns11",
+        "step 6: Click on link TestCases -> Navigate to page 'team/*/project/*/test-reports/test-maintenance/*'",
+        "step 7: Click on link FirstTestCase -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 8: Click on div UserFlowModalBackdrop",
+        "step 9: Click on td PassedFirstTestCase",
+        "step 10: Click on div firstTestCase (FirstTestCase)",
+        "step 11: Click on div InfoSidebarCloseButton",
+        "step 12: Click on link TestSuites9 -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 13: Click on link TestCases2 -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 14: Click on span treeSwitchers (TreeSwitcher20)",
+        "step 15: Click on span treeSwitchers (TreeSwitcher11)",
+        "step 16: Click on div testCases (UploadedData) -> Navigate to page ''",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}

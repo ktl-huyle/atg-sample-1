@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/*",
+        "step 4: Click on link Dashboard -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on button ChooseDate",
+        "step 6: Click on button Date",
+        "step 7: Click on link Reports2 -> Navigate to page 'team/*/project/*/*'",
+        "step 8: Click on link TestRuns2",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

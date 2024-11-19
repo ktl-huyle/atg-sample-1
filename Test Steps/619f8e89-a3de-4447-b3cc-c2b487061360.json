@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on div WelcomeToThermoFisher",
+        "step 5: Click on div WelcomeToThermoFisher",
+        "step 6: Click on div GridRoot",
+        "step 7: Click on span organizationDetails (ThermoFisherScientific)",
+        "step 8: Click on span organizationDetails (ThermoFisherScientificChina)",
+        "step 9: Click on span Settings",
+        "step 10: Click on div Backdrop",
+        "step 11: Click on button userActions (Sabrina)",
+        "step 12: Click on link userSettings -> Navigate to page 'user/settings'",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}
