@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on button organizationActions (DNEX)",
+        "step 5: Click on button organizationActions (DNEX2)",
+        "step 6: Click on button organizationActions (DNEX)",
+        "step 7: Click on div recentProjects (RecentProjects3)",
+        "step 8: Click on span Settings",
+        "step 9: Click on link homepageLinks (TestOpsHomepage2)",
+        "step 10: Click on span DownloadKatalonPackage",
+        "step 11: Click on button userActions (AI2)",
+        "step 12: Click on div Backdrop",
+        "step 13: Click on button userActions (AI2)",
+        "step 14: Click on div Backdrop",
+        "step 15: Click on button Settings",
+        "step 16: Click on div Backdrop",
+        "step 17: Click on span DownloadKatalonPackage",
+        "step 18: Click on button Settings",
+        "step 19: Click on div Backdrop",
+        "step 20: Click on span organizationDetails (DNEX)",
+        "step 21: Click on div currentOrganization (TooltipButton)",
+        "step 22: Click on link projectLinks (KTKatalonTutorial) -> Navigate to page 'team/*/project/*'",
+        "step 23: Click on button projectActions (KatalonTutorial)",
+        "step 24: Click on link dnex (dnex) -> Navigate to page 'organization/*/home'",
+        "step 25: Click on button organizationActions (DNEX)",
+        "step 26: Click on link organizationLinks (DNEX)",
+        "step 27: Click on link projectLinks (KTKatalonTutorial) -> Navigate to page 'team/*/project/*'",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}

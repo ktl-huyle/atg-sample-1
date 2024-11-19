@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 4: Click on link testRunLinks (TestRunId) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on pre failedTests (FailedTestCase)",
+        "step 6: Click on div ThumbnailImage2",
+        "step 7: Click on button Close",
+        "step 8: Click on div ThumbnailImage3",
+        "step 9: Click on button Close -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 10: Click on div testRunDetails (TestRunDetails)",
+        "step 11: Click on link testRunLinks (TestRunId) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 12: Click on div failedTests (FailedPreRequisite)",
+        "step 13: Click on div failedTests (FailedPreRequisite2)",
+        "step 14: Click on div thumbnailImage",
+        "step 15: Click on button Close",
+        "step 16: Click on div failedTests (failedPreRequisiteBranch)",
+        "step 17: Click on div failedTests (failedPreRequisiteBranch2)",
+        "step 18: Click on div ThumbnailImage2",
+        "step 19: Click on button Close",
+        "step 20: Click on pre failedTests (failedPreRequisiteBranch)",
+        "step 21: Click on div failedTests (failedPreRequisiteBranch3)",
+        "step 22: Click on div failedTests (failedPreRequisiteBranch4)",
+        "step 23: Click on pre failedTests (failedPreRequisiteBranch2)",
+        "step 24: Click on div thumbnailImage",
+        "step 25: Click on button Close -> Navigate to page ''",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}
