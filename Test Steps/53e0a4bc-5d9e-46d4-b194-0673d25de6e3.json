@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 4: Click on link Job5409 -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'",
+        "step 5: Click on pre logOutputs (LogOutput2)",
+        "step 6: Click on pre logOutputs (LogOutput2)",
+        "step 7: Click on pre logOutputs (LogOutput2)",
+        "step 8: Click on pre logOutputs (LogOutput2) -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
