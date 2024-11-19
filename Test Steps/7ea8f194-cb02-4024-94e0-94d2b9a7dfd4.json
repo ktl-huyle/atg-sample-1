@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 4: Click on button jobActions (Edit)",
+        "step 5: Click on div AdvancedSettings",
+        "step 6: Configure active tunnels and save the settings.",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}

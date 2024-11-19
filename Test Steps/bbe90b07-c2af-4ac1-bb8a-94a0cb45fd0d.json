@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*",
+        "step 4: Click on button FailedReports",
+        "step 5: Click on button DeleteExecution",
+        "step 6: Click on button Delete",
+        "step 7: Click on button FailedReports",
+        "step 8: Click on button DeleteExecution",
+        "step 9: Click on button Delete",
+        "step 10: Click on div ExecutionDoneMessage",
+        "step 11: Click on div dashboard (Dashboard)",
+        "step 12: Click on div LeftNavbarImage",
+        "step 13: Click on div dashboard (Dashboard2)",
+        "step 14: Click on div dashboard (Dashboard3)",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}

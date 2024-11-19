@@ -34,7 +34,7 @@
         <name>text</name>
         <type>Main</type>
         <value></value>
-        <webElementGuid>3d3eff2e-e900-4c03-9c1c-93dec2594d63</webElementGuid>
+        <webElementGuid>481b2dcf-597f-4e72-b19f-2707f48958ef</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>3d3eff2e-e900-4c03-9c1c-93dec2594d63</webElementGuid>
+        <webElementGuid>481b2dcf-597f-4e72-b19f-2707f48958ef</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
