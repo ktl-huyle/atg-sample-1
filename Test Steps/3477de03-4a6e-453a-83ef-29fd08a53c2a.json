@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div RightSidebar3",
+        "step 5: Click on div reportDefect (ReportDefectMarkAs)",
+        "step 6: Click on button MarkAsPassed",
+        "step 7: Click on label FunctionsUpdate",
+        "step 8: Click on button Submit",
+        "step 9: Click on span FailedTest",
+        "step 10: Click on span FailedTest",
+        "step 11: Click on span failedTests (FailedTest2)",
+        "step 12: Click on button MarkAsPassed",
+        "step 13: Click on label FunctionsUpdate",
+        "step 14: Click on label ChangeTestResult",
+        "step 15: Click on button Submit",
+        "step 16: Click on span failedTests (FailedTest3)",
+        "step 17: Click on button MarkAsPassed",
+        "step 18: Click on label ChangeTestResult",
+        "step 19: Click on button Submit",
+        "step 20: Click on div failedTests (FailedTest2)",
+        "step 21: Click on button ReportDefect",
+        "step 22: Click on div IssuePicker",
+        "step 23: Enter input value in input Combobox",
+        "step 24: Click on p AutoTestInfo",
+        "step 25: Click on button LinkDefect",
+        "step 26: Click on button MarkAsPassed",
+        "step 27: Click on label FunctionsUpdate",
+        "step 28: Click on button Submit",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

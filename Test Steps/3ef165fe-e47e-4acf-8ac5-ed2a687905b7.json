@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*",
+        "step 4: Click on link Executions3 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 5: Click on div testRunCells (ParallelSuite751)",
+        "step 6: Click on div testRunCells (ParallelSuite749)",
+        "step 7: Click on div testRunCells (ParallelSuite750)",
+        "step 8: Click on div testRunCells (ParallelSuite751)",
+        "step 9: Click on button JobReady",
+        "step 10: Click on div MyOrganization",
+        "step 11: Click on link viewAllProjects (ViewAllProjects)",
+        "step 12: Click on div CurrentReadyTechJob",
+        "step 13: Click on link JRJobReady -> Navigate to page 'team/*/project/*'",
+        "step 14: Click on span settings (Settings)",
+        "step 15: Click on link OrganizationManagement -> Navigate to page 'team/*/project/*/*'",
+        "step 16: Click on p ReadyCase",
+        "step 17: Click on input SelectUsersToAdd",
+        "step 18: Enter input value in input SelectUsersToAdd",
+        "step 19: Click on div ProjectProfile",
+        "step 20: Click on input SelectTimeZone",
+        "step 21: Click on div enableOptions (EnableBDDReports)",
+        "step 22: Click on div UnknownContent",
+        "step 23: Click on span settings (Settings)",
+        "step 24: Click on div testOptions (MuiBackdrop)",
+        "step 25: Click on div UnknownContent",
+        "step 26: Enter input value in input SelectUsersToAdd",
+        "step 27: Click on div teamReady (TeamReadyCase) -> Navigate to page ''",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}
