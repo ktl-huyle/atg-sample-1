@@ -2,7 +2,7 @@
     "steps": [
         "step 1: Navigate to team/*/project/*/test-runs",
         "step 2: Click on div testRunCells (APImediaFiles)",
-        "step 3: Click on div sortOptions (SortIDDescending)",
+        "step 3: Click on div sortOption (SortIDDescending)",
         "step 4: Click on button Close",
         "step 5: Click on button ScheduleTestRun",
         "step 6: Click on div SelectOption",

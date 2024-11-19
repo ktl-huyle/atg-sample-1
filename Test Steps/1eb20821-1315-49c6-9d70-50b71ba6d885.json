@@ -2,9 +2,9 @@
     "steps": [
         "step 1: Navigate to organization/*/home",
         "step 2: Click on span Settings",
-        "step 3: Click on link navigationMenu (TestOpsHomepage)",
+        "step 3: Click on link navigation (TestOpsHomepage)",
         "step 4: Click on span Settings",
-        "step 5: Click on link navigationMenu (TestOpsHomepage)",
+        "step 5: Click on link navigation (TestOpsHomepage)",
         "step 6: Click on div EEnCompass -> Navigate to page 'team/*/project/*'",
         "step 7: Click on button NotificationAction -> Navigate to page ''",
         "step 8: Take full page screenshot as checkpoint"
