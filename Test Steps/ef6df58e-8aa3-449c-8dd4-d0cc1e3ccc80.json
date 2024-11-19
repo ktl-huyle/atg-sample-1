@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to",
+        "step 2: Click on link SignIn -> Navigate to page 'signin'",
+        "step 3: Enter input value in input Email",
+        "step 4: Enter input value in input Password",
+        "step 5: Click on button SignIn2 -> Navigate to page 'search/*'",
+        "step 6: Hover over div IndoorPlantDetails",
+        "step 7: Enter input value in input SearchProduct",
+        "step 8: Click on button AddToBasket",
+        "step 9: Click on span ShoppingCart",
+        "step 10: Click on button CheckOut",
+        "step 11: Complete shipping and payment information for order",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

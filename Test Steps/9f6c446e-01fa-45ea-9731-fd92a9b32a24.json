@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to",
+        "step 2: Click on link SignIn -> Navigate to page 'signin'",
+        "step 3: Enter input value in input Email",
+        "step 4: Enter input value in input Password",
+        "step 5: Click on button SignIn",
+        "step 6: Click on link Shop -> Navigate to page 'shop'",
+        "step 7: Hover over div IndoorPlantDetails2",
+        "step 8: Click on button AddToBasket",
+        "step 9: Click on span ShoppingCart",
+        "step 10: Click on button quantityControl (Plus)",
+        "step 11: Click on image productImage (PlantImage)",
+        "step 12: Click on div productDetails (ProductDetails)",
+        "step 13: Click on span quantityAdjustment (Plus)",
+        "step 14: Click on span quantityAdjustment (Plus)",
+        "step 15: Click on span quantityAdjustment (Minus)",
+        "step 16: Click on span quantityAdjustment (Minus)",
+        "step 17: Click on span quantityAdjustment (Minus)",
+        "step 18: Click on button CheckOut2",
+        "step 19: Complete shipping and payment information for order",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}
