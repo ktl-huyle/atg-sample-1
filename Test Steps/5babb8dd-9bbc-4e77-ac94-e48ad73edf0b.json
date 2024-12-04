@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 4: Click on link execution (Execution7857) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on div failedTests (FailedTC001NTSPerform)",
+        "step 6: Click on div ThumbnailImage",
+        "step 7: Click on button Close",
+        "step 8: Click on div ThumbnailImage2",
+        "step 9: Click on button Close2 -> Navigate to page 'team/*/project/*/grid/plan/*/job'",
+        "step 10: Click on div TestRunsConfigurationSessions",
+        "step 11: Click on link execution (Execution7857) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 12: Click on div failedItems (FailedPreRequisiteBranch)",
+        "step 13: Click on div failedItems (FailedPreRequisiteBranch2)",
+        "step 14: Click on div ThumbnailImage3",
+        "step 15: Click on button Close",
+        "step 16: Click on div failedTests (FailedPreRequisiteBranch3)",
+        "step 17: Click on div failedItems (FailedPreRequisiteBranch4)",
+        "step 18: Click on div ThumbnailImage",
+        "step 19: Click on button Close",
+        "step 20: Click on div failedTests (FailedPreRequisiteBranch)",
+        "step 21: Click on div failedTestRuns (FailedPreRequisiteBranch5)",
+        "step 22: Click on div failedTestRuns (FailedPreRequisiteBranch6)",
+        "step 23: Click on div failedTests (FailedPreRequisiteBranch2)",
+        "step 24: Click on div ThumbnailImage3",
+        "step 25: Click on button Close -> Navigate to page ''",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}
