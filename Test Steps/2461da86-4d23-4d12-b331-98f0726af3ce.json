@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-runs",
+        "step 4: Click on header testRun (testRun3)",
+        "step 5: Click on button sessionActions (dynamicObject)",
+        "step 6: Click on div TotalTests",
+        "step 7: Click on i object",
+        "step 8: Click on button sessionActions (dynamicObject2)",
+        "step 9: Click on button sessionActions (dynamicObject)",
+        "step 10: Click on button Sessions2",
+        "step 11: Click on div TotalTests",
+        "step 12: Click on div untitledTestRuns (dynamicObject)",
+        "step 13: Click on button Object",
+        "step 14: Click on div testRunItems (testRunItems16)",
+        "step 15: Click on div NoDataToDisplay -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

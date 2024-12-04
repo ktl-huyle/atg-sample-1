@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div failedItems (dynamicObject)",
+        "step 5: Click on div failedTests (failedTests6)",
+        "step 6: Click on div failedTests (failedTests7)",
+        "step 7: Click on div object3",
+        "step 8: Click on button Close",
+        "step 9: Click on div object4",
+        "step 10: Click on div FailedTestRun (dynamicObject2)",
+        "step 11: Click on div object5",
+        "step 12: Click on div CreatedWithSketch",
+        "step 13: Click on button Close",
+        "step 14: Click on pre object",
+        "step 15: Click on div object3",
+        "step 16: Click on image filePreviews (dynamicObject)",
+        "step 17: Click on button Close22 -> Navigate to page 'organization/*/home'",
+        "step 18: Click on link participantManagement (dynamicObject) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}
