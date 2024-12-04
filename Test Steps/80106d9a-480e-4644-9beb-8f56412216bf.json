@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 4: Click on div testCaseItems (Web)",
+        "step 5: Click on button UploadedData -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on span objectItems (icon)",
+        "step 7: Click on span treeSwitchers (treeSwitcher)",
+        "step 8: Click on span objectItems (Object6)",
+        "step 9: Click on span objectItems (Object7)",
+        "step 10: Click on span objectItems (treeSwitcher2)",
+        "step 11: Click on span treeSwitchers (treeSwitcher3)",
+        "step 12: Click on span objectItems (Object8)",
+        "step 13: Click on span objectItems (treeSwitcher4)",
+        "step 14: Click on span treeSwitchers (treeSwitcher5)",
+        "step 15: Click on span objectItems (treeSwitcher6)",
+        "step 16: Click on div Sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 17: Click on div testCaseItems (Sanity2) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}
