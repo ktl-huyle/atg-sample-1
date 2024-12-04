@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-design/test-cases/*",
+        "step 4: Click on div testCaseItems (testCaseItems)",
+        "step 5: Click on button addToTestSuite -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on span testCaseItems (testCaseItems2)",
+        "step 7: Click on span treeSwitcher (treeSwitcher)",
+        "step 8: Click on span testCaseItems (objectItems5)",
+        "step 9: Click on span testCaseItems (objectItems6)",
+        "step 10: Click on span testCaseItems (objectItems7)",
+        "step 11: Click on span treeSwitchers (treeSwitchers2)",
+        "step 12: Click on span testCaseItems (objectItems8)",
+        "step 13: Click on span testCaseItems (objectItems9)",
+        "step 14: Click on span treeSwitcher (treeSwitcher2)",
+        "step 15: Click on span testCaseItems (objectItems10)",
+        "step 16: Click on div Sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 17: Click on div testCaseItems (testCaseItems2) -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,957 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+23,Sort Test Runs and Verify Home Page,"Login to Team Project Executions, sort test runs, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on button SortIDAscending
+Step 5: Click on span StartedAscending
+Step 6: Click on div FailedTestRun (FailedTestRun) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+14,Review Failed Tests and Verify Home Page,"Login to Team Project Executions, review failed tests, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on div failedTests (FailedExecution)
+Step 5: Click on div object
+Step 6: Click on div failedTests (failedTests3) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+40,Add Test Cases to Test Suite and Verify Home Page,"Login to Team Project Test Design, add test cases to a test suite, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-design/test-cases/*
+Step 4: Click on div testCaseItems (testCaseItems)
+Step 5: Click on button addToTestSuite -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on span testCaseItems (testCaseItems2)
+Step 7: Click on span treeSwitcher (treeSwitcher)
+Step 8: Click on span testCaseItems (objectItems5)
+Step 9: Click on span testCaseItems (objectItems6)
+Step 10: Click on span testCaseItems (objectItems7)
+Step 11: Click on span treeSwitchers (treeSwitchers2)
+Step 12: Click on span testCaseItems (objectItems8)
+Step 13: Click on span testCaseItems (objectItems9)
+Step 14: Click on span treeSwitcher (treeSwitcher2)
+Step 15: Click on span testCaseItems (objectItems10)
+Step 16: Click on div Sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'
+Step 17: Click on div testCaseItems (testCaseItems2) -> Navigate to page ''
+Step 18: Take full page screenshot as checkpoint
+",High,NEW
+39,Access Team Project Grid and Verify Home Page,"Login to Team Project Grid, access performance test options, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/grid
+Step 4: Click on div infoSidebar
+Step 5: Click on button PerfTest -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+36,Access User Management and Verify Home Page,"Login to Team Project Executions, access user management, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions
+Step 4: Click on div object2
+Step 5: Click on div testRunStatus
+Step 6: Click on span settings
+Step 7: Click on link userManagement -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,NEW
+32,Delete Failed Reports and Verify Team Page,"Login to Team Project, delete failed reports, and verify that the team page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*
+Step 4: Click on button FailedReports
+Step 5: Click on button DeleteExecution
+Step 6: Click on button Delete
+Step 7: Click on button FailedReports
+Step 8: Click on button DeleteExecution
+Step 9: Click on button Delete
+Step 10: Click on div ExecutionDoneMessage
+Step 11: Click on div Dashboard
+Step 12: Click on div LeftNavbarImage
+Step 13: Click on div dashboard
+Step 14: Click on div dashboard2
+Step 15: Take full page screenshot as checkpoint
+",High,NEW
+31,Manage Test Planning and Verify Home Page,"Login to Team Project Test Planning, manage test planning options, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-planning
+Step 4: Click on link MoreOptions
+Step 5: Click on div CreatedWithSketchtool -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+30,Logout from Team Project and Verify Page,"Login to Team Project Test Project, logout, and verify the logout page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-project
+Step 4: Click on link SignOut -> Navigate to page '/logout'
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+27,View Test Result Details and Verify Page,"Login to Team Project Executions Test Result ReRuns, view test result details, and verify the page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*/test-result/*/re-runs
+Step 4: Click on button TestResultDetails
+Step 5: Click on button TestResultDetails2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+2,Access Team Project Executions and Verify Page,"Login to Team Project Executions, navigate to test runs, and verify the page for team project executions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on link TestRuns -> Navigate to page 'team/*/project/*/overview'
+Step 5: Click on link TestRuns -> Navigate to page 'team/*/project/*/executions'
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+20,Access Team Project Settings and Verify Agent,"Login to Organization Home, access team project settings, and verify the project agent settings.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on div objectItems (objectItems) -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Settings2 -> Navigate to page 'team/*/project/*/settings'
+Step 6: Click on link Settings
+Step 7: Click on link TestEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 8: Take full page screenshot as checkpoint
+",High,NEW
+15,Access Test Results and Verify Home Page,"Login to Team Project Executions, access test results, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on span failedItems (failedItems)
+Step 5: Click on span failedItems (failedItems)
+Step 6: Click on div object
+Step 7: Click on button externalLinks (externalLinks)
+Step 8: Click on link TestResults2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 9: Click on link ReRuns -> Navigate to page 'team/*/project/*/executions/*/test-result/*/re-runs'
+Step 10: Click on link Result -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 11: Click on span logItems (logItems) -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",High,NEW
+45,Access Executions and Verify Home Page in Sauce Demo Application,"Login to the application, navigate to executions, and verify the home page after performing the necessary actions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on link Executions
+Step 5: Click on link Executions -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+5,Manage Participants and Verify Home Page,"Login to Organization Home, manage participant settings, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on div TestSuites
+Step 5: Click on link participantManagement (participantManagement) -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link CoordinatorCore
+Step 7: Click on div failedTests (failedTests) -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,NEW
+11,Check Test Results and Verify Executions,"Login to Team Project Executions, check test results, and verify the executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on link TestSuitesCPACDECPreapprovalBind -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 5: Click on link TestSuiteValidation (FailedTestSuite) -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link TestResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 7: Click on div FailedCPACDECPreapproval
+Step 8: Click on button TestResultDetails -> Navigate to page 'team/*/project/*/executions/*'
+Step 9: Take full page screenshot as checkpoint
+",High,NEW
+3,Manage User Profile and Verify Home Page,"Login to the Organization Home, manage user profile settings, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on button userProfile (userProfile)
+Step 5: Click on div Backdrop
+Step 6: Click on span settingsButton
+Step 7: Click on link navigation (navigation) -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,NEW
+38,Access Pen Test Issues and Verify Executions,"Login to Team Project Executions, access pen test issues, and verify the executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/overview'
+Step 5: Click on link TestRuns8 -> Navigate to page 'team/*/project/*/executions'
+Step 6: Click on div penTestIssues (penTestIssues2)
+Step 7: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'
+Step 8: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/overview'
+Step 9: Click on link TestRuns8 -> Navigate to page 'team/*/project/*/executions'
+Step 10: Click on div penTestIssues (penTestIssues2)
+Step 11: Click on link PenTestIssuesSprintA -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Take full page screenshot as checkpoint
+",Medium,NEW
+34,Create and Manage API Key,"Login to User page, create and manage API keys, and verify that the logout page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to user/*
+Step 4: Click on button apiKeyActions (apiKeyActions2)
+Step 5: Click on button apiKeyActions (apiKeyActions3)
+Step 6: Click on button CopyToClipboard (CopyToClipboard)
+Step 7: Click on button object
+Step 8: Click on button CreateAPIKey
+Step 9: Click on input KeyName
+Step 10: Enter input value in input KeyName2
+Step 11: Click on button Create
+Step 12: Click on button apiKeyActions (apiKeyActions4)
+Step 13: Click on button CopyToClipboard (CopyToClipboard)
+Step 14: Click on button object
+Step 15: Click on button NK
+Step 16: Click on link SignOut22 -> Navigate to page '/logout'
+Step 17: Take full page screenshot as checkpoint
+",Medium,NEW
+29,Manage Notifications and Verify Home Page,"Login to Organization Home, manage notifications, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on span settingsButton
+Step 5: Click on link navigation (navigation2)
+Step 6: Click on span settingsButton
+Step 7: Click on link navigation (navigation2)
+Step 8: Click on div objectItems (objectItems2) -> Navigate to page 'team/*/project/*'
+Step 9: Click on button NotificationAction -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium,NEW
+6,Navigate Test Design and Verify Test Suites,"Login to Organization Home, navigate through test design cases and suites, and verify the test design suites.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link participantManagement (participantManagement2) -> Navigate to page 'team/*/project/*/executions/*'
+Step 5: Click on link testItems (testItems) -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on div testCases (UploadedData)
+Step 7: Click on link TestSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 8: Click on div testSuiteItems (testSuiteItems)
+Step 9: Click on div testSuiteItems (testSuiteItems2)
+Step 10: Click on div testSuiteItems (testSuiteItems3)
+Step 11: Click on link testSuiteActions (SmokeTestSuite) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 12: Take full page screenshot as checkpoint
+",Medium,NEW
+42,Navigate and Verify Team Project Releases in Sauce Demo Application,Login and navigate through team project executions and releases. Perform various actions and verify the project releases page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 5: Click on link SPRINT -> Navigate to page 'team/*/project/*/releases/*'
+Step 6: Click on link TestRuns -> Navigate to page 'team/*/project/*/releases/*/executions'
+Step 7: Click on link 4077 -> Navigate to page 'team/*/project/*/executions/*'
+Step 8: Click on link TestResults4 -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 9: Click on div object
+Step 10: Click on div object2
+Step 11: Click on button Close
+Step 12: Click on div object3
+Step 13: Click on button Close
+Step 14: Click on div object4
+Step 15: Click on button Close
+Step 16: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 17: Take full page screenshot as checkpoint
+",Medium,NEW
+25,Manage User Profile and Verify Home Page,"Login to User page, manage user profile settings, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /welcome
+Step 4: Click on div dynamicObject -> Navigate to page 'organization/*/home'
+Step 5: Click on button userProfile (userProfile2)
+Step 6: Click on div Object2
+Step 7: Click on div Object2
+Step 8: Click on div Object2
+Step 9: Click on div UserEmail
+Step 10: Click on div UserEmail
+Step 11: Click on div Backdrop -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",Medium,NEW
+22,Review Failed Tests and Verify Home Page,"Login to Team Project Executions, review failed tests, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on div Object3
+Step 5: Click on div Toolbar
+Step 6: Click on div failedTests (failedTests4)
+Step 7: Click on div ThumbnailImage
+Step 8: Click on button Close
+Step 9: Click on span failedItems (failedItems2)
+Step 10: Click on div ImageFile
+Step 11: Click on button Close
+Step 12: Click on span Object
+Step 13: Click on div ImageFile2
+Step 14: Click on image filePreviews (filePreviews)
+Step 15: Click on button Close
+Step 16: Click on div failedItems (failedItems)
+Step 17: Click on div failedTests (failedTests5)
+Step 18: Click on div ThumbnailImage
+Step 19: Click on button Close2 -> Navigate to page ''
+Step 20: Take full page screenshot as checkpoint
+",Medium,NEW
+10,View Release Reports and Verify Home Page,"Login to Team Project Releases, view release reports, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/releases
+Step 4: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 5: Click on link TestRuns3 -> Navigate to page 'team/*/project/*/executions'
+Step 6: Click on link executionDetails (executionDetails) -> Navigate to page 'team/*/project/*/executions/*'
+Step 7: Click on button LinkToRelease2
+Step 8: Click on span RegresiIpa
+Step 9: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 10: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 11: Click on link TestRuns32 -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Click on button LinkToRelease2
+Step 13: Click on span RegresiIpa -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Medium,NEW
+7,Configure Web Services and Verify Home Page,"Login to Team Project Web Services, configure settings, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/web-services
+Step 4: Click on button BDDPOC
+Step 5: Click on link MyOrganization -> Navigate to page 'organization/*/home'
+Step 6: Click on link projectDetails (BPBddPoc) -> Navigate to page 'team/*/project/*'
+Step 7: Click on button BDDPoc
+Step 8: Click on link Settings -> Navigate to page 'team/*/project/*/settings'
+Step 9: Click on label EnableBDDReports
+Step 10: Click on button Save
+Step 11: Click on div AssertionPattern
+Step 12: Click on link Integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 13: Click on div integrationTools (integrationTools)
+Step 14: Click on div iconElements (iconElements)
+Step 15: Click on div testingTools (testingTools)
+Step 16: Click on div integrationTools (integrationTools2)
+Step 17: Click on div testingTools (testingTools2) -> Navigate to page ''
+Step 18: Take full page screenshot as checkpoint
+",Medium,NEW
+19,Create and Manage API Key,"Login to User page, create and manage API keys, and verify that the organization home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to user/*
+Step 4: Click on button CreateAPIKey
+Step 5: Click on input KeyName
+Step 6: Enter input value in input KeyName2
+Step 7: Click on div CancelCreate
+Step 8: Click on button Create
+Step 9: Click on button apiKeyActions (apiKeyActions)
+Step 10: Click on button ShowAPIKey
+Step 11: Click on input apiKeyInputs (apiKeyInputs)
+Step 12: Click on input apiKeyInputs (apiKeyInputs2)
+Step 13: Click on button CopyToClipboard (CopyToClipboard)
+Step 14: Click on button NK
+Step 15: Click on link SignOut2 -> Navigate to page 'organization/*/home'
+Step 16: Take full page screenshot as checkpoint
+",Medium,NEW
+16,View Test Design and Verify Executions,"Login to Team Project Releases, view test design cases, and verify the executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/releases
+Step 4: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 5: Click on link Reports2 -> Navigate to page 'team/*/project/*/releases'
+Step 6: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 7: Click on link Reports22 -> Navigate to page 'team/*/project/*/overview'
+Step 8: Click on link TestRuns4 -> Navigate to page 'team/*/project/*/executions'
+Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+12,Review Failed Tests and Verify Home Page,"Login to Team Project Executions, review failed tests, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on div failedTests (failedTests2)
+Step 5: Click on div Thumbnail
+Step 6: Click on button Close
+Step 7: Click on div Thumbnail
+Step 8: Click on button Close -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+33,Manage User Profile and Verify Home Page,"Login to Organization Home, manage user profile settings, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on button userProfile (userProfile3)
+Step 5: Click on link ViewProfile
+Step 6: Click on div Backdrop
+Step 7: Click on span settingsButton
+Step 8: Click on div Backdrop
+Step 9: Click on span settingsButton
+Step 10: Click on link navigation (navigation2)
+Step 11: Click on div objectItems (objectItems2) -> Navigate to page 'team/*/project/*'
+Step 12: Click on link Executions42 -> Navigate to page 'team/*/project/*/test-runs'
+Step 13: Click on link Settings2 -> Navigate to page 'team/*/project/*/settings'
+Step 14: Click on link Settings2
+Step 15: Click on button NotificationAction -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",Low,NEW
+37,Navigate Test Runs and Verify Home Page,"Login to Team Project Test Runs, navigate through test runs, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div testRunItems (testRunItems14)
+Step 5: Click on div underTopNavbar
+Step 6: Click on div testRunItems (testRunItems15)
+Step 7: Click on div untitledTestRuns (untitledTestRuns2)
+Step 8: Click on div underTopNavbar -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Low,NEW
+1,Navigate to Team Project and Verify Home Page,"Login to the Team Project, navigate to test executions, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*
+Step 4: Click on link Executions4 -> Navigate to page 'team/*/project/*/test-runs'
+Step 5: Click on div testRunItems (testRunItems)
+Step 6: Click on div testRunItems (testRunItems2)
+Step 7: Click on div testRunItems (testRunItems3)
+Step 8: Click on div testRunItems (testRunItems) -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Low,NEW
+41,Manage User Journeys and Settings in Sauce Demo Application,"Login to the application, navigate to organization settings, and manage user journeys. Verify the home page after performing various actions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link signOut
+Step 5: Click on span settingsButton
+Step 6: Click on link truetestConfigure -> Navigate to page 'organization/*/settings/truetest/*'
+Step 7: Click on div organizationLink
+Step 8: Click on button trackingAction
+Step 9: Click on span editButton
+Step 10: Click on button cancelDialog
+Step 11: Click on button userProfile
+Step 12: Click on link signOut -> Navigate to page 'organization/*/home'
+Step 13: Click on button settings
+Step 14: Click on link truetestConfigure2 -> Navigate to page 'organization/*/settings/truetest/*'
+Step 15: Click on link dynamicObject -> Navigate to page 'team/*/project/*'
+Step 16: Click on link truetestMenu -> Navigate to page 'team/*/project/*/truetest/user-journeys'
+Step 17: Click on button viewDetails -> Navigate to page 'team/*/project/*/truetest/user-journeys/*/aut/*'
+Step 18: Click on div userJourneyActions (verifyLogin)
+Step 19: Click on button actionButton (actionButton)
+Step 20: Click on button actionButton (actionButton2)
+Step 21: Click on button showDetailFlow (showDetailFlow)
+Step 22: Click on button showDetailFlow (showDetailFlow2)
+Step 23: Click on button showDetailFlow (showDetailFlow3)
+Step 24: Click on button actionButton (actionButton3)
+Step 25: Click on button actionButton (actionButton4)
+Step 26: Click on button actionButton (actionButton5)
+Step 27: Click on button actionButton (actionButton6)
+Step 28: Click on button actionButton (actionButton7)
+Step 29: Click on button actionButton (actionButton8)
+Step 30: Click on div userJourneyActions (verifyNPCCReview)
+Step 31: Click on button actionButton (actionButton9)
+Step 32: Click on button showDetailFlow (showDetailFlow4)
+Step 33: Click on button showDetailFlow (showDetailFlow5)
+Step 34: Click on button actionButton (actionButton10)
+Step 35: Click on button actionButton (actionButton11)
+Step 36: Click on p userJourneyActions (searchParts)
+Step 37: Click on p userJourneyActions (submitDecision)
+Step 38: Click on p userJourneyActions (addEnquiry)
+Step 39: Click on p userJourneyActions (verifyHeaderLogin)
+Step 40: Click on p userJourneyActions (verifyHeaderLoginAgain)
+Step 41: Click on button nextPage
+Step 42: Click on div userJourneyActions (openServiceSearch)
+Step 43: Click on button expandGraph
+Step 44: Click on body mainContent
+Step 45: Click on item flowsWithoutTestCases
+Step 46: Click on body mainContent -> Navigate to page ''
+Step 47: Take full page screenshot as checkpoint
+",Low,NEW
+44,Analyze Test Runs and Sessions in Sauce Demo Application,"Login and navigate to test runs, analyze session actions, and verify the home page after various interactions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on header testRun (testRun3)
+Step 5: Click on button sessionActions (dynamicObject)
+Step 6: Click on div TotalTests
+Step 7: Click on i object
+Step 8: Click on button sessionActions (dynamicObject2)
+Step 9: Click on button sessionActions (dynamicObject)
+Step 10: Click on button Sessions2
+Step 11: Click on div TotalTests
+Step 12: Click on div untitledTestRuns (dynamicObject)
+Step 13: Click on button Object
+Step 14: Click on div testRunItems (testRunItems16)
+Step 15: Click on div NoDataToDisplay -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",Low,NEW
+21,Sort Test Executions and Verify Page,"Login to Team Project Executions, sort test executions, and verify the executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions
+Step 4: Click on div sortInfo (sortInfo)
+Step 5: Click on span StartedInfo
+Step 6: Click on div sortInfo (sortInfo2)
+Step 7: Click on div Object
+Step 8: Click on div penTestIssues (penTestIssues)
+Step 9: Click on td Loading
+Step 10: Click on link executionDetails (executionDetails3)
+Step 11: Click on div TestCase
+Step 12: Click on link executionDetails (executionDetails4) -> Navigate to page 'team/*/project/*/executions/*'
+Step 13: Click on div FailedTestResults
+Step 14: Click on td testCaseCheckout
+Step 15: Click on div TestCaseDetails -> Navigate to page 'team/*/project/*/executions'
+Step 16: Click on div AllTestRuns
+Step 17: Click on div AllTestRuns
+Step 18: Click on link executionDetails (executionDetails3)
+Step 19: Click on link executionDetails (executionDetails4) -> Navigate to page 'team/*/project/*/executions/*'
+Step 20: Take full page screenshot as checkpoint
+",Low,NEW
+18,Manage Test Cases and Verify Executions,"Login to Organization Home, manage test cases, and verify the executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link projectDetails (projectDetails3) -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on div testCases (UploadedData)
+Step 7: Click on span treeSwitchers (treeSwitchers)
+Step 8: Click on span testCaseItems (objectItems)
+Step 9: Click on span testCaseItems (objectItems2)
+Step 10: Click on span testCaseItems (objectItems3)
+Step 11: Click on div testCases (testCases)
+Step 12: Click on link testCaseActions (testCDC) -> Navigate to page 'team/*/project/*/test-design/test-cases/*'
+Step 13: Click on link Reports4 -> Navigate to page 'team/*/project/*/overview'
+Step 14: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/executions'
+Step 15: Click on link executionDetails (executionDetails2) -> Navigate to page 'team/*/project/*/executions/*'
+Step 16: Click on button PushToXray
+Step 17: Click on div Select
+Step 18: Click on button CloseDialog
+Step 19: Click on link testItems (testItems2) -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 20: Click on link Reports42 -> Navigate to page 'team/*/project/*/overview'
+Step 21: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/executions'
+Step 22: Take full page screenshot as checkpoint
+",Low,NEW
+17,Terminate Test Runs and Verify Home Page,"Login to Team Project Test Runs, terminate selected test runs, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on input rowSelection (rowSelection)
+Step 5: Click on input rowSelection (rowSelection2)
+Step 6: Click on button Terminate
+Step 7: Click on button Confirm
+Step 8: Click on input rowSelection (rowSelection3)
+Step 9: Click on input rowSelection (rowSelection4)
+Step 10: Click on input rowSelection (rowSelection5)
+Step 11: Click on button Terminate
+Step 12: Click on button Confirm
+Step 13: Click on input rowSelection (rowSelection6)
+Step 14: Click on button Terminate
+Step 15: Click on button Confirm -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",Low,NEW
+4,Schedule Test Run and Verify Team Project,"Login to Team Project Test Runs, schedule a test run, and verify the team project settings.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div testRunItems (testRunItems4)
+Step 5: Click on div sortOptions (sortOptions)
+Step 6: Click on button Details
+Step 7: Click on button ScheduleTestRun
+Step 8: Click on div SelectEnvironment
+Step 9: Click on div AdvancedSettings
+Step 10: Click on div ScheduleAt
+Step 11: Click on div executionProfileContainer
+Step 12: Click on div Default
+Step 13: Click on div TestSuitesTS10Product
+Step 14: Click on div TestSuite
+Step 15: Click on link ClickHereToRefresh
+Step 16: Click on div SelectTestSuite2
+Step 17: Click on button CloseDialog
+Step 18: Click on link Settings -> Navigate to page 'team/*/project/*/settings'
+Step 19: Click on link ScriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 20: Click on link testProjects (testProjects) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 21: Click on button RefreshScriptRepository
+Step 22: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 23: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 24: Click on link Settings -> Navigate to page 'team/*/project/*/settings'
+Step 25: Click on link ScriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 26: Click on td KatalonWebsite
+Step 27: Click on link testProjects (testProjects) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 28: Click on button RefreshScriptRepository
+Step 29: Click on button RefreshScriptRepository
+Step 30: Click on button RefreshScriptRepository
+Step 31: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 32: Take full page screenshot as checkpoint
+",Trivial,NEW
+43,Review Failed Tests and Manage Participants in Sauce Demo Application,"Login and navigate to failed items and tests. Review details and manage participants, then verify the team project executions page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on div failedItems (dynamicObject)
+Step 5: Click on div failedTests (failedTests6)
+Step 6: Click on div failedTests (failedTests7)
+Step 7: Click on div object3
+Step 8: Click on button Close
+Step 9: Click on div object4
+Step 10: Click on div FailedTestRun (dynamicObject2)
+Step 11: Click on div object5
+Step 12: Click on div CreatedWithSketch
+Step 13: Click on button Close
+Step 14: Click on pre object
+Step 15: Click on div object3
+Step 16: Click on image filePreviews (dynamicObject)
+Step 17: Click on button Close22 -> Navigate to page 'organization/*/home'
+Step 18: Click on link participantManagement (dynamicObject) -> Navigate to page 'team/*/project/*/executions/*'
+Step 19: Take full page screenshot as checkpoint
+",Trivial,NEW
+13,Manage Test Runs and Verify Home Page,"Login to Team Project Executions, manage test runs, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div historyItems (historyItems2)
+Step 5: Click on div historyItems (historyItems2)
+Step 6: Click on link ShowDetails
+Step 7: Click on div DesktopBrowserSessions
+Step 8: Click on div DesktopBrowserSessions
+Step 9: Click on div menuItems (menuItems2)
+Step 10: Click on link ShowDetails
+Step 11: Click on p sessionDetails (sessionDetails2)
+Step 12: Click on p sessionDetails (sessionDetails)
+Step 13: Click on div menuItems (menuItems2)
+Step 14: Click on button ScheduleTestRun
+Step 15: Click on div WindowsChrome
+Step 16: Click on div SelectTestSuite22 -> Navigate to page 'team/*/project/*/test-project'
+Step 17: Click on link TestEnvironments -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 18: Click on div RefsHeads
+Step 19: Click on div RefsHeadsMain
+Step 20: Click on button Save
+Step 21: Click on button CloseAlert -> Navigate to page 'team/*/project/*/test-project/*'
+Step 22: Click on link TestCloud -> Navigate to page 'team/*/project/*/agent'
+Step 23: Click on link Executions -> Navigate to page '/team/1515252/project/1534644/agent/test-cloud'
+Step 24: Click on div MainBody
+Step 25: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 26: Click on link Schedules -> Navigate to page 'team/*/project/*/grid'
+Step 27: Click on button ScheduleTestRun
+Step 28: Click on div NameLabel
+Step 29: Enter input value in input Name
+Step 30: Click on div TestSuites
+Step 31: Click on div TestSuiteIdIcon
+Step 32: Click on div TestSuiteIdIcon
+Step 33: Click on button CloseDialog
+Step 34: Click on button ScheduleTestRun
+Step 35: Click on link Refresh
+Step 36: Click on link Refresh
+Step 37: Click on div ReactSelectIndicator
+Step 38: Click on div TestSuites2
+Step 39: Click on link Refresh
+Step 40: Click on link Refresh
+Step 41: Click on button TestSuiteCollection
+Step 42: Click on button TestSuite
+Step 43: Click on div customSelectValue
+Step 44: Click on div katalonCloudOption
+Step 45: Click on div selectPlaceholder
+Step 46: Click on div customSelectValue
+Step 47: Click on div ehsTestAutomation
+Step 48: Click on input textField
+Step 49: Click on div TestSuites
+Step 50: Click on small selectExistingScript -> Navigate to page 'team/*/project/*/test-project'
+Step 51: Click on link testProjects (testProjects2) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 52: Click on button RefreshScriptRepository
+Step 53: Click on button object
+Step 54: Click on button Edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 55: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 56: Click on div iconElements (iconElements2)
+Step 57: Click on div codelessAutomationTool
+Step 58: Click on div ciCdPipeline
+Step 59: Click on div azureDevOpsPipelines
+Step 60: Click on input reportFolder
+Step 61: Click on div rowContainer
+Step 62: Click on div apiKeyIndicator
+Step 63: Click on div collapseWrapper
+Step 64: Click on div docker
+Step 65: Click on pre codeBlock
+Step 66: Click on link testEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 67: Click on link testCloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
+Step 68: Click on link customFields -> Navigate to page 'team/*/project/*/custom-fields'
+Step 69: Click on button settings
+Step 70: Click on link organizationManagement -> Navigate to page ''
+Step 71: Take full page screenshot as checkpoint
+",Trivial,NEW
+35,Delete Failed Test Runs and Verify Home Page,"Login to Organization Home, delete failed test runs, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link participantManagement (participantManagement3) -> Navigate to page 'team/*/project/*/executions/*'
+Step 5: Click on div loadingSpinner
+Step 6: Click on div loadingSpinner
+Step 7: Click on link testRuns -> Navigate to page 'team/*/project/*/overview'
+Step 8: Click on link testRuns -> Navigate to page 'team/*/project/*/executions'
+Step 9: Click on label failed (failed)
+Step 10: Click on label failed (failed2)
+Step 11: Click on label failed (failed3)
+Step 12: Click on button Delete
+Step 13: Click on button Delete2
+Step 14: Click on label failed (failed)
+Step 15: Click on label failed (failed2)
+Step 16: Click on label failed (failed3)
+Step 17: Click on button Delete
+Step 18: Click on button Delete2
+Step 19: Click on link testRuns2 -> Navigate to page 'team/*/project/*/overview'
+Step 20: Click on link TestRuns33 -> Navigate to page 'team/*/project/*/executions'
+Step 21: Click on button DeleteExecution
+Step 22: Click on button delete
+Step 23: Click on button object
+Step 24: Click on button terribethBeasley -> Navigate to page ''
+Step 25: Take full page screenshot as checkpoint
+",Trivial,NEW
+28,Mark Test Results and Verify Home Page,"Login to Team Project Executions, mark test results, and verify that the organization home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on button externalLinks (externalLinks2)
+Step 5: Click on button externalLinks (externalLinks3)
+Step 6: Click on button testResultActions (testResultActions) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 7: Click on button MarkAsPassed
+Step 8: Click on label ChangeTestResultStatus
+Step 9: Click on button Submit3
+Step 10: Click on button MarkAsPassed
+Step 11: Click on label ChangeTestResultStatus
+Step 12: Click on button Submit3
+Step 13: Click on button MarkAsPassed
+Step 14: Click on label ChangeTestResultStatus
+Step 15: Click on button Submit3
+Step 16: Click on button MarkAsPassed
+Step 17: Click on label ChangeTestResultStatus
+Step 18: Click on button Submit32 -> Navigate to page 'team/*/project/*/executions/*'
+Step 19: Click on button externalLinks (externalLinks4)
+Step 20: Click on button externalLinks (externalLinks5)
+Step 21: Click on button externalLinks (externalLinks6)
+Step 22: Click on button externalLinks (externalLinks7)
+Step 23: Click on button externalLinks (externalLinks8)
+Step 24: Click on button externalLinks (externalLinks9)
+Step 25: Click on button testResultActions (testResultActions2) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 26: Click on button MarkAsPassed
+Step 27: Click on label ChangeTestResultStatus
+Step 28: Click on button Submit3
+Step 29: Click on button MarkAsPassed
+Step 30: Click on label ChangeTestResultStatus
+Step 31: Click on button Submit3
+Step 32: Click on button MarkAsPassed
+Step 33: Click on label ChangeTestResultStatus
+Step 34: Click on button Submit3
+Step 35: Click on button MarkAsPassed
+Step 36: Click on label ChangeTestResultStatus
+Step 37: Click on button Submit3
+Step 38: Click on button MarkAsPassed
+Step 39: Click on div ExpectedResult
+Step 40: Click on label ChangeTestResultStatus
+Step 41: Click on button Submit3
+Step 42: Click on button MarkAsPassed
+Step 43: Click on label ChangeTestResultStatus
+Step 44: Click on button Submit3
+Step 45: Click on button MarkAsPassed
+Step 46: Click on label ChangeTestResultStatus
+Step 47: Click on button Submit32 -> Navigate to page 'team/*/project/*/executions/*'
+Step 48: Click on button externalLinks (externalLinks10)
+Step 49: Click on button externalLinks (externalLinks11)
+Step 50: Click on button InsightlyAutomation
+Step 51: Click on link Insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 52: Click on button MarkAsPassed
+Step 53: Click on label ChangeTestResultStatus
+Step 54: Click on button Submit3
+Step 55: Click on button MarkAsPassed
+Step 56: Click on label ChangeTestResultStatus
+Step 57: Click on button Submit33 -> Navigate to page 'organization/*/home'
+Step 58: Click on link ExecutionDetails1879
+Step 59: Take full page screenshot as checkpoint
+",Trivial,NEW
+9,Access Execution Details and Verify Home Page,"Login to Team Project, access execution details, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link projectDetails (projectDetails2) -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 7: Click on div testRunItems (testRunItems5)
+Step 8: Click on button Details2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 9: Click on link Files -> Navigate to page 'team/*/project/*/test-runs'
+Step 10: Click on div testRunItems (testRunItems6)
+Step 11: Click on button Details2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Click on link Files2 -> Navigate to page 'team/*/project/*/executions/*/files'
+Step 13: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 14: Click on button ScheduleTestRun
+Step 15: Click on div CustomSelectValue
+Step 16: Click on div GitCreatedWithSketch
+Step 17: Click on div TestSuiteControl
+Step 18: Click on div TestSuitesFileUpload
+Step 19: Click on div SelectTestSuite2
+Step 20: Click on button TestSuiteCollection
+Step 21: Click on div TestSuiteCollectionControl
+Step 22: Click on div TestSuitesTestSuiteCollection
+Step 23: Click on link ConfigureEnvironments
+Step 24: Click on input ConfigureTestEnvironment
+Step 25: Click on div SelectSingleValue
+Step 26: Click on item MacOS
+Step 27: Click on span Chrome
+Step 28: Click on item TestRun
+Step 29: Click on button Save2
+Step 30: Click on button Run
+Step 31: Click on button sessionActions (sessionActions)
+Step 32: Click on div sortOptions (sortOptions2)
+Step 33: Click on div historyItems (historyItems)
+Step 34: Click on div TestExecution
+Step 35: Click on div untitledTestRuns (untitledTestRuns)
+Step 36: Click on button Details2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 37: Click on link Files3 -> Navigate to page 'team/*/project/*/executions/*/files'
+Step 38: Click on link fileDownload (HTMLFile)
+Step 39: Click on button DownloadExecutionFile
+Step 40: Click on button CompressFile
+Step 41: Click on link ExportExecution
+Step 42: Click on link pageNavigation (pageNavigation)
+Step 43: Click on link pageNavigation (pageNavigation2)
+Step 44: Click on link fileDownload (fileDownload) -> Navigate to page ''
+Step 45: Take full page screenshot as checkpoint
+",Trivial,NEW
+26,Navigate Test Design and Verify Home Page,"Login to Team Project Test Design, navigate through test cases, and verify that the home page is displayed correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-design/test-cases/*
+Step 4: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 6: Click on link Requirements -> Navigate to page 'team/*/project/*/requirements'
+Step 7: Click on link Releases -> Navigate to page 'team/*/project/*/releases'
+Step 8: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 9: Click on span testCaseItems (objectItems4)
+Step 10: Click on div testCases (testCases3)
+Step 11: Click on span testCaseItems (testCaseItems)
+Step 12: Click on div testCases (testCases4)
+Step 13: Click on span ResizableHandle
+Step 14: Click on div testCases (testCases5)
+Step 15: Click on div testCases (testCases4)
+Step 16: Click on div testCases (testCases6)
+Step 17: Click on link TestSuites4 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 18: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 19: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 20: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 21: Click on body TestRuns
+Step 22: Click on div Backdrop
+Step 23: Click on input rowSelection (rowSelection7)
+Step 24: Click on button Open
+Step 25: Click on div UserEmail
+Step 26: Click on input SelectAllRowsCheckbox
+Step 27: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 28: Click on span treeSwitcher (TreeSwitcher)
+Step 29: Click on div testCases (testCases4)
+Step 30: Click on link testCaseActions (AgendamientoTestCase) -> Navigate to page 'team/*/project/*/test-design/test-cases/*'
+Step 31: Click on link TestSuites42 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 32: Click on span treeIcons (treeIcons)
+Step 33: Click on span treeIcons (treeIcons2)
+Step 34: Click on span TreeSwitcher
+Step 35: Click on div testSuiteItems (testSuiteItems8)
+Step 36: Click on div testSuiteItems (testSuiteItems9)
+Step 37: Click on link testSuiteActions (testSuiteActions) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 38: Click on link TestSuiteValidation (TestSuiteValidation) -> Navigate to page 'team/*/project/*/executions/*'
+Step 39: Click on link TestResults3 -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 40: Click on link TestResults
+Step 41: Click on link Files -> Navigate to page 'team/*/project/*/executions/*/files'
+Step 42: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 43: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 44: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 45: Click on div testCases (testCases5)
+Step 46: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 47: Click on input rowSelection (rowSelection8)
+Step 48: Click on input rowSelection (rowSelection9)
+Step 49: Click on div testRunItems (testRunItems13)
+Step 50: Click on input rowSelection (rowSelection10)
+Step 51: Click on input rowSelection (rowSelection11) -> Navigate to page ''
+Step 52: Take full page screenshot as checkpoint
+",Trivial,NEW
+24,Navigate Team Project Grid and Verify Page,"Login to Team Project Grid, navigate through execution details, and verify the grid plan job page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/grid
+Step 4: Click on link dynamicObject (UntitledTestRun) -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 5: Click on link execution (execution) -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link executionDetails (JobLink) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 7: Click on link calendar -> Navigate to page 'team/*/project/*/test-planning'
+Step 8: Click on item calendar
+Step 9: Click on link history -> Navigate to page 'team/*/project/*/test-runs'
+Step 10: Click on div testRunItems (testRunItems7)
+Step 11: Click on button showMore
+Step 12: Click on button goToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 13: Click on div thumbnailItems -> Navigate to page 'team/*/project/*/test-runs'
+Step 14: Click on button Details
+Step 15: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 16: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 17: Click on link scriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 18: Click on link testProjects (testProjects3) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 19: Click on button RefreshScriptRepository
+Step 20: Click on button RefreshScriptRepository
+Step 21: Click on link tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 22: Click on div testCases (testCases2)
+Step 23: Click on link indi1040SS
+Step 24: Click on tr failedIndi1040SS
+Step 25: Click on div TestCaseSummary
+Step 26: Click on link executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 27: Click on button ScheduleTestRun
+Step 28: Click on div testSuites
+Step 29: Click on div testSuites2
+Step 30: Click on div TestSuiteControl
+Step 31: Click on div testSuites3
+Step 32: Click on div SelectEnvironment2
+Step 33: Click on item MoreOptions
+Step 34: Click on span ChromeHeadless
+Step 35: Click on div TestSuitesAPI
+Step 36: Click on button Save2
+Step 37: Click on button Run
+Step 38: Click on link viewUntitledTestRun
+Step 39: Click on div testRunItems (testRunItems8)
+Step 40: Click on div testRunItems (testRunItems9)
+Step 41: Click on button showMore
+Step 42: Click on div indi1040SS
+Step 43: Click on div elementClickIntercepted
+Step 44: Click on div elementClickIntercepted
+Step 45: Click on div elementClickIntercepted
+Step 46: Click on div testRunItems (testRunItems9)
+Step 47: Click on div testRunItems (testRunItems9)
+Step 48: Click on button goToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 49: Click on pre elementClickIntercepted
+Step 50: Click on pre elementClickIntercepted
+Step 51: Click on pre elementClickIntercepted
+Step 52: Click on pre elementClickIntercepted
+Step 53: Click on pre elementClickIntercepted
+Step 54: Click on image TestResult
+Step 55: Click on image TestResult
+Step 56: Click on image TestResult
+Step 57: Click on button close
+Step 58: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 59: Click on div testRunItems (testRunItems10)
+Step 60: Click on button showMore
+Step 61: Click on button Details
+Step 62: Click on div testRunItems (testRunItems10)
+Step 63: Click on header testRun (testRun)
+Step 64: Click on header testRun (testRun)
+Step 65: Click on div testRunItems (testRunItems10)
+Step 66: Click on button goToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 67: Click on div thumbnailItems (thumbnailItems2)
+Step 68: Click on button close
+Step 69: Click on div InputField
+Step 70: Click on input FailureReasonSelect
+Step 71: Click on div FailureReason
+Step 72: Click on span logItems (logItems2)
+Step 73: Click on div ShadowElement
+Step 74: Click on div thumbnailItems (dynamicObject)
+Step 75: Click on button Close -> Navigate to page 'team/*/project/*/test-runs'
+Step 76: Click on button Details
+Step 77: Click on button ScheduleTestRun
+Step 78: Click on input Name2
+Step 79: Click on div ScheduleTestRun2
+Step 80: Enter input value in input Name
+Step 81: Click on div SelectEnvironment2
+Step 82: Click on item MoreOptions
+Step 83: Click on span CreatedWithSketchEdge
+Step 84: Click on div TestSuitesAPI
+Step 85: Click on button Save2
+Step 86: Click on button Run
+Step 87: Click on header testRun (testRun2)
+Step 88: Click on div testRunItems (testRunItems11)
+Step 89: Click on button closeActions (closeActions3)
+Step 90: Click on button Object
+Step 91: Click on div testRunItems (testRunItems12)
+Step 92: Click on div EdgeOpenTestImage
+Step 93: Click on div PersonIcon
+Step 94: Click on div testRunItems (testRunItems12)
+Step 95: Click on button Object
+Step 96: Click on link Schedules2 -> Navigate to page 'team/*/project/*/grid'
+Step 97: Click on link dynamicObject (dynamicObject) -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 98: Click on div TestPlanJob
+Step 99: Click on link execution (execution2) -> Navigate to page 'team/*/project/*/executions/*'
+Step 100: Click on link executionDetails (executionDetails5) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 101: Take full page screenshot as checkpoint
+",Trivial,NEW
+8,Schedule Test Run and Verify Overview,"Login to Team Project, schedule a test run, and verify the project overview page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link projectDetails (projectDetails) -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Executions3 -> Navigate to page 'team/*/project/*/test-runs'
+Step 6: Click on button ScheduleTestRun
+Step 7: Click on div AllFeaturesTestSuite
+Step 8: Click on div AllFeaturesTestSuite2
+Step 9: Click on link ClickHereToRefresh2
+Step 10: Click on div SelectTestSuite2
+Step 11: Click on button CloseDialog2
+Step 12: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 13: Click on link TestSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 14: Click on div testSuiteItems (testSuiteItems4)
+Step 15: Click on div testSuiteItems (testSuiteItems5)
+Step 16: Click on div testSuiteItems (testSuiteItems6)
+Step 17: Click on div testSuiteItems (testSuiteItems2)
+Step 18: Click on div testSuiteItems (testSuiteItems7)
+Step 19: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 20: Click on button ScheduleTestRun
+Step 21: Click on div AllFeaturesTestSuite
+Step 22: Click on div TestSuites
+Step 23: Click on div Name
+Step 24: Enter input value in input Name
+Step 25: Click on div ScheduleTestRun
+Step 26: Click on div SelectEnvironment2
+Step 27: Click on div TestSuites2
+Step 28: Click on div Run
+Step 29: Click on div menuItems (menuItems)
+Step 30: Click on button Run
+Step 31: Click on div SelectValueContainer
+Step 32: Click on item MoreOptions
+Step 33: Click on button MobileBrowsers
+Step 34: Click on span Android
+Step 35: Click on div Phone
+Step 36: Click on div AnyDeviceType
+Step 37: Click on div Phone
+Step 38: Click on div GooglePixel6Pro
+Step 39: Click on div ConfigureTestEnvironment
+Step 40: Click on div CancelSave
+Step 41: Click on button Save
+Step 42: Click on button Run
+Step 43: Click on button CloseDialog2
+Step 44: Click on button closeActions (closeActions)
+Step 45: Click on button closeActions (closeActions2)
+Step 46: Click on div SubscribedTestCloudSessions
+Step 47: Click on link ShowDetails
+Step 48: Click on p sessionDetails (sessionDetails)
+Step 49: Click on div menuItems (menuItems2)
+Step 50: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 51: Take full page screenshot as checkpoint
+",Trivial,NEW

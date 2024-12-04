@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on div Object3",
+        "step 5: Click on div Toolbar",
+        "step 6: Click on div failedTests (failedTests4)",
+        "step 7: Click on div ThumbnailImage",
+        "step 8: Click on button Close",
+        "step 9: Click on span failedItems (failedItems2)",
+        "step 10: Click on div ImageFile",
+        "step 11: Click on button Close",
+        "step 12: Click on span Object",
+        "step 13: Click on div ImageFile2",
+        "step 14: Click on image filePreviews (filePreviews)",
+        "step 15: Click on button Close",
+        "step 16: Click on div failedItems (failedItems)",
+        "step 17: Click on div failedTests (failedTests5)",
+        "step 18: Click on div ThumbnailImage",
+        "step 19: Click on button Close2 -> Navigate to page ''",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}
