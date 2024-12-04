@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link projectDetails (ExecutionDetails) -> Navigate to page 'team/*/project/*'",
+        "step 5: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on div testCaseItems (UploadedData)",
+        "step 7: Click on span treeSwitchers (CaretDown)",
+        "step 8: Click on span objectItems (Object)",
+        "step 9: Click on span objectItems (Object2)",
+        "step 10: Click on span objectItems (Object3)",
+        "step 11: Click on div testCaseItems (CountyDemographics)",
+        "step 12: Click on link caseLinks (InsuranceDemographics) -> Navigate to page 'team/*/project/*/test-design/test-cases/*'",
+        "step 13: Click on link Reports3 -> Navigate to page 'team/*/project/*/overview'",
+        "step 14: Click on link TestRuns5 -> Navigate to page 'team/*/project/*/executions'",
+        "step 15: Click on link executionDetails (ExecutionDetails) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 16: Click on button PushToXray",
+        "step 17: Click on div Select",
+        "step 18: Click on button CloseDialog",
+        "step 19: Click on link testItems (Tests2) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 20: Click on link Reports4 -> Navigate to page 'team/*/project/*/overview'",
+        "step 21: Click on link TestRuns6 -> Navigate to page 'team/*/project/*/executions'",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}
