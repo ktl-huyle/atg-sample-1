@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/executions/*",
+        "step 4: Click on pre failedTestRuns (FailedE2EFlow)",
+        "step 5: Click on div ThumbnailImage",
+        "step 6: Click on button Close",
+        "step 7: Click on div ThumbnailImage",
+        "step 8: Click on button Close -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
