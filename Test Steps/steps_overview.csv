@@ -1,0 +1,615 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,User Action Flow for Organization Home Navigation,"Login to the organization home, access user actions, and navigate to project management settings.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on button userAction (RicardoLaboy)
+Step 5: Click on div Backdrop
+Step 6: Click on span Settings
+Step 7: Click on link projectManagement (ProjectManagement2) -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+2,Team Project Test Runs Schedule and Refresh,"Login to team project test runs, schedule a test run, and refresh script repositories.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div testRunDetails (APImediaFiles)
+Step 5: Click on div sortOptions (SortID2)
+Step 6: Click on button Close
+Step 7: Click on button ScheduleTestRun
+Step 8: Click on div Select
+Step 9: Click on div AdvancedSettings
+Step 10: Click on div ScheduleAt
+Step 11: Click on div ExecutionProfile
+Step 12: Click on div Default
+Step 13: Click on div TestSuites
+Step 14: Click on div TestSuite
+Step 15: Click on link Refresh
+Step 16: Click on div CustomSelectValue
+Step 17: Click on button CloseDialog
+Step 18: Click on link Settings -> Navigate to page 'team/*/project/*/settings'
+Step 19: Click on link ScriptRepositories -> Navigate to page 'team/*/project/*/test-project'
+Step 20: Click on link testProjects (TestProject) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 21: Click on button RefreshScriptRepository -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",High,STABLE
+25,User Management in Team Project Executions,Manage user actions and settings in team project executions.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions
+Step 4: Click on div object
+Step 5: Click on div object2
+Step 6: Click on span Settings
+Step 7: Click on link UserManagementAddRemove -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+24,Terminate Test Runs Management,Manage and terminate selected test runs.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on input rowSelection (SelectRow4)
+Step 5: Click on input rowSelection (SelectRow5)
+Step 6: Click on button Terminate
+Step 7: Click on button Confirm
+Step 8: Click on input rowSelection (SelectRow6)
+Step 9: Click on input rowSelection (SelectRow7)
+Step 10: Click on input rowSelection (SelectRow8)
+Step 11: Click on button Terminate
+Step 12: Click on button Confirm
+Step 13: Click on input rowSelection (SelectRow9)
+Step 14: Click on button Terminate
+Step 15: Click on button Confirm -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",High,STABLE
+23,Test Execution Results Management,Manage and verify test execution results.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on link testSuites (CPACDECPreapproval) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 5: Click on link testSuites (CPACDECPreapprovalBindTestSuite2) -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link TestResults3 -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 7: Click on div object
+Step 8: Click on button GoToTestResultDetails -> Navigate to page 'team/*/project/*/executions/*'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+22,API Key Generation and User Sign Out,Generate API keys and manage user sign out process.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to user/*
+Step 4: Click on button apiKeyActions (UserObject2)
+Step 5: Click on button apiKeyActions (ShowAPIKey2)
+Step 6: Click on button copyAction (CopyToClipboard)
+Step 7: Click on button object
+Step 8: Click on button CreateAPIKey
+Step 9: Click on input KeyName
+Step 10: Enter input value in input KeyName2
+Step 11: Click on button Create
+Step 12: Click on button apiKeyActions (ShowAPIKey3)
+Step 13: Click on button copyAction (CopyToClipboard)
+Step 14: Click on button object
+Step 15: Click on button UserProfile
+Step 16: Click on link SignOut2 -> Navigate to page '/logout'
+Step 17: Take full page screenshot as checkpoint
+",High,STABLE
+21,User Profile and Project Management Access,Access user profile and manage project settings.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on button userAction (NidhiKachhadiya)
+Step 5: Click on link ViewProfile
+Step 6: Click on div Backdrop
+Step 7: Click on span Settings
+Step 8: Click on div Backdrop
+Step 9: Click on span Settings
+Step 10: Click on link projectManagement (ProjectManagement2)
+Step 11: Click on div firstProjects (FPFirstProject2) -> Navigate to page 'team/*/project/*'
+Step 12: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 13: Click on link Settings2 -> Navigate to page 'team/*/project/*/settings'
+Step 14: Click on link Settings
+Step 15: Click on button object -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",High,STABLE
+20,Delete Execution Failures in Team Project,Manage and delete failed executions in the team project.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*
+Step 4: Click on button failedTest
+Step 5: Click on button deleteExecution
+Step 6: Click on button deleteExecution2
+Step 7: Click on button failedTest
+Step 8: Click on button deleteExecution
+Step 9: Click on button deleteExecution2
+Step 10: Click on div executionStatus
+Step 11: Click on div dashboard
+Step 12: Click on div object -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+19,Test Planning Overview and Details,Navigate through test planning details and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-planning
+Step 4: Click on link moreDetails
+Step 5: Click on div sketchToolInfo -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+18,Sign Out from Team Project Test Project,Login and sign out from the team project test project.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-project
+Step 4: Click on link signOut -> Navigate to page '/logout'
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+17,Project Management Settings Navigation,Access project management settings and verify organization home.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on span Settings
+Step 5: Click on link projectManagement (ProjectManagement2)
+Step 6: Click on span Settings
+Step 7: Click on link projectManagement (ProjectManagement2)
+Step 8: Click on div firstProjects (FPFirstProject2) -> Navigate to page 'team/*/project/*'
+Step 9: Click on button notificationAction -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",High,STABLE
+15,Test Result Details and ReRuns Management,Access and manage test result details and reruns.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*/test-result/*/re-runs
+Step 4: Click on button testResultDetails
+Step 5: Click on button testResultDetails2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+14,User Quality Engineer Profile Access,Access quality engineer profile and manage user actions.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /welcome
+Step 4: Click on div qualityEngineer -> Navigate to page 'organization/*/home'
+Step 5: Click on button userAction (ar)
+Step 6: Click on div modalBackdrop
+Step 7: Click on div modalBackdrop
+Step 8: Click on div modalBackdrop
+Step 9: Click on div userEmail
+Step 10: Click on div userEmail
+Step 11: Click on div Backdrop -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+13,Failed Test Status Management,Review failed test statuses and manage their details.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on div failedTestRunClaims (FailedTestRun6)
+Step 5: Click on div CloseButton
+Step 6: Click on div failedTestRunClaims (FailedTestRun6) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+12,Web Services Integration and Settings Management,Manage organization settings and integrations for web services.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/web-services
+Step 4: Click on button selectOrganization
+Step 5: Click on link myOrganization -> Navigate to page 'organization/*/home'
+Step 6: Click on link dataStatus (noData) -> Navigate to page 'team/*/project/*'
+Step 7: Click on button organizationActions (selectOrganization3)
+Step 8: Click on link settings -> Navigate to page 'team/*/project/*/settings'
+Step 9: Click on label enableReports
+Step 10: Click on button saveSettings
+Step 11: Click on div assertionPattern
+Step 12: Click on link integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 13: Click on div integrationServices (katalonStudio)
+Step 14: Click on div integrationTools (chevronIcon)
+Step 15: Click on div testingTools (mobileTesting)
+Step 16: Click on div integrationServices (kobiton)
+Step 17: Click on div testingTools (testingFramework) -> Navigate to page ''
+Step 18: Take full page screenshot as checkpoint
+",High,STABLE
+10,Delete Failed Test Runs,"Navigate through test runs and delete failed tests, confirming actions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link forumAndProjectExecution (ForumPosting3) -> Navigate to page 'team/*/project/*/executions/*'
+Step 5: Click on div LoadingSpinner
+Step 6: Click on div LoadingSpinner
+Step 7: Click on link TestRunsOverview -> Navigate to page 'team/*/project/*/overview'
+Step 8: Click on link TestRunsExecutions -> Navigate to page 'team/*/project/*/executions'
+Step 9: Click on label failedTestStatus (FailedTest)
+Step 10: Click on label failedTestStatus (FailedTest2)
+Step 11: Click on label failedTestStatus (FailedTest3)
+Step 12: Click on button DeleteTest
+Step 13: Click on button DeleteConfirmation
+Step 14: Click on label failedTestStatus (FailedTest)
+Step 15: Click on label failedTestStatus (FailedTest2)
+Step 16: Click on label failedTestStatus (FailedTest3)
+Step 17: Click on button DeleteTest
+Step 18: Click on button DeleteConfirmation
+Step 19: Click on link TestRunsOverview2 -> Navigate to page 'team/*/project/*/overview'
+Step 20: Click on link TestRunsExecutions2 -> Navigate to page 'team/*/project/*/executions'
+Step 21: Take full page screenshot as checkpoint
+",High,STABLE
+9,API Key Management and User Profile Access,"Create and manage API keys, ensuring user credentials are handled securely.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to user/*
+Step 4: Click on button CreateAPIKey
+Step 5: Click on input KeyName
+Step 6: Enter input value in input KeyName2
+Step 7: Click on div CancelCreate
+Step 8: Click on button Create
+Step 9: Click on button apiKeyActions (UserObject)
+Step 10: Click on button ShowAPIKey
+Step 11: Click on input userCredentials (UserObject)
+Step 12: Click on input userCredentials (Password)
+Step 13: Click on button copyAction (CopyToClipboard)
+Step 14: Click on button UserProfile
+Step 15: Click on link SignOut -> Navigate to page 'organization/*/home'
+Step 16: Take full page screenshot as checkpoint
+",High,STABLE
+8,Review and Reschedule Test Results,"Manage failed test results, reviewing and rescheduling as necessary.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on span failedTestRuns (FailedTestRun3)
+Step 5: Click on span failedTestRuns (FailedTestRun3)
+Step 6: Click on div CloseButton
+Step 7: Click on button testResultDetails (GoToTestResult)
+Step 8: Click on link TestResults2 -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 9: Click on link ReRuns -> Navigate to page 'team/*/project/*/executions/*/test-result/*/re-runs'
+Step 10: Click on link Result -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 11: Click on span logDetails (CreatedWithSketchtool) -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+7,Access Test Run Reports and Overview,"Login and access test run reports, verifying the execution details.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/releases
+Step 4: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 5: Click on link TestRuns -> Navigate to page 'team/*/project/*/executions'
+Step 6: Click on link executions (TestRun) -> Navigate to page 'team/*/project/*/executions/*'
+Step 7: Click on button LinkToRelease
+Step 8: Click on span Button
+Step 9: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 10: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 11: Click on link TestRuns2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 12: Click on button LinkToRelease
+Step 13: Click on span Button -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",High,STABLE
+4,Verify Test Design Test Suites Overview,"Login and navigate to test design test suites, verifying the test suite actions.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link forumAndProjectExecution (ForumPosting3) -> Navigate to page 'team/*/project/*/executions/*'
+Step 5: Click on link tests (Tests) -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 6: Click on div testCases (UploadedData)
+Step 7: Click on link TestSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 8: Click on div testSuites (KatalonCloud2)
+Step 9: Click on div testSuites (UploadedData)
+Step 10: Click on div testSuites (TestSuites3)
+Step 11: Click on link testSuiteActions (SmokeTestSuite) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+26,Verify Test Run Details Access,Access and verify details of specific test runs.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div testRunDetails (object2)
+Step 5: Click on div object3 -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+16,Mark Test Results as Passed,"Manage and update test results, marking them as passed where applicable.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/executions/*
+Step 4: Click on button testResultDetails (testResultDetails)
+Step 5: Click on button testResultDetails (testResultDetails2)
+Step 6: Click on button testResultDetails (testResultDetails3) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 7: Click on button markAsPassed
+Step 8: Click on label changeTestResult
+Step 9: Click on button submitResult
+Step 10: Click on button markAsPassed
+Step 11: Click on label changeTestResult
+Step 12: Click on button submitResult
+Step 13: Click on button markAsPassed
+Step 14: Click on label changeTestResult
+Step 15: Click on button submitResult
+Step 16: Click on button markAsPassed
+Step 17: Click on label changeTestResult
+Step 18: Click on button submitResult2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 19: Click on button testResultDetails (testResultDetails4)
+Step 20: Click on button testResultDetails (testResultDetails5)
+Step 21: Click on button testResultDetails (testResultDetails6)
+Step 22: Click on button testResultDetails (testResultDetails7)
+Step 23: Click on button testResultDetails (testResultDetails8)
+Step 24: Click on button testResultDetails (testResultDetails9)
+Step 25: Click on button testResultDetails (testResultDetails10) -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 26: Click on button markAsPassed
+Step 27: Click on label changeTestResult
+Step 28: Click on button submitResult
+Step 29: Click on button markAsPassed
+Step 30: Click on label changeTestResult
+Step 31: Click on button submitResult
+Step 32: Click on button markAsPassed
+Step 33: Click on label changeTestResult
+Step 34: Click on button submitResult
+Step 35: Click on button markAsPassed
+Step 36: Click on label changeTestResult
+Step 37: Click on button submitResult
+Step 38: Click on button markAsPassed
+Step 39: Click on div expectedResult
+Step 40: Click on label changeTestResult
+Step 41: Click on button submitResult
+Step 42: Click on button markAsPassed
+Step 43: Click on label changeTestResult
+Step 44: Click on button submitResult
+Step 45: Click on button markAsPassed
+Step 46: Click on label changeTestResult
+Step 47: Click on button submitResult2 -> Navigate to page 'team/*/project/*/executions/*'
+Step 48: Click on button testResultDetails (testResultDetails11)
+Step 49: Click on button testResultDetails (testResultDetails12)
+Step 50: Click on button careContinuityPortals (CareContinuityPortals2)
+Step 51: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 52: Click on button markAsPassed
+Step 53: Click on label changeTestResult
+Step 54: Click on button submitResult
+Step 55: Click on button markAsPassed
+Step 56: Click on label changeTestResult
+Step 57: Click on button submitResult3 -> Navigate to page 'organization/*/home'
+Step 58: Click on link projectExecutions (TestExecution)
+Step 59: Take full page screenshot as checkpoint
+",Trivial,STABLE
+11,Test Run Details and Execution Management,Access detailed test run information and manage execution settings.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/grid
+Step 4: Click on link performanceTests (PerformanceTest3) -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 5: Click on link executionDetails (TestExecution) -> Navigate to page 'team/*/project/*/executions/*'
+Step 6: Click on link executionStatus (TestExecution) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 7: Click on link Calendar -> Navigate to page 'team/*/project/*/test-planning'
+Step 8: Click on item Calendar
+Step 9: Click on link History -> Navigate to page 'team/*/project/*/test-runs'
+Step 10: Click on div testRunDetails (TestRunDetails)
+Step 11: Click on button ShowMore
+Step 12: Click on button GoToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 13: Click on div ThumbnailImage -> Navigate to page 'team/*/project/*/test-runs'
+Step 14: Click on button Close
+Step 15: Click on link Tests3 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 16: Click on link Settings -> Navigate to page 'team/*/project/*/settings'
+Step 17: Click on link ScriptRepositories2 -> Navigate to page 'team/*/project/*/test-project'
+Step 18: Click on link testProjects (KatalonTesting) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 19: Click on button RefreshScriptRepository
+Step 20: Click on button RefreshScriptRepository
+Step 21: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 22: Click on div testCases (TestCases2)
+Step 23: Click on link TestCaseDetail
+Step 24: Click on tr FailedTestSelection
+Step 25: Click on div TestCaseSummary
+Step 26: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 27: Click on button ScheduleTestRun
+Step 28: Click on div TestSuites3
+Step 29: Click on div TestSuites4
+Step 30: Click on div TestSuiteControl
+Step 31: Click on div TestSuiteCheck
+Step 32: Click on div SelectEnvironment
+Step 33: Click on item MoreOptions
+Step 34: Click on span ChromeHeadless
+Step 35: Click on div TestRunCount
+Step 36: Click on button Save
+Step 37: Click on button Run
+Step 38: Click on link ViewUntitledTestRun
+Step 39: Click on div testRunDetails (UntitledTestRun)
+Step 40: Click on div testRunDetails (UntitledTestRun2)
+Step 41: Click on button ShowMore
+Step 42: Click on div TestRunDetails2
+Step 43: Click on div ElementClickIntercepted
+Step 44: Click on div ElementClickIntercepted
+Step 45: Click on div ElementClickIntercepted
+Step 46: Click on div testRunDetails (UntitledTestRun2)
+Step 47: Click on div testRunDetails (UntitledTestRun2)
+Step 48: Click on button GoToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 49: Click on pre ElementClickIntercepted
+Step 50: Click on pre ElementClickIntercepted
+Step 51: Click on pre ElementClickIntercepted
+Step 52: Click on pre ElementClickIntercepted
+Step 53: Click on pre ElementClickIntercepted
+Step 54: Click on image filePreviews (FilePreview2)
+Step 55: Click on image filePreviews (FilePreview2)
+Step 56: Click on image filePreviews (FilePreview2)
+Step 57: Click on button Close
+Step 58: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 59: Click on div testRunDetails (UntitledTestRun3)
+Step 60: Click on button ShowMore
+Step 61: Click on button Close
+Step 62: Click on div testRunDetails (UntitledTestRun3)
+Step 63: Click on header testRunInfo (UntitledTestRun)
+Step 64: Click on header testRunInfo (UntitledTestRun)
+Step 65: Click on div testRunDetails (UntitledTestRun3)
+Step 66: Click on button GoToDetails -> Navigate to page 'team/*/project/*/executions/*/test-result/*'
+Step 67: Click on div thumbnailImages (ThumbnailImage2)
+Step 68: Click on button Close
+Step 69: Click on div InputBase
+Step 70: Click on input FailureReason
+Step 71: Click on div FailureReason
+Step 72: Click on span logDetails (LogItem)
+Step 73: Click on div ShadowNone
+Step 74: Click on div thumbnailImages (ThumbnailImage3)
+Step 75: Click on button Close2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 76: Click on button Close
+Step 77: Click on button ScheduleTestRun
+Step 78: Click on input Name2
+Step 79: Click on div ScheduleTestRun2
+Step 80: Enter input value in input Name
+Step 81: Click on div SelectEnvironment
+Step 82: Click on item MoreOptions
+Step 83: Click on span CreatedWith
+Step 84: Click on div TestRunCount
+Step 85: Click on button Save
+Step 86: Click on button Run
+Step 87: Click on header testRunInfo (EdgeOpenTest)
+Step 88: Click on div testRunDetails (cellInfo)
+Step 89: Click on button closeAction (Close4)
+Step 90: Click on button runTest
+Step 91: Click on div testRunDetails (cellInfo2)
+Step 92: Click on div testImage
+Step 93: Click on div personIcon
+Step 94: Click on div testRunDetails (cellInfo2)
+Step 95: Click on button runTest
+Step 96: Click on link schedules -> Navigate to page 'team/*/project/*/grid'
+Step 97: Click on link performanceTests (PerformanceTest3) -> Navigate to page 'team/*/project/*/grid/plan/*/job'
+Step 98: Click on div testTitle
+Step 99: Click on link executionDetails (executionDetail) -> Navigate to page 'team/*/project/*/executions/*'
+Step 100: Click on link executionStatus (jobDetail) -> Navigate to page 'team/*/project/*/grid/plan/*/job/*'
+Step 101: Take full page screenshot as checkpoint
+",Trivial,STABLE
+6,Dashboard and Test Execution Overview,"Navigate to project releases, view reports, and check test run details.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-design/test-cases/*
+Step 4: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 6: Click on link Requirements -> Navigate to page 'team/*/project/*/requirements'
+Step 7: Click on link Releases -> Navigate to page 'team/*/project/*/releases'
+Step 8: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 9: Click on span treeSwitchers (TreeSwitcher6)
+Step 10: Click on div testCases (TestCases)
+Step 11: Click on span treeSwitchers (TreeSwitcher6)
+Step 12: Click on div testCases (AgendarInventario)
+Step 13: Click on span ResizableHandle
+Step 14: Click on div testCases (MantenimientoSalas)
+Step 15: Click on div testCases (AgendarInventario)
+Step 16: Click on div testCases (KatalonCloud)
+Step 17: Click on link TestSuites3 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 18: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'
+Step 19: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 20: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 21: Click on body TestRuns
+Step 22: Click on div Backdrop
+Step 23: Click on input rowSelection (SelectRow)
+Step 24: Click on button Open
+Step 25: Click on div UserEmail
+Step 26: Click on input SelectAllRows
+Step 27: Click on link Tests2 -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 28: Click on span treeSwitchers (TreeSwitcher7)
+Step 29: Click on div testCases (AgendarInventario)
+Step 30: Click on link insuranceDemographics (Agendamiento) -> Navigate to page 'team/*/project/*/test-design/test-cases/*'
+Step 31: Click on link TestSuites4 -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 32: Click on span treeSwitcher (TreeSwitcher)
+Step 33: Click on span treeSwitcher (Icon)
+Step 34: Click on span treeSwitchers (TreeSwitcher2)
+Step 35: Click on div testSuites (TestSuiteValidation)
+Step 36: Click on div testSuites (TestSuiteValidation2)
+Step 37: Click on link testSuiteActions (TestSuiteValidation) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'
+Step 38: Click on link testSuites (CPACDECPreapprovalBindTestSuite2) -> Navigate to page 'team/*/project/*/executions/*'
+Step 39: Click on link TestResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'
+Step 40: Click on link TestResults
+Step 41: Click on link Files -> Navigate to page 'team/*/project/*/executions/*/files'
+Step 42: Click on link Dashboard -> Navigate to page 'team/*/project/*'
+Step 43: Click on link Planning -> Navigate to page 'team/*/project/*/releases'
+Step 44: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 45: Click on div testCases (MantenimientoSalas)
+Step 46: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 47: Click on input rowSelection (SelectRow2)
+Step 48: Click on input rowSelection (UnselectRow)
+Step 49: Click on div testRunDetails (TestRunCell)
+Step 50: Click on input rowSelection (SelectRow3)
+Step 51: Click on input rowSelection (UnselectRow2) -> Navigate to page ''
+Step 52: Take full page screenshot as checkpoint
+",Trivial,STABLE
+5,Comprehensive Test Run Management,"Manage test runs, schedule tests, and refresh project settings, ensuring smooth execution.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to team/*/project/*/test-runs
+Step 4: Click on div historySubscriptions (HistorySubscribed2)
+Step 5: Click on div historySubscriptions (HistorySubscribed2)
+Step 6: Click on link ShowDetails
+Step 7: Click on div DesktopBrowserSessions
+Step 8: Click on div DesktopBrowserSessions
+Step 9: Click on div dynamicObject (object)
+Step 10: Click on link ShowDetails
+Step 11: Click on p sessionInfo (Sessions2)
+Step 12: Click on p sessionInfo (Sessions)
+Step 13: Click on div dynamicObject (object)
+Step 14: Click on button ScheduleTestRun
+Step 15: Click on div WindowsChrome
+Step 16: Click on div CustomSelectValue2 -> Navigate to page 'team/*/project/*/test-project'
+Step 17: Click on link EHSAutomation -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 18: Click on div refsBranches
+Step 19: Click on div refsHeads
+Step 20: Click on button Save
+Step 21: Click on button AlertClose -> Navigate to page 'team/*/project/*/test-project/*'
+Step 22: Click on link TestEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 23: Click on link TestCloud -> Navigate to page '/team/1515252/project/1534644/agent/test-cloud'
+Step 24: Click on div MainBody
+Step 25: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 26: Click on link Schedules -> Navigate to page 'team/*/project/*/grid'
+Step 27: Click on button ScheduleTestRun
+Step 28: Click on div Name
+Step 29: Enter input value in input Name
+Step 30: Click on div TestSuites
+Step 31: Click on div TestSuiteIcon
+Step 32: Click on div TestSuiteIcon
+Step 33: Click on button CloseDialog
+Step 34: Click on button ScheduleTestRun
+Step 35: Click on link Refresh
+Step 36: Click on link Refresh
+Step 37: Click on div SelectIndicator
+Step 38: Click on div TestSuites2
+Step 39: Click on link Refresh
+Step 40: Click on link Refresh
+Step 41: Click on button TestSuiteCollection
+Step 42: Click on button TestSuite
+Step 43: Click on div CustomSelectValue
+Step 44: Click on div KatalonCloudOption
+Step 45: Click on div SelectPrompt
+Step 46: Click on div CustomSelectValue
+Step 47: Click on div EHSAutomation
+Step 48: Click on input TextField
+Step 49: Click on div TestSuites
+Step 50: Click on small SelectScript -> Navigate to page 'team/*/project/*/test-project'
+Step 51: Click on link testProjects (EHSAutomation2) -> Navigate to page 'team/*/project/*/test-project/*'
+Step 52: Click on button RefreshScriptRepository
+Step 53: Click on button AlertClose
+Step 54: Click on button Edit -> Navigate to page 'team/*/project/*/test-project/*/git/edit'
+Step 55: Click on link Integrations -> Navigate to page 'team/*/project/*/integrations'
+Step 56: Click on div integrationTools (CodelessAutomationTool)
+Step 57: Click on div CodelessAutomationTool2
+Step 58: Click on div CICDPipeline
+Step 59: Click on div AzureDevOpsPipelines
+Step 60: Click on input ReportFolder
+Step 61: Click on div Row
+Step 62: Click on div ApiKeyIndicator
+Step 63: Click on div StepContent
+Step 64: Click on div Docker
+Step 65: Click on pre object
+Step 66: Click on link TestEnvironments -> Navigate to page 'team/*/project/*/agent'
+Step 67: Click on link TestCloudTunnels -> Navigate to page 'team/*/project/*/testCloudTunnel'
+Step 68: Click on link CustomFields -> Navigate to page 'team/*/project/*/custom-fields'
+Step 69: Click on button Settings
+Step 70: Click on link OrganizationManagement -> Navigate to page ''
+Step 71: Take full page screenshot as checkpoint
+",Trivial,STABLE
+3,Manage Test Suites and Schedule Test Runs,"Navigate through test suites, schedule test runs, and refresh execution details.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to organization/*/home
+Step 4: Click on link dataStatus (EcoEHSExecution) -> Navigate to page 'team/*/project/*'
+Step 5: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 6: Click on button ScheduleTestRun
+Step 7: Click on div AllFeaturesTestSuite
+Step 8: Click on div AllFeaturesTestSuite2
+Step 9: Click on link Refresh2
+Step 10: Click on div CustomSelectValue
+Step 11: Click on button CloseDialog2
+Step 12: Click on link Tests -> Navigate to page 'team/*/project/*/test-design/test-cases'
+Step 13: Click on link TestSuites -> Navigate to page 'team/*/project/*/test-design/test-suites'
+Step 14: Click on div testSuites (EHSTestAutomation)
+Step 15: Click on div testSuites (TestSuites)
+Step 16: Click on div testSuites (KatalonCloud)
+Step 17: Click on div testSuites (UploadedData)
+Step 18: Click on div testSuites (TestSuites2)
+Step 19: Click on link Executions -> Navigate to page 'team/*/project/*/test-runs'
+Step 20: Click on button ScheduleTestRun
+Step 21: Click on div AllFeaturesTestSuite
+Step 22: Click on div TestSuites2
+Step 23: Click on div Name
+Step 24: Enter input value in input Name
+Step 25: Click on div ScheduleTestRun
+Step 26: Click on div SelectEnvironment
+Step 27: Click on div EnvironmentIcon
+Step 28: Click on div Run
+Step 29: Click on div dynamicObject (CustomizedMenu)
+Step 30: Click on button Run
+Step 31: Click on div ReactSelect
+Step 32: Click on item MoreOptions
+Step 33: Click on button MobileBrowsers
+Step 34: Click on span Android
+Step 35: Click on div Phone
+Step 36: Click on div AnyDeviceType
+Step 37: Click on div Phone
+Step 38: Click on div GooglePixel6Pro
+Step 39: Click on div ConfigureTestEnvironment
+Step 40: Click on div CancelSave
+Step 41: Click on button Save
+Step 42: Click on button Run
+Step 43: Click on button CloseDialog2
+Step 44: Click on button closeAction (Close2)
+Step 45: Click on button closeAction (Close3)
+Step 46: Click on div SubscribedSessions
+Step 47: Click on link ShowDetails
+Step 48: Click on p sessionInfo (Sessions)
+Step 49: Click on div dynamicObject (object)
+Step 50: Click on link Reports -> Navigate to page 'team/*/project/*/overview'
+Step 51: Take full page screenshot as checkpoint
+",Trivial,STABLE
