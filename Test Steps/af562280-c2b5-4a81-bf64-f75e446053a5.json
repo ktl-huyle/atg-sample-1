@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to team/*/project/*/test-runs",
+        "step 4: Click on input rowSelection (rowSelection6)",
+        "step 5: Click on input rowSelection (rowSelection7)",
+        "step 6: Click on button Terminate",
+        "step 7: Click on button Confirm",
+        "step 8: Click on input rowSelection (rowSelection8)",
+        "step 9: Click on input rowSelection (rowSelection9)",
+        "step 10: Click on input rowSelection (rowSelection10)",
+        "step 11: Click on button Terminate",
+        "step 12: Click on button Confirm",
+        "step 13: Click on input rowSelection (rowSelection11)",
+        "step 14: Click on button Terminate",
+        "step 15: Click on button Confirm -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}
