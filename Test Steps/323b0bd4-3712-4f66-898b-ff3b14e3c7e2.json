@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link forumAndProjectExecution (ForumPosting3) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on link tests (Tests) -> Navigate to page 'team/*/project/*/test-design/test-cases'",
+        "step 6: Click on div testCases (UploadedData)",
+        "step 7: Click on link TestSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'",
+        "step 8: Click on div testSuites (KatalonCloud2)",
+        "step 9: Click on div testSuites (UploadedData)",
+        "step 10: Click on div testSuites (TestSuites3)",
+        "step 11: Click on link testSuiteActions (SmokeTestSuite) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
