@@ -98,23 +98,16 @@
     <variable>
         <defaultValue>'Test CDC 002'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>fb469156-27ae-495a-8a9a-70ea756ae4c3</id>
+        <id>5efe202a-6ec5-44ba-b72a-514ff97d21bc</id>
         <masked>false</masked>
-        <name>link_testDemographics_internalRoleLinkName</name>
+        <name>link_testCases_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>55056daa-66a6-4e58-a925-782689af58ed</id>
+        <id>a2eaac7b-0023-48b7-843c-8379783423de</id>
         <masked>false</masked>
-        <name>link_testDemographics_nthChild</name>
-    </variable>
-    <variable>
-        <defaultValue>'Failed CPAC DEC Preapproval-Bind Test Suite QA Linux 64bit \u00a0 Chrome 125.0.0.0 7 mins ago 5m 2s 1 0 1 0 0'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>ff34a53f-4c08-48fb-994c-f635bd771a9b</id>
-        <masked>false</masked>
-        <name>link_testSuiteManagement_internalRoleRowName</name>
+        <name>link_testCases_nthChild</name>
     </variable>
     <variable>
         <defaultValue>'Test Suite Va...Da\u00f1os Menores'</defaultValue>
@@ -122,6 +115,13 @@
         <id>62c593bc-9025-4e5d-8c87-7d29621cc445</id>
         <masked>false</masked>
         <name>link_testSuiteOptions_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed CPAC DEC Preapproval-Bind Test Suite QA Linux 64bit \u00a0 Chrome 125.0.0.0 7 mins ago 5m 2s 1 0 1 0 0'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4515f2f6-fcd5-4b41-99ae-0e9ea533bf56</id>
+        <masked>false</masked>
+        <name>link_testSuiteOptions_internalRoleRowName</name>
     </variable>
     <variable>
         <defaultValue>'1566250'</defaultValue>

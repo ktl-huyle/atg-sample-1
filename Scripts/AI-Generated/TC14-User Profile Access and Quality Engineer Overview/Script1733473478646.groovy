@@ -30,8 +30,8 @@ TrueTestScripts.navigate("/welcome")
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/welcome?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_welcome/div_roleDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_welcome/div_roleDetails', ['div_roleDetails_nthChild': div_roleDetails_nthChild, 'div_roleDetails_internalHasText': div_roleDetails_internalHasText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_welcome/div_roleDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_welcome/div_roleDetails_1', ['div_roleDetails_nthChild': div_roleDetails_nthChild, 'div_roleDetails_internalHasText': div_roleDetails_internalHasText]))
 
 WebUI.takeScreenshot(reportLocation + '/TC14/Step 4-Click on div roleDetails qualityEngineer2 - Navigate to page organizationhome.png')
 

@@ -39,8 +39,8 @@ WebUI.takeScreenshot(reportLocation + '/TC2/Step 4-Click on div testRunDetails A
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_sortOptions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_sortOptions', ['div_sortOptions_internalHasText': div_sortOptions_internalHasText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_sortOptions_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_sortOptions_1', ['div_sortOptions_internalHasText': div_sortOptions_internalHasText]))
 
 WebUI.takeScreenshot(reportLocation + '/TC2/Step 5-Click on div sortOptions SortID2.png')
 
@@ -161,7 +161,7 @@ WebUI.takeScreenshot(reportLocation + '/TC2/Step 19-Click on link ScriptReposito
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-project?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects', ['link_testProjects_trNthChild': link_testProjects_trNthChild, 'link_testProjects_internalRoleLinkName': link_testProjects_internalRoleLinkName, 'test_project_id': test_project_id, 'project_id': project_id, 'team_id': team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects', ['link_testProjects_trNthChild': link_testProjects_trNthChild, 'link_testProjects_internalRoleLinkName': link_testProjects_internalRoleLinkName, 'test_project_id': test_project_id, 'team_id': team_id, 'project_id': project_id]))
 
 WebUI.takeScreenshot(reportLocation + '/TC2/Step 20-Click on link testProjects TestProject - Navigate to page teamprojecttest-project.png')
 

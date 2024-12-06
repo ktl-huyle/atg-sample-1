@@ -21,30 +21,30 @@
     <variable>
         <defaultValue>'"]:nth-child(29) [class="text-dark-color\\ fw-bold\\ mr-2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>fc54ffaf-0f41-4887-88c5-2d9934563e37</id>
+        <id>12f594e4-1b27-4616-8f8d-edc3ede3256c</id>
         <masked>false</masked>
-        <name>span_failedTestResults_class</name>
+        <name>span_failedTestDetails_class</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(29) [class="text-dark-color\\ fw-bold\\ mr-2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>ab43e2b4-adc9-42eb-bd1f-7531fe019af2</id>
+        <id>c9dbf755-8709-48e1-90f2-4bcdd4b72803</id>
         <masked>false</masked>
-        <name>span_failedTestResults_class_1</name>
+        <name>span_failedTestDetails_class_1</name>
     </variable>
     <variable>
         <defaultValue>'Failed Projekte_Anlegen #'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>74e1410b-0abf-409d-a2aa-e6a7dd0b4cc8</id>
+        <id>734ed81c-b5b4-42f7-9c74-8cb9f28e1992</id>
         <masked>false</masked>
-        <name>span_failedTestResults_internalRoleButtonName</name>
+        <name>span_failedTestDetails_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'Failed Projekte_Anlegen #'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>e5b5da15-5916-4e6c-b1b5-f6209e54585a</id>
+        <id>8f346570-d547-4049-8e64-2fa767b7dc96</id>
         <masked>false</masked>
-        <name>span_failedTestResults_internalRoleButtonName_1</name>
+        <name>span_failedTestDetails_internalRoleButtonName_1</name>
     </variable>
     <variable>
         <defaultValue>'Created with sketchtool\\.SortandFilter\\.IOSSortSizeDoublebed\\(\\)'</defaultValue>

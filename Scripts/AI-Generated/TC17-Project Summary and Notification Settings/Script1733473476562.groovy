@@ -34,14 +34,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/span_Set
 
 WebUI.takeScreenshot(reportLocation + '/TC17/Step 4-Click on span Settings.png')
 
-"Step 5: Click on link projectManagement (ProjectManagement2)"
+"Step 5: Click on link projectManagementOptions (ProjectManagement2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement', ['link_projectManagement_internalRoleLinkName': link_projectManagement_internalRoleLinkName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions', ['link_projectManagementOptions_internalRoleLinkName': link_projectManagementOptions_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC17/Step 5-Click on link projectManagement ProjectManagement2.png')
+WebUI.takeScreenshot(reportLocation + '/TC17/Step 5-Click on link projectManagementOptions ProjectManagement2.png')
 
 "Step 6: Click on span Settings"
 
@@ -51,21 +51,21 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/span_Set
 
 WebUI.takeScreenshot(reportLocation + '/TC17/Step 6-Click on span Settings.png')
 
-"Step 7: Click on link projectManagement (ProjectManagement2)"
+"Step 7: Click on link projectManagementOptions (ProjectManagement2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement', ['link_projectManagement_internalRoleLinkName': link_projectManagement_internalRoleLinkName_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions', ['link_projectManagementOptions_internalRoleLinkName': link_projectManagementOptions_internalRoleLinkName_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC17/Step 7-Click on link projectManagement ProjectManagement2.png')
+WebUI.takeScreenshot(reportLocation + '/TC17/Step 7-Click on link projectManagementOptions ProjectManagement2.png')
 
 "Step 8: Click on div projectDetails (FPFirstProject2) -> Navigate to page 'team/*/project/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/div_projectDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/div_projectDetails', ['div_projectDetails_internalRoleLinkName': div_projectDetails_internalRoleLinkName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/div_projectDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/div_projectDetails_1', ['div_projectDetails_internalRoleLinkName': div_projectDetails_internalRoleLinkName]))
 
 WebUI.takeScreenshot(reportLocation + '/TC17/Step 8-Click on div projectDetails FPFirstProject2 - Navigate to page teamproject.png')
 

@@ -14,9 +14,9 @@
     <variable>
         <defaultValue>'BDD POC'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>85b0daba-1da5-4f10-8ba4-fcbd650c54f6</id>
+        <id>5e1c7d94-e801-406c-8413-b2bd3edb7309</id>
         <masked>false</masked>
-        <name>button_organizationSelection_internalRoleButtonName</name>
+        <name>button_organizationActions_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'MuiGrid-root\\ MuiGrid-item\\ MuiGrid-grid-xs-4\\ MuiGrid-grid-sm-4\\ MuiGrid-grid-md-4\\ css-5rllue"]:nth-child(1) [class="ml-3'</defaultValue>

@@ -47,18 +47,18 @@ WebUI.takeScreenshot(reportLocation + '/TC12/Step 5-Click on link myOrganization
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_executionStatus"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionStatus', ['link_executionStatus_internalRoleLinkName': link_executionStatus_internalRoleLinkName, 'project_id': project_id, 'team_id': team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionStatus', ['link_executionStatus_internalRoleLinkName': link_executionStatus_internalRoleLinkName, 'team_id': team_id, 'project_id': project_id]))
 
 WebUI.takeScreenshot(reportLocation + '/TC12/Step 6-Click on link executionStatus noData - Navigate to page teamproject.png')
 
-"Step 7: Click on button organizationSelection (selectOrganization3)"
+"Step 7: Click on button organizationActions (selectOrganization3)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project/button_organizationSelection"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/button_organizationSelection', ['button_organizationSelection_internalRoleButtonName': button_organizationSelection_internalRoleButtonName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project/button_organizationActions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project/button_organizationActions', ['button_organizationActions_internalRoleButtonName': button_organizationActions_internalRoleButtonName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC12/Step 7-Click on button organizationSelection selectOrganization3.png')
+WebUI.takeScreenshot(reportLocation + '/TC12/Step 7-Click on button organizationActions selectOrganization3.png')
 
 "Step 8: Click on link settings -> Navigate to page 'team/*/project/*/settings'"
 

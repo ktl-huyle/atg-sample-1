@@ -26,23 +26,23 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/test-runs")
 
-"Step 4: Click on div testRunHistory (HistorySubscribed2)"
+"Step 4: Click on div historyDetails (HistorySubscribed2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_testRunHistory"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_testRunHistory', ['div_testRunHistory_internalHasText': div_testRunHistory_internalHasText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_historyDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_historyDetails', ['div_historyDetails_internalHasText': div_historyDetails_internalHasText]))
 
-WebUI.takeScreenshot(reportLocation + '/TC5/Step 4-Click on div testRunHistory HistorySubscribed2.png')
+WebUI.takeScreenshot(reportLocation + '/TC5/Step 4-Click on div historyDetails HistorySubscribed2.png')
 
-"Step 5: Click on div testRunHistory (HistorySubscribed2)"
+"Step 5: Click on div historyDetails (HistorySubscribed2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_testRunHistory"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_testRunHistory', ['div_testRunHistory_internalHasText': div_testRunHistory_internalHasText_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_historyDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_historyDetails', ['div_historyDetails_internalHasText': div_historyDetails_internalHasText_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC5/Step 5-Click on div testRunHistory HistorySubscribed2.png')
+WebUI.takeScreenshot(reportLocation + '/TC5/Step 5-Click on div historyDetails HistorySubscribed2.png')
 
 "Step 6: Click on link ShowDetails"
 
@@ -411,7 +411,7 @@ WebUI.takeScreenshot(reportLocation + '/TC5/Step 50-Click on small SelectScript 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-project?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects', ['link_testProjects_trNthChild': link_testProjects_trNthChild, 'link_testProjects_internalRoleLinkName': link_testProjects_internalRoleLinkName, 'test_project_id': test_project_id, 'project_id': project_id, 'team_id': team_id]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_project/link_testProjects', ['link_testProjects_trNthChild': link_testProjects_trNthChild, 'link_testProjects_internalRoleLinkName': link_testProjects_internalRoleLinkName, 'test_project_id': test_project_id, 'team_id': team_id, 'project_id': project_id]))
 
 WebUI.takeScreenshot(reportLocation + '/TC5/Step 51-Click on link testProjects EHSAutomation2 - Navigate to page teamprojecttest-project.png')
 

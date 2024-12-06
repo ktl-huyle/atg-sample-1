@@ -154,23 +154,23 @@
     <variable>
         <defaultValue>'1724275132750.png (111.65 KB)'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>4425bf11-47ef-4f8b-97bc-7eb0808d44cc</id>
+        <id>47e7d0bb-aa38-42cc-b170-58db053f1e25</id>
         <masked>false</masked>
-        <name>image_testRunImages_internalRoleImgName</name>
+        <name>image_testImages_internalRoleImgName</name>
     </variable>
     <variable>
         <defaultValue>'1724275132750.png (111.65 KB)'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>68645684-310b-428f-ba5e-3a906fe2e8bf</id>
+        <id>1d26eaa9-2aec-4591-ab6d-f98541ec2a68</id>
         <masked>false</masked>
-        <name>image_testRunImages_internalRoleImgName_1</name>
+        <name>image_testImages_internalRoleImgName_1</name>
     </variable>
     <variable>
         <defaultValue>'1724275132750.png (111.65 KB)'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>52d02d80-ff5f-4d16-a366-0b8e4b367d53</id>
+        <id>f0f79960-cd8c-4eb5-8dd5-275bc1cd1757</id>
         <masked>false</masked>
-        <name>image_testRunImages_internalRoleImgName_2</name>
+        <name>image_testImages_internalRoleImgName_2</name>
     </variable>
     <variable>
         <defaultValue>'edge open 1040 ss test'</defaultValue>
@@ -210,30 +210,58 @@
     <variable>
         <defaultValue>'25372'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9916e5d7-ba12-4ff0-b844-5d41d1a90426</id>
+        <id>9fc12281-e170-4997-9fc5-4592dd8460a1</id>
         <masked>false</masked>
-        <name>link_testExecution_internalRoleLinkName</name>
+        <name>link_testExecutionOptions_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'25372'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>275abb2c-262b-431d-a5bb-15905338636c</id>
+        <id>530eeab5-9974-408d-b941-2475c017934e</id>
         <masked>false</masked>
-        <name>link_testExecution_internalRoleLinkName_1</name>
+        <name>link_testExecutionOptions_internalRoleLinkName_1</name>
     </variable>
     <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>db22d982-1af5-415a-9187-d321126e1d26</id>
+        <id>3d05505f-bf0c-4e5f-9f21-dadb9619e125</id>
         <masked>false</masked>
-        <name>link_testExecution_trNthChild</name>
+        <name>link_testExecutionOptions_trNthChild</name>
     </variable>
     <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c0831d4c-0c75-46b1-8a26-cd38cc01ba92</id>
+        <id>f87dfeeb-d8ea-48a0-a7a4-4509f43f37fc</id>
         <masked>false</masked>
-        <name>link_testExecution_trNthChild_1</name>
+        <name>link_testExecutionOptions_trNthChild_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Untitled Test Run'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b0193d62-b403-4725-aaf8-83b6860864ed</id>
+        <masked>false</masked>
+        <name>link_testProjectOptions_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Untitled Test Run'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>51f2849d-0812-41fb-839b-6b67f9ed9efb</id>
+        <masked>false</masked>
+        <name>link_testProjectOptions_internalRoleLinkName_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>9dc32b17-1a31-49db-814e-efc297c98146</id>
+        <masked>false</masked>
+        <name>link_testProjectOptions_trNthChild</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>97f5f1cc-5003-40f7-856a-e1ed92fec1b1</id>
+        <masked>false</masked>
+        <name>link_testProjectOptions_trNthChild_1</name>
     </variable>
     <variable>
         <defaultValue>'Katalon%20testing'</defaultValue>
@@ -248,34 +276,6 @@
         <id>6223d66d-33ce-4116-b2a0-b9756b89083c</id>
         <masked>false</masked>
         <name>link_testProjects_trNthChild</name>
-    </variable>
-    <variable>
-        <defaultValue>'Untitled Test Run'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>7c3b3082-9099-4189-b0cc-d6476e3f5c92</id>
-        <masked>false</masked>
-        <name>link_testRunManagement_internalRoleLinkName</name>
-    </variable>
-    <variable>
-        <defaultValue>'Untitled Test Run'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>1cd3eee2-bea8-411a-aa21-f944afbbf0ab</id>
-        <masked>false</masked>
-        <name>link_testRunManagement_internalRoleLinkName_1</name>
-    </variable>
-    <variable>
-        <defaultValue>'1'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>3056e53e-8d88-422e-8220-78364e31b9b7</id>
-        <masked>false</masked>
-        <name>link_testRunManagement_trNthChild</name>
-    </variable>
-    <variable>
-        <defaultValue>'1'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>e955a099-d6eb-4bac-8f2b-3de6a28180c8</id>
-        <masked>false</masked>
-        <name>link_testRunManagement_trNthChild_1</name>
     </variable>
     <variable>
         <defaultValue>'837097'</defaultValue>

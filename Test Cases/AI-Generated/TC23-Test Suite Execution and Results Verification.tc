@@ -21,16 +21,16 @@
     <variable>
         <defaultValue>'CPAC DEC Preapproval-Bind'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>90244582-d4f4-492b-b0e6-236f7260f98e</id>
+        <id>c0ca1a43-5c1d-429a-8686-2dbba73641d9</id>
         <masked>false</masked>
-        <name>link_agentManagement_internalRoleLinkName</name>
+        <name>link_integrationOptions_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'Failed CPAC DEC Preapproval-Bind Test Suite QA Linux 64bit \u00a0 Chrome 125.0.0.0 7 mins ago 5m 2s 1 0 1 0 0'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>dc1e40f3-0a4e-4ab2-aae8-a6ef16945a0a</id>
+        <id>23637353-e747-4c0f-b342-57f6ae44b4a2</id>
         <masked>false</masked>
-        <name>link_testSuiteManagement_internalRoleRowName</name>
+        <name>link_testSuiteOptions_internalRoleRowName</name>
     </variable>
     <variable>
         <defaultValue>'1589118'</defaultValue>

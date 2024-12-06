@@ -50,14 +50,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/span_Set
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on span Settings.png')
 
-"Step 7: Click on link projectManagement (ProjectManagement2) -> Navigate to page ''"
+"Step 7: Click on link projectManagementOptions (ProjectManagement2) -> Navigate to page ''"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagement', ['link_projectManagement_internalRoleLinkName': link_projectManagement_internalRoleLinkName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_projectManagementOptions', ['link_projectManagementOptions_internalRoleLinkName': link_projectManagementOptions_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on link projectManagement ProjectManagement2 - Navigate to page .png')
+WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on link projectManagementOptions ProjectManagement2 - Navigate to page .png')
 
 "Step 8: Take full page screenshot as checkpoint"
 

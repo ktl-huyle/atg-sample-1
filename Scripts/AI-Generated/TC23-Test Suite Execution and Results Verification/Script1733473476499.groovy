@@ -26,23 +26,23 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/executions/${GlobalVariable.executions_id}")
 
-"Step 4: Click on link agentManagement (CPACDECPreapproval) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'"
+"Step 4: Click on link integrationOptions (CPACDECPreapproval) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_agentManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_agentManagement', ['link_agentManagement_internalRoleLinkName': link_agentManagement_internalRoleLinkName, 'test_suites_id': test_suites_id, 'project_id': project_id, 'team_id': team_id]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_integrationOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_integrationOptions', ['link_integrationOptions_internalRoleLinkName': link_integrationOptions_internalRoleLinkName, 'test_suites_id': test_suites_id, 'team_id': team_id, 'project_id': project_id]))
 
-WebUI.takeScreenshot(reportLocation + '/TC23/Step 4-Click on link agentManagement CPACDECPreapproval - Navigate to page teamprojecttest-designtest-suites.png')
+WebUI.takeScreenshot(reportLocation + '/TC23/Step 4-Click on link integrationOptions CPACDECPreapproval - Navigate to page teamprojecttest-designtest-suites.png')
 
-"Step 5: Click on link testSuiteManagement (CPACDECPreapprovalBindTestSuite2) -> Navigate to page 'team/*/project/*/executions/*'"
+"Step 5: Click on link testSuiteOptions (CPACDECPreapprovalBindTestSuite2) -> Navigate to page 'team/*/project/*/executions/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteManagement', ['link_testSuiteManagement_internalRoleRowName': link_testSuiteManagement_internalRoleRowName, 'executions_id': executions_id, 'project_id': project_id_1, 'team_id': team_id_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteOptions_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteOptions_1', ['link_testSuiteOptions_internalRoleRowName': link_testSuiteOptions_internalRoleRowName, 'team_id': team_id_1, 'executions_id': executions_id, 'project_id': project_id_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC23/Step 5-Click on link testSuiteManagement CPACDECPreapprovalBindTestSuite2 - Navigate to page teamprojectexecutions.png')
+WebUI.takeScreenshot(reportLocation + '/TC23/Step 5-Click on link testSuiteOptions CPACDECPreapprovalBindTestSuite2 - Navigate to page teamprojectexecutions.png')
 
 "Step 6: Click on link TestResults3 -> Navigate to page 'team/*/project/*/executions/*/test-runs'"
 

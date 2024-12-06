@@ -14,9 +14,9 @@
     <variable>
         <defaultValue>'Care Continuity Portals (Dev)'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>67d84ca6-d004-4dd6-bb98-1dd03f96fe4a</id>
+        <id>7159fb7d-2049-4fa8-84ea-8fb0ef6aed2c</id>
         <masked>false</masked>
-        <name>button_projectManagement_internalRoleButtonName</name>
+        <name>button_careContinuity_internalRoleButtonName</name>
     </variable>
     <variable>
         <defaultValue>'"]:nth-child(1) [class="css-1yjo05o'</defaultValue>

@@ -21,16 +21,16 @@
     <variable>
         <defaultValue>'616'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>76fedf1f-ee8e-4d96-aebb-ad438c420865</id>
+        <id>83e45e02-12aa-43b5-9784-1dc21ee6ab2e</id>
         <masked>false</masked>
-        <name>link_executionHistory_internalRoleLinkName</name>
+        <name>link_executionDetails_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'5'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9f50acbb-4611-42f5-adc2-1c30e0a74dd0</id>
+        <id>949eccde-011c-4614-bfb8-87a081da2e3a</id>
         <masked>false</masked>
-        <name>link_executionHistory_trNthChild</name>
+        <name>link_executionDetails_trNthChild</name>
     </variable>
     <variable>
         <defaultValue>'1376704'</defaultValue>

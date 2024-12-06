@@ -49,7 +49,7 @@
         "step 47: Click on button submitResult2 -> Navigate to page 'team/*/project/*/executions/*'",
         "step 48: Click on button testResultDetails (testResultDetails11)",
         "step 49: Click on button testResultDetails (testResultDetails12)",
-        "step 50: Click on button projectManagement (CareContinuityPortals2)",
+        "step 50: Click on button careContinuity (CareContinuityPortals2)",
         "step 51: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'",
         "step 52: Click on button markAsPassed",
         "step 53: Click on label changeTestResult",

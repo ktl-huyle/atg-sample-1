@@ -21,15 +21,15 @@
     <variable>
         <defaultValue>'Project Management Manage'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>bfa94b15-3ea8-4495-9f23-f94eb3bbbe62</id>
+        <id>9d740ecf-250e-4ae1-b6fb-269e9339df4b</id>
         <masked>false</masked>
-        <name>link_projectManagement_internalRoleLinkName</name>
+        <name>link_projectManagementOptions_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'Project Management Manage'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>61de0775-93e3-42a9-91b8-86ce55078874</id>
+        <id>1aa688bb-9fc1-42ee-bf34-0cc87db62dda</id>
         <masked>false</masked>
-        <name>link_projectManagement_internalRoleLinkName_1</name>
+        <name>link_projectManagementOptions_internalRoleLinkName_1</name>
     </variable>
 </TestCaseEntity>

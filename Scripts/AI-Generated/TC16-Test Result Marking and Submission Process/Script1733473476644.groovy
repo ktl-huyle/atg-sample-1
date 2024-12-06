@@ -406,14 +406,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC16/Step 49-Click on button testResultDetails testResultDetails12.png')
 
-"Step 50: Click on button projectManagement (CareContinuityPortals2)"
+"Step 50: Click on button careContinuity (CareContinuityPortals2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/button_projectManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/button_projectManagement', ['button_projectManagement_internalRoleButtonName': button_projectManagement_internalRoleButtonName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/button_careContinuity"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/button_careContinuity', ['button_careContinuity_internalRoleButtonName': button_careContinuity_internalRoleButtonName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC16/Step 50-Click on button projectManagement CareContinuityPortals2.png')
+WebUI.takeScreenshot(reportLocation + '/TC16/Step 50-Click on button careContinuity CareContinuityPortals2.png')
 
 "Step 51: Click on link insightly -> Navigate to page 'team/*/project/*/executions/*/test-result/*'"
 
@@ -475,8 +475,8 @@ WebUI.takeScreenshot(reportLocation + '/TC16/Step 57-Click on button submitResul
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails', ['link_executionDetails_internalRoleLinkName': link_executionDetails_internalRoleLinkName, 'executions_id': executions_id, 'project_id': project_id, 'team_id': team_id]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_2', ['link_executionDetails_internalRoleLinkName': link_executionDetails_internalRoleLinkName, 'team_id': team_id, 'executions_id': executions_id, 'project_id': project_id]))
 
 WebUI.takeScreenshot(reportLocation + '/TC16/Step 58-Click on link executionDetails TestExecution.png')
 

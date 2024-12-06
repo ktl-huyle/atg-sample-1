@@ -30,8 +30,8 @@ TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariabl
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails', ['div_failedTestDetails_class': div_failedTestDetails_class, 'div_failedTestDetails_internalRoleButtonName': div_failedTestDetails_internalRoleButtonName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails_1', ['div_failedTestDetails_class': div_failedTestDetails_class, 'div_failedTestDetails_internalRoleButtonName': div_failedTestDetails_internalRoleButtonName]))
 
 WebUI.takeScreenshot(reportLocation + '/TC13/Step 4-Click on div failedTestDetails failedTest2.png')
 
@@ -47,8 +47,8 @@ WebUI.takeScreenshot(reportLocation + '/TC13/Step 5-Click on div CloseButton.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails', ['div_failedTestDetails_class': div_failedTestDetails_class_1, 'div_failedTestDetails_internalRoleButtonName': div_failedTestDetails_internalRoleButtonName_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails_1', ['div_failedTestDetails_class': div_failedTestDetails_class_1, 'div_failedTestDetails_internalRoleButtonName': div_failedTestDetails_internalRoleButtonName_1]))
 
 WebUI.takeScreenshot(reportLocation + '/TC13/Step 6-Click on div failedTestDetails failedTest2 - Navigate to page .png')
 

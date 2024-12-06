@@ -30,27 +30,27 @@ TrueTestScripts.navigate("organization/${GlobalVariable.organization_id}/home")
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_1"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_1', ['link_executionDetails_nthChild': link_executionDetails_nthChild, 'link_executionDetails_class': link_executionDetails_class, 'link_executionDetails_internalRoleLinkName': link_executionDetails_internalRoleLinkName, 'executions_id': executions_id, 'project_id': project_id, 'team_id': team_id]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_3"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_executionDetails_3', ['link_executionDetails_class': link_executionDetails_class, 'link_executionDetails_nthChild': link_executionDetails_nthChild, 'link_executionDetails_internalRoleLinkName': link_executionDetails_internalRoleLinkName, 'team_id': team_id, 'executions_id': executions_id, 'project_id': project_id]))
 
 WebUI.takeScreenshot(reportLocation + '/TC4/Step 4-Click on link executionDetails ForumPosting3 - Navigate to page teamprojectexecutions.png')
 
-"Step 5: Click on link testManagement (Tests) -> Navigate to page 'team/*/project/*/test-design/test-cases'"
+"Step 5: Click on link testOptions (Tests) -> Navigate to page 'team/*/project/*/test-design/test-cases'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_testManagement"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_testManagement', ['project_id': project_id_1, 'team_id': team_id_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_testOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_testOptions', ['team_id': team_id_1, 'project_id': project_id_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC4/Step 5-Click on link testManagement Tests - Navigate to page teamprojecttest-designtest-cases.png')
+WebUI.takeScreenshot(reportLocation + '/TC4/Step 5-Click on link testOptions Tests - Navigate to page teamprojecttest-designtest-cases.png')
 
-"Step 6: Click on div testCaseDetails (TestCasesLabel7)"
+"Step 6: Click on div testCaseLabels (TestCasesLabel7)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/div_testCaseDetails'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/div_testCaseLabels'))
 
-WebUI.takeScreenshot(reportLocation + '/TC4/Step 6-Click on div testCaseDetails TestCasesLabel7.png')
+WebUI.takeScreenshot(reportLocation + '/TC4/Step 6-Click on div testCaseLabels TestCasesLabel7.png')
 
 "Step 7: Click on link TestSuites2 -> Navigate to page 'team/*/project/*/test-design/test-suites'"
 
@@ -91,7 +91,7 @@ WebUI.takeScreenshot(reportLocation + '/TC4/Step 10-Click on div testSuiteDetail
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteOptions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteOptions', ['link_testSuiteOptions_internalRoleLinkName': link_testSuiteOptions_internalRoleLinkName, 'test_suites_id': test_suites_id, 'project_id': project_id_2, 'team_id': team_id_2]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuiteOptions', ['link_testSuiteOptions_internalRoleLinkName': link_testSuiteOptions_internalRoleLinkName, 'test_suites_id': test_suites_id, 'team_id': team_id_2, 'project_id': project_id_2]))
 
 WebUI.takeScreenshot(reportLocation + '/TC4/Step 11-Click on link testSuiteOptions SmokeTestSuite - Navigate to page teamprojecttest-designtest-suites.png')
 

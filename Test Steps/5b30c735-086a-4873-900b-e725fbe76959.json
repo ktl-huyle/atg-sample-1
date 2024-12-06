@@ -6,7 +6,7 @@
         "step 4: Click on button selectOrganization",
         "step 5: Click on link myOrganization -> Navigate to page 'organization/*/home'",
         "step 6: Click on link executionStatus (noData) -> Navigate to page 'team/*/project/*'",
-        "step 7: Click on button organizationSelection (selectOrganization3)",
+        "step 7: Click on button organizationActions (selectOrganization3)",
         "step 8: Click on link settings -> Navigate to page 'team/*/project/*/settings'",
         "step 9: Click on label enableReports",
         "step 10: Click on button saveSettings",

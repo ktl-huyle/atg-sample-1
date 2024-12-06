@@ -42,14 +42,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_overview/link
 
 WebUI.takeScreenshot(reportLocation + '/TC7/Step 5-Click on link TestRuns - Navigate to page teamprojectexecutions.png')
 
-"Step 6: Click on link executionHistory (TestRun) -> Navigate to page 'team/*/project/*/executions/*'"
+"Step 6: Click on link executionDetails (TestRun) -> Navigate to page 'team/*/project/*/executions/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_executionHistory"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_executionHistory', ['link_executionHistory_trNthChild': link_executionHistory_trNthChild, 'link_executionHistory_internalRoleLinkName': link_executionHistory_internalRoleLinkName, 'executions_id': executions_id, 'project_id': project_id, 'team_id': team_id]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_executionDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_executionDetails_1', ['link_executionDetails_trNthChild': link_executionDetails_trNthChild, 'link_executionDetails_internalRoleLinkName': link_executionDetails_internalRoleLinkName, 'team_id': team_id, 'executions_id': executions_id, 'project_id': project_id]))
 
-WebUI.takeScreenshot(reportLocation + '/TC7/Step 6-Click on link executionHistory TestRun - Navigate to page teamprojectexecutions.png')
+WebUI.takeScreenshot(reportLocation + '/TC7/Step 6-Click on link executionDetails TestRun - Navigate to page teamprojectexecutions.png')
 
 "Step 7: Click on button LinkToRelease"
 
@@ -63,8 +63,8 @@ WebUI.takeScreenshot(reportLocation + '/TC7/Step 7-Click on button LinkToRelease
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails', ['span_testDetails_class': span_testDetails_class, 'span_testDetails_internalRoleButtonName': span_testDetails_internalRoleButtonName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails_1', ['span_testDetails_class': span_testDetails_class, 'span_testDetails_internalRoleButtonName': span_testDetails_internalRoleButtonName]))
 
 WebUI.takeScreenshot(reportLocation + '/TC7/Step 8-Click on span testDetails Button.png')
 
@@ -104,8 +104,8 @@ WebUI.takeScreenshot(reportLocation + '/TC7/Step 12-Click on button LinkToReleas
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails', ['span_testDetails_class': span_testDetails_class_1, 'span_testDetails_internalRoleButtonName': span_testDetails_internalRoleButtonName_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_testDetails_1', ['span_testDetails_class': span_testDetails_class_1, 'span_testDetails_internalRoleButtonName': span_testDetails_internalRoleButtonName_1]))
 
 WebUI.takeScreenshot(reportLocation + '/TC7/Step 13-Click on span testDetails Button - Navigate to page .png')
 

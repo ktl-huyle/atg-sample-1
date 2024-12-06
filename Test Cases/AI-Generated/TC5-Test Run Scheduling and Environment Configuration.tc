@@ -12,25 +12,25 @@
     <tag></tag>
     <testCaseGuid>ef9f007a-6468-4854-9175-a71f616d9f13</testCaseGuid>
     <variable>
+        <defaultValue>'HistorySubscribed 5 TestCloud'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b7131dc3-4c20-46f0-a44e-d27201225a06</id>
+        <masked>false</masked>
+        <name>div_historyDetails_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'HistorySubscribed 5 TestCloud'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d4bf17f3-8691-46c1-911e-06b28e328bf4</id>
+        <masked>false</masked>
+        <name>div_historyDetails_internalHasText_1</name>
+    </variable>
+    <variable>
         <defaultValue>'Codeless Automation Tool'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>e0b89f05-45a6-409c-b99e-4b35fa9d9fd0</id>
         <masked>false</masked>
         <name>div_integrationTools_internalRoleTreeitemName</name>
-    </variable>
-    <variable>
-        <defaultValue>'HistorySubscribed 5 TestCloud'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>06038ebe-4faf-4399-8ada-e7f1ccc0720a</id>
-        <masked>false</masked>
-        <name>div_testRunHistory_internalHasText</name>
-    </variable>
-    <variable>
-        <defaultValue>'HistorySubscribed 5 TestCloud'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>6a2a48e1-dde9-456d-9e37-632f115cc4c8</id>
-        <masked>false</masked>
-        <name>div_testRunHistory_internalHasText_1</name>
     </variable>
     <variable>
         <defaultValue>'First TestCloud test run'</defaultValue>

@@ -26,23 +26,23 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/executions/${GlobalVariable.executions_id}")
 
-"Step 4: Click on span failedTestResults (FailedTestRun3)"
+"Step 4: Click on span failedTestDetails (FailedTestRun3)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestResults"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestResults', ['span_failedTestResults_class': span_failedTestResults_class, 'span_failedTestResults_internalRoleButtonName': span_failedTestResults_internalRoleButtonName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestDetails', ['span_failedTestDetails_class': span_failedTestDetails_class, 'span_failedTestDetails_internalRoleButtonName': span_failedTestDetails_internalRoleButtonName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC8/Step 4-Click on span failedTestResults FailedTestRun3.png')
+WebUI.takeScreenshot(reportLocation + '/TC8/Step 4-Click on span failedTestDetails FailedTestRun3.png')
 
-"Step 5: Click on span failedTestResults (FailedTestRun3)"
+"Step 5: Click on span failedTestDetails (FailedTestRun3)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestResults"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestResults', ['span_failedTestResults_class': span_failedTestResults_class_1, 'span_failedTestResults_internalRoleButtonName': span_failedTestResults_internalRoleButtonName_1]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/span_failedTestDetails', ['span_failedTestDetails_class': span_failedTestDetails_class_1, 'span_failedTestDetails_internalRoleButtonName': span_failedTestDetails_internalRoleButtonName_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC8/Step 5-Click on span failedTestResults FailedTestRun3.png')
+WebUI.takeScreenshot(reportLocation + '/TC8/Step 5-Click on span failedTestDetails FailedTestRun3.png')
 
 "Step 6: Click on div CloseButton"
 
