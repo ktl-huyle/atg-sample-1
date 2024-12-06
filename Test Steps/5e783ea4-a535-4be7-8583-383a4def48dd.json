@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on link executionDetails (ForumPosting3) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 5: Click on div LoadingSpinner",
+        "step 6: Click on div LoadingSpinner",
+        "step 7: Click on link TestRunsOverview -> Navigate to page 'team/*/project/*/overview'",
+        "step 8: Click on link TestRunsExecutions -> Navigate to page 'team/*/project/*/executions'",
+        "step 9: Click on label failedTestStatus (FailedTest)",
+        "step 10: Click on label failedTestStatus (FailedTest2)",
+        "step 11: Click on label failedTestStatus (FailedTest3)",
+        "step 12: Click on button DeleteTest",
+        "step 13: Click on button DeleteConfirmation",
+        "step 14: Click on label failedTestStatus (FailedTest)",
+        "step 15: Click on label failedTestStatus (FailedTest2)",
+        "step 16: Click on label failedTestStatus (FailedTest3)",
+        "step 17: Click on button DeleteTest",
+        "step 18: Click on button DeleteConfirmation",
+        "step 19: Click on link TestRunsOverview2 -> Navigate to page 'team/*/project/*/overview'",
+        "step 20: Click on link TestRunsExecutions2 -> Navigate to page 'team/*/project/*/executions'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

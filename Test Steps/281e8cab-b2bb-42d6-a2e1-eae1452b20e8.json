@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to organization/*/home",
+        "step 4: Click on button userProfile (NidhiKachhadiya)",
+        "step 5: Click on link ViewProfile",
+        "step 6: Click on div Backdrop",
+        "step 7: Click on span Settings",
+        "step 8: Click on div Backdrop",
+        "step 9: Click on span Settings",
+        "step 10: Click on link projectManagement (ProjectManagement2)",
+        "step 11: Click on div projectDetails (FPFirstProject2) -> Navigate to page 'team/*/project/*'",
+        "step 12: Click on link Executions2 -> Navigate to page 'team/*/project/*/test-runs'",
+        "step 13: Click on link Settings2 -> Navigate to page 'team/*/project/*/settings'",
+        "step 14: Click on link Settings",
+        "step 15: Click on button object -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}
