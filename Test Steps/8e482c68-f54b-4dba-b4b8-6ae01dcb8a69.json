@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /",
+        "step 4: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'",
+        "step 5: Click on link forgotUsername -> Navigate to page '/ForgotUsernameView'",
+        "step 6: Click on input emailAddress",
+        "step 7: Click on link emailUsername2",
+        "step 8: Click on link emailUsername2",
+        "step 9: Click on link emailUsername -> Navigate to page '/ForgotUsername'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

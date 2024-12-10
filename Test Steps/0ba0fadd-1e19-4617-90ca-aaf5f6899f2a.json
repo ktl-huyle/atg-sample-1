@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /*",
+        "step 4: Click on link AddToCart6 -> Navigate to page '/AjaxOrderItemDisplayView'",
+        "step 5: Click on link ShoppingCart",
+        "step 6: Click on div ShoppingCartPopup",
+        "step 7: Click on link removeFromCart (RemoveFromCart2) -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

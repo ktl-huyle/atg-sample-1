@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /",
+        "step 4: Click on button Close2",
+        "step 5: Click on back ExploreSchoolEssentials -> Navigate to page '/back-to-school'",
+        "step 6: Click on LogonForm SignInCreateAccount -> Navigate to page '/LogonForm'",
+        "step 7: Click on link SignIn2 -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}
