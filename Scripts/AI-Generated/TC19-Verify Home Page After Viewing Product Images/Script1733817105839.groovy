@@ -39,8 +39,8 @@ WebUI.takeScreenshot(reportLocation + '/TC19/Step 4-Click on button Close.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_productImages"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_productImages', ['link_productImages_internalRoleLinkName': link_productImages_internalRoleLinkName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_productImages_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_productImages_2', ['link_productImages_internalRoleLinkName': link_productImages_internalRoleLinkName]))
 
 WebUI.takeScreenshot(reportLocation + '/TC19/Step 5-Click on link productImages ProductImagesModal2.png')
 
