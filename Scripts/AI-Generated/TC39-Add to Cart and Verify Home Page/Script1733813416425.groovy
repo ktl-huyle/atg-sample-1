@@ -26,13 +26,13 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("/${GlobalVariable.path_param_2}")
 
-"Step 4: Click on link AddToCart6 -> Navigate to page '/AjaxOrderItemDisplayView'"
+"Step 4: Click on link addToCart (addToCart3) -> Navigate to page '/AjaxOrderItemDisplayView'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/link_AddToCart6'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_addToCart'))
 
-WebUI.takeScreenshot(reportLocation + '/TC39/Step 4-Click on link AddToCart6 - Navigate to page AjaxOrderItemDisplayView.png')
+WebUI.takeScreenshot(reportLocation + '/TC39/Step 4-Click on link addToCart addToCart3 - Navigate to page AjaxOrderItemDisplayView.png')
 
 "Step 5: Click on link ShoppingCart"
 

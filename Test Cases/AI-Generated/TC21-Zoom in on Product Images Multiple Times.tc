@@ -11,6 +11,15 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>e4ae87d5-1abb-46ca-a608-230d0ed050d8</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>6ce7e3e6-8221-46fd-8e4d-76fc7909f6d3</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC21-Zoom in on Product Images Multiple Times-test-data</testDataId>
+    </testDataLinks>
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/multipleZoomOnProductImages-test-data'</defaultValue>
         <description>Common function data file id</description>
@@ -19,7 +28,7 @@
         <name>data_path_0</name>
     </variable>
     <variable>
-        <defaultValue>'1'</defaultValue>
+        <defaultValue>'2'</defaultValue>
         <description>Common function data row index</description>
         <id>32576780-bfd0-4a5d-9387-c65901bcea7d</id>
         <masked>false</masked>
@@ -32,4 +41,22 @@
         <masked>false</masked>
         <name>link_productImages_internalRoleLinkName</name>
     </variable>
+    <variableLinks>
+        <testDataLinkId>6ce7e3e6-8221-46fd-8e4d-76fc7909f6d3</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>data_path_0</value>
+        <variableId>0d371536-94c7-4db9-9714-7a5c448c2a37</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6ce7e3e6-8221-46fd-8e4d-76fc7909f6d3</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>index_0</value>
+        <variableId>32576780-bfd0-4a5d-9387-c65901bcea7d</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>6ce7e3e6-8221-46fd-8e4d-76fc7909f6d3</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>link_productImages_internalRoleLinkName</value>
+        <variableId>a0b7b1e5-2991-4b1d-b655-cd80e939b0b6</variableId>
+    </variableLinks>
 </TestCaseEntity>

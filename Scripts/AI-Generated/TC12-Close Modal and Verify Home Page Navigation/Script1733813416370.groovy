@@ -34,14 +34,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/button_Close'))
 
 WebUI.takeScreenshot(reportLocation + '/TC12/Step 4-Click on button Close.png')
 
-"Step 5: Click on link moreImages (ProductImagesModal2)"
+"Step 5: Click on link moreOptions (moreOptions13)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_moreImages"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_moreImages', ['link_moreImages_class': link_moreImages_class, 'link_moreImages_internalRoleOptionName': link_moreImages_internalRoleOptionName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_moreOptions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_moreOptions', ['link_moreOptions_class': link_moreOptions_class, 'link_moreOptions_internalRoleOptionName': link_moreOptions_internalRoleOptionName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC12/Step 5-Click on link moreImages ProductImagesModal2.png')
+WebUI.takeScreenshot(reportLocation + '/TC12/Step 5-Click on link moreOptions moreOptions13.png')
 
 "Step 6: Click on link CloseModal2 -> Navigate to page ''"
 

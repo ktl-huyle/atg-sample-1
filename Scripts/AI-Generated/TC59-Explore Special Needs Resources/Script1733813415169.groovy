@@ -42,13 +42,13 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_shop_by_learning_environme
 
 WebUI.takeScreenshot(reportLocation + '/TC59/Step 5-Click on special SpecialNeeds - Navigate to page shop-by-learning-model.png')
 
-"Step 6: Click on link Page2"
+"Step 6: Click on link default (default)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/shop-by-learning-model/.*/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_shop_by_learning_model/link_Page2'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_shop_by_learning_model/link_default'))
 
-WebUI.takeScreenshot(reportLocation + '/TC59/Step 6-Click on link Page2.png')
+WebUI.takeScreenshot(reportLocation + '/TC59/Step 6-Click on link default default.png')
 
 "Step 7: Click on gross GrossMotor -> Navigate to page 'special-needs/*'"
 
@@ -62,7 +62,7 @@ WebUI.takeScreenshot(reportLocation + '/TC59/Step 7-Click on gross GrossMotor - 
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/special-needs/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_special_needs/link_pageNavigation'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_special_needs/link_pageNavigation_1'))
 
 WebUI.takeScreenshot(reportLocation + '/TC59/Step 8-Click on link pageNavigation Page2.png')
 

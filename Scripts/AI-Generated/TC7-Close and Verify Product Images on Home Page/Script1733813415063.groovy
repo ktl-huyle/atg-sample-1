@@ -34,32 +34,32 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/button_Close'))
 
 WebUI.takeScreenshot(reportLocation + '/TC7/Step 4-Click on button Close.png')
 
-"Step 5: Click on image productImages (ProductImage)"
+"Step 5: Click on image productImages (ProductImage110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': image_productImages_class, 'image_productImages_nthChild': image_productImages_nthChild, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': image_productImages_nthChild, 'image_productImages_class': image_productImages_class, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC7/Step 5-Click on image productImages ProductImage.png')
+WebUI.takeScreenshot(reportLocation + '/TC7/Step 5-Click on image productImages ProductImage110.png')
 
-"Step 6: Click on image productImages (ProductImage2)"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
-
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': image_productImages_class_1, 'image_productImages_nthChild': image_productImages_nthChild_1, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName_1]))
-
-WebUI.takeScreenshot(reportLocation + '/TC7/Step 6-Click on image productImages ProductImage2.png')
-
-"Step 7: Click on image productImages (ProductImage3) -> Navigate to page ''"
+"Step 6: Click on image productImages (ProductImage110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': image_productImages_class_2, 'image_productImages_nthChild': image_productImages_nthChild_2, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName_2]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': image_productImages_nthChild_1, 'image_productImages_class': image_productImages_class_1, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC7/Step 7-Click on image productImages ProductImage3 - Navigate to page .png')
+WebUI.takeScreenshot(reportLocation + '/TC7/Step 6-Click on image productImages ProductImage110.png')
+
+"Step 7: Click on image productImages (ProductImage110) -> Navigate to page ''"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': image_productImages_nthChild_2, 'image_productImages_class': image_productImages_class_2, 'image_productImages_internalRoleImgName': image_productImages_internalRoleImgName_2]))
+
+WebUI.takeScreenshot(reportLocation + '/TC7/Step 7-Click on image productImages ProductImage110 - Navigate to page .png')
 
 "Step 8: Take full page screenshot as checkpoint"
 

@@ -13,33 +13,33 @@ public class zoomInOnProductImages {
         
         "Step 1: Click on image productImages (ProductImage)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class'], 'image_productImages_nthChild': data['image_productImages_nthChild'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': data['image_productImages_nthChild'], 'image_productImages_class': data['image_productImages_class'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName']]))
         
         "Step 2: Click on image productImages (ProductImage3)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_1'], 'image_productImages_nthChild': data['image_productImages_nthChild_1'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': data['image_productImages_nthChild_1'], 'image_productImages_class': data['image_productImages_class_1'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName_1']]))
         
         "Step 3: Click on image productImages (ProductImage2)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_2'], 'image_productImages_nthChild': data['image_productImages_nthChild_2'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName_2']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_1', ['image_productImages_nthChild': data['image_productImages_nthChild_2'], 'image_productImages_class': data['image_productImages_class_2'], 'image_productImages_internalRoleImgName': data['image_productImages_internalRoleImgName_2']]))
         
         "Step 4: Click on link moreImages (ShowMoreImages)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_moreImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_moreImages', ['link_moreImages_class': data['link_moreImages_class'], 'link_moreImages_internalRoleOptionName': data['link_moreImages_internalRoleOptionName']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/link_moreImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/link_moreImages_1', ['link_moreImages_class': data['link_moreImages_class'], 'link_moreImages_internalRoleOptionName': data['link_moreImages_internalRoleOptionName']]))
         
         "Step 5: Click on image zoomProductImages (ProductImage17)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages', ['image_zoomProductImages_class': data['image_zoomProductImages_class'], 'image_zoomProductImages_nthChild': data['image_zoomProductImages_nthChild'], 'image_zoomProductImages_divNthChild': data['image_zoomProductImages_divNthChild']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages_1', ['image_zoomProductImages_class': data['image_zoomProductImages_class'], 'image_zoomProductImages_nthChild': data['image_zoomProductImages_nthChild'], 'image_zoomProductImages_divNthChild': data['image_zoomProductImages_divNthChild']]))
         
         "Step 6: Click on image zoomProductImages (ProductMainImage6)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages', ['image_zoomProductImages_class': data['image_zoomProductImages_class_1'], 'image_zoomProductImages_nthChild': data['image_zoomProductImages_nthChild_1'], 'image_zoomProductImages_divNthChild': data['image_zoomProductImages_divNthChild_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages_1"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_zoomProductImages_1', ['image_zoomProductImages_class': data['image_zoomProductImages_class_1'], 'image_zoomProductImages_nthChild': data['image_zoomProductImages_nthChild_1'], 'image_zoomProductImages_divNthChild': data['image_zoomProductImages_divNthChild_1']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {

@@ -59,13 +59,14 @@ WebUI.setText(findTestObject('AI-Generated/Page_paper_and_paper_supplies_paper_a
 
 WebUI.takeScreenshot(reportLocation + '/TC45/Step 7-Enter input value in input Search2 - Navigate to page SearchDisplay.png')
 
-"Step 8: Click on link 12Paper -> Navigate to page 'paper-and-paper-supplies/*'"
+"Step 8: Click on link Paper (productItem3) -> Navigate to page 'paper-and-paper-supplies/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/SearchDisplay?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_SearchDisplay/link_12Paper'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_SearchDisplay/link_Paper"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_SearchDisplay/link_Paper', ['link_Paper_nthChild': link_Paper_nthChild, 'link_Paper_internalRoleLinkName': link_Paper_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC45/Step 8-Click on link 12Paper - Navigate to page paper-and-paper-supplies.png')
+WebUI.takeScreenshot(reportLocation + '/TC45/Step 8-Click on link Paper productItem3 - Navigate to page paper-and-paper-supplies.png')
 
 "Step 9: Click on childcraft ConstructionPaper -> Navigate to page 'paper-and-paper-supplies/paper-and-paper-supplies-construction-paper/*'"
 

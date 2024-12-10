@@ -5,7 +5,7 @@
         "step 3: Navigate to special-needs/resources",
         "step 4: Click on pre PreKAges -> Navigate to page 'shop-by-learning-environment/early-childhood/*'",
         "step 5: Click on special SpecialNeeds -> Navigate to page 'shop-by-learning-model/*/*'",
-        "step 6: Click on link Page2",
+        "step 6: Click on link default (default)",
         "step 7: Click on gross GrossMotor -> Navigate to page 'special-needs/*'",
         "step 8: Click on link pageNavigation (Page2)",
         "step 9: Click on cando CanDoPeanut -> Navigate to page 'special-needs/*/*'",

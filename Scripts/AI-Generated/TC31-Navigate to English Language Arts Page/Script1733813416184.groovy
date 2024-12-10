@@ -50,13 +50,13 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_english_language_arts/div_
 
 WebUI.takeScreenshot(reportLocation + '/TC31/Step 6-Click on div EnglishLanguageArts.png')
 
-"Step 7: Click on link NextPage"
+"Step 7: Click on link default (default)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/english-language-arts/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_english_language_arts/link_NextPage'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_english_language_arts/link_default'))
 
-WebUI.takeScreenshot(reportLocation + '/TC31/Step 7-Click on link NextPage.png')
+WebUI.takeScreenshot(reportLocation + '/TC31/Step 7-Click on link default default.png')
 
 "Step 8: Take full page screenshot as checkpoint"
 

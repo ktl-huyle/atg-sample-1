@@ -11,12 +11,28 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>675b8d53-7698-48ce-81dd-d4ed2ae6ef75</testCaseGuid>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/AI-Generated/TC15-View Shipping Policies and Verify Home Page-test-data</testDataId>
+    </testDataLinks>
+    <variable>
+        <defaultValue>'close-btn'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>04ac1208-6fdd-49df-9b41-0524eb10c00b</id>
+        <masked>false</masked>
+        <name>div_CloseButton_class</name>
+    </variable>
     <variable>
         <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>fed824c0-242d-4c3c-80d8-ec8a71235097</id>
+        <id>1759a4b0-0f8d-41a8-a95e-8abe2b0ef392</id>
         <masked>false</masked>
-        <name>div_productSKUOptions_internalText</name>
+        <name>div_CloseButton_internalText</name>
     </variable>
     <variable>
         <defaultValue>'For subtotals less than $69,'</defaultValue>
@@ -46,4 +62,40 @@
         <masked>false</masked>
         <name>item_shippingPolicies_internalText_3</name>
     </variable>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_CloseButton_class</value>
+        <variableId>04ac1208-6fdd-49df-9b41-0524eb10c00b</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>div_CloseButton_internalText</value>
+        <variableId>1759a4b0-0f8d-41a8-a95e-8abe2b0ef392</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>item_shippingPolicies_internalText</value>
+        <variableId>68aca405-8547-448f-8c17-da6dfe519c58</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>item_shippingPolicies_internalText_1</value>
+        <variableId>ce5e0586-2955-4c77-b3c3-760087f6cb6d</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>item_shippingPolicies_internalText_2</value>
+        <variableId>a5b414f6-9aa6-47d7-be53-00ef89047c0e</variableId>
+    </variableLinks>
+    <variableLinks>
+        <testDataLinkId>0cd7c209-e580-47a1-bbb1-c4ab9a1158b4</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>item_shippingPolicies_internalText_3</value>
+        <variableId>38f734d1-fda5-4c62-842f-0c50ab7e0171</variableId>
+    </variableLinks>
 </TestCaseEntity>

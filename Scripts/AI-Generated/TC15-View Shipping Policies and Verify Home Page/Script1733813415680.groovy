@@ -94,14 +94,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/item_
 
 WebUI.takeScreenshot(reportLocation + '/TC15/Step 11-Click on item shippingPolicies ShippingPolicy3.png')
 
-"Step 12: Click on div productSKUOptions (CustomizeButton) -> Navigate to page ''"
+"Step 12: Click on div CloseButton (CloseButton16) -> Navigate to page ''"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/div_productSKUOptions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/div_productSKUOptions', ['div_productSKUOptions_internalText': div_productSKUOptions_internalText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/div_CloseButton"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/div_CloseButton', ['div_CloseButton_class': div_CloseButton_class, 'div_CloseButton_internalText': div_CloseButton_internalText]))
 
-WebUI.takeScreenshot(reportLocation + '/TC15/Step 12-Click on div productSKUOptions CustomizeButton - Navigate to page .png')
+WebUI.takeScreenshot(reportLocation + '/TC15/Step 12-Click on div CloseButton CloseButton16 - Navigate to page .png')
 
 "Step 13: Take full page screenshot as checkpoint"
 
