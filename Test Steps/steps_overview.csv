@@ -1,0 +1,2062 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+145,Navigate Outdoor Playground Page and Verify Home,"Log in, navigate to Outdoor Playground, and verify return to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to outdoor-playground/*/*
+Step 4: Click on select orderBy
+Step 5: Click on button close -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+118,Explore Educational Technology Products,Login and explore educational technology products. Verify the page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to educational-technology/*
+Step 4: Click on link OverEarHeadphones -> Navigate to page 'educational-technology/*/*'
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+73,Search for Classroom Tables and Verify,Search for classroom tables and verify the product display.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm
+Step 6: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 7: Click on link ScienceLabTables
+Step 8: Click on link pageNavigation (Page22)
+Step 9: Click on link ClassroomSelectTables -> Navigate to page 'furniture/*'
+Step 10: Click on input Search
+Step 11: Enter input value in input SearchTerm
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+72,Navigate to Furniture Section and Verify,Navigate to the furniture section and verify the products.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link Seating -> Navigate to page 'furniture/*'
+Step 5: Click on link furnitureAccessories (ChairAccessories) -> Navigate to page 'furniture/*/*'
+Step 6: Click on select SortOptions
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+70,Login and Navigate to Shopping Cart,"Login and access the shopping cart, verifying the cart display.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /LogonForm
+Step 4: Click on input Username4
+Step 5: Click on input LogonPassword
+Step 6: Click on link SignIn4 -> Navigate to page '/'
+Step 7: Click on link CloseButton
+Step 8: Click on link ShoppingCart5 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+69,Add to Cart and Go to Registration Form,Add items to cart and navigate to the user registration form.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link AddToCart10
+Step 5: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 6: Click on link Register -> Navigate to page '/UserRegistrationForm'
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+66,Complete User Registration After Adding to Cart,Complete user registration after adding items to the cart.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link AddToCart9
+Step 5: Click on link GoToCart4 -> Navigate to page '/UserRegistrationForm'
+Step 6: Click on input Username
+Step 7: Enter input value in input Username2
+Step 8: Click on input Password
+Step 9: Click on input FirstName
+Step 10: Enter input value in input FirstNameField
+Step 11: Click on input LastName
+Step 12: Enter input value in input LastNameField
+Step 13: Click on input Address1
+Step 14: Enter input value in input Address1Field
+Step 15: Click on b CharacterE
+Step 16: Click on input Email
+Step 17: Enter input value in input AreaCode
+Step 18: Enter input value in input PhoneNumber
+Step 19: Click on input MobilePhone
+Step 20: Enter input value in input MobilePhoneNumber
+Step 21: Click on select BirthdayYear
+Step 22: Click on select BirthdayMonth
+Step 23: Click on select BirthdayDate
+Step 24: Click on link Submit -> Navigate to page '/AjaxLogonForm'
+Step 25: Click on link SignIn2 -> Navigate to page ''
+Step 26: Take full page screenshot as checkpoint
+",High,STABLE
+64,Manage Login and Reset Account Information,Login and manage account information including resetting username and password.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on div HomeLoginBanner
+Step 5: Click on input Username2
+Step 6: Click on div header
+Step 7: Click on div header
+Step 8: Click on link SchoolSpecialtyLogo
+Step 9: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 10: Click on html LogonForm
+Step 11: Click on input Username
+Step 12: Enter input value in input Username2
+Step 13: Enter input value in input LogonPassword3
+Step 14: Click on input Username
+Step 15: Enter input value in input Username2
+Step 16: Click on link SignIn3
+Step 17: Click on link RegisterWithOrganization2 -> Navigate to page '/'
+Step 18: Click on input Username2
+Step 19: Enter input value in input Username
+Step 20: Enter input value in input Password2
+Step 21: Click on link Password -> Navigate to page '/ResetPasswordGuestErrorView'
+Step 22: Click on input LogonId
+Step 23: Enter input value in input LogonId
+Step 24: Click on link SendValidationCode2 -> Navigate to page '/PersonChangeServicePasswordForgottenReset'
+Step 25: Click on div ContentWrapper
+Step 26: Enter input value in input ResetPasswordUsername
+Step 27: Click on link SendValidationCode
+Step 28: Click on div ContentWrapper
+Step 29: Enter input value in input ResetPasswordUsername
+Step 30: Click on link SendValidationCode
+Step 31: Click on div ContentWrapper
+Step 32: Enter input value in input ResetPasswordUsername
+Step 33: Click on div ContentWrapper
+Step 34: Enter input value in input ResetPasswordUsername
+Step 35: Click on link SchoolSpecialtyLogo -> Navigate to page '/'
+Step 36: Click on link Username -> Navigate to page '/ForgotUsernameView'
+Step 37: Click on input emailAddress
+Step 38: Enter input value in input emailAddress2
+Step 39: Click on link emailUsername -> Navigate to page '/ForgotUsername'
+Step 40: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 41: Click on link RegisterWithOrganization -> Navigate to page ''
+Step 42: Take full page screenshot as checkpoint
+",High,STABLE
+63,Search for Ribbon Products and Verify Home Page,Search for ribbon products and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Enter input value in input SearchTerm6
+Step 5: Click on link Ribbon -> Navigate to page '/SearchDisplay'
+Step 6: Click on input SearchTerm -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+124,Search and Navigate through Learning Environment Pages,"Log in, search for products, and navigate through various learning environment links.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button Close2
+Step 5: Click on div ContentWrapper2
+Step 6: Click on input SearchTerm
+Step 7: Enter input value in input SearchTerm16 -> Navigate to page 'furniture/*/*'
+Step 8: Click on link ShopByLearningEnvironment -> Navigate to page 'shop-by-learning-environment/*'
+Step 9: Click on div contentWrapper
+Step 10: Click on div contentWrapper
+Step 11: Click on link Kindergarten -> Navigate to page 'shop-by-learning-environment/elementary/*'
+Step 12: Click on link ClassroomResources
+Step 13: Click on link ClassroomResources
+Step 14: Click on link ClassroomResources
+Step 15: Click on link ClassroomResources
+Step 16: Click on link ClassroomResources
+Step 17: Click on link KindergartenMaterialsList -> Navigate to page ''
+Step 18: Take full page screenshot as checkpoint
+",High,STABLE
+126,Manage Preferences and Verify Home Page,"Log in, manage preferences, and reject all options to verify return to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on button ManagePreferences
+Step 5: Click on button RejectAll -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+60,Explore Specialty Shops and Verify Paper Supplies,Navigate through specialty shops and verify paper supplies.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on link bundles (TeacherFavorites) -> Navigate to page 'specialty-shops/*'
+Step 5: Click on link sulphitePaper -> Navigate to page '/*'
+Step 6: Click on header truRaySulphite -> Navigate to page 'specialty-shops/*'
+Step 7: Click on link SpecialNeeds
+Step 8: Click on input SearchTerm
+Step 9: Enter input value in input SearchTerm2
+Step 10: Click on link constructionPaper -> Navigate to page '/SearchDisplay'
+Step 11: Click on link multiSensoryProducts (PaperX122) -> Navigate to page 'paper-and-paper-supplies/*'
+Step 12: Click on link assortedPaper (12Paper)
+Step 13: Click on link assortedPaper (AssortedPaper)
+Step 14: Click on link assortedPaper (AssortedPaper)
+Step 15: Click on link constructionPaper (SunworksBrand)
+Step 16: Take full page screenshot as checkpoint
+",High,STABLE
+55,Search for Sensory Classroom Supplies,Search for sensory classroom supplies and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link PhysicalEducationSport -> Navigate to page '/physical-education-sport'
+Step 5: Click on input Search
+Step 6: Enter input value in input Search2
+Step 7: Click on link Trampoline -> Navigate to page '/SearchDisplay'
+Step 8: Click on link OriginalToyCompanyTrampoline -> Navigate to page '/physical-education-sport'
+Step 9: Click on link ClassroomResources -> Navigate to page 'shop-by-learning-model/*/*'
+Step 10: Click on input Search
+Step 11: Enter input value in input SearchTerm -> Navigate to page '/SearchDisplay'
+Step 12: Click on item searchDisplay (SchoolOfficeSupplies)
+Step 13: Click on link classroomSupplies (SchoolOfficeSupplies)
+Step 14: Click on link FoodSnacksBeverages -> Navigate to page 'cleaning-facility-supplies/*'
+Step 15: Click on input SearchTerm
+Step 16: Enter input value in input SearchTerm2
+Step 17: Click on link Page2
+Step 18: Click on input SearchTerm
+Step 19: Enter input value in input SearchTerm3 -> Navigate to page '/SearchDisplay'
+Step 20: Click on input SearchTerm
+Step 21: Click on link Cheetos
+Step 22: Click on link ArtCraftSupplies -> Navigate to page 'early-childhood/*'
+Step 23: Click on link ShowNextPage
+Step 24: Click on link ShowNextPage
+Step 25: Click on link ShowNextPage
+Step 26: Click on link ShowNextPage
+Step 27: Click on link Page6
+Step 28: Click on link Page7
+Step 29: Click on link Page8
+Step 30: Click on link ShowNextPage2
+Step 31: Click on link sensoryClassrooms (Aroma)
+Step 32: Click on link sensoryClassrooms (SensoryClassrooms)
+Step 33: Click on link Tactile -> Navigate to page 'shop-flaghouse/sensory-solutions/*'
+Step 34: Click on link EdushapeFloatingBlocks
+Step 35: Click on link Page2
+Step 36: Click on link RapperSnappers -> Navigate to page 'shop-flaghouse/*/*/*'
+Step 37: Click on input Quantity
+Step 38: Click on input Quantity
+Step 39: Enter input value in input Quantity2
+Step 40: Click on link AddToCart
+Step 41: Click on link GoToCart -> Navigate to page 'shop-flaghouse/sensory-solutions/*'
+Step 42: Click on link FamilyEngagementEarly -> Navigate to page 'specialty-shops/*/*'
+Step 43: Click on link AbilitationsFacet
+Step 44: Click on link SuperDuperFacet
+Step 45: Click on link ClassroomResources -> Navigate to page '/classroom-resources'
+Step 46: Click on link SchoolOfficeSupply -> Navigate to page 'specialty-shops/*/*'
+Step 47: Click on link AdaptedInclusiveFacet
+Step 48: Click on link AdaptedPE -> Navigate to page 'physical-education-sport/*'
+Step 49: Click on link Page2
+Step 50: Click on link Page3
+Step 51: Click on link Page4
+Step 52: Click on input Search3
+Step 53: Enter input value in input Search4 -> Navigate to page '/SearchDisplay'
+Step 54: Click on link bulletinBoardSets (GymnicJuniorHopBall)
+Step 55: Click on link productItems (GymnicJuniorHopBall2) -> Navigate to page '/*'
+Step 56: Click on link gymnicProducts (GymnicJuniorHopBall)
+Step 57: Take full page screenshot as checkpoint
+",High,STABLE
+128,Navigate to Specialty Shops and Verify Page,"Log in, accept cookies, and access various products in the Specialty Shops.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /califone
+Step 4: Click on button AcceptAll
+Step 5: Click on link Headphones -> Navigate to page 'educational-technology/*'
+Step 6: Click on link educationalTechnology (Earmuffs)
+Step 7: Click on link educationalTechnology (OverEarHeadphones2)
+Step 8: Click on link Wireless -> Navigate to page '/califone'
+Step 9: Click on link TeacherFavoriteCalifone -> Navigate to page 'specialty-shops/*/*'
+Step 10: Take full page screenshot as checkpoint
+",High,STABLE
+52,Reset Forgotten Password and Verify Home Page,Reset password using validation code and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /AjaxLogonForm
+Step 4: Enter input value in input LogonPassword
+Step 5: Click on link SignIn
+Step 6: Click on link ForgotPassword -> Navigate to page '/ResetPasswordGuestErrorView'
+Step 7: Click on input LogonId
+Step 8: Enter input value in input LogonId
+Step 9: Click on link SendValidationCode -> Navigate to page '/ResetPasswordForm'
+Step 10: Click on input ValidationCode
+Step 11: Click on input ValidationCode
+Step 12: Enter input value in input ValidationCode2
+Step 13: Click on input NewPassword
+Step 14: Enter input value in input NewPassword2
+Step 15: Click on input VerifyPassword
+Step 16: Enter input value in input VerifyPassword2
+Step 17: Click on link ChangePassword -> Navigate to page '/PersonChangeServicePasswordForgottenReset'
+Step 18: Click on input ValidationCode -> Navigate to page ''
+Step 19: Take full page screenshot as checkpoint
+",High,STABLE
+51,Search for Products and Verify Search Display,Conduct a search for specific terms and verify the search display.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on div SearchTermWrapper3
+Step 5: Click on input SearchTerm3
+Step 6: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+50,Search for Construction Paper and Verify Home Page,"Navigate to construction paper supplies, perform a search, and verify the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to paper-and-paper-supplies/paper-and-paper-supplies-construction-paper/*
+Step 4: Click on header PageHeading
+Step 5: Click on div shopAllSupplies (ShopAllChildcraft)
+Step 6: Click on input Search
+Step 7: Enter input value in input Search2 -> Navigate to page '/SearchDisplay'
+Step 8: Click on link multiSensoryProducts (PaperX122) -> Navigate to page 'paper-and-paper-supplies/*'
+Step 9: Click on link ChildcraftConstructionPaperYellow -> Navigate to page 'paper-and-paper-supplies/paper-and-paper-supplies-construction-paper/*'
+Step 10: Click on div ItemSKU -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",High,STABLE
+129,Search for Products and Verify Search Display,"Log in, search for products, and verify the search display after navigating through results.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button AcceptAll2
+Step 5: Click on link SignInCreateAccount5 -> Navigate to page '/shop-our-products'
+Step 6: Click on input Search3 -> Navigate to page '/SearchDisplay'
+Step 7: Click on input SearchTerm3 -> Navigate to page '/*'
+Step 8: Click on link productImages (ProductImages8)
+Step 9: Click on link CloseModal2 -> Navigate to page '/SearchDisplay'
+Step 10: Click on input SearchTerm
+Step 11: Take full page screenshot as checkpoint
+",High,STABLE
+46,Search Products in Shop by Learning Model,Search for products in the Shop by Learning Model section and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to shop-by-learning-model/*/*
+Step 4: Click on input SearchTerm -> Navigate to page '/SearchDisplay'
+Step 5: Click on input SearchTerm3 -> Navigate to page '/*'
+Step 6: Click on div ContentWrapper
+Step 7: Click on image productImages (ProductImage50)
+Step 8: Click on image productImages (ProductImage50)
+Step 9: Click on div ProductLongDescription
+Step 10: Click on button ShowMore3
+Step 11: Click on div Specifications -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+76,Navigate to Art Supplies and Verify Products,Navigate to art supplies and verify the product images.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to art-supplies-craft-supplies/*/*
+Step 4: Click on link Page1
+Step 5: Click on select ItemsPerPage
+Step 6: Click on link artSupplies (ExclusiveGlazesAndCeramics) -> Navigate to page 'art-supplies-craft-supplies/*/*/*'
+Step 7: Click on image productImages (ProductImage)
+Step 8: Click on image productImages (ProductMainImage)
+Step 9: Click on image productImages (ProductImage)
+Step 10: Click on image productImages (ProductImage2)
+Step 11: Click on image ProductMainImage2 -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+77,Select Ceramics and Verify Home Page,Select ceramics supplies and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link CeramicsSculpture -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 5: Click on link artSupplies (Glazes) -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 6: Click on select ItemsPerPage
+Step 7: Click on div SaxCrystal -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+123,Verify Physical Education Sport Page After Login,"Log in, accept all cookies, and interact with progress bar to verify the Sportime page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /physical-education-sport
+Step 4: Click on button AcceptAll
+Step 5: Click on div ProgressBar
+Step 6: Click on div ProgressBar
+Step 7: Click on div ProgressBar
+Step 8: Click on image object -> Navigate to page '/sportime'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+108,Explore Physical Education Products and Verify Page,"Login, explore physical education products, and verify the page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to physical-education-sport/*/*/*
+Step 4: Click on image ProductThumbnail
+Step 5: Click on image ProductThumbnail
+Step 6: Click on link CloseModal -> Navigate to page 'physical-education-sport/*/*'
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+116,Search for Products and Verify Search Display,"Login, search for products, and verify the search display.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link AddToCart20
+Step 5: Click on link CloseMiniShopCart
+Step 6: Click on input SearchTerm3
+Step 7: Enter input value in input SearchTerm5
+Step 8: Click on link Search2 -> Navigate to page '/SearchDisplay'
+Step 9: Click on link addToCart (AddToCart87)
+Step 10: Click on div MiniShopCartProductAdded
+Step 11: Click on div SearchContainer
+Step 12: Enter input value in input SearchTerm2
+Step 13: Click on link Search
+Step 14: Click on input SearchTerm
+Step 15: Enter input value in input SearchTerm2
+Step 16: Click on link Search
+Step 17: Click on input SearchTerm
+Step 18: Enter input value in input SearchTerm2
+Step 19: Click on link Search
+Step 20: Take full page screenshot as checkpoint
+",High,STABLE
+115,Explore Furniture Products and Verify Page,"Login, explore furniture products, and verify the page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to furniture/*/*
+Step 4: Click on button close
+Step 5: Click on link Page22
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+114,Search and Verify Homepage After Adding Products,"Login, search for products, and verify the homepage after adding items.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on input SearchTerm
+Step 5: Click on link MoveToPage2 -> Navigate to page '/*'
+Step 6: Click on button ShowMore3 -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+112,Explore Careers and Verify Homepage,Login and explore career opportunities. Verify the homepage.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /locations-mansfield
+Step 4: Click on button Close
+Step 5: Click on link Careers -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+111,Explore Career Technical Facility Supplies,Login and explore facility supplies. Verify the page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to school-safety-supplies-and-products/*
+Step 4: Click on link HeaderLogo -> Navigate to page '/'
+Step 5: Click on link nextPage
+Step 6: Click on div ContentWrapper2
+Step 7: Click on link nextPage
+Step 8: Click on link nextPage
+Step 9: Click on link FacilitySupplies -> Navigate to page 'career-technical/facility-supplies'
+Step 10: Take full page screenshot as checkpoint
+",High,STABLE
+120,Contact Us and Verify Homepage,Login and contact support. Verify the homepage.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /LogonForm
+Step 4: Click on input Username
+Step 5: Click on input LogonPassword6
+Step 6: Enter input value in input LogonPassword3
+Step 7: Click on link ContactUs -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+109,Search for Science Products and Verify Homepage,"Login, search for science products, and verify the homepage.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on input SearchTerm3
+Step 5: Enter input value in input SearchTerm15 -> Navigate to page '/shop-flaghouse'
+Step 6: Click on input searchTerm3
+Step 7: Enter input value in input searchTerm4 -> Navigate to page '/SearchDisplay'
+Step 8: Click on link productItems (SportimeCurlUpYogaMats) -> Navigate to page '/*'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+101,Explore and Verify School Office Supplies,"Login, explore school office supplies, and verify the page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button AcceptAll2
+Step 5: Click on input SearchTerm
+Step 6: Enter input value in input SearchTerm13 -> Navigate to page 'school-office-supplies/*/*'
+Step 7: Click on link schoolOfficeSupplies (DurableMotionDeskReferenceSystem)
+Step 8: Click on link schoolOfficeSupplies (FellowesDesktopReferenceRack)
+Step 9: Click on link schoolOfficeSupplies (DurableSherpaDeskReferenceSystem) -> Navigate to page 'school-office-supplies/*/*/*'
+Step 10: Click on link ProductImages
+Step 11: Click on link CloseModal -> Navigate to page 'school-office-supplies/*/*'
+Step 12: Click on link schoolOfficeSupplies (DurableInstaviewDesktopReferenceSystem) -> Navigate to page 'school-office-supplies/*/*/*'
+Step 13: Click on image productImages (ProductImage)
+Step 14: Click on image productImages (ProductImage2)
+Step 15: Click on image productImages (ProductImage3) -> Navigate to page 'school-office-supplies/*/*'
+Step 16: Click on link NextDay -> Navigate to page 'school-office-supplies/*/*/*'
+Step 17: Take full page screenshot as checkpoint
+",High,STABLE
+122,Navigate to Early Childhood and Verify Page,"Log in, close cookie banner, and navigate to Outdoor Learning page to verify its content.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /early-childhood
+Step 4: Click on button CloseCookieBanner
+Step 5: Click on link OutdoorLearning -> Navigate to page 'early-childhood/*'
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+99,Search for Products and Verify Results,"Login, perform a search, and verify the search display.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Enter input value in input SearchTerm12 -> Navigate to page '/*'
+Step 5: Click on div SearchTermWrapper3
+Step 6: Click on input SearchTerm3
+Step 7: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+92,Search for Products and Verify Homepage,"Login, search for products, and verify the homepage after viewing product details.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /shop-our-products
+Step 4: Click on input Search
+Step 5: Enter input value in input Search2
+Step 6: Click on link AmplificationSpeaker -> Navigate to page '/SearchDisplay'
+Step 7: Click on link productItems (BluetoothPASystem) -> Navigate to page '/*'
+Step 8: Click on button ShowMore
+Step 9: Click on link showMoreImages (ProductImages5)
+Step 10: Click on link CloseModal2 -> Navigate to page '/SearchDisplay'
+Step 11: Click on select pageSizeOptions (object5)
+Step 12: Click on select pageSizeOptions (object5) -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+90,Explore Art Supplies and Verify Page,Login and navigate through various art supplies. Click through sections and verify the page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to art-supplies-craft-supplies/*/*
+Step 4: Click on input Search4
+Step 5: Click on link ArtSuppliesCraftSupplies -> Navigate to page '/art-supplies-craft-supplies'
+Step 6: Click on link artSupplies (Markers) -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 7: Click on link artSupplies (WashableMarkers)
+Step 8: Click on link WashableMarkers2 -> Navigate to page 'art-supplies-craft-supplies-markers/*'
+Step 9: Click on link pageNavigation -> Navigate to page '/art-supplies-craft-supplies'
+Step 10: Click on link artSupplies (CraftSupplies2) -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 11: Click on link artSupplies (PaperCrafts) -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 12: Click on link artSupplies (SaxSketchbookKit) -> Navigate to page 'art-supplies-craft-supplies/*/*/*'
+Step 13: Click on button showMore -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 14: Click on div LeftNavigation -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 15: Click on link artSupplies (FabricMarkers)
+Step 16: Click on link BeadsSupplies -> Navigate to page '/art-supplies-craft-supplies'
+Step 17: Click on link artSupplies (ArtPaperBoards) -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 18: Click on link artSupplies (ConstructionPaper) -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 19: Click on link FacetValueBlack
+Step 20: Click on link artSupplies (SaxColoredArtPaper) -> Navigate to page 'art-supplies-craft-supplies/*/*/*'
+Step 21: Take full page screenshot as checkpoint
+",High,STABLE
+89,Request Catalogs and Verify Homepage,"Login, request catalogs, and verify the homepage.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button AcceptAll2
+Step 5: Click on link RequestCatalogs -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+121,User Sign In and Verify Logon Form,"Navigate to home, log in, and access the logon form to verify its presence.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link SignInCreateAccount3 -> Navigate to page '/LogonForm'
+Step 5: Click on input Username3
+Step 6: Click on link SignInCreateAccount
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+87,Explore Special Needs Resources and Verify Homepage,Login and navigate through special needs resources. Search for items and verify the homepage.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to special-needs/resources
+Step 4: Click on link PreK4To5 -> Navigate to page 'shop-by-learning-environment/early-childhood/*'
+Step 5: Click on link SpecialNeeds -> Navigate to page 'shop-by-learning-model/*/*'
+Step 6: Click on link Page2
+Step 7: Click on link GrossMotor -> Navigate to page 'special-needs/*'
+Step 8: Click on link pageNavigation (Page22)
+Step 9: Click on link CanDoPeanut -> Navigate to page 'special-needs/*/*'
+Step 10: Click on span ShippingPolicyDetails
+Step 11: Click on div SidebarOverlay
+Step 12: Click on button ShowMore
+Step 13: Click on input Search4 -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",High,STABLE
+86,Search and Verify Homepage After Adding Items,"Login, add items to the cart, and verify the homepage after navigating through multiple pages.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link AddToCart13
+Step 5: Click on link ContinueShopping2
+Step 6: Click on link nextPage
+Step 7: Click on link nextPage
+Step 8: Click on link nextPage
+Step 9: Click on link nextPage
+Step 10: Click on link nextPage
+Step 11: Take full page screenshot as checkpoint
+",High,STABLE
+45,Review Shipping Policy and Verify Home Page,"Review shipping policy details and navigate through product images, verifying the home page afterward.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on span ShippingPolicyDetails
+Step 5: Click on div SidebarOverlay
+Step 6: Click on image productImages (ProductImage50)
+Step 7: Click on image productImages (ProductImage50)
+Step 8: Click on button ShowMore3
+Step 9: Click on link productImages (ProductImages3) -> Navigate to page '/SearchDisplay'
+Step 10: Click on label ShowMore
+Step 11: Click on input SearchTerm3 -> Navigate to page '/*'
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+130,Verify Physical Education Sport Page Navigation,"Log in, accept cookies, and navigate through various physical education links.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to physical-education-sport/*/*/*
+Step 4: Click on button AcceptAll2
+Step 5: Click on link BadmintonEquipment
+Step 6: Click on link physicalEducation (JayproGameStandard)
+Step 7: Click on link physicalEducation (JayproGameStandard2)
+Step 8: Click on link VolleyballNets -> Navigate to page 'physical-education-sport/*/*/*/*'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+42,Login and Register with Organization,Login and navigate to the registration page. Enter credentials and verify successful registration.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 5: Click on input Username
+Step 6: Enter input value in input Username2
+Step 7: Enter input value in input LogonPassword3
+Step 8: Click on link RegisterWithOrganization -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+132,Submit Student Art and Verify Navigation,"Log in, submit student art, and verify navigation back to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /project-adventure-resources
+Step 4: Click on button CloseButton
+Step 5: Click on div ColumnContent -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+39,Verify Account Creation Navigation from Back to School Page,"Login and navigate to create an account from the back to school page, then verify the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on div StayOnTrack -> Navigate to page '/back-to-school'
+Step 5: Click on div BackToSchoolMessage
+Step 6: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 7: Click on link SignIn3
+Step 8: Click on input Search
+Step 9: Enter input value in input Search2
+Step 10: Click on div EmptyDiv -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",High,STABLE
+3,Verify Search with Specific Terms on Home Page,Login and perform a search with specific terms to verify that the search results display correctly.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on input SearchTerm3
+Step 5: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+1,Verify Search Functionality on Home Page,"Navigate to home page, login, and perform a search to verify the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 6: Click on input SearchTerm
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+204,Navigate to Logon Form after Logoff,"Login, log off, and navigate to the logon form.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /Logoff
+Step 4: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+203,Close Page Furniture and Verify Home Page,"Login, interact with the furniture page, and verify the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to furniture/*/*/*
+Step 4: Click on button close
+Step 5: Click on header PageHeading
+Step 6: Click on div ColumnContent -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+131,Explore English Language Arts Page After Login,Log in and navigate through various content areas in the English Language Arts section.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to english-language-arts/*
+Step 4: Click on header PageHeading
+Step 5: Click on html PageContent
+Step 6: Click on div ProductSKU
+Step 7: Click on div ProductSKU
+Step 8: Click on div ColumnContent -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+134,Navigate to Student Art Submission and Verify Home Page,"Log in, navigate to student art submission, and verify the return to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /submit-student-art
+Step 4: Click on button CloseButton
+Step 5: Click on link studentArtSubmission (SubmitStudentArt)
+Step 6: Click on link studentArtSubmission (ContestRules) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+9,Verify Home Page After Browsing Additional Images,"Login and browse additional product images, then verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Browse and view additional product images
+	- Step 1: Click on image productImages (ProductImage)
+	- Step 2: Click on image productImages (ProductImage3)
+	- Step 3: Click on image productImages (ProductImage2)
+	- Step 4: Click on link showMoreImages (ShowMoreImages2)
+	- Step 5: Click on image productImages (ProductImage20)
+	- Step 6: Click on image productImages (ProductMainImage5)
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+135,Search for School Office Supplies and Verify Results,"Log in, search for office supplies, and verify the search display results.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm17 -> Navigate to page 'school-office-supplies/*/*/*'
+Step 6: Click on image productImages (ProductImage4)
+Step 7: Click on image productImages (ProductImage5) -> Navigate to page 'school-office-supplies/*/*'
+Step 8: Click on input SearchTermFieldAlt5 -> Navigate to page '/SearchDisplay'
+Step 9: Click on input SearchTerm
+Step 10: Click on input SearchTerm
+Step 11: Click on input SearchTerm
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+136,Place Order and Verify Order Item Display View,"Log in, place an order, and verify the order item display view.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /AjaxOrderItemDisplayView
+Step 4: Click on link PlaceYourOrder3
+Step 5: Click on link Actions
+Step 6: Click on link CloseActions
+Step 7: Click on link AddNewCard2
+Step 8: Click on div BillingMethod
+Step 9: Click on div BillingMethod
+Step 10: Click on div BillingMethod
+Step 11: Click on div BillingMethod
+Step 12: Click on div BillingMethod
+Step 13: Click on div PaymentSelectionWarning
+Step 14: Click on div ContentShadow
+Step 15: Click on div BillingMethod
+Step 16: Click on div BillingMethod
+Step 17: Click on select BillingMethod2
+Step 18: Click on link PlaceYourOrder4 -> Navigate to page '/OrderShippingBillingConfirmationView'
+Step 19: Click on div FreeShippingTrigger
+Step 20: Click on div SidebarOverlay -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 21: Take full page screenshot as checkpoint
+",High,STABLE
+140,Manage Login Errors and Verify Home Page,"Log in, manage login errors, and verify return to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input Username3
+Step 5: Enter input value in input Username4
+Step 6: Enter input value in input Password3
+Step 7: Click on input Username5
+Step 8: Enter input value in input Username6
+Step 9: Click on div object6
+Step 10: Click on button CONFIRM
+Step 11: Click on div ErrorMessage -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
+",High,STABLE
+143,View Product Images and Verify Home Page,"Log in, view multiple product images, and verify return to home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on html HomePage
+Step 5: Click on image productImages (ProductImage50)
+Step 6: Click on image productImages (ProductImage50)
+Step 7: Click on image productImages (ProductImage50)
+Step 8: Click on link showMoreImages (MoreImages3)
+Step 9: Click on div SliderNav
+Step 10: Click on image productImages (ProductImage45)
+Step 11: Click on image productImages (ProductImage45)
+Step 12: Click on image productImages (ProductImage45) -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+192,Navigate and Verify Shop Flaghouse Page,Login and navigate through the Shop Flaghouse. Verify the general education section.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to shop-flaghouse/*/*
+Step 4: Click on link Page2
+Step 5: Click on div categoryContainer (Container)
+Step 6: Click on link CATCHStarterSet -> Navigate to page 'shop-flaghouse/shop-flaghouse-general-education/shop-flaghouse-general-education-catch/*'
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+190,Reject All Cookies and Verify Home Page,"Login, reject all cookies, and verify that the home page loads correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on button RejectAll
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+7,Verify Search and Product Navigation from Search Display,"Login and search for a term, then navigate through product items and verify search results.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on div SearchTermWrapper
+Step 5: Enter input value in input SearchTerm2
+Step 6: Click on link rolePlayDressUpItems (RolePlayDressUpAndCostumes43) -> Navigate to page '/*'
+Step 7: Click on input SearchTerm3
+Step 8: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+4,Verify Home Page Navigation After Search,"Search for a term, navigate back to the home page, and verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm
+Step 6: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 7: Click on link productItems (PaconHeavyDutyPosterBoard) -> Navigate to page '/*'
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+10,Verify Home Page After Closing Modal for More Images,"Login, view more images in a modal, close it, and verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on button Close
+Step 5: Click on link showMoreImages (ProductImagesModal)
+Step 6: Click on link CloseModal -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+23,Verify Search Functionality with Search Container,Login and perform a search to verify that the search results display correctly.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 6: Click on div SearchContainer
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+35,Verify Cart Functionality with Multiple Additions,"Login, add multiple items to the cart, then verify that the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to */*
+Step 4: Click on link ShoppingCart2
+Step 5: Click on input SearchTerm8
+Step 6: Enter input value in input SearchTerm9 -> Navigate to page '/SearchDisplay'
+Step 7: Click on link LaminatingSupplies
+Step 8: Click on link addToCart (AddToCart87)
+Step 9: Click on div MiniShopCartProductAdded
+Step 10: Click on link addToCart (AddToCart87)
+Step 11: Click on div MiniShopCartProductAdded
+Step 12: Click on div PagingControls
+Step 13: Click on div PageNumber
+Step 14: Click on link pageNavigation (MoveToPage43)
+Step 15: Take full page screenshot as checkpoint
+",High,STABLE
+32,Verify Navigation and Page Verification for Educational Resources,Login and navigate through educational resources to verify that the page displays correctly.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button Close2
+Step 5: Click on div ELAGamesActivities -> Navigate to page 'english-language-arts/*'
+Step 6: Click on div EnglishLanguageArts
+Step 7: Click on link NextPage
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+31,Verify Search Functionality with Additional Image Viewing,"Login and perform a search, then view additional images to verify that the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm10 -> Navigate to page '/*'
+Step 5: Click on link showMoreImages (FiskarsSureCutPortable)
+Step 6: Click on link CloseModal2 -> Navigate to page '/SearchDisplay'
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+30,Verify Home Page After Sorting and Filtering Products,"Login, perform sorting and filtering, and verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Click on input SearchTerm
+Step 6: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 7: Click on select pageSizeOptions (object5)
+Step 8: Click on select pageSizeOptions (object5)
+Step 9: Click on select sortOptions (OrderBy)
+Step 10: Click on select sortOptions (OrderBy)
+Step 11: Click on link productItems (EverlastGroperzHandHolds) -> Navigate to page '/*'
+Step 12: Click on link showMoreImages (ProductImages2)
+Step 13: Click on link CloseModal -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",High,STABLE
+29,Verify Home Page After Viewing Product Images Modal,"Login and view product images, then verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on header pageTitles (ClassroomSelect3Shelves)
+Step 5: Click on div shopAllCategories (ShopAllClassroomSelect)
+Step 6: Click on link showMoreImages (ImageForClassroomSelect)
+Step 7: Click on image productImages (ProductImage45)
+Step 8: Click on link CloseModal -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",High,STABLE
+27,Verify Product Quantity Setting and Cart Addition,"Login, set product quantity, and add to cart to verify that the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Set product quantity and add to cart
+	- Step 1: Click on input quantity (Quantity15)
+	- Step 2: Enter input value in input quantity (Quantity16)
+	- Step 3: Click on link AddToCart35
+	- Step 4: Click on input SearchTerm3
+	- Step 5: Enter input value in input SearchTerm4
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+12,Verify Search Functionality with Page Navigation,"Login, perform a search, and navigate through pages to verify that the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Enter input value in input searchTerm -> Navigate to page '/SearchDisplay'
+Step 5: Click on link pageNavigation (MoveToPage43)
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+117,Explore School Essentials and Verify Homepage,"Login, explore school essentials, and verify the homepage.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on button Close2
+Step 5: Click on link ExploreSchoolEssentials -> Navigate to page '/back-to-school'
+Step 6: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 7: Click on link SignIn3 -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+22,Verify Item Removal from Shopping Cart,"Login, add an item to the cart, remove it, and verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link AddToCart3 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 5: Click on link ShoppingCart
+Step 6: Click on div ShoppingCartPopup
+Step 7: Click on link removeItems (Remove7) -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+20,Verify Search Results After Viewing Product Details,"Login, view product details, and verify that the search results display correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /AjaxOrderItemDisplayView
+Step 4: Click on div dynamicObject (object)
+Step 5: Click on div ListPrice
+Step 6: Click on link productItems (BulmanPaperCutterTower) -> Navigate to page '/*'
+Step 7: Click on button ShowMore
+Step 8: Click on span ShippingPolicyDetails
+Step 9: Click on div SidebarOverlay
+Step 10: Click on div breadcrumbNavigation (BreadcrumbNavigation)
+Step 11: Click on div breadcrumbNavigation (BreadcrumbNavigation)
+Step 12: Click on div breadcrumbNavigation (BreadcrumbNavigation2)
+Step 13: Click on div object
+Step 14: Click on header pageTitles (BulmanPaperCutter)
+Step 15: Click on header pageTitles (BulmanPaperCutter)
+Step 16: Click on header pageTitles (BulmanPaperCutter)
+Step 17: Click on link showMoreImages (ProductImages)
+Step 18: Click on image productImages (ProductImage45)
+Step 19: Click on link CloseModal
+Step 20: Click on div object2 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 21: Click on input SearchTerm
+Step 22: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 23: Take full page screenshot as checkpoint
+",High,STABLE
+19,Verify Home Page After Viewing Product Images,"Login and view multiple product images, then verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on button Close
+Step 5: Click on link productImages (ProductImagesModal2)
+Step 6: View multiple product images
+	- Step 1: Click on image productImages (productImage5)
+	- Step 2: Click on image productImages (ProductImage21)
+	- Step 3: Click on image productImages (ProductImage20)
+	- Step 4: Click on image productImages (ProductImage30)
+	- Step 5: Click on image productImages (ProductImage31)
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+17,Verify Account Creation Navigation from Home Page,"Login and navigate to create an account, then verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link SignInCreateAccount -> Navigate to page '/LogonForm'
+Step 5: Click on input Username
+Step 6: Click on link SignIn3 -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+16,Verify Login Process from Logon Form,"Navigate to the logon form, login, and verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /LogonForm
+Step 4: Click on input LogonPassword
+Step 5: Enter input value in input LogonPassword2
+Step 6: Click on link SignIn2 -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,STABLE
+13,Verify Home Page After Viewing Shipping Policies,"Login and navigate through shipping policies, then verify that the home page displays correctly.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on button Close
+Step 5: Click on span ShippingPolicyDetails
+Step 6: Click on list ShippingPolicy
+Step 7: Click on item shippingPolicies (ShippingPolicy)
+Step 8: Click on list ShippingPolicy
+Step 9: Click on item shippingPolicies (ShippingPolicy2)
+Step 10: Click on item shippingPolicies (ShippingPolicy3)
+Step 11: Click on item shippingPolicies (ShippingPolicy3)
+Step 12: Click on div closeButtons (productSKUOptions) -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+201,Explore Learning Environment and Verify English Language Arts Page,Login and explore learning materials. Verify the English Language Arts resources.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to shop-by-learning-environment/*/*/*
+Step 4: Click on link Grade4Facet
+Step 5: Click on link Grade3to4 -> Navigate to page 'shop-by-learning-environment/elementary/*'
+Step 6: Click on link ExploreLearningMaterials
+Step 7: Click on link learningEnvironment (QuietAndSensorySpace) -> Navigate to page 'shop-by-learning-environment/*/*/*'
+Step 8: Click on link ClassroomSetsCenters -> Navigate to page 'english-language-arts/*'
+Step 9: Click on div ContentWrapper -> Navigate to page 'shop-by-learning-environment/*/*/*'
+Step 10: Click on link ShopByLearningEnvironment -> Navigate to page '/shop-by-learning-environment'
+Step 11: Click on link Grade3to42 -> Navigate to page 'shop-by-learning-environment/elementary/*'
+Step 12: Click on link ExploreClassroomResources
+Step 13: Click on link learningEnvironment (QuietAndSensorySpace) -> Navigate to page 'shop-by-learning-environment/*/*/*'
+Step 14: Click on link LearningResources
+Step 15: Click on link EnglishLanguageArts -> Navigate to page 'a-plus-deals/specialty-priced/*'
+Step 16: Click on link InstructionPractice -> Navigate to page 'english-language-arts/*'
+Step 17: Click on link Page2
+Step 18: Click on div EnglishLanguageArts
+Step 19: Click on link Page3
+Step 20: Click on link Page4
+Step 21: Click on link Page5
+Step 22: Take full page screenshot as checkpoint
+",Medium,NEW
+195,Search for Composition Books and Verify Results,"Login, search for composition books, and verify the search display results.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input searchTerm
+Step 5: Click on input SearchTerm17
+Step 6: Click on input SearchTerm17
+Step 7: Enter input value in input SearchTerm183
+Step 8: Click on link CompositionBook
+Step 9: Click on link CompositionBook2 -> Navigate to page '/SearchDisplay'
+Step 10: Take full page screenshot as checkpoint
+",Medium,NEW
+191,Close Shopping Cart and Verify Home Page,"Login, navigate to the shopping cart, close it, and verify the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /LogonForm
+Step 4: Click on button Close
+Step 5: Click on input Username3
+Step 6: Click on link SignIn4 -> Navigate to page '/'
+Step 7: Click on link CloseButton
+Step 8: Click on link shoppingCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 9: Click on select ShippingAddress -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium,NEW
+189,Search Science Supplies and Verify Product Page,Login and search for science supplies. Navigate through categories and verify the middle school classroom supplies page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm17
+Step 5: Enter input value in input SearchTerm182 -> Navigate to page '/science-supplies-and-products'
+Step 6: Click on link scienceCurriculum (CoreCurriculum) -> Navigate to page 'science-supplies-and-products/*'
+Step 7: Click on div SearchTermWrapper
+Step 8: Click on input Search3
+Step 9: Enter input value in input Search5 -> Navigate to page '/SearchDisplay'
+Step 10: Click on div ideasResources (ideasResources)
+Step 11: Click on p ASTROBRIGHTS
+Step 12: Click on link MiddleSchoolClassroomSupplies -> Navigate to page '/bundles-middle-school-classroom'
+Step 13: Take full page screenshot as checkpoint
+",Medium,NEW
+198,Show More Products on Home Page,"Login, search for products, and click to show more items on the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on div SearchTermWrapper4
+Step 5: Click on input SearchTerm17
+Step 6: Enter input value in input SearchTerm18 -> Navigate to page '/SearchDisplay'
+Step 7: Click on link productItems (SchoolSmartBigDigitTimer) -> Navigate to page '/*'
+Step 8: Click on button ShowMore2 -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+187,Search and Verify Product Information on Home Page,Login and perform various searches for products. Navigate through product details and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm17
+Step 5: Enter input value in input SearchTerm18 -> Navigate to page '/SearchDisplay'
+Step 6: Click on input SearchTerm16
+Step 7: Enter input value in input SearchTerm14
+Step 8: Click on link pageNavigation (Page26)
+Step 9: Click on select pageSizeOptions (PageSize)
+Step 10: Click on select pageSizeOptions (ItemsPerPage)
+Step 11: Click on select pageSizeOptions (ItemsPerPage)
+Step 12: Click on div productDescriptions (ProductDescription)
+Step 13: Click on link clearanceItems (Clearance)
+Step 14: Click on link clearanceItems (ClassroomPack)
+Step 15: Click on div productInfo
+Step 16: Click on div productPrice (ProductPrice)
+Step 17: Click on div productDetails (ProductDetails)
+Step 18: Click on div productPrice (ProductPrice2)
+Step 19: Click on div productInfo
+Step 20: Click on span OfferPrice
+Step 21: Click on div productDescriptions (ProductDescription2) -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",Low,NEW
+193,Add Multiple Products to Cart and Verify Art Supplies Page,"Login, add multiple products to the cart, and verify the art supplies craft supplies page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Enter input value in input quantity (Quantity)
+Step 5: Click on link addToCart (AddToCart)
+Step 6: Click on link ContinueShopping2
+Step 7: Click on link rolePlayDressUpItems (RoylcoPreschoolPaper) -> Navigate to page '/*'
+Step 8: Click on image productImages (ProductImage1)
+Step 9: Click on image productImages (ProductImage2)
+Step 10: Click on image royalcoPreschoolPaper (RoylcoPreschoolPaper) -> Navigate to page '/SearchDisplay'
+Step 11: Click on link pageNavigation (Page26)
+Step 12: Click on input SearchTerm16
+Step 13: Enter input value in input SearchTerm14
+Step 14: Click on link pageNavigation (Page26)
+Step 15: Click on input SearchTerm16
+Step 16: Click on div SearchTermWrapper
+Step 17: Click on input SearchTerm16
+Step 18: Enter input value in input SearchTerm14
+Step 19: Click on input SearchTerm16
+Step 20: Enter input value in input SearchTerm14
+Step 21: Click on link Search
+Step 22: Click on link rolePlayDressUpItems (CreativityStreetFelt) -> Navigate to page '/*'
+Step 23: Click on image productImages (ProductImage2)
+Step 24: Click on image royalcoPreschoolPaper (ProductImage12) -> Navigate to page '/SearchDisplay'
+Step 25: Click on link artSupplies (Markers) -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 26: Click on link artSupplies (CarvingTools) -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 27: Click on link artSupplies2
+Step 28: Take full page screenshot as checkpoint
+",Low,NEW
+197,Explore Science Supplies and Verify Curriculum Pages,Login and navigate through science supplies. Verify various curriculum pages.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to science-supplies-and-products/*/*
+Step 4: Click on link nextPage (NextPage)
+Step 5: Click on link nextPage (NextPage2)
+Step 6: Click on link pageNavigation (Page4)
+Step 7: Click on link measuringTools (MeasuringTools)
+Step 8: Click on link measuringTools (MeasuringTools2)
+Step 9: Click on link pageNavigation (Page6)
+Step 10: Click on link pageNavigation (Page7)
+Step 11: Click on link pageNavigation (Page8)
+Step 12: Click on link pageNavigation (Page9)
+Step 13: Click on link pageNavigation (Page10)
+Step 14: Click on link pageNavigation (Page102)
+Step 15: Click on link 6-9Grade -> Navigate to page 'shop-by-learning-environment/*/*'
+Step 16: Click on link Science -> Navigate to page '/science-supplies-and-products'
+Step 17: Click on link scienceCurriculum (ElementaryScience) -> Navigate to page 'science-supplies-and-products/*'
+Step 18: Click on link scienceTopics (EarthScience) -> Navigate to page 'science-supplies-and-products/elementary-science/*'
+Step 19: Click on link astronomyTopics (AstronomySpace)
+Step 20: Click on link astronomyTopics (Weather)
+Step 21: Click on link GeographyLandforms -> Navigate to page 'science-supplies-and-products/*/*/*'
+Step 22: Click on link EarthScience2 -> Navigate to page 'science-supplies-and-products/elementary-science/*'
+Step 23: Click on link ElementaryScience -> Navigate to page 'science-supplies-and-products/*'
+Step 24: Click on link scienceTopics (PhysicalScience) -> Navigate to page 'science-supplies-and-products/elementary-science/*'
+Step 25: Click on link NextPage
+Step 26: Click on link ColorMixingGlass
+Step 27: Click on link Science -> Navigate to page '/science-supplies-and-products'
+Step 28: Click on link scienceCurriculum (Physics) -> Navigate to page 'science-supplies-and-products/*'
+Step 29: Click on link physicsTopics (Electricity) -> Navigate to page 'science-supplies-and-products/*/*'
+Step 30: Click on link pageNavigation (MoveToPage2)
+Step 31: Click on link pageNavigation (Page3)
+Step 32: Click on link TeacherFavorite
+Step 33: Click on link TeacherFavorite2
+Step 34: Click on link Physics2 -> Navigate to page 'science-supplies-and-products/*'
+Step 35: Click on link physicsTopics (LightOptics) -> Navigate to page 'science-supplies-and-products/*/*'
+Step 36: Click on link pageNavigation (Page2)
+Step 37: Click on link nextPage (NextPage3)
+Step 38: Take full page screenshot as checkpoint
+",Low,NEW
+200,User Registration and Verify Art Supplies Page,"Login, register a user, and verify the art supplies craft supplies page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /UserRegistrationForm
+Step 4: Click on div UserRegistrationInfo
+Step 5: Click on input Username
+Step 6: Click on input Username
+Step 7: Click on input Password
+Step 8: Click on input Password
+Step 9: Click on div object
+Step 10: Click on link SpecialtyPriced
+Step 11: Click on link Paper
+Step 12: Click on link Paper
+Step 13: Click on link Paper2 -> Navigate to page 'a-plus-deals/specialty-priced/*'
+Step 14: Click on div Object2
+Step 15: Click on select ItemsPerPage
+Step 16: Click on select ItemsPerPage
+Step 17: Click on link Desks -> Navigate to page 'furniture/*'
+Step 18: Click on input Search
+Step 19: Click on input Search
+Step 20: Click on link furnitureAccessories (DeskAccessories) -> Navigate to page 'furniture/*/*'
+Step 21: Click on div ContentWrapper
+Step 22: Click on div ContentWrapper
+Step 23: Click on link Gymnastics -> Navigate to page 'shop-flaghouse/*/*'
+Step 24: Click on div categoryContainer (GymnasticsCategory)
+Step 25: Click on input searchTerm3
+Step 26: Click on input searchTerm3
+Step 27: Enter input value in input searchTerm4 -> Navigate to page '/SearchDisplay'
+Step 28: Click on link classroomSupplies (CleaningFacilitySupplies)
+Step 29: Click on link cleaningProducts (CleaningProducts)
+Step 30: Click on link cleaningProducts (CleaningProducts)
+Step 31: Click on link BathroomCleaners
+Step 32: Click on div ContentWrapper
+Step 33: Click on link CleaningFacilitySupplies2
+Step 34: Click on link ShopOurProducts
+Step 35: Click on item searchDisplay (SearchDisplay)
+Step 36: Click on link classroomSupplies (ArtSuppliesCraftSupplies)
+Step 37: Click on link classroomSupplies (ArtSuppliesCraftSupplies)
+Step 38: Click on link classroomSupplies (ArtSuppliesCraftSupplies)
+Step 39: Click on div ContentWrapper
+Step 40: Click on div CategoriesShopOurProducts
+Step 41: Click on link cleaningProducts (Chalk)
+Step 42: Click on link DrawingChalk -> Navigate to page 'art-supplies-craft-supplies/*/*'
+Step 43: Take full page screenshot as checkpoint
+",Low,NEW
+202,Search and Review Role Play Dress Up Items,Login and search for role play dress up items. Verify the search display.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on div SearchContainer
+Step 5: Enter input value in input SearchTerm142 -> Navigate to page '/shop-by-learning-environment'
+Step 6: Click on input SearchTerm
+Step 7: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 8: Click on link pageNavigation (Page26)
+Step 9: Click on link pageNavigation (Page32)
+Step 10: Click on link rolePlayDressUpItems (PlayVisionsFunFidgetSquishyBall) -> Navigate to page '/*'
+Step 11: Click on image productImages (home)
+Step 12: Click on image productImages (ProductMainImage)
+Step 13: Click on button ReadReviews -> Navigate to page '/SearchDisplay'
+Step 14: Click on link rolePlayDressUpItems (TeacherCreatedResources) -> Navigate to page '/*'
+Step 15: Click on image royalcoPreschoolPaper (home2) -> Navigate to page '/SearchDisplay'
+Step 16: Take full page screenshot as checkpoint
+",Low,NEW
+110,Search and Navigate Through Multiple Pages,"Login, search for items, and navigate through various product pages.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on link addToCart (AddToCart87)
+Step 5: Click on link CloseMiniShopCart
+Step 6: Click on link addToCart (AddToCart87)
+Step 7: Click on link GoToCart6
+Step 8: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 9: Click on link removeItems (Remove7)
+Step 10: Click on div object9
+Step 11: Click on link Close
+Step 12: Click on div SearchTermWrapper2
+Step 13: Click on input SearchTerm
+Step 14: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 15: Click on input SearchTerm
+Step 16: Enter input value in input SearchTerm2
+Step 17: Click on link FacetValue
+Step 18: Click on input quantity (Quantity35)
+Step 19: Enter input value in input quantity (Quantity35)
+Step 20: Click on link addToCart (AddToCart87)
+Step 21: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 22: Click on input SearchTerm
+Step 23: Enter input value in input SearchTerm4
+Step 24: Click on link ArtSupplies -> Navigate to page '/art-supplies-craft-supplies'
+Step 25: Click on link ProfessionalDevelopmentArt
+Step 26: Click on link CraftSupplies3 -> Navigate to page '/art-supplies-craft-supplies-craft-supplies'
+Step 27: Click on input Search
+Step 28: Enter input value in input Search2 -> Navigate to page '/SearchDisplay'
+Step 29: Click on link pageNavigation (MoveToPage43)
+Step 30: Click on link pageNavigation (MoveToPage43)
+Step 31: Click on link rolePlayDressUpItems (RolePlayDressUpAndCostumes43) -> Navigate to page '/*'
+Step 32: Click on link AddToCart18 -> Navigate to page '/SearchDisplay'
+Step 33: Click on input SearchTerm
+Step 34: Enter input value in input SearchTerm2
+Step 35: Click on link BlendingStump
+Step 36: Click on input quantity (Quantity35)
+Step 37: Enter input value in input quantity (Quantity35)
+Step 38: Click on link addToCart (AddToCart87)
+Step 39: Click on div MiniShopCartProductAdded
+Step 40: Click on input SearchTerm
+Step 41: Enter input value in input SearchTerm2
+Step 42: Click on link ShoppingCart4
+Step 43: Click on link cartActions (GoToCart7)
+Step 44: Click on input SearchTerm
+Step 45: Enter input value in input SearchTerm2
+Step 46: Click on link DealsAndClearance3 -> Navigate to page '/a-plus-deals'
+Step 47: Click on link pageNavigation (NextPage)
+Step 48: Click on link pageNavigation (NextPage)
+Step 49: Click on link pageNavigation (NextPage)
+Step 50: Click on link pageNavigation (NextPage)
+Step 51: Click on link pageNavigation (nextPage)
+Step 52: Click on link pageNavigation (nextPage)
+Step 53: Click on link pageNavigation (nextPage)
+Step 54: Click on link ArtEducationResources
+Step 55: Click on link ShopByLearningEnvironment -> Navigate to page '/shop-by-learning-environment'
+Step 56: Click on link ArtPadSketchbooks -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 57: Click on input Search
+Step 58: Enter input value in input Search3 -> Navigate to page '/SearchDisplay'
+Step 59: Click on input SearchTerm
+Step 60: Click on link Fixative
+Step 61: Click on input SearchTerm
+Step 62: Enter input value in input SearchTerm2
+Step 63: Click on link DrawingFixative
+Step 64: Click on link ShopClearance -> Navigate to page 'specialty-shops/*'
+Step 65: Click on link PaperClearance
+Step 66: Click on link ArtClearance -> Navigate to page 'clearance/*'
+Step 67: Click on link ArtPaperBoards -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 68: Click on div SearchTermWrapper
+Step 69: Click on input Search
+Step 70: Enter input value in input Search2
+Step 71: Click on link Page2
+Step 72: Click on input Search
+Step 73: Enter input value in input Search3 -> Navigate to page '/SearchDisplay'
+Step 74: Click on link pageNavigation (MoveToPage43)
+Step 75: Click on link pageNavigation (MoveToPage43)
+Step 76: Click on link pageNavigation (MoveToPage43)
+Step 77: Click on link pageNavigation (MoveToPage43)
+Step 78: Click on input quantity (Quantity35)
+Step 79: Enter input value in input quantity (Quantity35)
+Step 80: Click on link addToCart (AddToCart87)
+Step 81: Click on div MiniShopCartProductAdded
+Step 82: Click on input SearchTerm
+Step 83: Enter input value in input SearchTerm2
+Step 84: Click on link pageNavigation (MoveToPage43)
+Step 85: Click on link addToCart (AddToCart87)
+Step 86: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 87: Click on div object10
+Step 88: Click on link removeItems (Remove7)
+Step 89: Click on div ContentWrapper
+Step 90: Click on input quantity (Quantity5)
+Step 91: Enter input value in input quantity (Quantity6)
+Step 92: Click on div dynamicObject (orderItemDetails3)
+Step 93: Click on input quantity (Quantity7)
+Step 94: Enter input value in input quantity (Quantity8)
+Step 95: Click on div dynamicObject (object11)
+Step 96: Click on input SearchTerm
+Step 97: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 98: Click on link classroomSupplies (SchoolOfficeSupplies2)
+Step 99: Click on link pageNavigation (MoveToPage43)
+Step 100: Click on link pageNavigation (MoveToPage43)
+Step 101: Click on link pageNavigation (MoveToPage43)
+Step 102: Click on input SearchTerm
+Step 103: Enter input value in input SearchTerm2
+Step 104: Click on input quantity (Quantity35)
+Step 105: Enter input value in input quantity (Quantity35)
+Step 106: Click on div dynamicObject (object5)
+Step 107: Click on link addToCart (AddToCart87)
+Step 108: Click on div MiniShopCartProductAdded
+Step 109: Click on input SearchTerm
+Step 110: Enter input value in input SearchTerm2
+Step 111: Click on link Search
+Step 112: Close mini cart and search for products
+	- Step 1: Click on input quantity (Quantity25)
+	- Step 2: Enter input value in input quantity (Quantity25)
+	- Step 3: Click on link addToCart (AddToCart76)
+	- Step 4: Click on link CloseMiniShopCart
+	- Step 5: Click on input SearchTerm
+	- Step 6: Enter input value in input SearchTerm2
+Step 113: Click on link pageNavigation (MoveToPage43)
+Step 114: Click on link pageNavigation (MoveToPage43)
+Step 115: Click on link addToCart (AddToCart87)
+Step 116: Click on link CloseMiniShopCart
+Step 117: Click on input SearchTerm
+Step 118: Enter input value in input SearchTerm2
+Step 119: Click on div SearchTermWrapper
+Step 120: Click on input SearchTerm
+Step 121: Enter input value in input SearchTerm2
+Step 122: Click on link rolePlayDressUpItems (RolePlayDressUpAndCostumes43) -> Navigate to page '/*'
+Step 123: Click on link AddToCart19
+Step 124: Click on div object5
+Step 125: Click on link productImages (PermanentMarkers)
+Step 126: Click on link CloseModal2 -> Navigate to page '/SearchDisplay'
+Step 127: Click on input SearchTerm
+Step 128: Click on input SearchTerm
+Step 129: Enter input value in input SearchTerm2
+Step 130: Click on link Search
+Step 131: Click on link clearanceItems (SidewalkChalkClearance20)
+Step 132: Click on link addToCart (AddToCart87)
+Step 133: Click on link ContinueShopping
+Step 134: Click on link ShoppingCartCount2
+Step 135: Click on link ShoppingCartCount3
+Step 136: Click on link GoToCart5 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 137: Click on link removeItems (Remove7)
+Step 138: Click on link Close
+Step 139: Click on input SearchTerm
+Step 140: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 141: Click on link pageNavigation (MoveToPage43)
+Step 142: Click on link pageNavigation (MoveToPage43)
+Step 143: Click on link pageNavigation (MoveToPage43)
+Step 144: Click on link pageNavigation (MoveToPage43)
+Step 145: Click on link addToCart (AddToCart87)
+Step 146: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 147: Click on link productItems (RoyalLangnickelBrushes) -> Navigate to page '/*'
+Step 148: Click on link productImages (SyntheticBrushes)
+Step 149: Click on link CloseModal
+Step 150: Click on link ArtSuppliesCraftSupplies -> Navigate to page '/art-supplies-craft-supplies'
+Step 151: Click on input Search5
+Step 152: Enter input value in input Search6 -> Navigate to page '/SearchDisplay'
+Step 153: Click on link pageNavigation (MoveToPage43)
+Step 154: Click on input SearchTerm
+Step 155: Enter input value in input SearchTerm2
+Step 156: Click on link pageNavigation (MoveToPage43)
+Step 157: Click on div EmptyDiv5
+Step 158: Click on div EmptyDiv5
+Step 159: Click on link pageNavigation (MoveToPage43)
+Step 160: Click on link pageNavigation (MoveToPage43)
+Step 161: Click on link pageNavigation (MoveToPage43)
+Step 162: Click on link classroomSupplies (ArtSuppliesCraftSupplies2)
+Step 163: Navigate through multiple pages of products
+	- Step 1: Click on link pageNavigation (Page35)
+	- Step 2: Click on link pageNavigation (Page36)
+	- Step 3: Click on link pageNavigation (MoveToPage37)
+	- Step 4: Click on link pageNavigation (MoveToPage38)
+	- Step 5: Click on link pageNavigation (MoveToPage39)
+Step 164: Click on link pageNavigation (MoveToPage43)
+Step 165: Take full page screenshot as checkpoint
+",Trivial,STABLE
+88,Search and Review Products in Sauce Demo,"Login, search for various products, and review details. Verify the homepage.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input SearchTerm
+Step 5: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 6: Click on select pageSizeOptions (object5)
+Step 7: Click on link bulletinBoardSets (PrangGroovePencils)
+Step 8: Click on link productItems (PrangColoredPencils) -> Navigate to page '/*'
+Step 9: Click on image productImages (ProductImage50)
+Step 10: Click on input SearchTerm3
+Step 11: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 12: Click on input SearchTerm
+Step 13: Click on link PencilsSharpners
+Step 14: Click on input SearchTerm
+Step 15: Enter input value in input SearchTerm2
+Step 16: Click on input SearchTerm
+Step 17: Click on link PencilSharpner
+Step 18: Click on input SearchTerm7
+Step 19: Click on input SearchTerm
+Step 20: Enter input value in input SearchTerm2
+Step 21: Click on select pageSizeOptions (object5)
+Step 22: Click on link bulletinBoardSets (OfficemateSharpeners)
+Step 23: Click on input SearchTerm
+Step 24: Enter input value in input SearchTerm2
+Step 25: Click on div dynamicObject (SchoolSmartPencilSharpeners)
+Step 26: Click on link productItems (SchoolSmartSharpeners) -> Navigate to page '/*'
+Step 27: Click on image productImages (ProductImage50)
+Step 28: Click on image productImages (ProductImage50)
+Step 29: Click on button ShowMore
+Step 30: Click on button ReadReviews
+Step 31: Click on div kidSpacesFurniturePackage (KidSpacesFurniturePackage3)
+Step 32: Click on div kidSpacesFurniturePackage (KidSpacesFurniturePackage3)
+Step 33: Click on div kidSpacesFurniturePackage (KidSpacesFurniturePackage3) -> Navigate to page ''
+Step 34: Take full page screenshot as checkpoint
+",Trivial,STABLE
+194,Search and Add Products to Cart with Mini Cart Interaction,"Login, search for products, add them to the cart, and interact with the mini cart.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on input quantity (Quantity2)
+Step 5: Click on link addToCart (AddToCart2)
+Step 6: Click on link CloseMiniShopCart2
+Step 7: Click on input quantity (Quantity3)
+Step 8: Enter input value in input quantity (Quantity3)
+Step 9: Click on link addToCart (AddToCart3)
+Step 10: Click on link CloseMiniShopCart2
+Step 11: Click on input SearchTerm16
+Step 12: Click on input SearchTerm16
+Step 13: Click on input SearchTerm16
+Step 14: Enter input value in input SearchTerm14
+Step 15: Click on div productDetails (ProductInfo)
+Step 16: Click on input quantity (Quantity4)
+Step 17: Click on link addToCart (AddToCart4)
+Step 18: Click on link CloseMiniShopCart2
+Step 19: Click on input quantity (Quantity5)
+Step 20: Click on link addToCart (AddToCart5)
+Step 21: Click on link CloseMiniShopCart2
+Step 22: Click on input quantity (Quantity6)
+Step 23: Enter input value in input quantity (Quantity6)
+Step 24: Click on link addToCart (AddToCart6)
+Step 25: Click on link CloseMiniShopCart2
+Step 26: Click on link addToCart (AddToCart7)
+Step 27: Click on link CloseMiniShopCart2
+Step 28: Click on link pageNavigation (Page2)
+Step 29: Click on link addToCart (AddToCart8)
+Step 30: Click on link CloseMiniShopCart2
+Step 31: Click on input quantity (Quantity7)
+Step 32: Enter input value in input quantity (Quantity7)
+Step 33: Click on link addToCart (AddToCart9)
+Step 34: Click on link CloseMiniShopCart2
+Step 35: Click on link addToCart (AddToCart10)
+Step 36: Click on div CartMessage
+Step 37: Click on link CloseMiniShopCart2
+Step 38: Click on input quantity (Quantity8)
+Step 39: Click on link addToCart (AddToCart10)
+Step 40: Click on link CloseMiniShopCart2
+Step 41: Click on link pageNavigation (Page3)
+Step 42: Close mini cart and search for products
+	- Step 1: Click on input quantity (Quantity25)
+	- Step 2: Enter input value in input quantity (Quantity25)
+	- Step 3: Click on link addToCart (AddToCart76)
+	- Step 4: Click on link CloseMiniShopCart
+	- Step 5: Click on input SearchTerm
+	- Step 6: Enter input value in input SearchTerm2
+Step 43: Click on link ShoppingCartCount
+Step 44: Click on link ShoppingCartCount
+Step 45: Click on link ShoppingCartCount2
+Step 46: Click on link ViewAllItems -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 47: Click on input SearchTerm3
+Step 48: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 49: Click on link addToCart (AddToCart11)
+Step 50: Click on link CloseMiniShopCart2
+Step 51: Click on input quantity (Quantity9)
+Step 52: Enter input value in input quantity (Quantity9)
+Step 53: Click on link addToCart (AddToCart12)
+Step 54: Click on link CloseMiniShopCart2
+Step 55: Click on link addToCart (AddToCart13)
+Step 56: Click on link CloseMiniShopCart2
+Step 57: Click on input SearchTerm16
+Step 58: Click on input SearchTerm16 -> Navigate to page ''
+Step 59: Take full page screenshot as checkpoint
+",Trivial,NEW
+196,Navigate Bulletin Board Sets and Verify Home Page,Login and navigate through bulletin board sets. Verify the home page after browsing.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on link bulletinBoardSets (GSCRubberizedClothAprons)
+Step 5: Click on link pageNavigation
+Step 6: Click on link pageNavigation
+Step 7: Click on div productInfo (productInfo2)
+Step 8: Click on link pageNavigation
+Step 9: Click on link pageNavigation
+Step 10: Click on div dynamicObject (dynamicObject)
+Step 11: Click on link pageNavigation
+Step 12: Click on link pageNavigation
+Step 13: Click on link bulletinBoardSets (FOSSPathwaysMixturesAndSolutions)
+Step 14: Click on link bulletinBoardSets (FOSSPathwaysLivingSystems)
+Step 15: Click on link pageNavigation (page11)
+Step 16: Click on link pageNavigation (page12)
+Step 17: Click on link pageNavigation (page13)
+Step 18: Click on link pageNavigation (page14)
+Step 19: Click on link bulletinBoardSets (NewPathLearningBulletinBoardSet)
+Step 20: Click on link bulletinBoardSets (NewPathLearningBulletinBoardChartSet)
+Step 21: Click on link pageNavigation (page15)
+Step 22: Click on link bulletinBoardSets (NewPathLearningBulletinBoardChartSet2)
+Step 23: Click on div productDetails (object)
+Step 24: Click on link bulletinBoardSets (NewPathLearningBulletinBoardChartSet3)
+Step 25: Click on link bulletinBoardSets (NewPathLearningBulletinBoardChartSet4)
+Step 26: Click on link bulletinBoardSets (NewPathLearningBulletinBoardSet2)
+Step 27: Click on link productItems (bulletinBoardSets) -> Navigate to page '/*'
+Step 28: Take full page screenshot as checkpoint
+",Trivial,NEW
+199,Explore Special Needs Products and Verify Page,Login and navigate through special needs products. Verify the home page after browsing.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link SensoryProcessing -> Navigate to page 'special-needs/*'
+Step 5: Click on link specialNeedsProducts (WeightedLapPadMedium) -> Navigate to page 'special-needs/special-needs-sensory-processing/*'
+Step 6: Click on header specialNeeds (WeightedLapPad)
+Step 7: Click on div productSKU (ProductSKU)
+Step 8: Click on div productPrice (ProductPrice)
+Step 9: Click on div ShopAllAbilitations -> Navigate to page 'special-needs/*'
+Step 10: Click on link WeightedLapPadSmall
+Step 11: Click on link pageNavigation (MoveToPage2)
+Step 12: Click on link pageNavigation (pageNavigation)
+Step 13: Click on link specialNeedsProducts (ThinkNRollFootRoller) -> Navigate to page 'special-needs/special-needs-sensory-processing/*'
+Step 14: Click on header specialNeeds (ThinkNRoll)
+Step 15: Click on div productSKU (ProductSKU2)
+Step 16: Click on div AbilitationsFootRoller
+Step 17: Click on div AbilitationsFootRoller
+Step 18: Click on div AbilitationsFootRoller
+Step 19: Click on div AbilitationsFootRoller
+Step 20: Click on div productPrice (ProductPrice2)
+Step 21: Click on div AverageRating -> Navigate to page 'special-needs/*'
+Step 22: Click on link pageNavigation (pageNavigation2)
+Step 23: Click on link pageNavigation (pageNavigation3)
+Step 24: Click on div MultiSensoryEnvironments
+Step 25: Click on link MultiSensoryEnvironments -> Navigate to page 'special-needs/*/*'
+Step 26: Click on link pageNavigation (MoveToPage22)
+Step 27: Click on link pageNavigation (MoveToPage3)
+Step 28: Click on input Search2
+Step 29: Enter input value in input Search -> Navigate to page '/SearchDisplay'
+Step 30: Click on link rolePlayDressUpItems (ExclusiveSeatCushions) -> Navigate to page '/*'
+Step 31: Click on image productImages (ProductImage1)
+Step 32: Click on image productImages (ProductImage2)
+Step 33: Click on image royalcoPreschoolPaper (ProductImage) -> Navigate to page '/SearchDisplay'
+Step 34: Click on link productItems (MovinSitWedgeSeat) -> Navigate to page '/*'
+Step 35: Click on header pageTitles (GymnicMovinSit)
+Step 36: Click on div shopAllCategories (GymnicMovinSitMore)
+Step 37: Click on div productPrices (ProductPrice) -> Navigate to page '/SearchDisplay'
+Step 38: Click on link pageNavigation (Page26)
+Step 39: Click on link pageNavigation (Page32)
+Step 40: Click on link SpecialNeeds -> Navigate to page '/special-needs'
+Step 41: Click on link SensoryProcessing -> Navigate to page '/special-needs-sensory-processing'
+Step 42: Click on link DeepTouchPressure
+Step 43: Click on link sensoryProducts (Fidgets) -> Navigate to page 'special-needs/*/*'
+Step 44: Click on link specialNeedsProducts (WeightedEmotionCushions) -> Navigate to page 'special-needs/special-needs-sensory-processing/*/*'
+Step 45: Click on image ProductImage
+Step 46: Click on image ProductImage2 -> Navigate to page '/special-needs-sensory-processing'
+Step 47: Click on link sensoryProducts (Tactile) -> Navigate to page 'special-needs/*/*'
+Step 48: Click on link LanguageCommunication
+Step 49: Click on link DeskAccessories -> Navigate to page 'school-office-supplies/*'
+Step 50: Click on link MoveToPage2
+Step 51: Click on link MoveToPage3
+Step 52: Click on link MoveToPage4
+Step 53: Click on link MoveToPage5
+Step 54: Click on input SearchTermField5
+Step 55: Enter input value in input SearchTermFieldAlt7 -> Navigate to page '/SearchDisplay'
+Step 56: Click on link productCategories (Boards) -> Navigate to page ''
+Step 57: Take full page screenshot as checkpoint
+",Trivial,NEW
+133,Search for Early Childhood Products and Verify Page,"Log in, search for products, and verify navigation through early childhood resources.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on input SearchTerm3
+Step 5: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 6: Click on input SearchTerm
+Step 7: Enter input value in input SearchTerm2
+Step 8: Click on input SearchTerm
+Step 9: Enter input value in input SearchTerm2
+Step 10: Click on div HeaderRow
+Step 11: Enter input value in input SearchTerm8 -> Navigate to page '/*'
+Step 12: Click on input SearchTerm3
+Step 13: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 14: Click on input SearchTerm
+Step 15: Enter input value in input SearchTerm2
+Step 16: Click on div SearchTermWrapper
+Step 17: Click on input SearchTerm
+Step 18: Click on div Header
+Step 19: Enter input value in input SearchTerm2
+Step 20: Click on input SearchTerm
+Step 21: Enter input value in input SearchTerm2
+Step 22: Click on link classroomSupplies (ClassroomResources)
+Step 23: Click on input SearchTerm
+Step 24: Enter input value in input SearchTerm2
+Step 25: Click on link EarlyChildhood4 -> Navigate to page '/early-childhood'
+Step 26: Click on div CategoryRecommendation
+Step 27: Click on link ShowNextPage3
+Step 28: Click on link ShowNextPage3
+Step 29: Click on link ShowNextPage3
+Step 30: Click on link ShowNextPage3
+Step 31: Click on link ShowNextPage3
+Step 32: Click on link DramaticPlayRolePlay -> Navigate to page '/early-childhood-dramatic-play-role-play'
+Step 33: Take full page screenshot as checkpoint
+",Trivial,STABLE
+44,Explore Spanish Language Bundles and Add Products to Cart,"Navigate through Spanish language bundles, add products to the cart, and verify the home page.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /bundles-elementary-spanish-language
+Step 4: Click on link ShowNextPage
+Step 5: Click on link ShowNextPage
+Step 6: Click on link SignInCreateAccount
+Step 7: Click on div SignInDropdown
+Step 8: Click on link ShopByLearningModel
+Step 9: Click on link ShopByLearningModel
+Step 10: Click on link ShopOurProducts -> Navigate to page '/early-childhood'
+Step 11: Click on link SignInCreateAccount
+Step 12: Click on div SignInDropdown
+Step 13: Click on link ShopByLearningModel
+Step 14: Click on link ShopByLearningModel
+Step 15: Click on link ShopOurProducts -> Navigate to page '/english-language-arts'
+Step 16: Click on link ShowNextPage
+Step 17: Click on link ShowNextPage
+Step 18: Click on link ShowNextPage
+Step 19: Click on link ShowNextPage
+Step 20: Click on link ShowNextPage
+Step 21: Click on link ShowNextPage
+Step 22: Click on link ShowNextPage
+Step 23: Click on link ShowNextPage
+Step 24: Click on link ShowNextPage
+Step 25: Click on link ShowNextPage
+Step 26: Click on link ShowNextPage
+Step 27: Click on link ShowNextPage
+Step 28: Click on link ShowNextPage
+Step 29: Click on link ShowNextPage
+Step 30: Click on link ShowNextPage
+Step 31: Click on link ShowNextPage
+Step 32: Click on link ShowNextPage2 -> Navigate to page '/english-language-arts-reading'
+Step 33: Click on input SearchTerm
+Step 34: Click on link SignInCreateAccount
+Step 35: Click on link CloseButton
+Step 36: Click on input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 37: Click on link addToCart (AddToCart87)
+Step 38: Click on link CloseMiniShopCart
+Step 39: Click on link addToCart (AddToCart87)
+Step 40: Click on div MiniShopCartProductAdded
+Step 41: Click on p productDescriptions (ProductDescription)
+Step 42: Click on p productDescriptions (ProductDescription2)
+Step 43: Click on p productDescriptions (ProductDescription2)
+Step 44: Click on link addToCart (AddToCart87)
+Step 45: Click on p productDescriptions (ProductDescription2)
+Step 46: Click on div MiniShopCartProductAdded
+Step 47: Click on p productDescriptions (ProductDescription2)
+Step 48: Click on p productDescriptions (ProductDescription2)
+Step 49: Click on p productDescriptions (ProductDescription2)
+Step 50: Click on link addToCart (AddToCart87)
+Step 51: Click on link CloseMiniShopCart
+Step 52: Click on link addToCart (AddToCart87)
+Step 53: Click on link CloseMiniShopCart
+Step 54: Click on p productDescriptions (ProductDescription3)
+Step 55: Click on p productDescriptions (ProductDescription3)
+Step 56: Click on p productDescriptions (ProductDescription3)
+Step 57: Click on link addToCart (AddToCart87)
+Step 58: Click on link pageNavigation (ShowNextPage2)
+Step 59: Click on link CloseMiniShopCart
+Step 60: Click on input SearchTerm
+Step 61: Click on p productDescriptions (ProductDescription4)
+Step 62: Click on p productDescriptions (ProductDescription4) -> Navigate to page ''
+Step 63: Take full page screenshot as checkpoint
+",Trivial,STABLE
+49,Add Multiple Products to Cart and Continue Shopping,"Browse various products, add them to the cart, and verify the home page post shopping.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on link ideasAndResources (IdeasAndResources2)
+Step 5: Click on link ideasAndResources (IdeasAndResources2)
+Step 6: Click on link SchoolOfficeSupplies -> Navigate to page '/school-office-supplies'
+Step 7: Click on link schoolOfficeSupplies (PencilSharpeners) -> Navigate to page 'school-office-supplies/*'
+Step 8: Click on link addToCart (AddToCart)
+Step 9: Click on p ProductDescription -> Navigate to page '/school-office-supplies'
+Step 10: Click on link pageNavigation (NextPage)
+Step 11: Click on link pageNavigation (NextPage)
+Step 12: Click on link pageNavigation (NextPage)
+Step 13: Click on link pageNavigation (NextPage)
+Step 14: Click on link pageNavigation (NextPage)
+Step 15: Click on link pageNavigation (PreviousPage)
+Step 16: Click on link AddToCart2
+Step 17: Click on link ContinueShopping
+Step 18: Click on link pageNavigation (NextPage2)
+Step 19: Click on link pageNavigation (NextPage2)
+Step 20: Click on link pageNavigation (NextPage2)
+Step 21: Click on link pageNavigation (NextPage2)
+Step 22: Click on link pageNavigation (NextPage2)
+Step 23: Click on link pageNavigation (NextPage2)
+Step 24: Click on link pageNavigation (NextPage)
+Step 25: Click on link pageNavigation (NextPage)
+Step 26: Click on link pageNavigation (NextPage)
+Step 27: Click on link pageNavigation (NextPage)
+Step 28: Click on link pageNavigation (NextPage)
+Step 29: Click on link pageNavigation (PreviousPage)
+Step 30: Click on link pageNavigation (NextPage)
+Step 31: Click on link pageNavigation (NextPage)
+Step 32: Click on link pageNavigation (NextPage)
+Step 33: Click on link pageNavigation (NextPage)
+Step 34: Click on link pageNavigation (NextPage)
+Step 35: Click on link pageNavigation (NextPage)
+Step 36: Click on link pageNavigation (NextPage)
+Step 37: Click on link pageNavigation (NextPage)
+Step 38: Click on link pageNavigation (NextPage)
+Step 39: Click on link pageNavigation (NextPage)
+Step 40: Click on link pageNavigation (NextPage)
+Step 41: Click on link schoolOfficeSupplies (TimersStopwatches) -> Navigate to page 'school-office-supplies/*'
+Step 42: Click on link BaumgartensTranslucentTimer
+Step 43: Click on input SearchTermField
+Step 44: Enter input value in input SearchTermFieldAlt3 -> Navigate to page '/SearchDisplay'
+Step 45: Click on input SearchTerm
+Step 46: Enter input value in input SearchTerm2
+Step 47: Click on input SearchTerm
+Step 48: Enter input value in input SearchTerm2
+Step 49: Click on input SearchTerm5 -> Navigate to page 'school-office-supplies/*'
+Step 50: Click on div AccusplitS3CLSurvivorIIIStopWatch
+Step 51: Click on link LearningResourcesTimeTracker -> Navigate to page 'school-office-supplies/*/*'
+Step 52: Click on button ShowMore
+Step 53: Click on input SearchTermField2
+Step 54: Enter input value in input SearchTermFieldAlt4 -> Navigate to page 'paper-and-paper-supplies/*/*'
+Step 55: Click on input Search
+Step 56: Enter input value in input Search2 -> Navigate to page '/SearchDisplay'
+Step 57: Click on link addToCart (AddToCart87)
+Step 58: Click on link ContinueShopping
+Step 59: Click on input SearchTerm
+Step 60: Click on input SearchTerm
+Step 61: Enter input value in input SearchTerm2
+Step 62: Click on input SearchTerm
+Step 63: Enter input value in input SearchTerm2
+Step 64: Click on link StickyEaselPad
+Step 65: Click on input SearchTerm
+Step 66: Enter input value in input SearchTerm2
+Step 67: Click on link EaselPadItem -> Navigate to page '/*'
+Step 68: Click on button ShowMore
+Step 69: Click on link AddToCart6
+Step 70: Click on link ContinueShopping -> Navigate to page ''
+Step 71: Take full page screenshot as checkpoint
+",Trivial,STABLE
+54,Navigate Shopping Cart and Verify Home Page,Navigate through the shopping cart and verify the home page.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /AjaxOrderItemDisplayView
+Step 4: Click on link productItems (PencilGripKwikStix) -> Navigate to page '/*'
+Step 5: Click on div shopAllCategories (object3)
+Step 6: Click on div shopAllCategories (object3)
+Step 7: Click on div productSKUOptions (ItemSKU3)
+Step 8: Click on link ShoppingCart3
+Step 9: Click on link miniShopCartImages (MiniShopCartProductImage)
+Step 10: Click on link ShoppingCart3
+Step 11: Click on link miniShopCartImages (MiniShopCartProductImage2)
+Step 12: Click on div CurrentOrderAddedToCart
+Step 13: Click on link ShoppingCart3
+Step 14: Click on link learningResources (LearningResourcesSkillBuildersKindergarten)
+Step 15: Click on link ShoppingCart3
+Step 16: Click on link GoToCart2 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 17: Click on link productItems (LearningResourcesSkillBuilder) -> Navigate to page '/*'
+Step 18: Click on div shopAllCategories (ShopAllLearningResources)
+Step 19: Click on link productImages (LearningResourcesSkillbuildersLetterAndNumberMaker)
+Step 20: Click on link CloseModal
+Step 21: Click on div productSKUOptions (ItemSKU4)
+Step 22: Click on link ShoppingCart3
+Step 23: Click on link GoToCart2 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 24: Click on link productItems (SportimeNeonFoamDice) -> Navigate to page '/*'
+Step 25: Click on div shopAllCategories (ShopAllSportime)
+Step 26: Click on div shopAllCategories (ShopAllSportime2) -> Navigate to page ''
+Step 27: Take full page screenshot as checkpoint
+",Trivial,STABLE
+127,User Registration and Shopping Cart Navigation,"Log in, register a new user, and navigate through shopping cart and order details.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on div ProductLongDescription2
+Step 5: Click on link gymnicProducts (BulmanPaperCutter)
+Step 6: Click on list BreadcrumbNavigation
+Step 7: Click on input SearchTerm3
+Step 8: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 9: Click on link productItems (BulmanPaperCutter) -> Navigate to page '/*'
+Step 10: Click on button ShowMore2 -> Navigate to page '/SearchDisplay'
+Step 11: Click on link ShoppingCart5
+Step 12: Click on link GoToCart9 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 13: Click on link SignIn2
+Step 14: Click on link SignIn2
+Step 15: Click on link Register -> Navigate to page '/UserRegistrationForm'
+Step 16: Click on input Username
+Step 17: Enter input value in input Username2
+Step 18: Click on div UserRegistrationPassword
+Step 19: Click on input Password
+Step 20: Enter input value in input Password2
+Step 21: Click on input VerifyPassword
+Step 22: Enter input value in input VerifyPassword2
+Step 23: Click on input FirstName
+Step 24: Click on div AddressEntryForm3
+Step 25: Click on input Address1
+Step 26: Enter input value in input Address1Field
+Step 27: Click on div UserRegistration
+Step 28: Click on link Submit2 -> Navigate to page '/AjaxLogonForm'
+Step 29: Click on input Username
+Step 30: Click on input password2
+Step 31: Enter input value in input LogonPassword2 -> Navigate to page '/'
+Step 32: Click on div DashboardOverview
+Step 33: Click on link shoppingCart (ShoppingCart4)
+Step 34: Click on link GoToCart3 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 35: Click on table OrderTotal -> Navigate to page ''
+Step 36: Take full page screenshot as checkpoint
+",Trivial,STABLE
+188,Explore Art Supplies and Verify Product Listings,"Login and browse through art supplies. Search for specific items, add to cart, and verify the product listings.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /
+Step 4: Click on input Username
+Step 5: Click on input Username
+Step 6: Click on link SignIn -> Navigate to page '/ResetPasswordGuestErrorView'
+Step 7: Click on link SendValidationCode -> Navigate to page '/PersonChangeServicePasswordForgottenReset'
+Step 8: Click on link ArtSuppliesCraftSupplies -> Navigate to page '/art-supplies-craft-supplies'
+Step 9: Click on link artSupplies (artSupplies) -> Navigate to page 'art-supplies-craft-supplies/*'
+Step 10: Click on div SearchTermWrapper
+Step 11: Click on div SearchTermWrapper
+Step 12: Click on input Search5
+Step 13: Enter input value in input Search7 -> Navigate to page '/SearchDisplay'
+Step 14: Click on input SearchTerm16
+Step 15: Enter input value in input SearchTerm14
+Step 16: Click on link productItems (SchoolSmartValueDrawingPaper) -> Navigate to page '/*'
+Step 17: Click on link AddToCart
+Step 18: Click on header pageTitles (SchoolSmartValueDrawing)
+Step 19: Click on div breadcrumbNavigation (BreadcrumbNavigation)
+Step 20: Click on div ShopAllSchoolSmart
+Step 21: Click on div AverageRatingValue
+Step 22: Click on div shopAllCategories (ShopAllSchoolSmartValue)
+Step 23: Click on div ShopAllSchoolSmart2 -> Navigate to page '/SearchDisplay'
+Step 24: Click on div ItemSKU
+Step 25: Click on div productDetails (SchoolSmart)
+Step 26: Click on div HeaderRow
+Step 27: Enter input value in input SearchTerm14
+Step 28: Click on link rolePlayDressUpItems (ExclusiveTeacherFavorite) -> Navigate to page '/*'
+Step 29: Click on div shopAllCategories (ChildcraftConstructionPaper)
+Step 30: Click on div closeButtons (ItemSKU)
+Step 31: Click on div ShopAllChildcraft -> Navigate to page '/SearchDisplay'
+Step 32: Click on input SearchTerm16
+Step 33: Enter input value in input SearchTerm14
+Step 34: Click on link multiSensoryProducts (24Paper) -> Navigate to page 'paper-and-paper-supplies/*'
+Step 35: Click on link assortedPaper (ConstructionPaper)
+Step 36: Click on link constructionPaper (Childcraft)
+Step 37: Click on input Search3
+Step 38: Enter input value in input Search5 -> Navigate to page '/SearchDisplay'
+Step 39: Click on link multiSensoryProducts (24Paper) -> Navigate to page 'paper-and-paper-supplies/*'
+Step 40: Click on link IdeasAndResources
+Step 41: Click on link assortedPaper (AssortedPaper)
+Step 42: Click on link assortedPaper (AssortedPaper2)
+Step 43: Click on link assortedPaper (AssortedPaper2)
+Step 44: Click on link constructionPaper (constructionPaper)
+Step 45: Click on link ShowNextPage
+Step 46: Click on link teacherFavorites (TeacherFavorite)
+Step 47: Click on link teacherFavorites (TeacherFavorite2)
+Step 48: Take full page screenshot as checkpoint
+",Trivial,NEW
+125,User Registration Process and Verification,"Log in, fill out user registration form, and verify successful navigation to Ajax logon form.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on link AddToCart21 -> Navigate to page '/UserRegistrationForm'
+Step 5: Click on input Username
+Step 6: Click on input Password
+Step 7: Click on input Username
+Step 8: Enter input value in input Username2
+Step 9: Click on input Password
+Step 10: Click on input Password
+Step 11: Enter input value in input Password2
+Step 12: Click on input VerifyPassword
+Step 13: Enter input value in input VerifyPassword2
+Step 14: Click on input FirstName
+Step 15: Enter input value in input Address1Field
+Step 16: Click on select Country
+Step 17: Click on select State
+Step 18: Click on input MobilePhone
+Step 19: Click on input PhoneNumber
+Step 20: Enter input value in input PhoneNumber
+Step 21: Click on input MobilePhone
+Step 22: Enter input value in input MobilePhoneNumber
+Step 23: Click on input PhoneNumber
+Step 24: Enter input value in input PhoneNumber
+Step 25: Click on input MobilePhone
+Step 26: Enter input value in input MobilePhoneNumber
+Step 27: Click on select BirthdayYear
+Step 28: Click on select BirthdayMonth
+Step 29: Click on select BirthdayDate
+Step 30: Click on link Submit3
+Step 31: Click on input AreaCode
+Step 32: Enter input value in input AreaCode
+Step 33: Click on input PhoneNumber
+Step 34: Enter input value in input PhoneNumber
+Step 35: Click on input UserRegistrationExtension
+Step 36: Enter input value in input UserRegistrationExtension
+Step 37: Click on link Submit3
+Step 38: Click on input PhoneNumber
+Step 39: Click on input AreaCode
+Step 40: Enter input value in input AreaCode
+Step 41: Click on input PhoneNumber
+Step 42: Enter input value in input PhoneNumber
+Step 43: Click on input UserRegistrationExtension
+Step 44: Enter input value in input UserRegistrationExtension
+Step 45: Click on link Submit3
+Step 46: Click on input AreaCode
+Step 47: Enter input value in input AreaCode
+Step 48: Click on input PhoneNumber
+Step 49: Click on link Submit3
+Step 50: Click on input PhoneNumber
+Step 51: Click on input PhoneNumber
+Step 52: Enter input value in input PhoneNumber
+Step 53: Click on input UserRegistrationExtension
+Step 54: Click on link Submit3
+Step 55: Click on input AreaCode
+Step 56: Enter input value in input AreaCode
+Step 57: Click on input PhoneNumber
+Step 58: Enter input value in input PhoneNumber
+Step 59: Click on input UserRegistrationExtension
+Step 60: Click on input UserRegistrationExtension
+Step 61: Enter input value in input UserRegistrationExtension
+Step 62: Click on input PhoneNumber
+Step 63: Enter input value in input PhoneNumber
+Step 64: Click on link Submit3
+Step 65: Click on input AreaCode
+Step 66: Enter input value in input AreaCode
+Step 67: Enter input value in input PhoneNumber
+Step 68: Click on input AreaCode
+Step 69: Enter input value in input AreaCode
+Step 70: Click on input PhoneNumber
+Step 71: Enter input value in input PhoneNumber
+Step 72: Click on link Submit -> Navigate to page '/AjaxLogonForm'
+Step 73: Take full page screenshot as checkpoint
+",Trivial,STABLE
+62,Add Early Childhood Products to Cart,"Search for early childhood products, add to cart, and verify the search display.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to early-childhood/*
+Step 4: Click on link SignIn -> Navigate to page '/'
+Step 5: Click on div ContentWrapper2
+Step 6: Click on input SearchTerm
+Step 7: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+Step 8: Click on link fidgets (DeepTouchPressure)
+Step 9: Click on link fidgets (Fidgets)
+Step 10: Click on link multiSensoryProducts (OralMotor) -> Navigate to page 'special-needs/*/*'
+Step 11: Click on link pageNavigation (Page2)
+Step 12: Click on link specialNeedsProducts (ChewStixxToughBar) -> Navigate to page 'special-needs/special-needs-sensory-processing/*/*'
+Step 13: Click on link addToCart (AddToCart)
+Step 14: Click on link ContinueShopping
+Step 15: Click on link ShoppingCart -> Navigate to page 'special-needs/*/*'
+Step 16: Click on link pageNavigation (Page3)
+Step 17: Click on link specialNeedsProducts (ChuBuddyChewFidgetSet) -> Navigate to page 'special-needs/special-needs-sensory-processing/*/*'
+Step 18: Click on link addToCart (AddToCart2)
+Step 19: Click on link ContinueShopping2 -> Navigate to page 'special-needs/*/*'
+Step 20: Click on link ChuBuddyZipperZilla
+Step 21: Click on link pageNavigation (Page4)
+Step 22: Click on input Search4
+Step 23: Enter input value in input Search3 -> Navigate to page '/SearchDisplay'
+Step 24: Click on link multiSensoryProducts (MultiSensoryEnvironments) -> Navigate to page 'special-needs/*/*'
+Step 25: Click on link pageNavigation (Page2)
+Step 26: Click on input Search4
+Step 27: Enter input value in input Search3 -> Navigate to page '/SearchDisplay'
+Step 28: Click on input SearchTerm
+Step 29: Enter input value in input SearchTerm2
+Step 30: Click on input SearchTerm
+Step 31: Enter input value in input SearchTerm2
+Step 32: Click on link EarlyChildhood2 -> Navigate to page 'shop-by-learning-model/*/*'
+Step 33: Click on link ChildcraftCarpetSquares
+Step 34: Click on link SelfManagement
+Step 35: Click on link PreschoolEarlyChildhood
+Step 36: Click on input Search
+Step 37: Enter input value in input SearchTerm -> Navigate to page '/SearchDisplay'
+Step 38: Click on input SearchTerm
+Step 39: Enter input value in input SearchTerm2
+Step 40: Click on link BreathingExercises -> Navigate to page '/*'
+Step 41: Click on image productImages (ProductImage50)
+Step 42: Click on link showMoreImages (MoreImages2)
+Step 43: Click on link CloseModal
+Step 44: Click on link AddToCart7
+Step 45: Click on link ContinueShopping
+Step 46: Click on link RelationshipSkills -> Navigate to page 'shop-by-learning-model/*/*'
+Step 47: Click on link PullBuoyConnectScooters -> Navigate to page 'shop-by-learning-model/*/*/*'
+Step 48: Click on image ProductImage -> Navigate to page 'shop-by-learning-model/*/*'
+Step 49: Click on input Search
+Step 50: Enter input value in input SearchTerm -> Navigate to page '/SearchDisplay'
+Step 51: Click on link productItems (AbilitationsGumFun) -> Navigate to page '/*'
+Step 52: Click on link AddToCart8 -> Navigate to page '/SearchDisplay'
+Step 53: Click on link PreschoolEarlyChildhood
+Step 54: Click on link productItems (AngelesSoundSponge) -> Navigate to page '/*'
+Step 55: Click on div productSKUOptions (SelectOptions)
+Step 56: Click on button Close5 -> Navigate to page '/SearchDisplay'
+Step 57: Click on link pageNavigation (MoveToPage43)
+Step 58: Click on link bulletinBoardSets (AbilitationsTactilePanels)
+Step 59: Click on link pageNavigation (MoveToPage43)
+Step 60: Take full page screenshot as checkpoint
+",Trivial,STABLE
+80,Add Products to Cart and Verify Login Form,Add products to cart and verify the login form.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /SearchDisplay
+Step 4: Click on link addToCart (AddToCart87)
+Step 5: Click on link ContinueShopping
+Step 6: Click on link ShoppingCartCount
+Step 7: Click on link dealsAndClearance (DealsAndClearance2)
+Step 8: Click on link addToCart (AddToCart87)
+Step 9: Click on link GoToCart3 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 10: Click on input quantity (quantity2)
+Step 11: Click on link productItems (CalifoneListeningFirst2800) -> Navigate to page '/*'
+Step 12: Click on span ShippingPolicyDetails
+Step 13: Click on div closeButtons (productSKUOptions)
+Step 14: Click on link ShoppingCartCount2
+Step 15: Click on link learningResources (CalifoneHeadphones)
+Step 16: Click on div Quantity
+Step 17: Enter input value in input QuantityLabel (QuantityLabel11)
+Step 18: Click on link AddToCart11
+Step 19: Click on div object4
+Step 20: Click on input SearchTerm3
+Step 21: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 22: Click on div SearchResults
+Step 23: Click on link OverEarHeadphones -> Navigate to page 'educational-technology/*/*'
+Step 24: Click on input Quantity
+Step 25: Click on div EmptyDiv
+Step 26: Enter input value in input Quantity2
+Step 27: Click on link AddToCart
+Step 28: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 29: Click on div ItemsCount
+Step 30: Click on input quantity (Quantity3)
+Step 31: Enter input value in input quantity (Quantity3)
+Step 32: Click on div dynamicObject (orderItemDetails)
+Step 33: Enter input value in input quantity (Quantity4)
+Step 34: Click on div orderItemDetails2
+Step 35: Remove items from cart and adjust quantities
+	- Step 1: Click on link RemoveFromCart4
+	- Step 2: Click on input quantity (Quantity11)
+	- Step 3: Enter input value in input quantity (Quantity12)
+	- Step 4: Click on input quantity (Quantity11)
+	- Step 5: Enter input value in input quantity (Quantity12)
+	- Step 6: Click on input quantity (quantity)
+	- Step 7: Enter input value in input quantity (quantity2)
+Step 36: Click on link CreativeTeachingPressLearn
+Step 37: Click on link productItems (CreativeTeachingPressLearn2) -> Navigate to page '/*'
+Step 38: Click on link showMoreImages (ProductImages4)
+Step 39: Click on image productImages (ProductImage45)
+Step 40: Click on link CloseModal
+Step 41: Click on link SignInCreateAccount3 -> Navigate to page '/LogonForm'
+Step 42: Click on input Username
+Step 43: Enter input value in input Username2
+Step 44: Click on link RegisterWithOrganization
+Step 45: Take full page screenshot as checkpoint
+",Trivial,STABLE
+85,Manage Shopping Cart and Place Orders,"Login, manage shopping cart items, and place orders. Verify the print order view.","Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to specialty-shops/*/*
+Step 4: Click on link shoppingCart
+Step 5: Click on link continueShopping
+Step 6: Click on input SearchTerm3
+Step 7: Click on input SearchTerm3
+Step 8: Click on input SearchTerm3
+Step 9: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'
+Step 10: Click on link addToCart (AddToCart87)
+Step 11: Click on link ContinueShopping
+Step 12: Click on input SearchTerm
+Step 13: Click on input SearchTerm
+Step 14: Click on input SearchTerm
+Step 15: Enter input value in input SearchTerm2
+Step 16: Click on input SearchTerm
+Step 17: Enter input value in input SearchTerm2
+Step 18: Click on link pageNavigation (MoveToPage43)
+Step 19: Click on link addToCart (AddToCart87)
+Step 20: Click on link ContinueShopping
+Step 21: Click on link shoppingCart2
+Step 22: Click on link cartActions (continueShopping)
+Step 23: Manage shopping cart and remove items
+	- Step 1: Click on link ShoppingCart10
+	- Step 2: Click on link ShoppingCart10
+	- Step 3: Click on link ViewAllItems2 -> Navigate to page '/AjaxOrderItemDisplayView'
+	- Step 4: Click on link Remove8
+	- Step 5: Click on link Remove9
+Step 24: Click on input SearchTerm
+Step 25: Search for products and refine search results
+	- Step 1: Click on link Close
+	- Step 2: Click on input SearchTerm
+	- Step 3: Enter input value in input SearchTerm2 -> Navigate to page '/SearchDisplay'
+	- Step 4: Click on input SearchTerm17
+	- Step 5: Enter input value in input SearchTerm2
+Step 26: Click on link pageNavigation (MoveToPage43)
+Step 27: Click on link bulletinBoardSets (PilotG2MetallicsPens)
+Step 28: Click on link addToCart (AddToCart87)
+Step 29: Click on link ContinueShopping
+Step 30: Click on link shoppingCart3
+Step 31: Click on link GoToCart5 -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 32: Click on link Actions
+Step 33: Click on link PlaceYourOrder2
+Step 34: Click on link copyToNewCart
+Step 35: Click on input selectAll
+Step 36: Click on link copyToNewCart2
+Step 37: Click on input cartName
+Step 38: Enter input value in input cartName
+Step 39: Click on link createCart
+Step 40: Click on link signOutDropDown
+Step 41: Click on link Close
+Step 42: Click on link signOutDropDown
+Step 43: Click on link MyAccount -> Navigate to page '/AjaxLogonForm'
+Step 44: Click on link shoppingCart (shoppingCart)
+Step 45: Click on div quickCartContainer
+Step 46: Click on link shoppingCart (shoppingCart2)
+Step 47: Click on link GoToCart -> Navigate to page '/AjaxOrderItemDisplayView'
+Step 48: Click on link print
+Step 49: Click on link print2 -> Navigate to page '/PrintOrderView'
+Step 50: Take full page screenshot as checkpoint
+",Trivial,STABLE
+61,Search and Verify Product Prices,Search for products and verify their prices.,"Step 1: Navigate to http://demo.localhost.direct
+Step 2: Login
+Step 3: Navigate to /*
+Step 4: Click on div shopAllCategories (itemZoom)
+Step 5: Click on div productPrices (productPrice) -> Navigate to page '/SearchDisplay'
+Step 6: Click on link pageNavigation (previousPage)
+Step 7: Click on link productItems (TrendEnterprisesLabels) -> Navigate to page '/*'
+Step 8: Click on header pageTitles (trendEnterprisesBold)
+Step 9: Click on div shopAllCategories (Unknown)
+Step 10: Click on div productPrices (productPrice2)
+Step 11: Click on input SearchTerm3
+Step 12: Enter input value in input SearchTerm5
+Step 13: Click on link betterThanPaper -> Navigate to page '/SearchDisplay'
+Step 14: Click on link productItems (TeacherCreatedResources) -> Navigate to page '/*'
+Step 15: Click on button ShowMore
+Step 16: Click on header pageTitles (teacherCreatedResources)
+Step 17: Click on div shopAllCategories (moreTeacherCreated)
+Step 18: Click on div productPrices (productPrice3)
+Step 19: Click on div productPrices (productPrice3)
+Step 20: Click on span offerPrice
+Step 21: Click on div productPrices (productPrice3)
+Step 22: Click on div productPrices (productPrice4) -> Navigate to page '/SearchDisplay'
+Step 23: Click on div SearchTermWrapper
+Step 24: Click on div headerStoreLogo
+Step 25: Click on div SearchTermWrapper -> Navigate to page ''
+Step 26: Take full page screenshot as checkpoint
+",Trivial,STABLE
