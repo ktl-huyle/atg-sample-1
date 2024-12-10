@@ -34,6 +34,6 @@
         <name>href</name>
         <type>Main</type>
         <value>#product-images-modal</value>
-        <webElementGuid>f4917022-07a2-4ef3-acf4-3bcaa577482b</webElementGuid>
+        <webElementGuid>8c0153f3-0c0d-48aa-88c6-b3336b51cc1e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

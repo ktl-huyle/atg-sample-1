@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to http://demo.localhost.direct",
+        "step 2: Login",
+        "step 3: Navigate to /SearchDisplay",
+        "step 4: Click on div SearchTermWrapper",
+        "step 5: Enter input value in input SearchTerm2",
+        "step 6: Click on link exclusiveItems (DryEraseMarkers9) -> Navigate to page '/*'",
+        "step 7: Click on input SearchTerm3",
+        "step 8: Enter input value in input SearchTerm4 -> Navigate to page '/SearchDisplay'",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

@@ -10,7 +10,7 @@
     <name>TC19-Verify Home Page After Viewing Product Images</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>ddfc1c7c-c969-48af-8317-1d34b55b7100</testCaseGuid>
+    <testCaseGuid>fd489ec2-cc34-4952-9baa-be9f31ed75d5</testCaseGuid>
     <variable>
         <defaultValue>'Data Files/AI-Generated/Common/viewMultipleProductImages-test-data'</defaultValue>
         <description>Common function data file id</description>
@@ -19,7 +19,7 @@
         <name>data_path_0</name>
     </variable>
     <variable>
-        <defaultValue>'2'</defaultValue>
+        <defaultValue>'1'</defaultValue>
         <description>Common function data row index</description>
         <id>66364798-ed75-4bb7-8b05-119c2cd2a6bb</id>
         <masked>false</masked>

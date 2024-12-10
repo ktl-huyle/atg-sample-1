@@ -3,8 +3,8 @@ package truetest.common
 import com.kms.katalon.core.testdata.TestData as TestData
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
-import internal.GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 public class viewMultipleProductImages {
@@ -13,28 +13,28 @@ public class viewMultipleProductImages {
         
         "Step 1: Click on image productImages (productImage5)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class'], 'image_productImages_nthChild': data['image_productImages_nthChild'], 'image_productImages_divNthChild': data['image_productImages_divNthChild']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_2"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_2', ['image_productImages_nthChild': data['image_productImages_nthChild'], 'image_productImages_class': data['image_productImages_class'], 'image_productImages_divNthChild': data['image_productImages_divNthChild']]))
         
         "Step 2: Click on image productImages (ProductImage21)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_1'], 'image_productImages_nthChild': data['image_productImages_nthChild_1'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_1']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_2"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_2', ['image_productImages_nthChild': data['image_productImages_nthChild_1'], 'image_productImages_class': data['image_productImages_class_1'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_1']]))
         
         "Step 3: Click on image productImages (ProductImage20)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_2'], 'image_productImages_nthChild': data['image_productImages_nthChild_2'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_2']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_2"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_2', ['image_productImages_nthChild': data['image_productImages_nthChild_2'], 'image_productImages_class': data['image_productImages_class_2'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_2']]))
         
         "Step 4: Click on image productImages (ProductImage30)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_3'], 'image_productImages_nthChild': data['image_productImages_nthChild_3'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_3']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_2"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_2', ['image_productImages_nthChild': data['image_productImages_nthChild_3'], 'image_productImages_class': data['image_productImages_class_3'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_3']]))
         
         "Step 5: Click on image productImages (ProductImage31)"
         
-        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages"
-        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages', ['image_productImages_class': data['image_productImages_class_4'], 'image_productImages_nthChild': data['image_productImages_nthChild_4'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_4']]))
+        // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_home/image_productImages_2"
+        WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_home/image_productImages_2', ['image_productImages_nthChild': data['image_productImages_nthChild_4'], 'image_productImages_class': data['image_productImages_class_4'], 'image_productImages_divNthChild': data['image_productImages_divNthChild_4']]))
     }
     
     private static def execute_with_data_source(String datasource, int rowIndex) {

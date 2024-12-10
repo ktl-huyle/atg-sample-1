@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>SimpleSearchForm_SearchTerm</value>
-        <webElementGuid>ceab7599-0d9c-4c37-9c6e-966c56d1a0b8</webElementGuid>
+        <webElementGuid>8c0153f3-0c0d-48aa-88c6-b3336b51cc1e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
         <name>name</name>
         <type>Main</type>
         <value>searchTerm</value>
-        <webElementGuid>ceab7599-0d9c-4c37-9c6e-966c56d1a0b8</webElementGuid>
+        <webElementGuid>8c0153f3-0c0d-48aa-88c6-b3336b51cc1e</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>ceab7599-0d9c-4c37-9c6e-966c56d1a0b8</webElementGuid>
+        <webElementGuid>8c0153f3-0c0d-48aa-88c6-b3336b51cc1e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
