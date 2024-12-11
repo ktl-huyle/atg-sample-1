@@ -76,13 +76,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/td
 
 WebUI.takeScreenshot(reportLocation + '/TC23/Step 9-Click on td loading.png')
 
-"Step 10: Click on link Execution3"
+"Step 10: Click on link executionLinks (Execution203502)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/link_Execution3'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC23/Step 10-Click on link Execution3.png')
+WebUI.takeScreenshot(reportLocation + '/TC23/Step 10-Click on link executionLinks Execution203502.png')
 
 "Step 11: Click on div testCase"
 
@@ -97,7 +98,7 @@ WebUI.takeScreenshot(reportLocation + '/TC23/Step 11-Click on div testCase.png')
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild_1, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_1]))
 
 WebUI.takeScreenshot(reportLocation + '/TC23/Step 12-Click on link executionLinks Execution4 - Navigate to page teamprojectexecutions.png')
 
@@ -109,13 +110,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/di
 
 WebUI.takeScreenshot(reportLocation + '/TC23/Step 13-Click on div failedTestResults.png')
 
-"Step 14: Click on td testCasesSP3TOR"
+"Step 14: Click on td testCases (TestCasesCheckout2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/td_testCasesSP3TOR'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/td_testCases"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/td_testCases', ['td_testCases_internalRoleCellName': td_testCases_internalRoleCellName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC23/Step 14-Click on td testCasesSP3TOR.png')
+WebUI.takeScreenshot(reportLocation + '/TC23/Step 14-Click on td testCases TestCasesCheckout2.png')
 
 "Step 15: Click on div testCasesNGS4600 -> Navigate to page 'team/*/project/*/executions'"
 
@@ -141,20 +143,21 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/di
 
 WebUI.takeScreenshot(reportLocation + '/TC23/Step 17-Click on div allTestRuns.png')
 
-"Step 18: Click on link Execution3"
+"Step 18: Click on link executionLinks (Execution203502)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/link_Execution3'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild_2, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_2]))
 
-WebUI.takeScreenshot(reportLocation + '/TC23/Step 18-Click on link Execution3.png')
+WebUI.takeScreenshot(reportLocation + '/TC23/Step 18-Click on link executionLinks Execution203502.png')
 
 "Step 19: Click on link executionLinks (Execution4) -> Navigate to page 'team/*/project/*/executions/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions?/?(?:#.*)?(?:\\?.*)?$', true)
 
 // Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild_1, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_1]))
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_Execution3', ['link_executionLinks_trNthChild': link_executionLinks_trNthChild_3, 'link_executionLinks_internalRoleLinkName': link_executionLinks_internalRoleLinkName_3]))
 
 WebUI.takeScreenshot(reportLocation + '/TC23/Step 19-Click on link executionLinks Execution4 - Navigate to page teamprojectexecutions.png')
 

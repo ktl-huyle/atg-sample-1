@@ -236,6 +236,20 @@
         <name>button_objectActions_divNthChild_9</name>
     </variable>
     <variable>
+        <defaultValue>'19 26/07/2024 - 02/08/2024'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>fc402ab2-89e8-4062-adb6-2d90c171390a</id>
+        <masked>false</masked>
+        <name>button_userJourneyActions_internalRoleRowName</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>247915a8-1c61-4c37-82c9-b1cea1f47ee9</id>
+        <masked>false</masked>
+        <name>div_gridCells_internalRoleGridcellName</name>
+    </variable>
+    <variable>
         <defaultValue>'1\\.Verify Login with Mail OTP on Home Page'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>864f1465-1090-4e33-8474-659100b3d3a0</id>
@@ -278,73 +292,80 @@
         <name>div_userJourneyVerification_nthChild_2</name>
     </variable>
     <variable>
-        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(26) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
+        <defaultValue>'LLA_Digital_Jamaica_E-'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>b37d3443-1a4f-42c7-acf7-2a916d5c994b</id>
+        <id>2e54aceb-c02a-46ab-9585-f2a9c33353dd</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_class</name>
+        <name>link_projectLinks_internalRoleLinkName</name>
     </variable>
     <variable>
-        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(27) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
+        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>2f9bc690-7ea8-49a5-84a2-fc5d0dd17d8c</id>
+        <id>db110e78-06fb-4788-b763-c4ae2ef00fdb</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_class_1</name>
+        <name>p_userJourneySteps_class</name>
     </variable>
     <variable>
-        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(28) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
+        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>61a474a6-e318-4a66-8347-8690fb4ddfe9</id>
+        <id>7f84b80d-19bb-45b1-a475-ab703ccfc5d4</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_class_2</name>
+        <name>p_userJourneySteps_class_1</name>
     </variable>
     <variable>
-        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(29) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
+        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9fb5dd96-6060-4225-871f-6df83e6d6d0f</id>
+        <id>417f4e74-8090-407c-81cd-42c5abc927f6</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_class_3</name>
+        <name>p_userJourneySteps_class_2</name>
     </variable>
     <variable>
-        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(30) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
+        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>6002e63a-3a49-4654-abf8-b8da474ce9b0</id>
+        <id>d90379eb-9b7f-475f-81b4-36e8292757ee</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_class_4</name>
+        <name>p_userJourneySteps_class_3</name>
     </variable>
     <variable>
-        <defaultValue>'Search Parts Using Quick'</defaultValue>
+        <defaultValue>'MuiStack-root\\ css-4d4iat"]:nth-child(1) [class="MuiTypography-root\\ MuiTypography-body1\\ css-1gscn2p'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>58b29693-1441-41bc-81e7-f848951e153f</id>
+        <id>f0617b0f-6f52-45e6-87d6-cbcacd372c3a</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_internalText</name>
+        <name>p_userJourneySteps_class_4</name>
     </variable>
     <variable>
-        <defaultValue>'Submit Decision for NPCC'</defaultValue>
+        <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>a82cce90-8599-47d5-bc9b-0ac4efdcd394</id>
+        <id>af8c9889-97cc-41d9-aaf0-b2ff354eb525</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_internalText_1</name>
+        <name>p_userJourneySteps_internalText</name>
     </variable>
     <variable>
-        <defaultValue>'Add Enquiry for NPCC on Home'</defaultValue>
+        <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>07744f93-3412-4221-bde2-0ce13739e763</id>
+        <id>e15b2b83-eb8d-41dc-930d-ce0c20cbaf3b</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_internalText_2</name>
+        <name>p_userJourneySteps_internalText_1</name>
     </variable>
     <variable>
-        <defaultValue>'Verify Header Object and Login on Home Page'</defaultValue>
+        <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>b9fa1069-9e95-4e7b-b68e-ca09d34d751e</id>
+        <id>982c8bb5-9d20-4be2-b16b-9ee741f3bec0</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_internalText_3</name>
+        <name>p_userJourneySteps_internalText_2</name>
     </variable>
     <variable>
-        <defaultValue>'Verify Header Object and Login Again on Home Page'</defaultValue>
+        <defaultValue>''</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>bbf2232d-05bb-4017-b4de-688285314f69</id>
+        <id>6689676f-ccfb-437c-97fc-9e06b6d3bae1</id>
         <masked>false</masked>
-        <name>p_userJourneyActions_internalText_4</name>
+        <name>p_userJourneySteps_internalText_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>907bdd9b-64e6-4c3b-8179-c8af163c5fbf</id>
+        <masked>false</masked>
+        <name>p_userJourneySteps_internalText_4</name>
     </variable>
 </TestCaseEntity>

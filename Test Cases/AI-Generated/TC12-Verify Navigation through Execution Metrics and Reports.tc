@@ -82,14 +82,14 @@
         <name>span_treeSwitchers_divNthChild</name>
     </variable>
     <variable>
-        <defaultValue>'7'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>9061df09-6f73-42c8-bc98-a3a12afba5f2</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_1</name>
     </variable>
     <variable>
-        <defaultValue>'8'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>44c069f0-5ee1-4e2c-aebc-c96b296ab0db</id>
         <masked>false</masked>
@@ -103,14 +103,14 @@
         <name>span_treeSwitchers_nthChild</name>
     </variable>
     <variable>
-        <defaultValue>'7'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>e1ee2fe5-2445-4c12-81d6-dd3930475222</id>
         <masked>false</masked>
         <name>span_treeSwitchers_nthChild_1</name>
     </variable>
     <variable>
-        <defaultValue>'8'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>0adb07d2-86c7-4370-8491-7b131b2e6be2</id>
         <masked>false</masked>

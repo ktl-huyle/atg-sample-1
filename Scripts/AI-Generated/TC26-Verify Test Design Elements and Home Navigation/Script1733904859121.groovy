@@ -43,14 +43,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_design_t
 
 WebUI.takeScreenshot(reportLocation + '/TC26/Step 5-Click on button uploadedData - Navigate to page teamprojecttest-designtest-cases.png')
 
-"Step 6: Click on span treeSwitchers (treeSwitcher0)"
+"Step 6: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild, 'span_treeSwitchers_class': span_treeSwitchers_class, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 6-Click on span treeSwitchers treeSwitcher0.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 6-Click on span treeSwitchers treeSwitcher110.png')
 
 "Step 7: Click on span treeSwitchers (TreeSwitcher)"
 
@@ -61,32 +61,32 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC26/Step 7-Click on span treeSwitchers TreeSwitcher.png')
 
-"Step 8: Click on span treeSwitchers (treeSwitcher22)"
+"Step 8: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_1, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_2, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_2]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_2, 'span_treeSwitchers_class': span_treeSwitchers_class_1, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_2]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 8-Click on span treeSwitchers treeSwitcher22.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 8-Click on span treeSwitchers treeSwitcher110.png')
 
-"Step 9: Click on span treeSwitchers (treeSwitcher32)"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
-
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_2, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_3, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_3]))
-
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 9-Click on span treeSwitchers treeSwitcher32.png')
-
-"Step 10: Click on span treeSwitchers (treeSwitcher12)"
+"Step 9: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_3, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_4, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_4]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_3, 'span_treeSwitchers_class': span_treeSwitchers_class_2, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_3]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 10-Click on span treeSwitchers treeSwitcher12.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 9-Click on span treeSwitchers treeSwitcher110.png')
+
+"Step 10: Click on span treeSwitchers (treeSwitcher110)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_4, 'span_treeSwitchers_class': span_treeSwitchers_class_3, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_4]))
+
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 10-Click on span treeSwitchers treeSwitcher110.png')
 
 "Step 11: Click on span katalonElements (treeSwitcher23)"
 
@@ -97,23 +97,23 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC26/Step 11-Click on span katalonElements treeSwitcher23.png')
 
-"Step 12: Click on span treeSwitchers (TreeSwitcher2)"
+"Step 12: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_4, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_5, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_5]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_5, 'span_treeSwitchers_class': span_treeSwitchers_class_4, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_5]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 12-Click on span treeSwitchers TreeSwitcher2.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 12-Click on span treeSwitchers treeSwitcher110.png')
 
-"Step 13: Click on span treeSwitchers (treeSwitcher33)"
+"Step 13: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_5, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_6, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_6]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_6, 'span_treeSwitchers_class': span_treeSwitchers_class_5, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_6]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 13-Click on span treeSwitchers treeSwitcher33.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 13-Click on span treeSwitchers treeSwitcher110.png')
 
 "Step 14: Click on span treeSwitchers (treeSwitcher4)"
 
@@ -124,14 +124,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC26/Step 14-Click on span treeSwitchers treeSwitcher4.png')
 
-"Step 15: Click on span treeSwitchers (treeSwitcher5)"
+"Step 15: Click on span treeSwitchers (treeSwitcher110)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-cases?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers', ['span_treeSwitchers_class': span_treeSwitchers_class_6, 'span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_8, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_8]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_cases/span_treeSwitchers_2', ['span_treeSwitchers_nthChild': span_treeSwitchers_nthChild_8, 'span_treeSwitchers_class': span_treeSwitchers_class_6, 'span_treeSwitchers_divNthChild': span_treeSwitchers_divNthChild_8]))
 
-WebUI.takeScreenshot(reportLocation + '/TC26/Step 15-Click on span treeSwitchers treeSwitcher5.png')
+WebUI.takeScreenshot(reportLocation + '/TC26/Step 15-Click on span treeSwitchers treeSwitcher110.png')
 
 "Step 16: Click on div sanity -> Navigate to page 'team/*/project/*/test-design/test-cases/*'"
 

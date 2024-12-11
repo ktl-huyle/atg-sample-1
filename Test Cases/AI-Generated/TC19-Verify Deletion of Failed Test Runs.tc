@@ -98,15 +98,22 @@
     <variable>
         <defaultValue>'custom-card-failed\\ card'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>7be81579-313b-454c-91e2-7acd920655b0</id>
+        <id>767b3efe-36db-42da-b06e-800bc06aaffd</id>
         <masked>false</masked>
-        <name>link_testLinks_class</name>
+        <name>link_forumPosts_class</name>
     </variable>
     <variable>
-        <defaultValue>'#652 M Terribeth Beasley 1 1'</defaultValue>
+        <defaultValue>'#28 W2 JF 1 Forum Posting'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c439551f-ab2d-4b24-91bb-366560915ee2</id>
+        <id>81225d91-03f7-4281-afec-3ad041c1ad95</id>
         <masked>false</masked>
-        <name>link_testLinks_internalRoleLinkName</name>
+        <name>link_forumPosts_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8168246c-681c-438b-895a-81027e24b1a1</id>
+        <masked>false</masked>
+        <name>link_forumPosts_nthChild</name>
     </variable>
 </TestCaseEntity>

@@ -11,4 +11,25 @@
     <origin>TRUETEST</origin>
     <tag></tag>
     <testCaseGuid>dc9a241c-2860-4e6d-9d26-8f4cfcc6bd02</testCaseGuid>
+    <variable>
+        <defaultValue>'Coordinator Core'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>1fa425be-69d0-444f-9d5d-dfe3ba5f3be5</id>
+        <masked>false</masked>
+        <name>link_testSuites_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'Passed Coordinator Core default Windows server 2022 64bit \u00a0 Chrome 127.0.0.0 33 mins ago 4m 16s 10 10 0 0 0'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ec46804a-8074-47a4-a39e-526c7ccd30d3</id>
+        <masked>false</masked>
+        <name>link_testSuites_internalRoleRowName</name>
+    </variable>
+    <variable>
+        <defaultValue>'1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>71573226-6d5b-46f6-bf6b-f98863f0ad24</id>
+        <masked>false</masked>
+        <name>link_testSuites_trNthChild</name>
+    </variable>
 </TestCaseEntity>

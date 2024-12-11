@@ -40,17 +40,24 @@
         <name>div_testSuites_internalText_2</name>
     </variable>
     <variable>
-        <defaultValue>'custom-card-passed\\ card'</defaultValue>
+        <defaultValue>'custom-card-failed\\ card'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>7df1d601-a341-46de-9928-1f3969e11c97</id>
+        <id>aad9874a-e2ca-44c4-9cc5-b0763df9b6f3</id>
         <masked>false</masked>
-        <name>link_testLinks_class</name>
+        <name>link_forumPosts_class</name>
     </variable>
     <variable>
-        <defaultValue>'#681 UA RJ 33 Passed'</defaultValue>
+        <defaultValue>'#28 W2 JF 1 Forum Posting'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>2c378deb-d33f-4f35-98c9-e836f16cd8a4</id>
+        <id>87a97317-a7d6-4f88-a544-0ad1abadbeda</id>
         <masked>false</masked>
-        <name>link_testLinks_internalRoleLinkName</name>
+        <name>link_forumPosts_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>e40b9d86-e4a8-4288-aeed-5c5ee635505b</id>
+        <masked>false</masked>
+        <name>link_forumPosts_nthChild</name>
     </variable>
 </TestCaseEntity>

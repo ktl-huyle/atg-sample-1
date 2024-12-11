@@ -114,13 +114,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/but
 
 WebUI.takeScreenshot(reportLocation + '/TC6/Step 14-Click on button Run.png')
 
-"Step 15: Click on header EdgeOpenTest"
+"Step 15: Click on header testRunDetails (EPPsAutomationTestCaseRun2)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_runs/header_EdgeOpenTest'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/header_testRunDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/header_testRunDetails', ['header_testRunDetails_internalRoleHeadingName': header_testRunDetails_internalRoleHeadingName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC6/Step 15-Click on header EdgeOpenTest.png')
+WebUI.takeScreenshot(reportLocation + '/TC6/Step 15-Click on header testRunDetails EPPsAutomationTestCaseRun2.png')
 
 "Step 16: Click on div testRunElements (cellInfo)"
 

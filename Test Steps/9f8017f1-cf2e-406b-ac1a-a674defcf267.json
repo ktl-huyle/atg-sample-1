@@ -3,7 +3,7 @@
         "step 1: Navigate to http://demo.localhost.direct",
         "step 2: Login",
         "step 3: Navigate to organization/*/home",
-        "step 4: Click on link testLinks (SISBookParticipants) -> Navigate to page 'team/*/project/*/executions/*'",
+        "step 4: Click on link forumPosts (ForumPosting284) -> Navigate to page 'team/*/project/*/executions/*'",
         "step 5: Click on div LoadingSpinner",
         "step 6: Click on div LoadingSpinner",
         "step 7: Click on link TestRunsOverview -> Navigate to page 'team/*/project/*/overview'",

@@ -26,14 +26,14 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("organization/${GlobalVariable.organization_id}/home")
 
-"Step 4: Click on link testLinks (SmokeTestSuite) -> Navigate to page 'team/*/project/*/executions/*'"
+"Step 4: Click on link forumPosts (ForumPosting284) -> Navigate to page 'team/*/project/*/executions/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_testLinks"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_testLinks', ['link_testLinks_class': link_testLinks_class, 'link_testLinks_internalRoleLinkName': link_testLinks_internalRoleLinkName]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_home/link_forumPosts"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_home/link_forumPosts', ['link_forumPosts_nthChild': link_forumPosts_nthChild, 'link_forumPosts_class': link_forumPosts_class, 'link_forumPosts_internalRoleLinkName': link_forumPosts_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC7/Step 4-Click on link testLinks SmokeTestSuite - Navigate to page teamprojectexecutions.png')
+WebUI.takeScreenshot(reportLocation + '/TC7/Step 4-Click on link forumPosts ForumPosting284 - Navigate to page teamprojectexecutions.png')
 
 "Step 5: Click on link testLinks (Tests) -> Navigate to page 'team/*/project/*/test-design/test-cases'"
 

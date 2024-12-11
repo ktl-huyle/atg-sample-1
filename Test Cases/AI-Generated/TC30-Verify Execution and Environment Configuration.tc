@@ -12,6 +12,20 @@
     <tag></tag>
     <testCaseGuid>f41bfc6d-42a9-4feb-b857-d0efd9b11542</testCaseGuid>
     <variable>
+        <defaultValue>'MuiButtonBase-root\\ MuiTab-root\\ MuiTab-textColorPrimary\\ emlvkuf3\\ css-1nm3ndg'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ecfa8b25-d5c1-4afe-85ea-bf70c532dd62</id>
+        <masked>false</masked>
+        <name>button_sessionControls_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'Sessions'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>28ea642c-1dd3-4120-b428-2cda5742850b</id>
+        <masked>false</masked>
+        <name>button_sessionControls_internalRoleTabName</name>
+    </variable>
+    <variable>
         <defaultValue>'Sort: ID (Descending)1-21 of'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>36621984-abb4-4b03-9ac8-aa7d3359dbb7</id>
@@ -40,6 +54,20 @@
         <name>div_untitledTestRuns_internalHasText</name>
     </variable>
     <variable>
+        <defaultValue>'20240821_225003.html'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0a27c12f-e5eb-483a-b8bb-57e8f21cf541</id>
+        <masked>false</masked>
+        <name>link_executionFiles_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'20240821_225003.html'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0a56d42e-bd8d-4bfd-b2b1-96a07d2f3a18</id>
+        <masked>false</masked>
+        <name>link_executionFiles_internalRoleLinkName_1</name>
+    </variable>
+    <variable>
         <defaultValue>'17'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>4df985dd-be3a-4090-b473-bbc091c2e6f1</id>
@@ -47,7 +75,7 @@
         <name>link_executionFiles_trNthChild</name>
     </variable>
     <variable>
-        <defaultValue>'8'</defaultValue>
+        <defaultValue>'17'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>8b8cc7b5-6d67-498e-b0f4-90356771b4b3</id>
         <masked>false</masked>

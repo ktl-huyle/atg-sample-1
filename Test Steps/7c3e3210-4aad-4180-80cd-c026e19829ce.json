@@ -14,7 +14,7 @@
         "step 12: Click on div TestRunCount",
         "step 13: Click on button Save",
         "step 14: Click on button Run",
-        "step 15: Click on header EdgeOpenTest",
+        "step 15: Click on header testRunDetails (EPPsAutomationTestCaseRun2)",
         "step 16: Click on div testRunElements (cellInfo)",
         "step 17: Click on button closeTestRuns (Close2)",
         "step 18: Click on button runTest",

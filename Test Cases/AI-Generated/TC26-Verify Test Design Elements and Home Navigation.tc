@@ -47,28 +47,28 @@
         <name>span_katalonElements_class</name>
     </variable>
     <variable>
-        <defaultValue>''</defaultValue>
+        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>3ca85d9e-3c2a-4e30-ba74-c5aa231267c4</id>
         <masked>false</masked>
         <name>span_treeSwitchers_class</name>
     </variable>
     <variable>
-        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close\\ ant-tree-treenode-leaf-last'</defaultValue>
+        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>86f976cb-0ad5-46f6-902d-abcadf963179</id>
         <masked>false</masked>
         <name>span_treeSwitchers_class_1</name>
     </variable>
     <variable>
-        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close\\ ant-tree-treenode-leaf-last'</defaultValue>
+        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>477dcdf6-b659-4731-9c48-23e94b3ec36c</id>
         <masked>false</masked>
         <name>span_treeSwitchers_class_2</name>
     </variable>
     <variable>
-        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close\\ ant-tree-treenode-leaf-last'</defaultValue>
+        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>3e1f3b0c-aef9-4926-b669-2deefa79a8af</id>
         <masked>false</masked>
@@ -82,7 +82,7 @@
         <name>span_treeSwitchers_class_4</name>
     </variable>
     <variable>
-        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close\\ ant-tree-treenode-leaf-last'</defaultValue>
+        <defaultValue>'ant-tree-treenode\\ ant-tree-treenode-switcher-close'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>bace47ea-0ac1-4552-819a-cac3ce14d834</id>
         <masked>false</masked>
@@ -96,7 +96,7 @@
         <name>span_treeSwitchers_class_6</name>
     </variable>
     <variable>
-        <defaultValue>''</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>29fbc429-f1ec-4347-a08c-42b01e584d0d</id>
         <masked>false</masked>
@@ -110,35 +110,35 @@
         <name>span_treeSwitchers_divNthChild_1</name>
     </variable>
     <variable>
-        <defaultValue>'7'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>1185d6ea-a946-4276-9904-c631f3af8880</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_2</name>
     </variable>
     <variable>
-        <defaultValue>'8'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>d06b5eb5-6427-4e9f-b4eb-07ac5c329891</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_3</name>
     </variable>
     <variable>
-        <defaultValue>'9'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>30ec6652-f047-49b3-9604-c6a8b60bb563</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_4</name>
     </variable>
     <variable>
-        <defaultValue>'3'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>8bf3d7ec-ee06-4890-9944-76ebe60fa3e7</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_5</name>
     </variable>
     <variable>
-        <defaultValue>'6'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>adda7d2b-1b78-4dad-a3a7-441774f041b7</id>
         <masked>false</masked>
@@ -152,14 +152,14 @@
         <name>span_treeSwitchers_divNthChild_7</name>
     </variable>
     <variable>
-        <defaultValue>'11'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>68994ba7-ee0e-4043-a9a3-92b5bae680c8</id>
         <masked>false</masked>
         <name>span_treeSwitchers_divNthChild_8</name>
     </variable>
     <variable>
-        <defaultValue>''</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>c8998766-086f-408a-ab0d-01d90ef17ed2</id>
         <masked>false</masked>
@@ -173,35 +173,35 @@
         <name>span_treeSwitchers_nthChild_1</name>
     </variable>
     <variable>
-        <defaultValue>'7'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>390208f5-6049-490f-9035-a95632df3b32</id>
         <masked>false</masked>
         <name>span_treeSwitchers_nthChild_2</name>
     </variable>
     <variable>
-        <defaultValue>'8'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>09eb4a89-f30b-4392-9bfb-f85d94fd0bbc</id>
         <masked>false</masked>
         <name>span_treeSwitchers_nthChild_3</name>
     </variable>
     <variable>
-        <defaultValue>'9'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>bafa6197-5b70-417a-9383-af0e8f9a8d56</id>
         <masked>false</masked>
         <name>span_treeSwitchers_nthChild_4</name>
     </variable>
     <variable>
-        <defaultValue>'3'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>485a034a-5321-4550-b134-a443f2261963</id>
         <masked>false</masked>
         <name>span_treeSwitchers_nthChild_5</name>
     </variable>
     <variable>
-        <defaultValue>'6'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>366f08fe-7d24-4645-8ac9-d94153c89823</id>
         <masked>false</masked>
@@ -215,7 +215,7 @@
         <name>span_treeSwitchers_nthChild_7</name>
     </variable>
     <variable>
-        <defaultValue>'11'</defaultValue>
+        <defaultValue>'4'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>0fec4dc7-b127-40a0-b390-5f837526a629</id>
         <masked>false</masked>

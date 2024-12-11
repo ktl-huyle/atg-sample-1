@@ -52,14 +52,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC10/Step 6-Click on div testRunElements UntitledTestRun.png')
 
-"Step 7: Click on div untitledTestRuns (UntitledTestRun2)"
+"Step 7: Click on div untitledTestRuns (UntitledTestRun4)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_untitledTestRuns"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_untitledTestRuns', ['div_untitledTestRuns_internalHasText': div_untitledTestRuns_internalHasText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_untitledTestRuns_1"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_runs/div_untitledTestRuns_1', ['div_untitledTestRuns_internalHasText': div_untitledTestRuns_internalHasText]))
 
-WebUI.takeScreenshot(reportLocation + '/TC10/Step 7-Click on div untitledTestRuns UntitledTestRun2.png')
+WebUI.takeScreenshot(reportLocation + '/TC10/Step 7-Click on div untitledTestRuns UntitledTestRun4.png')
 
 "Step 8: Click on div object2 -> Navigate to page ''"
 

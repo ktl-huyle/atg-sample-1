@@ -40,6 +40,13 @@
         <name>div_testRunElements_internalRoleCellName_2</name>
     </variable>
     <variable>
+        <defaultValue>'EPPs Automation Test Case Run August 21th #'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>af41a1fa-fa40-4a6e-acc8-b9950ce0c5a8</id>
+        <masked>false</masked>
+        <name>header_testRunDetails_internalRoleHeadingName</name>
+    </variable>
+    <variable>
         <defaultValue>'edge open 1040 ss test'</defaultValue>
         <description>Input data variable</description>
         <id>b8479777-0335-4087-8fc3-ac271e121054</id>

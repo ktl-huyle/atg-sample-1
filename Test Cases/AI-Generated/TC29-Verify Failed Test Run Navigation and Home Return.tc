@@ -12,6 +12,27 @@
     <tag></tag>
     <testCaseGuid>c096c1db-654d-4574-87af-c1a38067f972</testCaseGuid>
     <variable>
+        <defaultValue>'"]:nth-child(5) [class="min-width-30-rem'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2b4dc7af-a744-4fc9-8c02-74c8663806ce</id>
+        <masked>false</masked>
+        <name>div_failedTestDetails_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'Failed BelegeAbgleich #217783683 \uf133 Aug 21, 22:02 Duration1m 6s Profiledev'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>02fd1f70-3300-423a-8da3-1bc346558f23</id>
+        <masked>false</masked>
+        <name>div_failedTestDetails_internalRoleButtonName</name>
+    </variable>
+    <variable>
+        <defaultValue>'1724270172919.png (104.56 KB)'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a12e25ed-b989-4f1c-847a-e90cdc9cedf8</id>
+        <masked>false</masked>
+        <name>image_testImages_internalRoleImgName</name>
+    </variable>
+    <variable>
         <defaultValue>'"]:nth-child(5) [class="text-failed-color\\ text-wrap\\ error-message-box\\ mt-2\\ mb-0'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>10283757-d323-4660-8969-2503ca1e978f</id>

@@ -107,13 +107,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/di
 
 WebUI.takeScreenshot(reportLocation + '/TC29/Step 13-Click on div ImageFile2.png')
 
-"Step 14: Click on image TestImage"
+"Step 14: Click on image testImages (TestImage)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/image_TestImage'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/image_testImages"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/image_testImages', ['image_testImages_internalRoleImgName': image_testImages_internalRoleImgName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC29/Step 14-Click on image TestImage.png')
+WebUI.takeScreenshot(reportLocation + '/TC29/Step 14-Click on image testImages TestImage.png')
 
 "Step 15: Click on button Close"
 
@@ -123,13 +124,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/bu
 
 WebUI.takeScreenshot(reportLocation + '/TC29/Step 15-Click on button Close.png')
 
-"Step 16: Click on div FailedTestRun"
+"Step 16: Click on div failedTestDetails (FailedTestRun4)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/div_FailedTestRun'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/div_failedTestDetails', ['div_failedTestDetails_class': div_failedTestDetails_class, 'div_failedTestDetails_internalRoleButtonName': div_failedTestDetails_internalRoleButtonName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC29/Step 16-Click on div FailedTestRun.png')
+WebUI.takeScreenshot(reportLocation + '/TC29/Step 16-Click on div failedTestDetails FailedTestRun4.png')
 
 "Step 17: Click on pre failedTests (FailedTestRun2)"
 

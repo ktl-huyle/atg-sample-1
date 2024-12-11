@@ -14,16 +14,23 @@
     <variable>
         <defaultValue>'custom-card-failed\\ card'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>0cb49462-955c-45e5-8bec-922e0a2f0dc4</id>
+        <id>331e0a56-2811-4e64-8b28-2db5f6425c7e</id>
         <masked>false</masked>
-        <name>link_testLinks_class</name>
+        <name>link_forumPosts_class</name>
     </variable>
     <variable>
-        <defaultValue>'#3826 CC don ayers 13 1 Test'</defaultValue>
+        <defaultValue>'#28 W2 JF 1 Forum Posting'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>92875bcd-d29a-4a29-8d5d-d00723ae3aa0</id>
+        <id>99a8f999-5b5c-4389-9018-ff506b183b7a</id>
         <masked>false</masked>
-        <name>link_testLinks_internalRoleLinkName</name>
+        <name>link_forumPosts_internalRoleLinkName</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f31abf05-f914-4204-8729-f171886e613a</id>
+        <masked>false</masked>
+        <name>link_forumPosts_nthChild</name>
     </variable>
     <variable>
         <defaultValue>'text-failed-color\\ text-wrap\\ error-message-box\\ mt-2\\ mb-0'</defaultValue>

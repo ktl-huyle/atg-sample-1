@@ -26,7 +26,7 @@
         <name>div_testRunElements_internalRoleCellName_1</name>
     </variable>
     <variable>
-        <defaultValue>'Untitled Test Run #1661'</defaultValue>
+        <defaultValue>'Untitled Test Run #400'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>ad0460ad-56ec-4745-a487-56a445b74d2f</id>
         <masked>false</masked>

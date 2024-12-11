@@ -26,21 +26,23 @@ TrueTestScripts.login()
 
 TrueTestScripts.navigate("team/${GlobalVariable.team_id}/project/${GlobalVariable.project_id}/executions/${GlobalVariable.executions_id}")
 
-"Step 4: Click on link TestSuitesCPACDECPreapprovalBind -> Navigate to page 'team/*/project/*/test-design/test-suites/*'"
+"Step 4: Click on link testSuites (CoordinatorCore) -> Navigate to page 'team/*/project/*/test-design/test-suites/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/executions/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_executions/link_TestSuitesCPACDECPreapprovalBind'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_executions/link_testSuites"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_executions/link_testSuites', ['link_testSuites_trNthChild': link_testSuites_trNthChild, 'link_testSuites_internalRoleLinkName': link_testSuites_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC9/Step 4-Click on link TestSuitesCPACDECPreapprovalBind - Navigate to page teamprojecttest-designtest-suites.png')
+WebUI.takeScreenshot(reportLocation + '/TC9/Step 4-Click on link testSuites CoordinatorCore - Navigate to page teamprojecttest-designtest-suites.png')
 
-"Step 5: Click on link TestSuite -> Navigate to page 'team/*/project/*/executions/*'"
+"Step 5: Click on link testSuites (CoordinatorCore2) -> Navigate to page 'team/*/project/*/executions/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-design/test-suites/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_test_design_test_suites/link_TestSuite'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuites"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_test_design_test_suites/link_testSuites', ['link_testSuites_internalRoleRowName': link_testSuites_internalRoleRowName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC9/Step 5-Click on link TestSuite - Navigate to page teamprojectexecutions.png')
+WebUI.takeScreenshot(reportLocation + '/TC9/Step 5-Click on link testSuites CoordinatorCore2 - Navigate to page teamprojectexecutions.png')
 
 "Step 6: Click on link TestResults -> Navigate to page 'team/*/project/*/executions/*/test-runs'"
 

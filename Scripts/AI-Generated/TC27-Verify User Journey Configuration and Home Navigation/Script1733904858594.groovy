@@ -50,13 +50,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/link_tru
 
 WebUI.takeScreenshot(reportLocation + '/TC27/Step 6-Click on link truetestBetaConfigure - Navigate to page organizationsettingstruetest.png')
 
-"Step 7: Click on div vopakURL"
+"Step 7: Click on div gridCells (GridCell)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_truetest/div_vopakURL'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_settings_truetest/div_gridCells"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_settings_truetest/div_gridCells', ['div_gridCells_internalRoleGridcellName': div_gridCells_internalRoleGridcellName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 7-Click on div vopakURL.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 7-Click on div gridCells GridCell.png')
 
 "Step 8: Click on button vopakTrueTest"
 
@@ -114,13 +115,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_home/link_tru
 
 WebUI.takeScreenshot(reportLocation + '/TC27/Step 14-Click on link truetestBetaConfigure2 - Navigate to page organizationsettingstruetest.png')
 
-"Step 15: Click on link FirstProjectAI -> Navigate to page 'team/*/project/*'"
+"Step 15: Click on link projectLinks (LLA Digital Jamaica E) -> Navigate to page 'team/*/project/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_organization_settings_truetest/link_FirstProjectAI'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_organization_settings_truetest/link_projectLinks"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_organization_settings_truetest/link_projectLinks', ['link_projectLinks_internalRoleLinkName': link_projectLinks_internalRoleLinkName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 15-Click on link FirstProjectAI - Navigate to page teamproject.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 15-Click on link projectLinks LLA Digital Jamaica E - Navigate to page teamproject.png')
 
 "Step 16: Click on link truetest -> Navigate to page 'team/*/project/*/truetest/user-journeys'"
 
@@ -130,13 +132,14 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project/link_truetest
 
 WebUI.takeScreenshot(reportLocation + '/TC27/Step 16-Click on link truetest - Navigate to page teamprojecttruetestuser-journeys.png')
 
-"Step 17: Click on button viewDetails -> Navigate to page 'team/*/project/*/truetest/user-journeys/*/aut/*'"
+"Step 17: Click on button userJourneyActions (UserJourney) -> Navigate to page 'team/*/project/*/truetest/user-journeys/*/aut/*'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_team_project_truetest_user_journeys/button_viewDetails'))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys/button_userJourneyActions"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys/button_userJourneyActions', ['button_userJourneyActions_internalRoleRowName': button_userJourneyActions_internalRoleRowName]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 17-Click on button viewDetails - Navigate to page teamprojecttruetestuser-journeysaut.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 17-Click on button userJourneyActions UserJourney - Navigate to page teamprojecttruetestuser-journeysaut.png')
 
 "Step 18: Click on div userJourneyVerification (verifyLogin)"
 
@@ -300,50 +303,50 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_proje
 
 WebUI.takeScreenshot(reportLocation + '/TC27/Step 35-Click on button objectActions object10.png')
 
-"Step 36: Click on p userJourneyActions (SearchPartsUsingQuick)"
+"Step 36: Click on p userJourneySteps (VerifyNavigationToHome6)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions', ['p_userJourneyActions_class': p_userJourneyActions_class, 'p_userJourneyActions_internalText': p_userJourneyActions_internalText]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps', ['p_userJourneySteps_class': p_userJourneySteps_class, 'p_userJourneySteps_internalText': p_userJourneySteps_internalText]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 36-Click on p userJourneyActions SearchPartsUsingQuick.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 36-Click on p userJourneySteps VerifyNavigationToHome6.png')
 
-"Step 37: Click on p userJourneyActions (SubmitDecisionForNPCC)"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
-
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions', ['p_userJourneyActions_class': p_userJourneyActions_class_1, 'p_userJourneyActions_internalText': p_userJourneyActions_internalText_1]))
-
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 37-Click on p userJourneyActions SubmitDecisionForNPCC.png')
-
-"Step 38: Click on p userJourneyActions (AddEnquiryForNPCC)"
+"Step 37: Click on p userJourneySteps (VerifyNavigationToHome6)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions', ['p_userJourneyActions_class': p_userJourneyActions_class_2, 'p_userJourneyActions_internalText': p_userJourneyActions_internalText_2]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps', ['p_userJourneySteps_class': p_userJourneySteps_class_1, 'p_userJourneySteps_internalText': p_userJourneySteps_internalText_1]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 38-Click on p userJourneyActions AddEnquiryForNPCC.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 37-Click on p userJourneySteps VerifyNavigationToHome6.png')
 
-"Step 39: Click on p userJourneyActions (VerifyHeaderObjectAndLogin)"
-
-// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
-
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions', ['p_userJourneyActions_class': p_userJourneyActions_class_3, 'p_userJourneyActions_internalText': p_userJourneyActions_internalText_3]))
-
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 39-Click on p userJourneyActions VerifyHeaderObjectAndLogin.png')
-
-"Step 40: Click on p userJourneyActions (VerifyHeaderObjectAndLoginAgain)"
+"Step 38: Click on p userJourneySteps (VerifyNavigationToHome6)"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions"
-WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneyActions', ['p_userJourneyActions_class': p_userJourneyActions_class_4, 'p_userJourneyActions_internalText': p_userJourneyActions_internalText_4]))
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps', ['p_userJourneySteps_class': p_userJourneySteps_class_2, 'p_userJourneySteps_internalText': p_userJourneySteps_internalText_2]))
 
-WebUI.takeScreenshot(reportLocation + '/TC27/Step 40-Click on p userJourneyActions VerifyHeaderObjectAndLoginAgain.png')
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 38-Click on p userJourneySteps VerifyNavigationToHome6.png')
+
+"Step 39: Click on p userJourneySteps (VerifyNavigationToHome6)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps', ['p_userJourneySteps_class': p_userJourneySteps_class_3, 'p_userJourneySteps_internalText': p_userJourneySteps_internalText_3]))
+
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 39-Click on p userJourneySteps VerifyNavigationToHome6.png')
+
+"Step 40: Click on p userJourneySteps (VerifyNavigationToHome6)"
+
+// WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys/.*/aut/.*?/?(?:#.*)?(?:\\?.*)?$', true)
+
+// Bind values to the variables in the locators of "AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps"
+WebUI.enhancedClick(findTestObject('AI-Generated/Dynamic Objects/Page_team_project_truetest_user_journeys_aut/p_userJourneySteps', ['p_userJourneySteps_class': p_userJourneySteps_class_4, 'p_userJourneySteps_internalText': p_userJourneySteps_internalText_4]))
+
+WebUI.takeScreenshot(reportLocation + '/TC27/Step 40-Click on p userJourneySteps VerifyNavigationToHome6.png')
 
 "Step 41: Click on button navigationActions (GoToNextPage)"
 
