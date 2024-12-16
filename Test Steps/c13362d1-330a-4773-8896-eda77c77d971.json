@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to",
+        "step 2: Click on button AddToCart",
+        "step 3: Click on label storageColorOption (Storage128GB)",
+        "step 4: Click on label storageColorOption (ColorBlue)",
+        "step 5: Click on button Buy",
+        "step 6: Click on link AddToCart -> Navigate to page '/cart'",
+        "step 7: Click on button ProceedToCheckout -> Navigate to page 'checkout/info'",
+        "step 8: Click on input Email",
+        "step 9: Enter input value in input Email2",
+        "step 10: Click on button ContinueToShipping -> Navigate to page 'checkout/shipping-address'",
+        "step 11: Click on input FirstName",
+        "step 12: Enter input value in input FirstName2",
+        "step 13: Enter input value in input LastName",
+        "step 14: Enter input value in input Address",
+        "step 15: Enter input value in input ZipCode",
+        "step 16: Enter input value in input City",
+        "step 17: Click on button ContinueToPayment -> Navigate to page 'checkout/payment'",
+        "step 18: Click on button CompleteOrder -> Navigate to page 'thank-you/*'",
+        "step 19: Click on link KCellphoneShop -> Navigate to page ''",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}
