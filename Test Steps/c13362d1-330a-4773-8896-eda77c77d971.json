@@ -5,7 +5,7 @@
         "step 3: Click on label colorStorageOption (Storage128GB)",
         "step 4: Click on label colorStorageOption (ColorBlue)",
         "step 5: Click on button Buy",
-        "step 6: Click on link AddToCart -> Navigate to page '/cart'",
+        "step 6: Click on link PlaceOrder -> Navigate to page '/cart'",
         "step 7: Click on button ProceedToCheckout -> Navigate to page 'checkout/info'",
         "step 8: Click on input Email",
         "step 9: Enter input value in input Email2",

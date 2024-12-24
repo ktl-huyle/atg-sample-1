@@ -52,13 +52,13 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/button_Buy'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Click on button Buy.png')
 
-"Step 6: Click on link AddToCart -> Navigate to page '/cart'"
+"Step 6: Click on link PlaceOrder -> Navigate to page '/cart'"
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/link_AddToCart'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_home/link_PlaceOrder'))
 
-WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link AddToCart - Navigate to page cart.png')
+WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link PlaceOrder - Navigate to page cart.png')
 
 "Step 7: Click on button ProceedToCheckout -> Navigate to page 'checkout/info'"
 
