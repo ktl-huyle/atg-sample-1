@@ -1,0 +1,38 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+2,Add Comments and Cancel Actions in SauceDemo,"Browse through issues, add comments, and test the cancel functionality before verifying the home page.","Step 1: Navigate to /browse/*
+Step 2: Click on p Description
+Step 3: Click on textarea Description
+Step 4: Enter input value in textarea Description
+Step 5: Click on button Cancel
+Step 6: Click on link All
+Step 7: Click on div AddComment
+Step 8: Click on link AddComment
+Step 9: Enter input value in textarea Comment
+Step 10: Click on button Visual
+Step 11: Click on div TabsPlaceholder
+Step 12: Click on button Add
+Step 13: Click on link AddComment
+Step 14: Click on link Cancel -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
+",High,NEW
+1,Manage Bug Issues in SauceDemo Dashboard,"Navigate to the dashboard, create a bug issue by filling in the details, assign it to yourself, and verify the home page.","Step 1: Navigate to /secure/Dashboard.jspa
+Step 2: Click on link dashboardActions (Create)
+Step 3: Click on input IssueType
+Step 4: Click on link bugPriority (Bug)
+Step 5: Click on input Summary
+Step 6: Enter input value in input Summary
+Step 7: Click on textarea Description
+Step 8: Enter input value in textarea Description
+Step 9: Click on input Priority
+Step 10: Click on link bugPriority (Lowest)
+Step 11: Click on textarea Labels
+Step 12: Click on span Labels
+Step 13: Click on link Test
+Step 14: Click on button AssignToMe
+Step 15: Click on input CreateIssueSubmit
+Step 16: Click on link dashboardActions (Projects)
+Step 17: Click on link ProjectName -> Navigate to page '/projects/*/issues/*'
+Step 18: Click on span AssignToMe
+Step 19: Click on link AssignToMe -> Navigate to page ''
+Step 20: Take full page screenshot as checkpoint
+",Trivial,NEW

@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to /browse/*",
+        "step 2: Click on p Description",
+        "step 3: Click on textarea Description",
+        "step 4: Enter input value in textarea Description",
+        "step 5: Click on button Cancel",
+        "step 6: Click on link All",
+        "step 7: Click on div AddComment",
+        "step 8: Click on link AddComment",
+        "step 9: Enter input value in textarea Comment",
+        "step 10: Click on button Visual",
+        "step 11: Click on div TabsPlaceholder",
+        "step 12: Click on button Add",
+        "step 13: Click on link AddComment",
+        "step 14: Click on link Cancel -> Navigate to page ''",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}
