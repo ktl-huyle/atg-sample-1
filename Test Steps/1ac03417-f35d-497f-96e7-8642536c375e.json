@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/*",
+        "step 2: Click on input rowSelection (selectRow)",
+        "step 3: Click on input rowSelection (selectRow2)",
+        "step 4: Click on button terminate",
+        "step 5: Click on button confirm",
+        "step 6: Click on input rowSelection (selectRow3)",
+        "step 7: Click on input rowSelection (selectRow4)",
+        "step 8: Click on input rowSelection (selectRow5)",
+        "step 9: Click on button terminate",
+        "step 10: Click on button confirm",
+        "step 11: Click on input rowSelection (selectRow6)",
+        "step 12: Click on button terminate",
+        "step 13: Click on button confirm -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}

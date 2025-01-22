@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on link testExecution (TestExecutionDetails) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 3: Click on link testList (Tests) -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 4: Click on div testSuites (UploadedData)",
+        "step 5: Click on link TestSuites",
+        "step 6: Click on div testSuites (KatalonCloud)",
+        "step 7: Click on div testSuites (UploadedData2)",
+        "step 8: Click on div testSuites (TestSuites)",
+        "step 9: Click on link testSuiteDetails (SmokeTestSuite) -> Navigate to page 'team project details#team/*/project/*/*/*/*'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

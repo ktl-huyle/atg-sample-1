@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/*/*/*",
+        "step 2: Click on div testStatus (web)",
+        "step 3: Click on button object -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 4: Click on span treeSwitcher (object)",
+        "step 5: Click on span dynamicObject (object2)",
+        "step 6: Click on span treeSwitcher (treeSwitcher4)",
+        "step 7: Click on span treeSwitcher (treeSwitcher5)",
+        "step 8: Click on span treeSwitcher (object3)",
+        "step 9: Click on span katalonInfo (object4)",
+        "step 10: Click on span treeSwitcher (object5)",
+        "step 11: Click on span treeSwitcher (object6)",
+        "step 12: Click on span dynamicObject (object7)",
+        "step 13: Click on span treeSwitcher (object8)",
+        "step 14: Click on div sanity -> Navigate to page 'team project details#team/*/project/*/*/*/*'",
+        "step 15: Click on div testStatus (sanity2) -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

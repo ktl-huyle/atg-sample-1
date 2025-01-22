@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions",
+        "step 2: Click on div dailyPast7Days",
+        "step 3: Click on div testRunByStatus",
+        "step 4: Click on span settings",
+        "step 5: Click on link userManagement -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on button userAction (nidhiKachhadiya)",
+        "step 3: Click on link viewProfile",
+        "step 4: Click on div Backdrop",
+        "step 5: Click on span SettingsButton",
+        "step 6: Click on div Backdrop",
+        "step 7: Click on span SettingsButton",
+        "step 8: Click on link navigation (testOpsHomepageSummary)",
+        "step 9: Click on div projectOverview (encompassDuration) -> Navigate to page 'team project#team/*/project/*'",
+        "step 10: Click on link executions -> Navigate to page 'team project detail#team/*/project/*/*'",
+        "step 11: Click on link settings -> Navigate to page 'settings#team/*/project/*/settings'",
+        "step 12: Click on link settings2",
+        "step 13: Click on button object -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}

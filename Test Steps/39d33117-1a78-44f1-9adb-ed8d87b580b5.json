@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to user/apikey",
+        "step 2: Click on button apiKeyManagement (object)",
+        "step 3: Click on button apiKeyManagement (showApiKey)",
+        "step 4: Click on button copyToClipboard",
+        "step 5: Click on button object2",
+        "step 6: Click on button createApiKey",
+        "step 7: Click on input keyName",
+        "step 8: Enter input value in input keyName",
+        "step 9: Click on button create",
+        "step 10: Click on button apiKeyManagement (showApiKey2)",
+        "step 11: Click on button copyToClipboard",
+        "step 12: Click on button object2",
+        "step 13: Click on button nidhiKachhadiya",
+        "step 14: Click on link signOut -> Navigate to page 'user action#logout'",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}
