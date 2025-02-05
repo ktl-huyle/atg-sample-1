@@ -10,20 +10,20 @@
     <name>TC22-Integrate Jira and Verify Project Details</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>d826ce27-d8ae-4e68-b58f-d8d616a768e0</testCaseGuid>
+    <testCaseGuid>bc0e0c52-389b-4b3c-ad5c-9e1daad17462</testCaseGuid>
     <variable>
         <defaultValue>'go1475592160\\ go1671063245"]:nth-child(2) [class="MuiButtonBase-root\\ MuiIconButton-root\\ MuiIconButton-sizeSmall\\ css-1fubc2b'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>03c29ccb-e3b9-46cf-b355-05c4f825126b</id>
+        <id>a6da7455-663f-463e-9eb2-02cfcd3e5b58</id>
         <masked>false</masked>
-        <name>button_closeAlerts_class</name>
+        <name>button_alertActions_class</name>
     </variable>
     <variable>
         <defaultValue>'MuiButtonBase-root\\ MuiIconButton-root\\ MuiIconButton-sizeSmall\\ css-1fubc2b'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>cf653459-58d9-4b26-8cd0-87043fabc4dc</id>
+        <id>bd24c85b-cc8c-465f-bdf0-bc844c8d12ca</id>
         <masked>false</masked>
-        <name>button_closeAlerts_class_1</name>
+        <name>button_alertActions_class_1</name>
     </variable>
     <variable>
         <defaultValue>'https://synergyinfoconnect.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiYjc5NGZiYTk1NjNhNGZmMWIwODkyNTM3NDVkMjBiODkiLCJwIjoiaiJ9'</defaultValue>
@@ -61,18 +61,18 @@
         <name>link_testSuites_internalRoleLinkName_1</name>
     </variable>
     <variable>
+        <defaultValue>'Visual Testing'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>da43a44d-283f-4db4-aafe-b1bc9d74cd0a</id>
+        <masked>false</masked>
+        <name>link_testingTools_internalRoleLinkName</name>
+    </variable>
+    <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>
         <id>f7288893-2066-46bd-8175-ad09490b61f5</id>
         <masked>false</masked>
         <name>link_tests_nthChild</name>
-    </variable>
-    <variable>
-        <defaultValue>'Visual Testing'</defaultValue>
-        <description>Dynamic locator variable</description>
-        <id>a8be6087-56cb-483d-9c91-99dcc8936c15</id>
-        <masked>false</masked>
-        <name>link_visualTesting_internalRoleLinkName</name>
     </variable>
     <variable>
         <defaultValue>'test-design'</defaultValue>
@@ -161,9 +161,9 @@
     <variable>
         <defaultValue>'2'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>83905dab-d63f-4c0c-9ea4-bb8562e3ae05</id>
+        <id>36918a75-4692-4adf-a6fa-ad7f2d84e033</id>
         <masked>false</masked>
-        <name>span_testCaseObjects_divNthChild</name>
+        <name>span_treeSwitcherIcons_divNthChild</name>
     </variable>
     <variable>
         <defaultValue>'1415806'</defaultValue>

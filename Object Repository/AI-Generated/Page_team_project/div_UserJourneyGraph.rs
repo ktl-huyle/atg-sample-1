@@ -34,6 +34,6 @@
         <name>id</name>
         <type>Main</type>
         <value>graph-visualization-user-journey</value>
-        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
+        <webElementGuid>281f52c0-98b3-4050-a2d3-f910bb74b94e</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
