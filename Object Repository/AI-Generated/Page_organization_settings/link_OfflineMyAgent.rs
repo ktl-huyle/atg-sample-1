@@ -34,6 +34,6 @@
         <name>href</name>
         <type>Main</type>
         <value>/organization/1405861/settings/agent/local/366146</value>
-        <webElementGuid>c0525e5e-e830-4306-9e8d-430ed035dc94</webElementGuid>
+        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

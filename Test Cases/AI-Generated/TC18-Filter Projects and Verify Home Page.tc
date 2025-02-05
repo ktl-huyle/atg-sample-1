@@ -10,7 +10,7 @@
     <name>TC18-Filter Projects and Verify Home Page</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>5f2fefcc-cdbc-47ff-8663-91ca4ec499e6</testCaseGuid>
+    <testCaseGuid>b65a01c5-98e5-4a18-bee7-a3318004ff50</testCaseGuid>
     <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>

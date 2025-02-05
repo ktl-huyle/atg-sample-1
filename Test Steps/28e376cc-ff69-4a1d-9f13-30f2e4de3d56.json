@@ -21,7 +21,7 @@
         "step 19: Click on div Zero",
         "step 20: Click on div NewFailures",
         "step 21: Click on div NewFailures",
-        "step 22: Click on link testItems (Tests2) -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 22: Click on link tests (Tests2) -> Navigate to page 'team project details#team/*/project/*/*/*'",
         "step 23: Click on link Executions3 -> Navigate to page 'team project detail#team/*/project/*/*'",
         "step 24: Click on link Planning -> Navigate to page 'team project releases#team/*/project/*/releases'",
         "step 25: Click on link Tests -> Navigate to page 'team project details#team/*/project/*/*/*'",
@@ -33,7 +33,7 @@
         "step 31: Login",
         "step 32: Click on link Tests -> Navigate to page 'team project details#team/*/project/*/*/*'",
         "step 33: Click on span treeSwitcher (object)",
-        "step 34: Click on span treeSwitcherIcons (TreeSwitcherIcon)",
+        "step 34: Click on span treeSwitcher (TreeSwitcherIcon)",
         "step 35: Click on link testSuites (TestSuites3)",
         "step 36: Click on link Reports -> Navigate to page 'team project overview#team/*/project/*/overview'",
         "step 37: Click on link Planning -> Navigate to page 'team project releases#team/*/project/*/releases'",
@@ -55,7 +55,7 @@
         "step 53: Click on link RunFrequency -> Navigate to page 'report#team/*/project/*/test-reports/test-execution/frequency-report'",
         "step 54: Click on link FailedTestResults -> Navigate to page 'team project#team/*/project/*/*'",
         "step 55: Click on link Defects -> Navigate to page 'team project detail#team/*/project/*/*'",
-        "step 56: Click on link testingTools (VisualTesting) -> Navigate to page 'team project#team/*/project/*/*'",
+        "step 56: Click on link testingOptions (VisualTesting) -> Navigate to page 'team project#team/*/project/*/*'",
         "step 57: Take full page screenshot as checkpoint"
     ]
 }
