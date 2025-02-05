@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on div failedTestResults (FailedTest)",
+        "step 3: Click on link TestResult -> Navigate to page 'test result#team/*/project/*/executions/*/test-result/*'",
+        "step 4: Click on item TestResult",
+        "step 5: Click on item TestResult2 -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 6: Click on link PageNumber",
+        "step 7: Click on link TestRuns2 -> Navigate to page 'team project overview#team/*/project/*/overview'",
+        "step 8: Click on link TestRuns -> Navigate to page 'team project executions#team/*/project/*/executions'",
+        "step 9: Click on link executionDetails (TestRunDetails)",
+        "step 10: Click on link executionDetails (TestRunDetails2) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 11: Click on td TestCaseDetails",
+        "step 12: Click on div SessionStatus -> Navigate to page 'team project executions#team/*/project/*/executions'",
+        "step 13: Click on link executionDetails (TestRunDetails3) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 14: Click on pre failedTestInfo (FailedTest)",
+        "step 15: Click on link TestResult2 -> Navigate to page 'test result#team/*/project/*/executions/*/test-result/*'",
+        "step 16: Click on item TestResult2",
+        "step 17: Click on pre TestStep",
+        "step 18: Click on pre TestStep -> Navigate to page ''",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}
