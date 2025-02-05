@@ -34,7 +34,7 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/Coordinator Core</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{team_id}}/project/${{project_id}}/${{path_param_5}}/${{path_param_6}}/${{path_param_7}}</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

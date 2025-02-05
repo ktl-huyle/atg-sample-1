@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@id,'select-organization') and equals(@type,'button') and equals(@text,'Divisi DDB')]</value>
+            <value>//*[equals(@id,'select-organization') and equals(@type,'button') and equals(@text,'Organization admin.ibpaas')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -34,15 +34,15 @@
         <name>id</name>
         <type>Main</type>
         <value>select-organization</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>Divisi DDB</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <value>Organization admin.ibpaas</value>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -50,6 +50,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

@@ -2,7 +2,7 @@
     "steps": [
         "step 1: Navigate to organization/*/home",
         "step 2: Click on span DXCPracticeOracle",
-        "step 3: Click on div currentDivisi (CurrentDP)",
+        "step 3: Click on div currentData (CurrentDP)",
         "step 4: Click on link dynamicObject (OJOracleJDE) -> Navigate to page 'team project#team/*/project/*'",
         "step 5: Click on button OracleJDE",
         "step 6: Click on link ViewAllProjects -> Navigate to page ''",

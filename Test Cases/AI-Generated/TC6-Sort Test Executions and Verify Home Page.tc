@@ -10,19 +10,19 @@
     <name>TC6-Sort Test Executions and Verify Home Page</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>56ef9c7d-9aa2-4169-b29f-f9f7c31b6e50</testCaseGuid>
+    <testCaseGuid>d955b9a0-92ae-4b5f-8315-09fa056a532e</testCaseGuid>
     <variable>
         <defaultValue>'"]:nth-child(1) [class="mb-1\\ d-flex\\ align-items-center'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>9038fd31-83dd-44c5-9c90-803195b2aafa</id>
+        <id>a95aca06-7f9c-448b-b7d2-5622178e9397</id>
         <masked>false</masked>
-        <name>div_failedPrerequisites_class</name>
+        <name>div_failedTests_class</name>
     </variable>
     <variable>
         <defaultValue>'Failed ED - 1451 Auth Only -'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>496bb417-0c97-4694-b236-235bea8fedb7</id>
+        <id>2f572d0f-2afa-4f7d-8459-f0a0d5fee26d</id>
         <masked>false</masked>
-        <name>div_failedPrerequisites_internalRoleButtonName</name>
+        <name>div_failedTests_internalRoleButtonName</name>
     </variable>
 </TestCaseEntity>

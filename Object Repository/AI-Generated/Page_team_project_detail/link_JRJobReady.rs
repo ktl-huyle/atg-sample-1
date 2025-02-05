@@ -35,7 +35,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1238933/project/1258646</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <type>Main</type>
         <value>JR
         job ready</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

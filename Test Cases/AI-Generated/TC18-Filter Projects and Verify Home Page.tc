@@ -10,7 +10,7 @@
     <name>TC18-Filter Projects and Verify Home Page</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>b65a01c5-98e5-4a18-bee7-a3318004ff50</testCaseGuid>
+    <testCaseGuid>e9f36a6e-6eb1-4c27-ab7b-d176feb57218</testCaseGuid>
     <variable>
         <defaultValue>'3'</defaultValue>
         <description>Dynamic locator variable</description>
@@ -126,8 +126,8 @@
     <variable>
         <defaultValue>'+3 more'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>c522ce02-d7d0-4a2e-a3bc-e154b28b515b</id>
+        <id>3887ecf4-7e98-4113-b436-bc982920f06f</id>
         <masked>false</masked>
-        <name>link_moreProjects_internalRoleLinkName</name>
+        <name>link_moreItems_internalRoleLinkName</name>
     </variable>
 </TestCaseEntity>

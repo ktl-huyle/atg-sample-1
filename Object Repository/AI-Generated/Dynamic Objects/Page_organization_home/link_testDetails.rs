@@ -15,13 +15,12 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'team/${team_id}/project/${project_id}/executions/${executions_id}') and equals(@text,'#28
-            W2
-            JF
-            Forum Posting
-            android.WikiCampsApp.Test.v0.96.15
-            Aug 01, 19:41
-              (8s)')]</value>
+            <value>//*[equals(@href,'team/${team_id}/project/${project_id}/executions/${executions_id}') and equals(@text,'#3827
+            CC
+             Portals Smoke Test
+             default
+            36 mins ago
+              (8m 10s)')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -39,14 +38,13 @@
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>#28
-        W2
-        JF
-        Forum Posting
-        android.WikiCampsApp.Test.v0.96.15
-        Aug 01, 19:41
-          (8s)</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <value>#3827
+        CC
+         Portals Smoke Test
+         default
+        36 mins ago
+          (8m 10s)</value>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,6 +52,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{team_id}}/project/${{project_id}}/executions/${{executions_id}}</value>
-        <webElementGuid>a8ac2b57-079a-45c4-a955-66a2b7707d1b</webElementGuid>
+        <webElementGuid>e9edd575-a9cb-4a21-a6eb-c0a274b6f154</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
