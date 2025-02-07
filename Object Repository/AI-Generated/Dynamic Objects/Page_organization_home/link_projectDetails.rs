@@ -18,10 +18,11 @@
             <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'FP
             First Project
             Test Cases
-            6
-            1m 18s
+            18
+            ↓ 85.4%
+            5m 33s
             Execution Time
-            1m 18s
+            48s
             Average Duration')]</value>
         </entry>
     </selectorCollection>
@@ -43,12 +44,13 @@
         <value>FP
         First Project
         Test Cases
-        6
-        1m 18s
+        18
+        ↓ 85.4%
+        5m 33s
         Execution Time
-        1m 18s
+        48s
         Average Duration</value>
-        <webElementGuid>ecdd61fd-9c39-456d-8877-c99123f0a756</webElementGuid>
+        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -56,6 +58,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{team_id}}/project/${{project_id}}</value>
-        <webElementGuid>ecdd61fd-9c39-456d-8877-c99123f0a756</webElementGuid>
+        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
