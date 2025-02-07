@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1415806/project/1435085/test-reports/test-execution/frequency-report</value>
-        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
+        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Run Frequency</value>
-        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
+        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

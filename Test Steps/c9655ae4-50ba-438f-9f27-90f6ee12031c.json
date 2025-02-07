@@ -2,7 +2,7 @@
     "steps": [
         "step 1: Navigate to team/*/project/*/grid/plan/*/job",
         "step 2: Click on link TestRunLink -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
-        "step 3: Click on pre failedTestInfo (FailedTestCase)",
+        "step 3: Click on pre errorMessages (FailedTestCase)",
         "step 4: Click on div ThumbnailImage",
         "step 5: Click on button close",
         "step 6: Click on div ThumbnailImage3",
@@ -17,10 +17,10 @@
         "step 15: Click on div failedTestCases (FailedPreRequisiteBranchOpen3)",
         "step 16: Click on div ThumbnailImage",
         "step 17: Click on button close",
-        "step 18: Click on pre failedTestInfo (FailedPreRequisiteBranchOpen)",
-        "step 19: Click on div failedTestCases (FailedPreRequisiteBranchOpen4)",
-        "step 20: Click on div failedTestCases (FailedPreRequisiteBranchOpen5)",
-        "step 21: Click on pre failedTestInfo (FailedPreRequisiteBranchOpen2)",
+        "step 18: Click on pre errorMessages (FailedPreRequisiteBranchOpen)",
+        "step 19: Click on div failedTests (FailedPreRequisiteBranchOpen4)",
+        "step 20: Click on div failedTests (FailedPreRequisiteBranchOpen5)",
+        "step 21: Click on pre errorMessages (FailedPreRequisiteBranchOpen2)",
         "step 22: Click on div ThumbnailImage4",
         "step 23: Click on button close -> Navigate to page ''",
         "step 24: Take full page screenshot as checkpoint"

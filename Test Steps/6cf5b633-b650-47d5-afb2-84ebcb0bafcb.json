@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/executions/*",
-        "step 2: Click on pre failedTestInfo (ErrorMessage)",
+        "step 2: Click on pre errorMessages (ErrorMessage)",
         "step 3: Click on div ThumbnailImage",
         "step 4: Click on div GalleryView",
         "step 5: Click on button ShowSlide",

@@ -10,7 +10,7 @@
     <name>TC1-Navigate to Team Project Reports and Verify Executions</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>2b321373-0efe-4af0-9ac7-18c6a4d7dab1</testCaseGuid>
+    <testCaseGuid>06d60170-6440-4e77-b2fd-2c8712251286</testCaseGuid>
     <variable>
         <defaultValue>'7042'</defaultValue>
         <description>Dynamic locator variable</description>

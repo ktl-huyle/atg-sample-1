@@ -10,7 +10,7 @@
     <name>TC37-Manage Organization Admin Actions</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>2d42d00e-ab24-423a-933a-79a868a32d54</testCaseGuid>
+    <testCaseGuid>ea17dcf9-643e-44ce-848e-f8f19a9a3f65</testCaseGuid>
     <variable>
         <defaultValue>'Organization admin.ibpaas'</defaultValue>
         <description>Dynamic locator variable</description>

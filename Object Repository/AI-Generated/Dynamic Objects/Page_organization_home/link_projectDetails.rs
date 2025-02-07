@@ -15,14 +15,14 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'FP
-            First Project
+            <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'R
+            rd/crew/paycal/maxterm/tl/staff_reg
             Test Cases
-            18
-            ↓ 85.4%
-            5m 33s
+            148
+            ↑ 10.4%
+            15h 27m 12s
             Execution Time
-            48s
+            24m 24s
             Average Duration')]</value>
         </entry>
     </selectorCollection>
@@ -41,16 +41,16 @@
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>FP
-        First Project
+        <value>R
+        rd/crew/paycal/maxterm/tl/staff_reg
         Test Cases
-        18
-        ↓ 85.4%
-        5m 33s
+        148
+        ↑ 10.4%
+        15h 27m 12s
         Execution Time
-        48s
+        24m 24s
         Average Duration</value>
-        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
+        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -58,6 +58,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{team_id}}/project/${{project_id}}</value>
-        <webElementGuid>6c6c4c6a-edbe-446f-8e24-9836f5863e68</webElementGuid>
+        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
