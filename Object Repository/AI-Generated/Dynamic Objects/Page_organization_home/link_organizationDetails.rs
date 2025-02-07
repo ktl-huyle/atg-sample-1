@@ -15,8 +15,8 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'OJ
-            Oracle JDE')]</value>
+            <value>//*[equals(@href,'team/${team_id}/project/${project_id}') and equals(@text,'S
+            Senyum')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -34,9 +34,9 @@
         <matchCondition>equals</matchCondition>
         <name>text</name>
         <type>Main</type>
-        <value>OJ
-        Oracle JDE</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <value>S
+        Senyum</value>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <name>href</name>
         <type>Main</type>
         <value>team/${{team_id}}/project/${{project_id}}</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

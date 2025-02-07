@@ -36,7 +36,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/organization/176682/settings/truetest</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
         <name>id</name>
         <type>Main</type>
         <value>manage_e2etg</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
         <value>TrueTestBeta
         
         Configure properties for TrueTest.</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Configure properties for TrueTest.</value>
-        <webElementGuid>87a3d77e-ff10-47c3-8250-b97cd4be5b00</webElementGuid>
+        <webElementGuid>026a049e-d127-455c-968f-d854271ca01a</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

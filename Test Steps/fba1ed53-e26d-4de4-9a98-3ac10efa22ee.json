@@ -1,9 +1,9 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/*",
-        "step 2: Click on div testRunElements (ParallelSuite)",
-        "step 3: Click on div testRunElements (ParallelSuite2)",
-        "step 4: Click on div testRunElements (ParallelSuite3)",
+        "step 2: Click on div testRunDetails (ParallelSuite)",
+        "step 3: Click on div testRunDetails (ParallelSuite2)",
+        "step 4: Click on div testRunDetails (ParallelSuite3)",
         "step 5: Click on button JobReady",
         "step 6: Click on div OrganizationButton",
         "step 7: Click on link ViewAllProjects",

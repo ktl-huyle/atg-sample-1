@@ -1,9 +1,9 @@
 {
     "steps": [
         "step 1: Navigate to team/*/project/*/grid/plan/*/job",
-        "step 2: Click on button releaseManagement (LinkToRelease)",
+        "step 2: Click on button runManagement (LinkToRelease)",
         "step 3: Click on span ProjectVersion",
-        "step 4: Click on button releaseManagement (Run)",
+        "step 4: Click on button runManagement (Run)",
         "step 5: Click on link Reports -> Navigate to page 'team project overview#team/*/project/*/overview'",
         "step 6: Take full page screenshot as checkpoint"
     ]
