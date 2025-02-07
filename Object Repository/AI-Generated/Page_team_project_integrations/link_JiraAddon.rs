@@ -34,7 +34,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://marketplace.atlassian.com/apps/1217501/katalon-bdd-test-automation-for-jira?hosting=cloud&amp;tab=overview</value>
-        <webElementGuid>281f52c0-98b3-4050-a2d3-f910bb74b94e</webElementGuid>
+        <webElementGuid>ecdd61fd-9c39-456d-8877-c99123f0a756</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Jira add-on</value>
-        <webElementGuid>281f52c0-98b3-4050-a2d3-f910bb74b94e</webElementGuid>
+        <webElementGuid>ecdd61fd-9c39-456d-8877-c99123f0a756</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

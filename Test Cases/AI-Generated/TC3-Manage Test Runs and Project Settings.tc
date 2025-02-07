@@ -10,27 +10,27 @@
     <name>TC3-Manage Test Runs and Project Settings</name>
     <origin>TRUETEST</origin>
     <tag></tag>
-    <testCaseGuid>b5c213ec-05db-46a5-b317-e58c718fbb48</testCaseGuid>
+    <testCaseGuid>aef764fd-84fc-4a22-8c9c-c3b48b28d512</testCaseGuid>
     <variable>
         <defaultValue>'\uf057 Parallel Suite #749 2024-08'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>74d6cdc3-8eba-479d-a856-5e8e5253b2e1</id>
+        <id>60c0236d-1d6b-42e7-a17c-630da1e31099</id>
         <masked>false</masked>
-        <name>div_testRunElements_internalRoleCellName</name>
+        <name>div_testRunCells_internalRoleCellName</name>
     </variable>
     <variable>
         <defaultValue>'\uf057 Parallel Suite #750 2024-08'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>5977b531-7a1d-4643-a612-0280659b2568</id>
+        <id>46d95311-6c80-4212-9724-f85c7e801d3d</id>
         <masked>false</masked>
-        <name>div_testRunElements_internalRoleCellName_1</name>
+        <name>div_testRunCells_internalRoleCellName_1</name>
     </variable>
     <variable>
         <defaultValue>'\uf057 Parallel Suite #751 2024-08'</defaultValue>
         <description>Dynamic locator variable</description>
-        <id>45aa6f73-fdd5-4a06-b050-e795b6cbecab</id>
+        <id>8f011323-c3b1-45fa-9545-12873bd98cd5</id>
         <masked>false</masked>
-        <name>div_testRunElements_internalRoleCellName_2</name>
+        <name>div_testRunCells_internalRoleCellName_2</name>
     </variable>
     <variable>
         <defaultValue>''</defaultValue>

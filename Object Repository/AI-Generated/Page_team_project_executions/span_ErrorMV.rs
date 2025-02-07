@@ -34,6 +34,6 @@
         <name>title</name>
         <type>Main</type>
         <value>Test Suites/ts_master_vendor_debug_QA UAT</value>
-        <webElementGuid>281f52c0-98b3-4050-a2d3-f910bb74b94e</webElementGuid>
+        <webElementGuid>ecdd61fd-9c39-456d-8877-c99123f0a756</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
