@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/settings/agent",
+        "step 2: Click on link OfflineMyAgent -> Navigate to page 'settings#organization/*/settings/agent/local/*'",
+        "step 3: Click on link AgentSettings -> Navigate to page 'organization settings#organization/*/settings/agent'",
+        "step 4: Click on link Kubernetes -> Navigate to page 'settings#organization/*/settings/agent/*'",
+        "step 5: Click on link CircleCI",
+        "step 6: Click on link Local -> Navigate to page 'organization settings#organization/*/settings/agent'",
+        "step 7: Click on button Settings -> Navigate to page 'organization home#organization/*/home'",
+        "step 8: Click on link projectDetails (FirstProjectDetails) -> Navigate to page 'team project#team/*/project/*'",
+        "step 9: Click on link tests (Tests) -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 10: Click on link Executions -> Navigate to page 'team project detail#team/*/project/*/*'",
+        "step 11: Click on link Tests -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 12: Click on link Executions -> Navigate to page 'team project detail#team/*/project/*/*'",
+        "step 13: Click on link Reports -> Navigate to page 'team project overview#team/*/project/*/overview'",
+        "step 14: Click on link Tests -> Navigate to page 'team project details#team/*/project/*/*/*'",
+        "step 15: Click on link testSuites (TestSuites)",
+        "step 16: Click on link testSuites (TestObjects)",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}

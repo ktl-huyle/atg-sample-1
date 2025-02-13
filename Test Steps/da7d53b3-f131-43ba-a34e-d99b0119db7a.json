@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on button ai",
+        "step 3: Click on link viewProfile",
+        "step 4: Click on div Backdrop",
+        "step 5: Click on div topNavbar",
+        "step 6: Click on button organizationAdmin (organizationAdmin)",
+        "step 7: Click on button organizationAdmin (organizationAdmin2)",
+        "step 8: Click on div TopLeftNavbar",
+        "step 9: Click on button organizationAdmin (organizationAdmin)",
+        "step 10: Click on link organizationAdmin",
+        "step 11: Click on link viewAllProjects -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
