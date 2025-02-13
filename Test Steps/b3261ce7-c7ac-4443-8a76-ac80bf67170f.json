@@ -1,0 +1,28 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/*",
+        "step 2: Click on div parallelSuites (ParallelSuite)",
+        "step 3: Click on div parallelSuites (ParallelSuite2)",
+        "step 4: Click on div parallelSuites (ParallelSuite3)",
+        "step 5: Click on button JobReady",
+        "step 6: Click on div OrganizationButton",
+        "step 7: Click on link ViewAllProjects",
+        "step 8: Click on div CurrentReadyTech",
+        "step 9: Click on link JRJobReady -> Navigate to page 'team project#team/*/project/*'",
+        "step 10: Click on span Settings",
+        "step 11: Click on link OrganizationManagement -> Navigate to page 'settings#team/*/project/*/settings'",
+        "step 12: Click on p ReadyCase",
+        "step 13: Click on input UserEmail",
+        "step 14: Enter input value in input UserEmail",
+        "step 15: Click on div ProjectProfile",
+        "step 16: Click on input TimezoneConfig",
+        "step 17: Click on div EnableBDDReports",
+        "step 18: Click on div MuiInputBase",
+        "step 19: Click on span Settings",
+        "step 20: Click on div MuiBackdrop",
+        "step 21: Click on div MuiInputBase",
+        "step 22: Enter input value in input UserEmail",
+        "step 23: Click on div TeamReadyCase -> Navigate to page ''",
+        "step 24: Take full page screenshot as checkpoint"
+    ]
+}

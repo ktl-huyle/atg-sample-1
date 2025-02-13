@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on pre ErrorMessage",
+        "step 3: Click on div ThumbnailImage",
+        "step 4: Click on div GalleryView",
+        "step 5: Click on button ShowSlide",
+        "step 6: Click on div PreviewMessage",
+        "step 7: Click on div ThumbnailImage2",
+        "step 8: Click on button close",
+        "step 9: Click on div ThumbnailImage2",
+        "step 10: Click on button Download -> Navigate to page ''",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

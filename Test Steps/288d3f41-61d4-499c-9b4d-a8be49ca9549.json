@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/*",
+        "step 2: Click on span ProfileAll",
+        "step 3: Click on input FilterByProfile",
+        "step 4: Enter input value in input FilterByProfile",
+        "step 5: Click on button Update",
+        "step 6: Click on link MoreProjects",
+        "step 7: Click on div CreatedWithSketchtool",
+        "step 8: Click on button customActions (CustomAction)",
+        "step 9: Click on button customActions (CustomAction)",
+        "step 10: Click on button customActions (CustomAction)",
+        "step 11: Click on button customActions (CustomAction2)",
+        "step 12: Click on button customActions (CustomAction2)",
+        "step 13: Click on button customActions (CustomAction)",
+        "step 14: Click on pre WebElementTooltip",
+        "step 15: Click on div ThumbnailImage",
+        "step 16: Click on button showSlides (ShowSlide)",
+        "step 17: Click on button showSlides (ShowSlide2)",
+        "step 18: Click on button showSlides (ShowSlide3)",
+        "step 19: Click on button showSlides (ShowSlide4)",
+        "step 20: Click on button showSlides (ShowSlide5)",
+        "step 21: Click on button showSlides (ShowSlide6)",
+        "step 22: Click on button showSlides (ShowSlide7)",
+        "step 23: Click on button showSlides (ShowSlide8)",
+        "step 24: Click on button showSlides (ShowSlide9)",
+        "step 25: Click on button Close",
+        "step 26: Click on form ReportDefect",
+        "step 27: Click on div SummaryWebElement",
+        "step 28: Click on div CustomContent -> Navigate to page ''",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

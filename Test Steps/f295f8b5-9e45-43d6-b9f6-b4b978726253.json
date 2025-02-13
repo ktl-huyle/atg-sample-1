@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to organization/*/home",
+        "step 2: Click on span SettingsButton",
+        "step 3: Click on link TrueTestBetaConfigure -> Navigate to page 'organization settings#organization/*/settings/*'",
+        "step 4: Click on link TrueTestVersion -> Navigate to page 'organization settings#organization/*/settings/*/*'",
+        "step 5: Click on link DigitalJamaica -> Navigate to page 'team project#team/*/project/*'",
+        "step 6: Click on link TrueTest -> Navigate to page 'team project#team/*/project/*/*/*/*/*/*'",
+        "step 7: Click on div UserJourneyGraph",
+        "step 8: Click on input SearchFlows",
+        "step 9: Click on button ExpandGraph",
+        "step 10: Click on button ExportAllFlows",
+        "step 11: Click on link DownloadCSV",
+        "step 12: Click on span Settings2",
+        "step 13: Click on link TrueTestBetaConfigure -> Navigate to page 'organization settings#organization/*/settings/*'",
+        "step 14: Click on link TrueTestVersion -> Navigate to page 'organization settings#organization/*/settings/*/*'",
+        "step 15: Click on div QAFlowStatus",
+        "step 16: Click on div GridCellLink",
+        "step 17: Click on p InstallTrueTest -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}
