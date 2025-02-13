@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/*",
+        "step 2: Click on header TestRunDetail",
+        "step 3: Click on button testResultsActions (Sessions)",
+        "step 4: Click on div TotalTests",
+        "step 5: Click on i SolidIcon",
+        "step 6: Click on button testResultsActions (FailedTestResults)",
+        "step 7: Click on button testResultsActions (Sessions)",
+        "step 8: Click on button testResultsActions (Sessions2)",
+        "step 9: Click on div TotalTests",
+        "step 10: Click on div TestRunDetail",
+        "step 11: Click on button CloseButton",
+        "step 12: Click on div testRunDetails (TestRunCell)",
+        "step 13: Click on div NoDataDisplay -> Navigate to page ''",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}

@@ -40,7 +40,7 @@
         <name>href</name>
         <type>Main</type>
         <value>/team/1238933/project/1258646/executions/750</value>
-        <webElementGuid>21df632b-7c6d-44ea-82fe-37c1d69e91f9</webElementGuid>
+        <webElementGuid>f0de0611-904a-46ac-82fd-15141e63af74</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
          Katalon Staging
         Aug 21, 07:04
           (27m 43s)</value>
-        <webElementGuid>21df632b-7c6d-44ea-82fe-37c1d69e91f9</webElementGuid>
+        <webElementGuid>f0de0611-904a-46ac-82fd-15141e63af74</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

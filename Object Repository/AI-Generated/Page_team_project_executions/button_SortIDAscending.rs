@@ -36,7 +36,7 @@
         <type>Main</type>
         <value>Sort:  
         ID (Ascending)</value>
-        <webElementGuid>21df632b-7c6d-44ea-82fe-37c1d69e91f9</webElementGuid>
+        <webElementGuid>f0de0611-904a-46ac-82fd-15141e63af74</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -44,6 +44,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>21df632b-7c6d-44ea-82fe-37c1d69e91f9</webElementGuid>
+        <webElementGuid>f0de0611-904a-46ac-82fd-15141e63af74</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
