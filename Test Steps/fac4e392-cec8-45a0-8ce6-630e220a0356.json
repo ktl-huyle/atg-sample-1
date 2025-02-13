@@ -3,7 +3,7 @@
         "step 1: Navigate to team/*/project/*/executions/*",
         "step 2: Click on button SortIDAscending",
         "step 3: Click on span StartedAscending",
-        "step 4: Click on div failedTestPreRequisites (FailedED)",
+        "step 4: Click on div failedExecutions (FailedED)",
         "step 5: Click on div FailedED2",
         "step 6: Click on div ThumbnailImage",
         "step 7: Click on button close",

@@ -2,8 +2,8 @@
     "steps": [
         "step 1: Navigate to team/*/project/*/executions",
         "step 2: Click on div CustomCheckbox",
-        "step 3: Click on label testResults (FailedSISBook)",
-        "step 4: Click on label testResults (FailedSISBook2)",
+        "step 3: Click on label failedBooks (FailedSISBook)",
+        "step 4: Click on label failedBooks (FailedSISBook2)",
         "step 5: Click on button Delete",
         "step 6: Click on button delete",
         "step 7: Take full page screenshot as checkpoint"

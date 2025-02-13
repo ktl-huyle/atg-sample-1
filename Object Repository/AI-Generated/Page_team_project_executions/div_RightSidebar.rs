@@ -11,14 +11,14 @@
         </entry>
         <entry>
             <key>CSS</key>
-            <value>["[class=\"sidebar-layout__right-sidebar\\ col-md-3\"]"]</value>
+            <value>[class="sidebar-layout__right-sidebar\ col-md-3"]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>[".sidebar-layout__right-sidebar"]</value>
+            <value>.sidebar-layout__right-sidebar</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
