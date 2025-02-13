@@ -2,10 +2,10 @@
     "steps": [
         "step 1: Navigate to organization/*/home",
         "step 2: Click on div RecentProjects",
-        "step 3: Click on link details (TestDetails) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 3: Click on link executionOverview (TestDetails) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
         "step 4: Click on td CoordinatorCore",
-        "step 5: Click on link CoordinatorCore -> Navigate to page 'team project details#team/*/project/*/*/*/*'",
-        "step 6: Click on link CoordinatorCore -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 5: Click on link testSuites (CoordinatorCore) -> Navigate to page 'team project details#team/*/project/*/*/*/*'",
+        "step 6: Click on link testSuiteResults (CoordinatorCore) -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
         "step 7: Click on tr PassedCoordinatorCore",
         "step 8: Click on td DurationDetails -> Navigate to page ''",
         "step 9: Take full page screenshot as checkpoint"

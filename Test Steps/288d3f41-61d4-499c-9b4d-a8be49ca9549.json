@@ -5,7 +5,7 @@
         "step 3: Click on input FilterByProfile",
         "step 4: Enter input value in input FilterByProfile",
         "step 5: Click on button Update",
-        "step 6: Click on link MoreProjects",
+        "step 6: Click on link moreItems (MoreProjects)",
         "step 7: Click on div CreatedWithSketchtool",
         "step 8: Click on button customActions (CustomAction)",
         "step 9: Click on button customActions (CustomAction)",
