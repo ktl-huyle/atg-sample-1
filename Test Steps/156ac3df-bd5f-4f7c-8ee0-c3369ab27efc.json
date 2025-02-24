@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/grid/plan/*/job",
+        "step 2: Click on button executionControl (LinkToRelease)",
+        "step 3: Click on span R5Maintenance",
+        "step 4: Click on button executionControl (Run)",
+        "step 5: Click on link reports -> Navigate to page 'team project overview#team/*/project/*/overview'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

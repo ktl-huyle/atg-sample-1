@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on button SortIDAscending",
+        "step 3: Click on span StartedAscending",
+        "step 4: Click on div failedExecutionDetails (FailedED1451AuthOnly)",
+        "step 5: Click on div FailedED2364ECOMMSale",
+        "step 6: Click on div ThumbnailImage",
+        "step 7: Click on button Close",
+        "step 8: Click on link PageTwo -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
