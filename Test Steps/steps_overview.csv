@@ -1,0 +1,55 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Sort Team Project Executions and Verify Home Page,"Navigate to project executions, sort by ID in ascending order, and verify the home page after clicking on failed executions.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on button SortIDAscending
+Step 3: Click on span StartedAscending
+Step 4: Click on div failedExecutions (FailedED1451AuthOnly) -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+5,Access Project Execution and Verify Page,Navigate to team project executions and verify the page after selecting a project execution.,"Step 1: Navigate to team/*/project/*/executions
+Step 2: Click on link ProjectExecution
+Step 3: Take full page screenshot as checkpoint
+",High,NEW
+6,Navigate to Executions and Verify Home Page,"Access team project details, click on executions, and verify that the home page is displayed.","Step 1: Navigate to team/*/project/*/*
+Step 2: Click on link Executions
+Step 3: Click on link Executions -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",Medium,NEW
+2,Access Test Suites and Verify Home Page,"Navigate to team project details, access test suites, and verify that the home page is displayed after interaction.","Step 1: Navigate to team/*/project/*/*
+Step 2: Click on div testSuites (ParallelSuite749)
+Step 3: Click on div testSuites (ParallelSuite750)
+Step 4: Click on div testSuites (ParallelSuite751) -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Low,NEW
+3,Review Failed Executions and Navigate Back to Team Project Executions,"Navigate through failed executions, preview files, and return to verify the team project executions page.","Step 1: Navigate to team/*/project/*/executions/*
+Step 2: Click on div FailedCreateReverse
+Step 3: Click on div failedQueries (FailedQueryIndex)
+Step 4: Click on div failedQueries (FailedFilterClaims)
+Step 5: Click on div ThumbnailImage
+Step 6: Click on button Close
+Step 7: Click on div ThumbnailImage2
+Step 8: Click on div failedExecutions (FailedCreateReverse2)
+Step 9: Click on div ThumbnailImage3
+Step 10: Click on div FilePreviewError
+Step 11: Click on button Close
+Step 12: Click on pre ElementClickIntercepted
+Step 13: Click on div ThumbnailImage
+Step 14: Click on image FileImage
+Step 15: Click on button Close2 -> Navigate to page 'organization home#organization/*/home'
+Step 16: Click on link TestExecutionDetails -> Navigate to page 'team project executions#team/*/project/*/executions/*'
+Step 17: Take full page screenshot as checkpoint
+",Trivial,NEW
+4,Check Test Results and Return to Home Page,"Navigate to test results, perform various actions, and verify the home page after checking for data.","Step 1: Navigate to team/*/project/*/*
+Step 2: Click on header UntitledTestRun
+Step 3: Click on button testResultsActions (Sessions)
+Step 4: Click on div TotalTests
+Step 5: Click on i Icon
+Step 6: Click on button testResultsActions (FailedTestResults)
+Step 7: Click on button testResultsActions (Sessions)
+Step 8: Click on button testResultsActions (Sessions2)
+Step 9: Click on div TotalTests
+Step 10: Click on div UntitledTestRun
+Step 11: Click on button Close
+Step 12: Click on div testSuites (TestRunDetails)
+Step 13: Click on div NoDataMessage -> Navigate to page ''
+Step 14: Take full page screenshot as checkpoint
+",Trivial,NEW
