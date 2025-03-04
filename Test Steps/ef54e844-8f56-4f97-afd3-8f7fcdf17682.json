@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to team/*/project/*/executions/*",
+        "step 2: Click on div FailedCreateReverse",
+        "step 3: Click on div failedExecutionFilters (FailedQueryIndex)",
+        "step 4: Click on div failedExecutionFilters (FailedFilterClaims)",
+        "step 5: Click on div ThumbnailImage",
+        "step 6: Click on button Close",
+        "step 7: Click on div ThumbnailImage2",
+        "step 8: Click on div failedExecutionDetails (FailedCreateReverse2)",
+        "step 9: Click on div ThumbnailImage3",
+        "step 10: Click on div FilePreviewError",
+        "step 11: Click on button Close",
+        "step 12: Click on pre ElementClickIntercepted",
+        "step 13: Click on div ThumbnailImage",
+        "step 14: Click on image FileImage",
+        "step 15: Click on button Close2 -> Navigate to page 'organization home#organization/*/home'",
+        "step 16: Click on link TestExecutionDetails -> Navigate to page 'team project executions#team/*/project/*/executions/*'",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}
