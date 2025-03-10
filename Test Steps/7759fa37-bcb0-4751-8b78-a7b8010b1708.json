@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on link HotNewiPhone15 -> Navigate to page 'product#product/*'",
+        "step 3: Click on label 128GB",
+        "step 4: Click on label Black",
+        "step 5: Start order process by entering email and proceed to shipping.",
+        "step 6: Click on input FirstName",
+        "step 7: Enter input value in input FirstName",
+        "step 8: Click on input LastName",
+        "step 9: Enter input value in input LastName",
+        "step 10: Click on input Address",
+        "step 11: Enter input value in input Address",
+        "step 12: Click on input ZipCode",
+        "step 13: Enter input value in input ZipCode",
+        "step 14: Click on input City",
+        "step 15: Enter input value in input City",
+        "step 16: Click on button ContinueToPayment -> Navigate to page 'payment checkout#checkout/payment'",
+        "step 17: Click on button CompleteOrder -> Navigate to page 'thank you#thank-you/*'",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

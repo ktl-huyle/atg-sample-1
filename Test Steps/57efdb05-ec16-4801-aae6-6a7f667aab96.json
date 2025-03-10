@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on link Samsung -> Navigate to page 'product categories#*/*'",
+        "step 3: Click on link mobileProducts (SamsungGalaxyS23Ultra)",
+        "step 4: Start order process by entering email and proceed to shipping.",
+        "step 5: Enter shipping information and complete order without email input.",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
