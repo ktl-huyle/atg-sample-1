@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>4c2ac09d-f2ab-41c7-81b9-24c634523595</id>
+        </flow>
+    </customField>
+    <description>Review and archive obsolete user flows, generate new user journey maps, and create test cases for Truetest projects.</description>
+    <name>TC7-Archive Obsolete User Flows and Generate Test Cases</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>f41e50a0-70ef-436d-9d08-4819e7699d98</testCaseGuid>
+    <variable>
+        <defaultValue>'MuiButtonBase-root\\\\ MuiPickersDay-root\\\\ MuiPickersDay-today\\\\ MuiDateRangePickerDay-day\\\\ MuiDateRangePickerDay-notSelectedDate\\\\ MuiDateRangePickerDay-dayOutsideRangeInterval\\\\ css-uxkyvg'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c724f4ca-994c-40cc-a16a-e67203ec99dc</id>
+        <masked>false</masked>
+        <name>button_optionSelection_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiButtonBase-root\\\\ MuiPickersDay-root\\\\ MuiPickersDay-today\\\\ MuiDateRangePickerDay-day\\\\ MuiDateRangePickerDay-notSelectedDate\\\\ MuiDateRangePickerDay-dayOutsideRangeInterval\\\\ css-uxkyvg'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c9fcd5cf-1b3c-45c9-ad9c-45420d51263a</id>
+        <masked>false</masked>
+        <name>button_optionSelection_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiButtonBase-root\\\\ MuiPickersDay-root\\\\ Mui-selected\\\\ MuiPickersDay-today\\\\ MuiDateRangePickerDay-day\\\\ MuiDateRangePickerDay-dayOutsideRangeInterval\\\\ css-uxkyvg'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>db1a628a-0bd9-442e-b092-87f6b921a698</id>
+        <masked>false</masked>
+        <name>button_optionSelection_class_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'14'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c5d56567-4c8b-45de-99d1-0378b97aa462</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'14'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>e61442d5-2187-44ff-95c5-77a19348e444</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'14'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d66a7bb7-d6fe-4aae-9e33-d401649e55e5</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'view-details-btn-11'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>09cb9c65-e1d9-4f8f-90aa-a918cfcc5ef9</id>
+        <masked>false</masked>
+        <name>button_viewDetails_dataTestid</name>
+    </variable>
+    <variable>
+        <defaultValue>'view-details-btn-12'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>52171ddc-a331-4eca-8457-52bf9dfabdbb</id>
+        <masked>false</masked>
+        <name>button_viewDetails_dataTestid_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'view-details-btn-13'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>97ec2ec9-d23d-47db-ac5b-36b90b1d11d9</id>
+        <masked>false</masked>
+        <name>button_viewDetails_dataTestid_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'view-details-btn-13'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3a8d9b0d-54aa-44b6-a894-c90829004b60</id>
+        <masked>false</masked>
+        <name>button_viewDetails_dataTestid_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'view-details-btn-13'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2e1e0ebc-cc8a-48f3-9803-3ccde45ccad8</id>
+        <masked>false</masked>
+        <name>button_viewDetails_dataTestid_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiButtonBase-root\\\\ MuiMenuItem-root\\\\ MuiMenuItem-gutters\\\\ Mui-selected\\\\ MuiMenuItem-root\\\\ MuiMenuItem-gutters\\\\ Mui-selected\\\\ MuiMultiSectionDigitalClockSection-item\\\\ css-1uhnw6j'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3d9fefd2-d093-45a3-9eab-d7f32cac1d47</id>
+        <masked>false</masked>
+        <name>item_timeOptions_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiButtonBase-root\\\\ MuiMenuItem-root\\\\ MuiMenuItem-gutters\\\\ Mui-selected\\\\ MuiMenuItem-root\\\\ MuiMenuItem-gutters\\\\ Mui-selected\\\\ MuiMultiSectionDigitalClockSection-item\\\\ css-1uhnw6j'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cc5c4c42-cc86-407d-b17f-85fa19c45050</id>
+        <masked>false</masked>
+        <name>item_timeOptions_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8f64d523-2bf5-4a70-890e-f8315dd6d09d</id>
+        <masked>false</masked>
+        <name>item_timeOptions_class_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8aa84761-ac38-4229-9346-b6b23e7c62f2</id>
+        <masked>false</masked>
+        <name>item_timeOptions_class_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\\\30  minutes'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>e4399b37-e065-4ae0-821f-8cd25036af00</id>
+        <masked>false</masked>
+        <name>item_timeOptions_liAriaLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\\\30  minutes'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8b303996-d6b1-4722-b3eb-70338371ce0c</id>
+        <masked>false</masked>
+        <name>item_timeOptions_liAriaLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\\\31 4 hours'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8ff50dd2-4add-432f-9a63-856112db3b55</id>
+        <masked>false</masked>
+        <name>item_timeOptions_liAriaLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'\\\\31 0 minutes'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5c386b62-d357-4139-a7fa-0eae85f422e2</id>
+        <masked>false</masked>
+        <name>item_timeOptions_liAriaLabel_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f3408234-fe2f-4f67-a9c7-79ace6de8a04</id>
+        <masked>false</masked>
+        <name>item_timeOptions_ulNthOfType</name>
+    </variable>
+    <variable>
+        <defaultValue>'2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ce007346-a36b-4c8a-961e-430271346723</id>
+        <masked>false</masked>
+        <name>item_timeOptions_ulNthOfType_1</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a0098277-9f0b-4027-a248-9cb1d03b0201</id>
+        <masked>false</masked>
+        <name>item_timeOptions_ulNthOfType_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>fecfe24a-45d8-4f01-b842-94e4ca59f061</id>
+        <masked>false</masked>
+        <name>item_timeOptions_ulNthOfType_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Reports'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>34eacc62-9574-491f-8493-61de8dc3607d</id>
+        <masked>false</masked>
+        <name>link_reports_aTitle</name>
+    </variable>
+    <variable>
+        <defaultValue>'active\\\\ nav-link'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cd335ff0-5204-4291-80f2-37173b060be9</id>
+        <masked>false</masked>
+        <name>link_reports_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'/team/34904/project/37849/overview'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ce9956da-26b5-4260-9338-bc3b9f3c1618</id>
+        <masked>false</masked>
+        <name>link_reports_href_variable</name>
+    </variable>
+    <variable>
+        <defaultValue>'37849'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>bf12da6f-8c3e-45bc-9d07-d98e156caa6d</id>
+        <masked>false</masked>
+        <name>project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'34904'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>adcc5930-0864-4d39-9a55-b61a58ac2b07</id>
+        <masked>false</masked>
+        <name>team_id</name>
+    </variable>
+</TestCaseEntity>

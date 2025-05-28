@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>601ac770-4542-4150-bd9b-af4711e02b82</id>
+        </flow>
+    </customField>
+    <description>Access TrueTest user journeys, navigate through settings, and configure advanced settings. Verify the home page.</description>
+    <name>TC11-Configure TrueTest Settings in Katalon TestOps</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>a45befdf-0305-4362-b033-381255cb428d</testCaseGuid>
+    <variable>
+        <defaultValue>'37081'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>8fec4d02-0f85-4a33-aca1-2dc206266a6d</id>
+        <masked>false</masked>
+        <name>project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'34116'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>6c7a1348-d1bd-450e-bb04-fc70604e3980</id>
+        <masked>false</masked>
+        <name>team_id</name>
+    </variable>
+</TestCaseEntity>

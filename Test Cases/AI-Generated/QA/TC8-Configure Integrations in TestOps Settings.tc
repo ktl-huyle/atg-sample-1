@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>fa7af4e7-6806-4dab-874c-bcd4dae29c22</id>
+        </flow>
+    </customField>
+    <description>Access organization settings to configure integrations, including Jira Xray, for enhanced test management.</description>
+    <name>TC8-Configure Integrations in TestOps Settings</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>e71f5aa7-ab36-440e-a9c7-1e0c13f2fa5e</testCaseGuid>
+    <variable>
+        <defaultValue>'8674'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>cc8ae1b8-79a5-4032-994a-8b6696471587</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

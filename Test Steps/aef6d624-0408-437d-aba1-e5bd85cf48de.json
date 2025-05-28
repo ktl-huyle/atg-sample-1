@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to /organization/*/home",
+        "step 2: Click on link csCellphoneShop -> Navigate to page '/team/*/project/*'",
+        "step 3: Click on link truetest -> Navigate to page '/team/*/project/*/truetest/user-journeys'",
+        "step 4: Click on button pageNavigation (goToPage2)",
+        "step 5: Click on button pageNavigation (goToPage3)",
+        "step 6: Click on button pageNavigation (goToPage4)",
+        "step 7: Click on button pageNavigation (goToPage5)",
+        "step 8: Click on button pageNavigation (goToPage6)",
+        "step 9: Click on button pageNavigation (goToPage7)",
+        "step 10: Click on button pageNavigation (goToPage)",
+        "step 11: Click on button pageNavigation (goToPage2)",
+        "step 12: Click on button pageNavigation (goToPage56)",
+        "step 13: Click on button goToPreviousPage",
+        "step 14: Click on button pageNavigation (goToPage1)",
+        "step 15: Click on button pageNavigation (goToPage2)",
+        "step 16: Click on button pageNavigation (goToPage3)",
+        "step 17: Click on button pageNavigation (goToPage4)",
+        "step 18: Click on button pageNavigation (goToPage5)",
+        "step 19: Click on button pageNavigation (goToPage6) -> Navigate to page ''",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

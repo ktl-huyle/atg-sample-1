@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>1180774e-0fcb-494c-a5f8-057e15a3612c</id>
+        </flow>
+    </customField>
+    <description>Sign out from the organization home, access team project settings, configure Jira Xray integration, and save the settings.</description>
+    <name>TC2-Sign Out and Configure Jira Xray Integration</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>1656209c-6b25-4d48-a255-9340a7156513</testCaseGuid>
+    <variable>
+        <defaultValue>'QE Automation Katalon'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>958ba102-b191-4a94-9625-f60e73c6f185</id>
+        <masked>false</masked>
+        <name>button_userActions_buttonTitle</name>
+    </variable>
+    <variable>
+        <defaultValue>'Sign Out'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8718e660-5cff-4de9-b851-a382377e5367</id>
+        <masked>false</masked>
+        <name>link_signOut_aTitle</name>
+    </variable>
+    <variable>
+        <defaultValue>'80'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>333ef9a9-9cb7-4aca-90b6-d4726d7b2cf4</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

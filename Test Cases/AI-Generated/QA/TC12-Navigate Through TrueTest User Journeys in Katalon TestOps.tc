@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>aef6d624-0408-437d-aba1-e5bd85cf48de</id>
+        </flow>
+    </customField>
+    <description>Navigate through the TrueTest user journeys and verify the home page after multiple page navigations.</description>
+    <name>TC12-Navigate Through TrueTest User Journeys in Katalon TestOps</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>c286b1ea-a649-4bc2-8af4-4de98562c8fc</testCaseGuid>
+    <variable>
+        <defaultValue>'Go to page 2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2b2996f3-6d86-4200-a97a-563582af5c25</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c4b278d6-5194-4e3e-9b44-fb95bebc72d9</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f95a3212-ec0b-463d-b668-11929db17f6a</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_10</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5f2dc9cf-a57f-49c1-9016-55e9ab3e5998</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_11</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a8d5dd78-5411-49ed-94a3-137989d84616</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_12</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5db1df06-aba2-46e0-97c0-be639bd5a1e0</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_13</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5b4da08a-428c-46ff-82d4-8205d94ed49b</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_14</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2a5ac355-ee59-49f7-856d-26a0ab4115e4</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3fd3071d-edb9-4938-bdff-5a837919c32c</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>05e98f3c-2797-43bf-b6ac-24f9aeab97be</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 7'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>43938e9f-a3c5-4754-a2a1-40fcf71313bb</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 60'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>39a86d9f-a329-4752-a6fd-55fa0a5ea72a</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 58'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>b4675d72-1a34-48a9-a864-c298d73f7011</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 56'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c5a5e348-827e-4600-94d1-1a3500ff278e</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_8</name>
+    </variable>
+    <variable>
+        <defaultValue>'Go to page 1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>da368358-446a-4ba7-9af8-74875d8aa286</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_buttonAriaLabel_9</name>
+    </variable>
+    <variable>
+        <defaultValue>'3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a80ac094-0941-48b9-b104-8aa537adb6a9</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f42ab363-e353-4b93-89c4-1910cf3d8e0d</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'3'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>beeaa523-1937-442d-b847-5971e6fabe3b</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_10</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>24ab9dc8-daee-476e-a5a9-6619892d949f</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_11</name>
+    </variable>
+    <variable>
+        <defaultValue>'5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>45688a04-568b-4b95-b9f8-8df95c39ec89</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_12</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>002007bf-60e7-489e-9ff6-70d059339688</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_13</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d73fc3b4-d659-4f2c-bd63-e36deeaf4b9a</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_14</name>
+    </variable>
+    <variable>
+        <defaultValue>'5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ff41b0f3-9686-4c49-a06b-d9b18b3ac263</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3bfd471c-fcbc-4f42-982b-8e3a95812294</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_3</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2467f8e1-1f54-4c11-bbbb-1d7cfba2ba3d</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_4</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cf2172fb-95d3-44f5-98f9-9a20d9d82374</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_5</name>
+    </variable>
+    <variable>
+        <defaultValue>'8'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0dd7b59e-bfea-4f02-af53-168c62814e61</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_6</name>
+    </variable>
+    <variable>
+        <defaultValue>'6'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>49dc2bde-9926-4648-ae5d-2b81ab76bb3c</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_7</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>08a4b3b4-0ac7-4a46-9e61-7555a7c84e86</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_8</name>
+    </variable>
+    <variable>
+        <defaultValue>'2'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7072ba86-6bf9-44a7-9ae5-832a9c2bb36f</id>
+        <masked>false</masked>
+        <name>button_pageNavigation_liNthOfType_9</name>
+    </variable>
+    <variable>
+        <defaultValue>'1091'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>c2950a25-9b37-4aa5-b2b7-7e80ea471045</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>8251496f-13be-45ec-a470-438d101d6ab9</id>
+        </flow>
+    </customField>
+    <description>Access the team project overview, schedule a test run, configure multiple environments in Test Cloud, and verify the home page.</description>
+    <name>TC4-Schedule Test Run with Multiple Environments in Test Cloud</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>11bddc1b-5183-49c3-b585-953bdf615406</testCaseGuid>
+    <variable>
+        <defaultValue>'8166'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>bd92823c-16c5-4011-a237-bbf900260655</id>
+        <masked>false</masked>
+        <name>project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'3608'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>1ffa78ac-e6c3-4121-8423-ad9aa60ebee5</id>
+        <masked>false</masked>
+        <name>team_id</name>
+    </variable>
+</TestCaseEntity>

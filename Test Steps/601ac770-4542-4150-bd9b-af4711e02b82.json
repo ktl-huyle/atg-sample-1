@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to /team/*/project/*/truetest/user-journeys",
+        "step 2: Click on button tr",
+        "step 3: Click on div backdrop",
+        "step 4: Click on span settings",
+        "step 5: Click on link trueTestConfigure -> Navigate to page '/organization/*/settings/truetest'",
+        "step 6: Click on button goToNextPage",
+        "step 7: Click on button goToNextPage2",
+        "step 8: Click on link truetestSettings -> Navigate to page '/organization/*/settings/truetest/*'",
+        "step 9: Click on button advancedSettings",
+        "step 10: Click on p css",
+        "step 11: Click on p css",
+        "step 12: Click on p smartLocator",
+        "step 13: Click on p smartLocator",
+        "step 14: Click on p smartLocator",
+        "step 15: Click on p smartLocator",
+        "step 16: Click on div testDataDescription",
+        "step 17: Click on div object -> Navigate to page ''",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

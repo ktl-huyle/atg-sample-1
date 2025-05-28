@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>e15b0f32-8230-433a-9bf4-be19e242c670</id>
+        </flow>
+    </customField>
+    <description>Navigate to organization home, manage test runs, schedule new tests, and terminate sessions as needed.</description>
+    <name>TC5-Manage Test Runs and Terminate Sessions in TestOps</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>afaddbd9-0e8b-4e6e-87af-f260ee12e7f1</testCaseGuid>
+    <variable>
+        <defaultValue>'Sessions1'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3cfc76de-f607-43e5-8cb6-b2e104ff9931</id>
+        <masked>false</masked>
+        <name>button_testRunSessions_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'phu\\\\.vuong'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>2d21e9c6-1230-4414-bc16-dddca40069bc</id>
+        <masked>false</masked>
+        <name>button_userActions_buttonTitle</name>
+    </variable>
+    <variable>
+        <defaultValue>'Windows 1 hour'</defaultValue>
+        <description>Input data variable</description>
+        <id>022e61b8-eef7-4207-a299-4af6f53593d8</id>
+        <masked>false</masked>
+        <name>input_name</name>
+    </variable>
+    <variable>
+        <defaultValue>'hour'</defaultValue>
+        <description>Input data variable</description>
+        <id>9ba9c6e2-9410-45e0-bbba-85fc99344b9c</id>
+        <masked>false</masked>
+        <name>input_object</name>
+    </variable>
+    <variable>
+        <defaultValue>'hour'</defaultValue>
+        <description>Input data variable</description>
+        <id>81d8ac80-cf31-46ab-87fe-4b64fac60b62</id>
+        <masked>false</masked>
+        <name>input_object_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'11'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d4728fc3-c61d-43bb-a90f-1b6c57d20df5</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_divNthChild</name>
+    </variable>
+    <variable>
+        <defaultValue>'24'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>9460d34c-cd31-4a73-98ab-fe14c4098544</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_divNthChild_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'10'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4240e884-1e96-4fe4-87cf-cce84a63d02a</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_divNthOfType</name>
+    </variable>
+    <variable>
+        <defaultValue>'23'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7fd79fd2-ef26-48f8-b43d-6aa0a4543551</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_divNthOfType_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'/organization/29039/home'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>e0f86900-965c-4fc6-beb4-90a298bb2047</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_href_variable</name>
+    </variable>
+    <variable>
+        <defaultValue>'/organization/24944/home'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5c07fb90-25a4-4af3-a5d8-690c8add2249</id>
+        <masked>false</masked>
+        <name>link_organizationOptions_href_variable_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'9943'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>246ef383-da0d-4c18-bee6-1075af33daee</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

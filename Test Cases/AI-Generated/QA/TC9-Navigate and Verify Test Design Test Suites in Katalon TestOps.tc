@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>6d5fe62a-75a3-4417-8932-47e91d66ea5f</id>
+        </flow>
+    </customField>
+    <description>Navigate to the organization home, select an organization, and access test design test suites. Verify the test suites page.</description>
+    <name>TC9-Navigate and Verify Test Design Test Suites in Katalon TestOps</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>2f6301c1-c1b3-4e3e-8c9b-9d6ea42c9573</testCaseGuid>
+    <variable>
+        <defaultValue>'1189'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>14f6f2ca-ffc7-4390-affa-3e672e25cb43</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

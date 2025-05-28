@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>6d04e654-a942-4147-bad3-5e0f55bdf0f5</id>
+        </flow>
+    </customField>
+    <description>Navigate to the team project, access TrueTest user journeys, and generate a new user journey map.</description>
+    <name>TC3-Generate New User Journey Map in TrueTest</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>b9d96099-dc28-4a21-a160-5258690b692a</testCaseGuid>
+    <variable>
+        <defaultValue>'7584'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>f7c85d29-4bd1-4ce1-8773-c668a257b3ae</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

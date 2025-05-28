@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>84a6f2d0-c123-4d8d-b26c-586e1139877a</id>
+        </flow>
+    </customField>
+    <description>Create new user journey maps by selecting options and generating reports for Truetest user journeys.</description>
+    <name>TC6-Generate User Journey Maps for Truetest Projects</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>954d327d-38b8-4cd6-bbf2-fd265022eb80</testCaseGuid>
+    <variable>
+        <defaultValue>'Previous month'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>91035218-f529-480c-adef-31435bd6c0bc</id>
+        <masked>false</masked>
+        <name>button_monthNavigation_buttonAriaLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Next month'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>bf8431c4-21d4-4b3d-a0bc-f2931d32deae</id>
+        <masked>false</masked>
+        <name>button_monthNavigation_buttonAriaLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiSvgIcon-root\\\\ MuiSvgIcon-fontSizeInherit\\\\ MuiPickersArrowSwitcher-leftArrowIcon\\\\ css-1cw4hi4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f9c91d9a-46fc-46fb-b91d-772d82e0d73e</id>
+        <masked>false</masked>
+        <name>button_monthNavigation_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiSvgIcon-root\\\\ MuiSvgIcon-fontSizeInherit\\\\ MuiPickersArrowSwitcher-rightArrowIcon\\\\ css-1cw4hi4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>c5aec151-9060-4f93-91ca-b0d54b4c9f4f</id>
+        <masked>false</masked>
+        <name>button_monthNavigation_class_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'MuiDateRangePickerDay-root\\\\ css-1cqberi\\"] [class=\\"MuiButtonBase-root\\\\ MuiPickersDay-root\\\\ MuiDateRangePickerDay-day\\\\ MuiDateRangePickerDay-notSelectedDate\\\\ MuiDateRangePickerDay-dayOutsideRangeInterval\\\\ css-1bdyu5w'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>0de522fb-0b64-4f9b-8fd6-858face3f95b</id>
+        <masked>false</masked>
+        <name>button_optionSelection_class</name>
+    </variable>
+    <variable>
+        <defaultValue>'30'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5e626172-b079-4144-ade7-b808389b99ec</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'4'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>8aebc4fb-8d66-445c-bb7d-7fa77e244c57</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'5'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>a7d48690-2045-4c17-b30e-51efde98486c</id>
+        <masked>false</masked>
+        <name>button_optionSelection_internalText_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'1091'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>40b52d8f-a3e4-43bd-bef3-e168435b0aa6</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

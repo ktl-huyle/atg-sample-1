@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>3d50e12d-4c3f-4a97-a7a4-25f090a423d5</id>
+        </flow>
+    </customField>
+    <description>Navigate to the organization home, select an organization, and access the team project to verify the home page.</description>
+    <name>TC1-Navigate to Organization Home and Access Team Project</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>3889e559-e3c8-45b2-a227-ee2a1332540d</testCaseGuid>
+    <variable>
+        <defaultValue>'1189'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>b2487fca-cb49-41ab-be4c-e714e60603d1</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

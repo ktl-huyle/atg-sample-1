@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to /organization/*/home",
+        "step 2: Click on link csCellphoneShop -> Navigate to page '/team/*/project/*'",
+        "step 3: Click on link truetest -> Navigate to page '/team/*/project/*/truetest/user-journeys'",
+        "step 4: Click on button generateNewUserJourneyMap",
+        "step 5: Click on label custom",
+        "step 6: Click on div object",
+        "step 7: Click on button monthNavigation (previousMonth)",
+        "step 8: Click on button optionSelection (object)",
+        "step 9: Click on button ok",
+        "step 10: Click on div object2",
+        "step 11: Click on button monthNavigation (nextMonth)",
+        "step 12: Click on button optionSelection (selectOption)",
+        "step 13: Click on button optionSelection (five)",
+        "step 14: Click on button ok",
+        "step 15: Click on label ignorePreviousFlows",
+        "step 16: Click on button generate",
+        "step 17: Click on button gotIt",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

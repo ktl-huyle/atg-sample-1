@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to /organization/*/home",
+        "step 2: Click on button selectOrganization",
+        "step 3: Click on div object3",
+        "step 4: Click on link viewAllProjects -> Navigate to page '/team/*/project/*/settings'",
+        "step 5: Click on link executions -> Navigate to page '/team/*/project/*/test-runs'",
+        "step 6: Click on link settings -> Navigate to page '/team/*/project/*/settings'",
+        "step 7: Click on link integrations3 -> Navigate to page '/team/*/project/*/integrations'",
+        "step 8: Click on link scriptRepositories -> Navigate to page '/team/*/project/*/test-project'",
+        "step 9: Click on link tests -> Navigate to page '/team/*/project/*/test-design/test-cases'",
+        "step 10: Click on div testSuiteIcon",
+        "step 11: Click on button refresh",
+        "step 12: Click on span object",
+        "step 13: Click on div testSuite2",
+        "step 14: Click on link testSuites -> Navigate to page '/team/*/project/*/test-design/test-suites'",
+        "step 15: Click on div testSuiteIcon",
+        "step 16: Click on button refresh",
+        "step 17: Click on span object",
+        "step 18: Click on div testSuite",
+        "step 19: Click on span object2",
+        "step 20: Click on div testSuites",
+        "step 21: Click on div testSuite",
+        "step 22: Click on div testSuite",
+        "step 23: Click on div testSuites",
+        "step 24: Click on div testSuites",
+        "step 25: Click on div testSuite",
+        "step 26: Click on div testSuite",
+        "step 27: Click on div testSuites",
+        "step 28: Click on div testSuite",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}
