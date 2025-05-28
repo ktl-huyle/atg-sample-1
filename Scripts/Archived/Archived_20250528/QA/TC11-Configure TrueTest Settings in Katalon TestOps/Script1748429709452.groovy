@@ -22,7 +22,7 @@ TrueTestScripts.navigate("/team/${team_id}/project/${project_id}/truetest/user-j
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_truetest_user_journeys/button_tr'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_truetest_user_journeys/button_tr'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 2-Click on button tr.png')
 
@@ -30,7 +30,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 2-Click on button tr.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_truetest_user_journeys/div_backdrop'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_truetest_user_journeys/div_backdrop'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 3-Click on div backdrop.png')
 
@@ -38,7 +38,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 3-Click on div backdrop.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_truetest_user_journeys/span_settings'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_truetest_user_journeys/span_settings'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 4-Click on span settings.png')
 
@@ -46,7 +46,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 4-Click on span settings.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/truetest/user-journeys?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_truetest_user_journeys/link_trueTestConfigure'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_truetest_user_journeys/link_trueTestConfigure'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 5-Click on link trueTestConfigure - Navigate to page organizationsettingstruetest.png')
 
@@ -54,7 +54,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 5-Click on link trueTestConfig
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/button_goToNextPage'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/button_goToNextPage'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 6-Click on button goToNextPage.png')
 
@@ -62,7 +62,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 6-Click on button goToNextPage
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/button_goToNextPage2'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/button_goToNextPage2'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 7-Click on button goToNextPage2.png')
 
@@ -70,7 +70,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 7-Click on button goToNextPage
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/link_truetestSettings'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/link_truetestSettings'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 8-Click on link truetestSettings - Navigate to page organizationsettingstruetest.png')
 
@@ -78,7 +78,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 8-Click on link truetestSettin
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/button_advancedSettings'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/button_advancedSettings'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 9-Click on button advancedSettings.png')
 
@@ -86,7 +86,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 9-Click on button advancedSett
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_css'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_css'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 10-Click on p css.png')
 
@@ -94,7 +94,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 10-Click on p css.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_css'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_css'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 11-Click on p css.png')
 
@@ -102,7 +102,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 11-Click on p css.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_smartLocator'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_smartLocator'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 12-Click on p smartLocator.png')
 
@@ -110,7 +110,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 12-Click on p smartLocator.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_smartLocator'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_smartLocator'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 13-Click on p smartLocator.png')
 
@@ -118,7 +118,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 13-Click on p smartLocator.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_smartLocator'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_smartLocator'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 14-Click on p smartLocator.png')
 
@@ -126,7 +126,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 14-Click on p smartLocator.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/p_smartLocator'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/p_smartLocator'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 15-Click on p smartLocator.png')
 
@@ -134,7 +134,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 15-Click on p smartLocator.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/div_testDataDescription'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/div_testDataDescription'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 16-Click on div testDataDescription.png')
 
@@ -142,7 +142,7 @@ WebUI.takeScreenshot(reportLocation + '/TC11/Step 16-Click on div testDataDescri
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/settings/truetest/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_settings_truetest/div_object'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_settings_truetest/div_object'))
 
 WebUI.takeScreenshot(reportLocation + '/TC11/Step 17-Click on div object - Navigate to page .png')
 

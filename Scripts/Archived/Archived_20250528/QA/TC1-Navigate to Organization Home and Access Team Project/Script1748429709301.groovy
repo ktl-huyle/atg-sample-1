@@ -22,7 +22,7 @@ TrueTestScripts.navigate("/organization/${organization_id}/home")
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_home/button_selectOrganization'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_home/button_selectOrganization'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 2-Click on button selectOrganization.png')
 
@@ -30,7 +30,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 2-Click on button selectOrganiz
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_home/div_object'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_home/div_object'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Click on div object.png')
 
@@ -38,7 +38,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Click on div object.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_home/div_welcomeMessage'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_home/div_welcomeMessage'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Click on div welcomeMessage.png')
 
@@ -46,7 +46,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Click on div welcomeMessage.p
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/organization/.*/home?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_organization_home/link_spScheduleProject'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_organization_home/link_spScheduleProject'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Click on link spScheduleProject - Navigate to page teamproject.png')
 
@@ -54,7 +54,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Click on link spScheduleProje
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project/link_executions'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project/link_executions'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link executions - Navigate to page teamprojecttest-runs.png')
 
@@ -62,7 +62,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Click on link executions - Na
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_test_runs/span_selectOrganization'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_test_runs/span_selectOrganization'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on span selectOrganization.png')
 
@@ -70,7 +70,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Click on span selectOrganizat
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/team/.*/project/.*/test-runs?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/QA/Page_team_project_test_runs/div_katalonTestCloud'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250528/QA/Page_team_project_test_runs/div_katalonTestCloud'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 8-Click on div katalonTestCloud - Navigate to page .png')
 
