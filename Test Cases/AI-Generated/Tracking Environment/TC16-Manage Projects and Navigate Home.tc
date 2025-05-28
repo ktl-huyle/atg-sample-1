@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>71db7c34-a4f5-4fd0-8902-03b68d955d11</id>
+        </flow>
+    </customField>
+    <description>Manage projects and navigate back to the home page.</description>
+    <name>TC16-Manage Projects and Navigate Home</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>39384597-bd0b-4f3e-adb9-b8a2c4d26206</testCaseGuid>
+    <variable>
+        <defaultValue>'UFUAT Function testThere is no data to display\\\\.'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>3c3222c4-31c0-4eab-8ffd-807004886801</id>
+        <masked>false</masked>
+        <name>div_objectManagement_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'MMarketboomer'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>52fa8579-0067-4c5d-b580-5ea4507178e5</id>
+        <masked>false</masked>
+        <name>div_objectManagement_internalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'2002925'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>09bf476d-7d88-4e35-ad0e-415e0d035b64</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

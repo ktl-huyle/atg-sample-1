@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to /organization/*/home",
+        "step 2: Click on button userActions (da)",
+        "step 3: Click on link verPerfil",
+        "step 4: Click on link cambiarDeCuenta -> Navigate to page ''",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>853a4aa4-6fcb-4bb2-8c7f-45e3912f4492</id>
+        </flow>
+    </customField>
+    <description>Navigate to organization home, access user actions, and change account settings. Verify successful navigation to the home page.</description>
+    <name>TC23-Change User Account Settings</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>f7238f2c-0329-45c5-9ac6-46c32d8025a7</testCaseGuid>
+    <variable>
+        <defaultValue>'DA'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f0280676-e926-43fa-9fe4-57c8a9684754</id>
+        <masked>false</masked>
+        <name>button_userActions_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'1230536'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>acfa40cb-53d1-4b34-aa83-3ea900c50ce6</id>
+        <masked>false</masked>
+        <name>organization_id</name>
+    </variable>
+</TestCaseEntity>

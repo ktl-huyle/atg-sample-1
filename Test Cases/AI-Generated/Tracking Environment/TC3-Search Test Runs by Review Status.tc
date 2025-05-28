@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>081b1259-c2ad-4c37-8296-2849a2bfdeed</id>
+        </flow>
+    </customField>
+    <description>Search for test runs based on review status and navigate through the results.</description>
+    <name>TC3-Search Test Runs by Review Status</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>d8732270-cfc3-4a84-a9e5-361784522920</testCaseGuid>
+    <variable>
+        <defaultValue>'446'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>2a391f5c-9238-4d88-930e-02044a645811</id>
+        <masked>false</masked>
+        <name>executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'2483'</defaultValue>
+        <description>Input data variable</description>
+        <id>24bbfb11-6d8a-4bca-aa7f-1f7fef2f6e46</id>
+        <masked>false</masked>
+        <name>input_search</name>
+    </variable>
+    <variable>
+        <defaultValue>'1612980'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>1d7bdfa9-fac0-4cff-8794-4916f7ba3bc1</id>
+        <masked>false</masked>
+        <name>project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'1594212'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>da7bd8b8-0a3f-4b9a-820f-0106f67d84dc</id>
+        <masked>false</masked>
+        <name>team_id</name>
+    </variable>
+</TestCaseEntity>

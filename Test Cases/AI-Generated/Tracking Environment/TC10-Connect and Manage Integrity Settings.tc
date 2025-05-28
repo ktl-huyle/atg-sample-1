@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>6f6557f6-cfd0-4383-a368-946b46cc7d77</id>
+        </flow>
+    </customField>
+    <description>Navigate to test executions and manage integrity connection settings for improved project tracking.</description>
+    <name>TC10-Connect and Manage Integrity Settings</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>56aa64cc-8c12-4b67-9723-bb5e2178f899</testCaseGuid>
+    <variable>
+        <defaultValue>'IMIntegrity Marketing Group'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d429c655-bdaf-4036-8383-83ecea3e3ffe</id>
+        <masked>false</masked>
+        <name>div_imIntegrityMarketingGroup_internalText</name>
+    </variable>
+    <variable>
+        <defaultValue>'1272'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>74fffc4f-3269-4b36-8987-88f8fc049924</id>
+        <masked>false</masked>
+        <name>executions_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'788145'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>2ab596df-311a-4a03-ad14-956600a27d1e</id>
+        <masked>false</masked>
+        <name>project_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'772500'</defaultValue>
+        <description>Dynamic URL variable</description>
+        <id>2935eb15-3ab6-4653-b6d8-fbbfc7cb38aa</id>
+        <masked>false</masked>
+        <name>team_id</name>
+    </variable>
+</TestCaseEntity>

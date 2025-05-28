@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to /organization/*/home",
+        "step 2: Click on div object6",
+        "step 3: Click on button marketboomer",
+        "step 4: Click on div objectManagement (object7)",
+        "step 5: Click on div objectManagement (object8)",
+        "step 6: Click on link viewAllProjects5 -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
